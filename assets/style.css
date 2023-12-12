@@ -14,7 +14,7 @@
 body {
   font:
     normal 16pt/21pt "Work Sans",
-    serif;
+    sans-serif;
   background: url("/assets/hero.webp") var(--white);
   background-size: 100vw;
   background-repeat: no-repeat;
@@ -28,41 +28,6 @@ article {
 div.content {
   max-width: 640px;
   margin: 0 auto;
-}
-h1,
-h2,
-h3 {
-  font: normal 18pt/24pt "Yatra One";
-  margin: 0 0 12pt;
-}
-h2 {
-  font-size: 24pt;
-  line-height: 32pt;
-}
-h3 {
-  margin-top: 48px;
-  font-size: 16pt;
-  line-height: 21pt;
-  text-align: center;
-}
-p {
-  margin: 0 0 16pt;
-  padding: 0;
-  line-height: 1.5;
-}
-b {
-  font-weight: normal;
-  background: yellow;
-}
-dt {
-  margin: 24pt 0 8pt;
-  font-weight: bold;
-}
-dd {
-  line-height: 1.5;
-}
-
-div.content {
   padding: 80px 40px;
 }
 
@@ -85,6 +50,25 @@ section:nth-child(odd) a {
   color: var(--white);
 }
 
+h2 {
+  font: normal 24pt/32pt "Yatra One";
+  margin: 0 0 12pt;
+}
+h3 {
+  font: normal 16pt/21pt "Yatra One";
+  margin: 48pt 0 12pt;
+  text-align: center;
+}
+p {
+  margin: 0 0 16pt;
+  padding: 0;
+  line-height: 1.5;
+}
+b {
+  font-weight: normal;
+  background: yellow;
+}
+
 ul {
   width: 100%;
 }
@@ -97,24 +81,29 @@ li img {
   height: 48px;
 }
 
-.hero {
+section.hero {
+  height: 50vw; /* hero is 2:1 ratio */
   color: var(--black);
   background: radial-gradient(
-    farthest-corner at 13% 25vw,
+    farthest-corner at 33% 50%,
     rgba(240, 234, 219, 1),
     rgba(240, 234, 219, 0) 100%
   );
 }
+.hero .content {
+  padding: 20vw 40px 0;
+}
 .hero h1 {
-  padding: 10vw 0 2vw 10%;
-  font: normal 10vw/10vw "Yatra One";
-  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+  font: normal 36pt/42pt "Yatra One";
+  white-space: balance;
 }
 
 .hero h2 {
-  padding: 2vw 0 10vw 10%;
   margin: 0;
-  font: normal 5vw/5vw "Yatra One";
+  padding: 12pt 0 0;
+  font: normal 18pt/18pt "Yatra One";
   white-space: nowrap;
 }
 
@@ -134,4 +123,68 @@ li img {
 .footer li img {
   height: 32px;
   margin: 0 auto;
+}
+
+@media (max-width: 640px) {
+  body {
+    font:
+      normal 15pt/18pt "Work Sans",
+      sans-serif;
+  }
+  div.content {
+    padding: 40px;
+  }
+  .hero h1 {
+    font-size: 24pt;
+    line-height: 30pt;
+  }
+  .hero h2 {
+    font-size: 14pt;
+    line-height: 14pt;
+    padding: 6pt 0 0;
+  }
+  h2 {
+    font: normal 16pt/21pt "Yatra One";
+    margin: 0 0 9pt;
+  }
+  h3 {
+    font: normal 15pt/19pt "Yatra One";
+    margin: 36pt 0 9pt;
+    text-align: center;
+  }
+}
+@media (max-width: 440px) {
+  body {
+    font:
+      normal 13pt/17pt "Work Sans",
+      sans-serif;
+  }
+  div.content {
+    padding: 40px;
+  }
+  .hero .content {
+    padding: 10vw 40px 0;
+  }
+  section.hero {
+    background: radial-gradient(
+      farthest-corner at 20% 50%,
+      rgba(240, 234, 219, 1),
+      rgba(240, 234, 219, 0) 100%
+    );
+  }
+}
+#too-small {
+  display: none;
+  width: 100vw;
+  height: 100vh;
+  background: var(--white);
+  padding: 49vh 0 0 49vw;
+}
+@media (max-width: 319px) {
+  article {
+    display: none;
+  }
+  #too-small {
+    display: block;
+  }
 }
