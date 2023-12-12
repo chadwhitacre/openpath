@@ -1,6 +1,6 @@
 # Future of Open Source 
 
-<img src="https://raw.githubusercontent.com/chadwhitacre/futureofopensource.org/main/slice.jpg">
+<img src="https://raw.githubusercontent.com/chadwhitacre/futureofopensource.org/main/assets/slice.jpg">
 
 ### Welcome!
 
