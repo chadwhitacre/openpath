@@ -2,12 +2,11 @@
 
 :root {
   --chevron: #e4f7e3;
-  --light: #F5F6F1;
+  --light: #F0EADB;
   --dark: #1F1D12;
-  --khaki: #D8CDA1;
   --blue: #DFEBF7;
   --darker-blue: #0080FF;
-  --black: #333;
+  --black: #161819;
 }
 
 * {
@@ -17,7 +16,7 @@
 }
 body {
   font: normal 16pt/21pt "Work Sans", serif;
-  background: url('/assets/hero.webp') var(--khaki);
+  background: url('/assets/hero.webp') var(--light);
   background-size: 100vw;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -154,26 +153,6 @@ li img {
   width: 40%;
   margin: 6px 20px 6px 0;
   border: 4px solid var(--dark);
-}
-
-.companies .content {
-  padding-bottom: 80px;
-}
-.companies ul {
-  margin-top: 80px;
-}
-.companies li img {
-  margin: 0 auto 80px;
-}
-
-.book img {
-  margin-bottom: 40px;
-}
-.book a {
-  color: #F5F6F1;
-  text-decoration: none;
-  display: block;
-  font-size: 14pt;
 }
 
 .footer ul {
