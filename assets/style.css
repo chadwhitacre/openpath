@@ -1,12 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;1,400&family=Yatra+One&display=swap');
+
 
 :root {
   --chevron: #e4f7e3;
   --light: #F0EADB;
+  --white: #F0EADB;
   --dark: #1F1D12;
   --blue: #DFEBF7;
   --darker-blue: #0080FF;
-  --black: #161819;
+  --black: #283124;
 }
 
 * {
@@ -33,9 +35,9 @@ div.content {
   max-width: 640px;
   margin: 0 auto;
 }
-h2, h3 {
+h1, h2, h3 {
+  font: normal 18pt/24pt "Yatra One";
   margin: 0 0 12pt;
-  font-weight: bold;
 }
 h2 {
   font-size: 24pt;
@@ -54,7 +56,6 @@ p {
 }
 b {
   font-weight: normal;
-  background: yellow;
 }
 dt {
   margin: 24pt 0 8pt;
@@ -117,32 +118,25 @@ li img {
   display: block;
   height: 48px;
 }
-
-.hero h1 {
-  color: white;
-  padding: 100px 0 20px 10%;
-  font: bold 10vw/10vw "Work Sans";
-  white-space: nowrap;
-  text-shadow:
-         4px 4px 0 var(--black),
-       -1px -1px 0 var(--black),
-        1px -1px 0 var(--black),
-        -1px 1px 0 var(--black),
-         1px 1px 0 var(--black),
-         0px 0px 30px white;
+.hero {
+  color: var(--black);
+  background: radial-gradient(
+    farthest-corner at 13% 25vw,
+    rgba(240, 234, 219, 1.0),
+    rgba(240, 234, 219, 0.0) 100%
+  );
 }
-.hero h2 {
-  padding: 20px 0 100px 10%;
-  font: normal 5vw/5vw "Work Sans";
+.hero h1 {
+  padding: 10vw 0 2vw 10%;
+  font: normal 10vw/10vw "Yatra One";
   white-space: nowrap;
-  color: white;
-  text-shadow:
-         2px 2px 0 var(--black),
-       -1px -1px 0 var(--black),
-        1px -1px 0 var(--black),
-        -1px 1px 0 var(--black),
-         1px 1px 0 var(--black),
-         0px 0px 20px white;
+}
+
+.hero h2 {
+  padding: 2vw 0 10vw 10%;
+  margin: 0;
+  font: normal 5vw/5vw "Yatra One";
+  white-space: nowrap;
 }
 
 .intro {
@@ -164,73 +158,4 @@ li img {
 .footer li img {
   height: 32px;
   margin: 0 auto;
-}
-
-@media (min-width: 640px) {
-  div.content {
-    padding: 80px 40px;
-  }
-  .companies ul {
-    columns: 2;
-  }
-}
-@media (min-width: 650px) {
-  div.content {
-    padding: 80px 35px;
-  }
-}
-@media (min-width: 660px) {
-  div.content {
-    padding: 80px 30px;
-  }
-}
-@media (min-width: 670px) {
-  div.content {
-    padding: 80px 25px;
-  }
-  .book a {
-    columns: 2;
-  }
-}
-@media (min-width: 680px) {
-  div.content {
-    padding: 80px 20px;
-  }
-}
-@media (min-width: 690px) {
-  div.content {
-    padding: 80px 15px;
-  }
-}
-@media (min-width: 700px) {
-  div.content {
-    padding: 80px 10px;
-  }
-}
-@media (min-width: 710px) {
-  div.content {
-    padding: 80px 5px;
-  }
-}
-@media (min-width: 720px) {
-  div.content {
-    padding: 80px 0px;
-  }
-}
-
-@media (max-width: 874px) {
-  /* image is 1904 x 640, so at 294 height the width is 874 */
-  body {
-    background-size: auto 294px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 30% top;
-  }
-}
-
-@media (max-width: 945px) {
-  h1 {
-    font-size: 94px;
-    line-height: 94px;
-  }
 }
