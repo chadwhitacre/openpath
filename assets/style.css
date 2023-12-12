@@ -4,6 +4,7 @@
   --white: #f0eadb;
   --black: #283124;
   --green: #404e3a;
+  --yellow: #ffff90;
 }
 
 * {
@@ -66,7 +67,7 @@ p {
 }
 b {
   font-weight: normal;
-  background: yellow;
+  background: var(--yellow);
 }
 
 ul {
