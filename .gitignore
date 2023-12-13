@@ -1,0 +1,6 @@
+.DS_Store
+.bundle/ruby
+.jekyll-cache
+.sass-cache
+TODO
+_site
