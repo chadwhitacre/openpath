@@ -162,8 +162,6 @@ header {
       color: var(--black);
     }
   }
-  footer {
-  }
 }
 
 .meta {
@@ -179,7 +177,7 @@ header {
   border-radius: 3px;
 }
 
-.stream a {
+a.read-more {
   display: block;
   margin: 12pt 0 0;
   float: right;
@@ -221,10 +219,15 @@ footer {
     color: var(--white);
   }
 
+  p {
+    margin: 0 0 36pt;
+    padding: 0;
+    text-align: center;
+  }
   ul {
-    width: 40%;
-    min-width: 256px;
-    columns: 4; /* should match number of icons */
+    width: 60%;
+    min-width: 320px;
+    columns: 5; /* should match number of icons */
     margin: 0 auto;
 
     li img {

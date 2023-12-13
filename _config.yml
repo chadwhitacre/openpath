@@ -6,4 +6,3 @@ permalink: /:year/:title/
 defaults:
   - values:
       layout: "post"
-      byline: Chad Whitacre
