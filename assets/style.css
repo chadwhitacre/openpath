@@ -99,6 +99,9 @@ section.hero {
   padding: 0;
   font: normal 36pt/42pt "Yatra One";
 }
+.hero h1 br {
+  display: none;
+}
 
 .hero h2 {
   margin: 0;
@@ -164,6 +167,9 @@ section.hero {
   }
   .hero .content {
     padding: 10vw 40px 0;
+  }
+  .hero h1 br {
+    display: inline;
   }
   section.hero {
     background: radial-gradient(
