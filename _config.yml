@@ -2,3 +2,8 @@ url: https://futureofopensource.org/
 sass:
   sass_dir: .
 exclude: ["Makefile", "README.md"]
+permalink: /:year/:title/
+defaults:
+  - values:
+      layout: "post"
+      byline: Chad Whitacre

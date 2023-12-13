@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="content">
+  <h2>{{ page.title }}</h2>
+  <p class="meta">
+   By {{ page.byline }}
+   &#10087;
+   Published on {{ page.published | date: '%B %d, %Y' }}
+  </p>
+  {{ content }}
+</div>

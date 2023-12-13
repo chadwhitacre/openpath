@@ -1,19 +1,9 @@
 ---
 layout: default
-title: Foo
-heading: Flar
 ---
-
-<header>
-  <div class="content">
-    <h1>Future of <br />Open Source</h1>
-    <h2>with Chad Whitacre</h2>
-  </div>
-</header>
-
 <section class="intro">
   <div class="content">
-    <img src="/assets/chadwhitacre.jpg" />
+    <img src="/assets/chadwhitacre.jpg" alt="headshot of Chad Whitacre" />
 
     <p>
       Greetings! My name is
@@ -27,7 +17,7 @@ heading: Flar
   </div>
 </section>
 
-<section class="latest">
+<section class="stream">
   <div class="content">
     <h2>Latest Episode</h2>
     {% include youtube.html video_id='NFaoQNs9vWg' %}
@@ -40,35 +30,9 @@ heading: Flar
   </div>
 </section>
 
-<section class="else">
+<section class="blog">
   <div class="content">
     <h2>Blog</h2>
-  </div>
-</section>
-
-<section class="footer">
-  <div class="content">
-    <ul>
-      <li>
-        <a href="mailto:chadwhitacre@sentry.io"
-          ><img src="/assets/social/email.svg" alt="Email"
-        /></a>
-      </li>
-      <li>
-        <a href="https://twitter.com/chadwhitacre_"
-          ><img src="/assets/social/x.svg" alt="X"
-        /></a>
-      </li>
-      <li>
-        <a href="https://www.youtube.com/@FutureOfOpenSource/streams"
-          ><img src="/assets/social/youtube.svg" alt="YouTube"
-        /></a>
-      </li>
-      <li>
-        <a href="https://github.com/chadwhitacre/futureofopensource.org"
-          ><img src="/assets/social/github.svg" alt="GitHub"
-        /></a>
-      </li>
-    </ul>
+    {% include updates.html n=2 %}
   </div>
 </section>

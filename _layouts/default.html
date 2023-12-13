@@ -57,8 +57,44 @@
       src="https://plausible.io/js/script.js"
     ></script>
   </head>
-  <body>
-    <article>{{ content }}</article>
+  <body class="{% if page.url == '/' %}homepage{% else %}inside-page{% endif %}">
+    <header>
+      <div class="content">
+        <a href="/">
+          <h1>Future of <br />Open Source</h1>
+          <h2>with Chad Whitacre</h2>
+        </a>
+      </div>
+    </header>
+    <article>
+      {{ content }}
+    </article>
+    <footer>
+      <div class="content">
+        <ul>
+          <li>
+            <a href="mailto:chadwhitacre@sentry.io"
+              ><img src="/assets/social/email.svg" alt="Email"
+            /></a>
+          </li>
+          <li>
+            <a href="https://twitter.com/chadwhitacre_"
+              ><img src="/assets/social/x.svg" alt="X"
+            /></a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/@FutureOfOpenSource/streams"
+              ><img src="/assets/social/youtube.svg" alt="YouTube"
+            /></a>
+          </li>
+          <li>
+            <a href="https://github.com/chadwhitacre/futureofopensource.org"
+              ><img src="/assets/social/github.svg" alt="GitHub"
+            /></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
     <div id="too-small">🥺</div>
   </body>
 </html>

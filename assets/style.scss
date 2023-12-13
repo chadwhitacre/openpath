@@ -25,35 +25,10 @@ body {
   background-attachment: fixed;
 }
 
-article {
-  color: var(--white);
-}
-
 div.content {
   max-width: 640px;
   margin: 0 auto;
   padding: 80px 40px;
-}
-
-section:first-of-type h2 {
-  margin-top: 0;
-}
-section:nth-child(even) {
-  background: var(--white);
-  color: var(--black);
-
-  h2,
-  a {
-    color: var(--green);
-  }
-}
-section:nth-child(odd) {
-  background: var(--black);
-  color: var(--white);
-
-  a {
-    color: var(--white);
-  }
 }
 
 h2 {
@@ -61,9 +36,8 @@ h2 {
   margin: 0 0 12pt;
 }
 h3 {
-  font: normal 16pt/21pt "Yatra One";
-  margin: 48pt 0 12pt;
-  text-align: center;
+  font: normal 16pt/21pt "Work Sans";
+  margin: 36pt 0 6pt;
 }
 p {
   margin: 0 0 16pt;
@@ -89,34 +63,113 @@ li {
 }
 
 header {
-  height: 50vw; /* hero is 2:1 ratio */
-  color: var(--black);
-  background: radial-gradient(
-    farthest-corner at 33% 50%,
-    rgba(240, 234, 219, 1),
-    rgba(240, 234, 219, 0) 100%
-  );
+  a {
+    color: var(--black) !important;
+    text-decoration: none;
+  }
+}
 
-  .content {
-    padding: 20vw 40px 0;
+.homepage {
+  header {
+    height: 50vw; /* hero is 2:1 ratio */
+    color: var(--black);
+    background: radial-gradient(
+      farthest-corner at 33% 50%,
+      rgba(240, 234, 219, 1),
+      rgba(240, 234, 219, 0) 100%
+    );
 
-    h1 {
-      margin: 0;
-      padding: 0;
-      font: normal 36pt/42pt "Yatra One";
+    .content {
+      padding: 20vw 40px 0;
 
-      br {
+      h1 {
+        margin: 0;
+        padding: 0;
+        font: normal 36pt/42pt "Yatra One";
+
+        br {
+          display: none;
+        }
+      }
+
+      h2 {
+        margin: 0;
+        padding: 12pt 0 0;
+        font: normal 18pt/18pt "Yatra One";
+        white-space: nowrap;
+      }
+    }
+  }
+
+  section {
+    background: var(--white);
+    color: var(--black);
+
+    a {
+      color: var(--black);
+    }
+  }
+
+  .stream {
+    background: var(--black);
+    color: var(--white);
+
+    a {
+      color: var(--white);
+    }
+  }
+}
+
+.inside-page {
+  background-color: var(--black);
+  header {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    padding: 24pt;
+
+    background: radial-gradient(
+      farthest-corner at 20% 50%,
+      rgba(240, 234, 219, 1),
+      rgba(240, 234, 219, 0) 100%
+    );
+
+    .content {
+      padding: 40px;
+      h1, h2 {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        display: inline;
+        font: normal 24pt/24pt "Yatra One";
+        br {
+          display: none;
+        }
+      }
+      h2 {
         display: none;
       }
     }
-
+  }
+  article {
     h2 {
-      margin: 0;
-      padding: 12pt 0 0;
-      font: normal 18pt/18pt "Yatra One";
-      white-space: nowrap;
+      font: normal 24pt/32pt "Yatra One";
+    }
+    background: var(--white);
+    color: var(--black);
+    a {
+      color: var(--black);
     }
   }
+  footer {
+  }
+}
+
+.meta {
+  color: var(--green);
+  font-size: 10pt;
+  margin-bottom: 24pt;
 }
 
 .intro img {
@@ -126,7 +179,7 @@ header {
   border-radius: 3px;
 }
 
-.latest a {
+.stream a {
   display: block;
   margin: 12pt 0 0;
   float: right;
@@ -160,7 +213,14 @@ header {
   clear: both;
 }
 
-.footer {
+footer {
+  background: var(--black);
+  color: var(--white);
+
+  a {
+    color: var(--white);
+  }
+
   ul {
     width: 40%;
     min-width: 256px;
@@ -197,9 +257,8 @@ header {
     margin: 0 0 9pt;
   }
   h3 {
-    font: normal 15pt/19pt "Yatra One";
-    margin: 36pt 0 9pt;
-    text-align: center;
+    font: normal 14pt/19pt "Work Sans";
+    margin: 24pt 0 7pt;
   }
 }
 @media (max-width: 440px) {
@@ -217,7 +276,7 @@ header {
   header h1 br {
     display: inline;
   }
-  sectionheader {
+  header {
     background: radial-gradient(
       farthest-corner at 20% 50%,
       rgba(240, 234, 219, 1),
@@ -234,7 +293,7 @@ header {
   padding: 49vh 0 0 49vw;
 }
 @media (max-width: 319px) {
-  article {
+  header, article, footer {
     display: none;
   }
   #too-small {
