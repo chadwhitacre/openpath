@@ -57,7 +57,9 @@
       src="https://plausible.io/js/script.js"
     ></script>
   </head>
-  <body class="{% if page.url == '/' %}homepage{% else %}inside-page{% endif %}">
+  <body
+    class="{% if page.url == '/' %}homepage{% else %}inside-page{% endif %}"
+  >
     <header>
       <div class="content">
         <a href="/">
@@ -66,16 +68,15 @@
         </a>
       </div>
     </header>
-    <article>
-      {{ content }}
-    </article>
+    <article>{{ content }}</article>
     <footer>
       <div class="content">
         <p>
-          &copy; 2000–<script type="text/javascript">
-                      document.write(new Date().getFullYear());
-                    </script> Chad Whitacre &nbsp;
-          <a href="/">Home</a> &nbsp;
+          &copy; 2000–
+          <script type="text/javascript">
+            document.write(new Date().getFullYear());
+          </script>
+          Chad Whitacre &nbsp; <a href="/">Home</a> &nbsp;
           <a href="/about/">About</a>
         </p>
         <ul>

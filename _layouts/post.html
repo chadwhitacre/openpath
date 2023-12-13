@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+
 <div class="content">
   <h2>{{ page.title }}</h2>
-  <p class="meta">
-   Published on {{ page.published | date: '%B %d, %Y' }}
-  </p>
+  <p class="meta">Published on {{ page.published | date: '%B %d, %Y' }}</p>
   {{ content }}
 </div>

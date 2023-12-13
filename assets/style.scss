@@ -136,7 +136,8 @@ header {
 
     .content {
       padding: 40px;
-      h1, h2 {
+      h1,
+      h2 {
         margin: 0;
         padding: 0;
       }
@@ -296,7 +297,9 @@ footer {
   padding: 49vh 0 0 49vw;
 }
 @media (max-width: 319px) {
-  header, article, footer {
+  header,
+  article,
+  footer {
     display: none;
   }
   #too-small {
