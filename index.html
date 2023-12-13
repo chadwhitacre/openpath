@@ -1,137 +1,74 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Future of Open Source with Chad Whitacre</title>
-    <style>
-      @import url("/assets/style.css");
-    </style>
+---
+layout: default
+title: Foo
+heading: Flar
+---
 
-    <!-- ty opengraph.xyz 🙏 -->
-    <title>Future of Open Source with Chad Whitacre</title>
-    <meta
-      name="description"
-      content="Conversations about important topics in Open Source, hosted by Chad Whitacre"
-    />
+<header>
+  <div class="content">
+    <h1>Future of <br />Open Source</h1>
+    <h2>with Chad Whitacre</h2>
+  </div>
+</header>
 
-    <meta property="og:url" content="https://futureofopensource.org/" />
-    <meta property="og:type" content="website" />
-    <meta
-      property="og:title"
-      content="Future of Open Source with Chad Whitacre"
-    />
-    <meta
-      property="og:description"
-      content="Conversations about important topics in Open Source, hosted by Chad Whitacre"
-    />
-    <meta
-      property="og:image"
-      content="https://futureofopensource.org/assets/social.webp"
-    />
+<section class="intro">
+  <div class="content">
+    <img src="/assets/chadwhitacre.jpg" />
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta property="twitter:domain" content="futureofopensource.org" />
-    <meta property="twitter:url" content="https://futureofopensource.org/" />
-    <meta
-      name="twitter:title"
-      content="Future of Open Source with Chad Whitacre"
-    />
-    <meta
-      name="twitter:description"
-      content="Conversations about important topics in Open Source, hosted by Chad Whitacre"
-    />
-    <meta
-      name="twitter:image"
-      content="https://futureofopensource.org/assets/social.webp"
-    />
+    <p>
+      Greetings! My name is
+      <a href="https://chadwhitacre.com/">Chad Whitacre</a>, and I'm Head of
+      Open Source at <a href="https://sentry.io/welcome/">Sentry</a>. Here at
+      Future of Open Source, I host
+      <b>conversations about topics that matter</b> to the Open Source
+      community, the wider tech industry, and society at large. Thanks for
+      visiting! 💃
+    </p>
+  </div>
+</section>
 
-    <!-- ty https://emojitofavicon.com/ 🙏 -->
-    <link
-      rel="icon"
-      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>🥾</text></svg>"
-    />
-    <script
-      defer
-      data-domain="futureofopensource.org"
-      src="https://plausible.io/js/script.js"
-    ></script>
-  </head>
-  <body>
-    <article>
-      <section class="hero">
-        <div class="content">
-          <h1>Future of <br />Open Source</h1>
-          <h2>with Chad Whitacre</h2>
-        </div>
-      </section>
+<section class="latest">
+  <div class="content">
+    <h2>Latest Episode</h2>
+    {% include youtube.html video_id='NFaoQNs9vWg' %}
+    <a
+      href="https://www.youtube.com/@FutureOfOpenSource/streams"
+      class="read-more"
+      >Browse all on YouTube ...</a
+    >
+    <div class="clear"></div>
+  </div>
+</section>
 
-      <section class="intro">
-        <div class="content">
-          <img src="/assets/chadwhitacre.jpg" />
+<section class="else">
+  <div class="content">
+    <h2>Blog</h2>
+  </div>
+</section>
 
-          <p>
-            Greetings! My name is
-            <a href="https://chadwhitacre.com/">Chad Whitacre</a>, and I'm the
-            Head of Open Source at
-            <a href="https://sentry.io/welcome/">Sentry</a>. Here at Future of
-            Open Source, I host <b>conversations about topics that matter</b> to
-            the Open Source community, the wider tech industry, and society at
-            large. Thanks for visiting! 💃
-          </p>
-        </div>
-      </section>
-
-      <section class="something">
-        <div class="content">
-          <h2>Latest</h2>
-
-          <ul>
-            <li class="video"></li>
-            <li class="external"></li>
-            <li class="video"></li>
-          </ul>
-        </div>
-      </section>
-
-      <section class="else">
-        <div class="content">
-          <h2>Popular</h2>
-
-          <ul>
-            <li class="video"></li>
-            <li class="video"></li>
-          </ul>
-        </div>
-      </section>
-
-      <section class="footer">
-        <div class="content">
-          <ul>
-            <li>
-              <a href="mailto:chadwhitacre@sentry.io"
-                ><img src="/assets/social/email.svg" alt="Email"
-              /></a>
-            </li>
-            <li>
-              <a href="https://twitter.com/chadwhitacre_"
-                ><img src="/assets/social/x.svg" alt="X"
-              /></a>
-            </li>
-            <li>
-              <a href="https://www.youtube.com/channel/UCw5Zay0gZvf-4EaE7xiLXqg"
-                ><img src="/assets/social/youtube.svg" alt="YouTube"
-              /></a>
-            </li>
-            <li>
-              <a href="https://github.com/chadwhitacre/futureofopensource.org"
-                ><img src="/assets/social/github.svg" alt="GitHub"
-              /></a>
-            </li>
-          </ul>
-        </div>
-      </section>
-    </article>
-    <div id="too-small">🥺</div>
-  </body>
-</html>
+<section class="footer">
+  <div class="content">
+    <ul>
+      <li>
+        <a href="mailto:chadwhitacre@sentry.io"
+          ><img src="/assets/social/email.svg" alt="Email"
+        /></a>
+      </li>
+      <li>
+        <a href="https://twitter.com/chadwhitacre_"
+          ><img src="/assets/social/x.svg" alt="X"
+        /></a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/@FutureOfOpenSource/streams"
+          ><img src="/assets/social/youtube.svg" alt="YouTube"
+        /></a>
+      </li>
+      <li>
+        <a href="https://github.com/chadwhitacre/futureofopensource.org"
+          ><img src="/assets/social/github.svg" alt="GitHub"
+        /></a>
+      </li>
+    </ul>
+  </div>
+</section>

@@ -1,3 +1,6 @@
+---
+---
+
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;1,400&family=Yatra+One&display=swap");
 
 :root {
@@ -38,17 +41,19 @@ section:first-of-type h2 {
 section:nth-child(even) {
   background: var(--white);
   color: var(--black);
-}
-section:nth-child(even) h2,
-section:nth-child(even) a {
-  color: var(--green);
+
+  h2,
+  a {
+    color: var(--green);
+  }
 }
 section:nth-child(odd) {
   background: var(--black);
   color: var(--white);
-}
-section:nth-child(odd) a {
-  color: var(--white);
+
+  a {
+    color: var(--white);
+  }
 }
 
 h2 {
@@ -76,13 +81,14 @@ ul {
 li {
   display: block;
   list-style: none;
-}
-li img {
-  display: block;
-  height: 48px;
+
+  img {
+    display: block;
+    height: 48px;
+  }
 }
 
-section.hero {
+header {
   height: 50vw; /* hero is 2:1 ratio */
   color: var(--black);
   background: radial-gradient(
@@ -90,42 +96,82 @@ section.hero {
     rgba(240, 234, 219, 1),
     rgba(240, 234, 219, 0) 100%
   );
-}
-.hero .content {
-  padding: 20vw 40px 0;
-}
-.hero h1 {
-  margin: 0;
-  padding: 0;
-  font: normal 36pt/42pt "Yatra One";
-}
-.hero h1 br {
-  display: none;
-}
 
-.hero h2 {
-  margin: 0;
-  padding: 12pt 0 0;
-  font: normal 18pt/18pt "Yatra One";
-  white-space: nowrap;
+  .content {
+    padding: 20vw 40px 0;
+
+    h1 {
+      margin: 0;
+      padding: 0;
+      font: normal 36pt/42pt "Yatra One";
+
+      br {
+        display: none;
+      }
+    }
+
+    h2 {
+      margin: 0;
+      padding: 12pt 0 0;
+      font: normal 18pt/18pt "Yatra One";
+      white-space: nowrap;
+    }
+  }
 }
 
 .intro img {
   float: left;
-  width: 30%;
-  margin: 6px 20px 6px 0;
-  border: 4px solid var(--black);
+  width: 33%;
+  margin: 6px 40px 6px 0;
+  border-radius: 3px;
 }
 
-.footer ul {
-  width: 40%;
-  min-width: 256px;
-  columns: 4; /* should match number of icons */
-  margin: 0 auto;
+.latest a {
+  display: block;
+  margin: 12pt 0 0;
+  float: right;
 }
-.footer li img {
-  height: 32px;
-  margin: 0 auto;
+
+.youtube {
+  /* https://www.w3schools.com/howto/howto_css_aspect_ratio.asp */
+  &.aspect-ratio-16-9 {
+    padding-top: 56.25%;
+  }
+
+  width: 100%;
+  position: relative;
+
+  .youtube-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border-radius: 3px;
+    }
+  }
+}
+
+.clear {
+  clear: both;
+}
+
+.footer {
+  ul {
+    width: 40%;
+    min-width: 256px;
+    columns: 4; /* should match number of icons */
+    margin: 0 auto;
+
+    li img {
+      height: 32px;
+      margin: 0 auto;
+    }
+  }
 }
 
 @media (max-width: 640px) {
@@ -137,11 +183,11 @@ section.hero {
   div.content {
     padding: 40px;
   }
-  .hero h1 {
+  header h1 {
     font-size: 24pt;
     line-height: 30pt;
   }
-  .hero h2 {
+  header h2 {
     font-size: 14pt;
     line-height: 14pt;
     padding: 6pt 0 0;
@@ -165,13 +211,13 @@ section.hero {
   div.content {
     padding: 40px;
   }
-  .hero .content {
+  header .content {
     padding: 10vw 40px 0;
   }
-  .hero h1 br {
+  header h1 br {
     display: inline;
   }
-  section.hero {
+  sectionheader {
     background: radial-gradient(
       farthest-corner at 20% 50%,
       rgba(240, 234, 219, 1),
@@ -179,6 +225,7 @@ section.hero {
     );
   }
 }
+
 #too-small {
   display: none;
   width: 100vw;
