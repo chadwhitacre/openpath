@@ -19,10 +19,13 @@ body {
   font:
     normal 16pt/21pt "Work Sans",
     sans-serif;
-  background: url("/assets/hero.webp") var(--white);
-  background-size: 100vw;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+
+  &.homepage {
+    background: url("/assets/hero.webp") var(--white);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
 }
 
 div.content {
@@ -36,7 +39,7 @@ h2 {
   margin: 0 0 12pt;
 }
 h3 {
-  font: normal 16pt/21pt "Work Sans";
+  font: normal 21pt/28pt "Work Sans";
   margin: 36pt 0 6pt;
 }
 p {
@@ -44,7 +47,7 @@ p {
   padding: 0;
   line-height: 1.5;
 }
-b {
+b, strong {
   font-weight: normal;
   background: var(--yellow);
 }
@@ -121,21 +124,26 @@ header {
 }
 
 .inside-page {
+  background: url("/assets/banner.webp") var(--white);
   background-color: var(--black);
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
   header {
+
     margin: 0;
-    padding: 0;
-    height: auto;
-    padding: 24pt;
+    padding: 7vw 0 0;
+    height: 17.6432291666667vw; /* goofy aspect ratio on banner.webp */
 
     background: radial-gradient(
       farthest-corner at 20% 50%,
       rgba(240, 234, 219, 1),
-      rgba(240, 234, 219, 0) 100%
+      rgba(240, 234, 219, 0) 133%
     );
 
     .content {
-      padding: 40px;
+      padding: 0 40px;
       h1,
       h2 {
         margin: 0;
@@ -154,13 +162,18 @@ header {
     }
   }
   article {
-    h2 {
-      font: normal 24pt/32pt "Yatra One";
-    }
     background: var(--white);
     color: var(--black);
     a {
       color: var(--black);
+    }
+
+    h2 {
+      font: normal 24pt/32pt "Yatra One";
+    }
+
+    img {
+      width: 100%;
     }
   }
 }
@@ -171,9 +184,9 @@ header {
   margin-bottom: 24pt;
 }
 
-.intro img {
+img.headshot {
   float: left;
-  width: 33%;
+  width: 33% ! important;
   margin: 6px 40px 6px 0;
   border-radius: 3px;
 }
@@ -275,7 +288,7 @@ footer {
     padding: 40px;
   }
   header .content {
-    padding: 10vw 40px 0;
+    padding: 0 40px 0;
   }
   header h1 br {
     display: inline;
