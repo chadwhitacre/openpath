@@ -6,6 +6,5 @@ layout: default
   <h2>{{ page.title }}</h2>
   {% if page.published %}
   <p class="meta">Published on {{ page.published | date: '%B %d, %Y' }}</p>
-  {% endif %}
-  {{ content }}
+  {% endif %} {{ content }}
 </div>

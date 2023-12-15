@@ -47,7 +47,8 @@ p {
   padding: 0;
   line-height: 1.5;
 }
-b, strong {
+b,
+strong {
   font-weight: normal;
   background: var(--yellow);
 }
@@ -131,7 +132,6 @@ header {
   background-attachment: fixed;
 
   header {
-
     margin: 0;
     padding: 7vw 0 0;
     height: 17.6432291666667vw; /* goofy aspect ratio on banner.webp */
@@ -186,7 +186,7 @@ header {
 
 img.headshot {
   float: left;
-  width: 33% ! important;
+  width: 33% !important;
   margin: 6px 40px 6px 0;
   border-radius: 3px;
 }
