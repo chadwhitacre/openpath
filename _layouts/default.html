@@ -83,10 +83,11 @@
         <p>
           &copy;
           <script type="text/javascript">
-            document.write(`2000–${new Date().getFullYear()}`);
+            var curYear = String(new Date().getFullYear());
+            document.write(curYear < "2024" ? "2023" : `2023–${curYear}`);
           </script>
-          Chad Whitacre &nbsp; <a href="/">Home</a> &nbsp;
-          <a href="/about/">About</a>
+          <a href="https://chadwhitacre.com/">Chad Whitacre</a> &#10087;
+          <a href="/">Home</a>
         </p>
         <ul>
           <li>
