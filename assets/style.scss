@@ -15,9 +15,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font:
-    normal 16pt/21pt "Work Sans",
+    normal 16pt/150% "Work Sans",
     sans-serif;
 
   &.homepage {
@@ -28,160 +29,30 @@ body {
   }
 }
 
-div.content {
+.content {
+  display: block;
   max-width: 640px;
   margin: 0 auto;
   padding: 80px 40px;
 }
 
 h2 {
-  font: normal 24pt/32pt "Yatra One";
-  margin: 0 0 12pt;
+  font: normal 24pt/150% "Yatra One";
+  margin: 0 0 0.5vw;
 }
 h3 {
-  font: normal 21pt/28pt "Work Sans";
-  margin: 36pt 0 6pt;
+  font: normal 21pt/150% "Work Sans";
+  margin: 18pt 0 6pt;
 }
 p {
   margin: 0 0 16pt;
   padding: 0;
-  line-height: 1.5;
-}
-b,
-strong {
-  font-weight: normal;
-  background: var(--yellow);
-}
-
-ul {
-  width: 100%;
-}
-li {
-  display: block;
-  list-style: none;
-
-  img {
-    display: block;
-    height: 48px;
-  }
-}
-
-header {
-  a {
-    color: var(--black) !important;
-    text-decoration: none;
-  }
-}
-
-.homepage {
-  header {
-    height: 50vw; /* hero is 2:1 ratio */
-    color: var(--black);
-    background: radial-gradient(
-      farthest-corner at 33% 50%,
-      rgba(240, 234, 219, 1),
-      rgba(240, 234, 219, 0) 100%
-    );
-
-    .content {
-      padding: 20vw 40px 0;
-
-      h1 {
-        margin: 0;
-        padding: 0;
-        font: normal 36pt/42pt "Yatra One";
-
-        br {
-          display: none;
-        }
-      }
-
-      h2 {
-        margin: 0;
-        padding: 12pt 0 0;
-        font: normal 18pt/18pt "Yatra One";
-        white-space: nowrap;
-      }
-    }
-  }
-
-  section {
-    background: var(--white);
-    color: var(--black);
-
-    a {
-      color: var(--black);
-    }
-  }
-
-  .stream {
-    background: var(--black);
-    color: var(--white);
-
-    a {
-      color: var(--white);
-    }
-  }
-}
-
-.inside-page {
-  background: url("/assets/banner.webp") var(--white);
-  background-color: var(--black);
-  background-size: 100vw;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-
-  header {
-    margin: 0;
-    padding: 7vw 0 0;
-    height: 17.6432291666667vw; /* goofy aspect ratio on banner.webp */
-
-    background: radial-gradient(
-      farthest-corner at 20% 50%,
-      rgba(240, 234, 219, 1),
-      rgba(240, 234, 219, 0) 133%
-    );
-
-    .content {
-      padding: 0 40px;
-      h1,
-      h2 {
-        margin: 0;
-        padding: 0;
-      }
-      h1 {
-        display: inline;
-        font: normal 24pt/24pt "Yatra One";
-        br {
-          display: none;
-        }
-      }
-      h2 {
-        display: none;
-      }
-    }
-  }
-  article {
-    background: var(--white);
-    color: var(--black);
-    a {
-      color: var(--black);
-    }
-
-    h2 {
-      font: normal 24pt/32pt "Yatra One";
-    }
-
-    img {
-      width: 100%;
-    }
-  }
 }
 
 .meta {
   color: var(--green);
   font-size: 10pt;
-  margin-bottom: 24pt;
+  margin-bottom: 18pt;
 }
 
 img.headshot {
@@ -195,6 +66,12 @@ a.read-more {
   display: block;
   margin: 12pt 0 0;
   float: right;
+}
+
+b,
+strong {
+  font-weight: normal;
+  background: var(--yellow);
 }
 
 .youtube {
@@ -225,6 +102,111 @@ a.read-more {
   clear: both;
 }
 
+header {
+  .content {
+    height: 100%;
+    h1,
+    h2 {
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font: normal 26pt/115% "Yatra One";
+      span {
+        white-space: nowrap; /* work around zero-width &nbsp; in font */
+      }
+    }
+  }
+
+  a {
+    color: var(--black) !important;
+    text-decoration: none;
+  }
+}
+
+.homepage {
+  header {
+    height: 50vw; /* hero is 2:1 ratio */
+    color: var(--black);
+    background: radial-gradient(
+      farthest-corner at 33% 50%,
+      rgba(240, 234, 219, 1),
+      rgba(240, 234, 219, 0) 100%
+    );
+
+    .content {
+      padding: 20vw 40px 0;
+
+      h1 {
+        font-size: 36pt;
+      }
+
+      h2 {
+        padding-top: 2vw;
+        font-size: 3vw;
+        line-height: 3vw;
+        white-space: nowrap;
+      }
+    }
+  }
+
+  h3 {
+  }
+
+  section {
+    background: var(--white);
+    color: var(--black);
+  }
+
+  .stream {
+    background: var(--black);
+    color: var(--white);
+
+    a {
+      color: var(--white);
+    }
+  }
+}
+
+.inside-page {
+  background: url("/assets/banner.webp") var(--white);
+  background-color: var(--black);
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  header {
+    height: 17.6432291666667vw; /* goofy aspect ratio on banner.webp */
+
+    background: radial-gradient(
+      farthest-corner at 20% 50%,
+      rgba(240, 234, 219, 1),
+      rgba(240, 234, 219, 0) 133%
+    );
+
+    .content {
+      padding-top: 7vw;
+
+      h1 {
+        font-size: 26pt;
+      }
+      h2 {
+        display: none;
+      }
+    }
+  }
+  article {
+    background: var(--white);
+    color: var(--black);
+    a {
+      color: var(--black);
+    }
+    h3 {
+      margin-top: 36pt;
+    }
+  }
+}
+
 footer {
   background: var(--black);
   color: var(--white);
@@ -238,67 +220,55 @@ footer {
     padding: 0;
     text-align: center;
   }
+
   ul {
     width: 60%;
     min-width: 320px;
     columns: 4; /* should match number of icons */
     margin: 0 auto;
 
-    li img {
-      height: 32px;
-      margin: 0 auto;
+    li {
+      display: block;
+      list-style: none;
+
+      img {
+        display: block;
+        margin: 0 auto;
+        height: 32px;
+      }
     }
   }
 }
 
 @media (max-width: 640px) {
-  body {
-    font:
-      normal 15pt/18pt "Work Sans",
-      sans-serif;
+  .inside-page {
+    header h1 {
+      font-size: 5vw;
+    }
   }
-  div.content {
+  body {
+    font-size: 15pt;
+  }
+  img.headshot {
+    margin-right: 25px;
+  }
+  .content {
     padding: 40px;
   }
-  header h1 {
-    font-size: 24pt;
-    line-height: 30pt;
-  }
-  header h2 {
-    font-size: 14pt;
-    line-height: 14pt;
-    padding: 6pt 0 0;
-  }
-  h2 {
-    font: normal 16pt/21pt "Yatra One";
-    margin: 0 0 9pt;
-  }
-  h3 {
-    font: normal 14pt/19pt "Work Sans";
-    margin: 24pt 0 7pt;
+  article {
+    h2 {
+      font: normal 16pt/21pt "Yatra One";
+      margin: 0 0 9pt;
+    }
+    h3 {
+      font: normal 14pt/19pt "Work Sans";
+      margin: 24pt 0 7pt;
+    }
   }
 }
 @media (max-width: 440px) {
   body {
-    font:
-      normal 13pt/17pt "Work Sans",
-      sans-serif;
-  }
-  div.content {
-    padding: 40px;
-  }
-  header .content {
-    padding: 0 40px 0;
-  }
-  header h1 br {
-    display: inline;
-  }
-  header {
-    background: radial-gradient(
-      farthest-corner at 20% 50%,
-      rgba(240, 234, 219, 1),
-      rgba(240, 234, 219, 0) 100%
-    );
+    font-size: 13pt;
   }
 }
 
