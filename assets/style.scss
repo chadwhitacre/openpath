@@ -223,7 +223,7 @@ footer {
 
   ul {
     width: 60%;
-    min-width: 320px;
+    min-width: 192px;
     columns: 4; /* should match number of icons */
     margin: 0 auto;
 
@@ -241,8 +241,16 @@ footer {
 }
 
 @media (max-width: 640px) {
-  .inside-page {
-    header h1 {
+  .homepage header .content {
+    h1 {
+      font-size: 7vw;
+    }
+    h2 {
+      font-size: 4vw;
+    }
+  }
+  .inside-page header .content {
+    h1 {
       font-size: 5vw;
     }
   }
@@ -257,11 +265,11 @@ footer {
   }
   article {
     h2 {
-      font: normal 16pt/21pt "Yatra One";
+      font-size: 16pt;
       margin: 0 0 9pt;
     }
     h3 {
-      font: normal 14pt/19pt "Work Sans";
+      font-size: 14pt;
       margin: 24pt 0 7pt;
     }
   }
@@ -269,6 +277,14 @@ footer {
 @media (max-width: 440px) {
   body {
     font-size: 13pt;
+  }
+  .inside-page header .content {
+    h1 {
+      font-size: 4vw;
+    }
+  }
+  footer ul li img {
+    height: 24px;
   }
 }
 
