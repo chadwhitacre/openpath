@@ -18,7 +18,7 @@
 
 body {
   font:
-    normal 16pt/150% "Work Sans",
+    normal 14pt/150% "Work Sans",
     sans-serif;
 
   &.homepage {
@@ -36,13 +36,17 @@ body {
   padding: 80px 40px;
 }
 
+h1 {
+  font: normal 26pt/115% "Yatra One";
+  margin: 0;
+}
 h2 {
-  font: normal 24pt/150% "Yatra One";
-  margin: 0 0 0.5vw;
+  font: normal 20pt/150% "Yatra One";
+  margin: 0 0 9pt;
 }
 h3 {
-  font: normal 21pt/150% "Work Sans";
-  margin: 18pt 0 6pt;
+  font: normal 16pt/150% "Work Sans";
+  margin: 36pt 0 7pt;
 }
 p {
   margin: 0 0 16pt;
@@ -111,7 +115,6 @@ header {
       padding: 0;
     }
     h1 {
-      font: normal 26pt/115% "Yatra One";
       span {
         white-space: nowrap; /* work around zero-width &nbsp; in font */
       }
@@ -129,7 +132,7 @@ header {
     height: 50vw; /* hero is 2:1 ratio */
     color: var(--black);
     background: radial-gradient(
-      farthest-corner at 33% 50%,
+      farthest-corner at 38.2% 61.8%,
       rgba(240, 234, 219, 1),
       rgba(240, 234, 219, 0) 100%
     );
@@ -142,15 +145,15 @@ header {
       }
 
       h2 {
-        padding-top: 2vw;
-        font-size: 3vw;
-        line-height: 3vw;
+        font-size: 18pt;
+        padding-top: 9pt;
         white-space: nowrap;
       }
     }
   }
 
   h3 {
+    margin: 18pt 0 6pt;
   }
 
   section {
@@ -200,9 +203,6 @@ header {
     color: var(--black);
     a {
       color: var(--black);
-    }
-    h3 {
-      margin-top: 36pt;
     }
   }
 }
@@ -263,16 +263,6 @@ footer {
   .content {
     padding: 40px;
   }
-  article {
-    h2 {
-      font-size: 16pt;
-      margin: 0 0 9pt;
-    }
-    h3 {
-      font-size: 14pt;
-      margin: 24pt 0 7pt;
-    }
-  }
 }
 @media (max-width: 440px) {
   body {
@@ -280,7 +270,7 @@ footer {
   }
   .inside-page header .content {
     h1 {
-      font-size: 4vw;
+      font-size: 4.8vw; /* based on experience at vw=320px */
     }
   }
   footer ul li img {
