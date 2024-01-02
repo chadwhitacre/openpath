@@ -5,7 +5,7 @@ published: 2024-01-02
 ---
 
 Greetings and welcome to my new website, [Open Path](/). The purpose of
-this site is to host and contribute to important conversations about topics
+this site is to contribute to and host important conversations about topics
 that matter to the Open Source community, the wider tech industry, and society
 at large.
 
