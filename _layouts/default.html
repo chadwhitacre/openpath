@@ -1,53 +1,33 @@
 <!doctype html>
 <html>
   <head>
+    {% capture page_image %}{{ page.url | absolute_url }}social.webp{%
+    endcapture %}
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Open Path with Chad Whitacre</title>
     <style>
       @import url("/assets/style.css?{{site.time | date: '%s'}}");
     </style>
 
     <!-- ty opengraph.xyz 🙏 -->
-    <title>Open Path with Chad Whitacre</title>
-    <meta
-      name="description"
-      content="Conversations about Open Source, tech, and society, hosted by Chad Whitacre"
-    />
+    <title>
+      {{ page.title }}{% if page.url != '/' %} ❧ Open Path with Chad Whitacre{%
+      endif %}
+    </title>
+    <meta name="description" content="{{ page.description }}" />
 
-    <meta
-      property="og:url"
-      content="https://openpath.chadwhitacre.com/"
-    />
+    <meta property="og:url" content="https://openpath.chadwhitacre.com/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Open Path with Chad Whitacre" />
-    <meta
-      property="og:description"
-      content="Conversations about Open Source, tech, and society, hosted by Chad Whitacre"
-    />
-    <meta
-      property="og:image"
-      content="https://openpath.chadwhitacre.com/assets/social.webp"
-    />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" content="{{ page_image }}" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      property="twitter:domain"
-      content="openpath.chadwhitacre.com"
-    />
-    <meta
-      property="twitter:url"
-      content="https://openpath.chadwhitacre.com/"
-    />
-    <meta name="twitter:title" content="Open Path with Chad Whitacre" />
-    <meta
-      name="twitter:description"
-      content="Conversations about Open Source, tech, and society, hosted by Chad Whitacre"
-    />
-    <meta
-      name="twitter:image"
-      content="https://openpath.chadwhitacre.com/assets/social.webp"
-    />
+    <meta property="twitter:domain" content="openpath.chadwhitacre.com" />
+    <meta property="twitter:url" content="https://openpath.chadwhitacre.com/" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:image" content="{{ page_image }}" />
 
     <!-- ty https://emojitofavicon.com/ 🙏 -->
     <link
@@ -101,8 +81,7 @@
             /></a>
           </li>
           <li>
-            <a
-              href="https://github.com/chadwhitacre/openpath.chadwhitacre.com"
+            <a href="https://github.com/chadwhitacre/openpath.chadwhitacre.com"
               ><img src="/assets/social/github.svg" alt="GitHub"
             /></a>
           </li>

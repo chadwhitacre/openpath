@@ -6,7 +6,7 @@ for post in posts limit: include.n %}
   </h3>
   <div class="meta">
     <span class="date">{{ post.published | date: "%Y-%m-%d" }} &middot;</span>
-    {{ post.excerpt }}
+    {{ post.description }}
   </div>
 </div>
 {% endfor %}

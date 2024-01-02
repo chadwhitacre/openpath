@@ -1,4 +1,3 @@
-url: https://chadwhitacre.com/
 sass:
   sass_dir: .
 exclude: ["Makefile", "README.md"]

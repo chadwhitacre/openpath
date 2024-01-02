@@ -1,6 +1,6 @@
 ---
 title: Introduction &amp; Roundup
-excerpt: Announcement about the Open Path website
+description: Announcement about the Open Path website
 published: 2024-01-02
 ---
 
@@ -20,7 +20,7 @@ this time, I experienced first-hand the tension between volunteer Open Source
 work and paid closed source work, so I spent the 2010s on a crowdfunding
 startup I founded called Gittip (later Gratipay). Now here in the 2020s my role
 is Head of Open Source at [Sentry](https://sentry.io/welcome/), an application
-monitoring company with deep roots in the community.
+monitoring company with deep roots in the Open Source community.
 
 In the past I've published on the [Gittip](https://blog.gittip.com/) and
 [Gratipay](https://gratipay.news) blogs, as well as [on
@@ -38,13 +38,13 @@ Thanks for visiting!
 I appeared on the [Sustain Podcast](https://podcast.sustainoss.org/213) to talk
 about [Sentry's 2023 FOSS
 sponsorships](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/).
-I helped found Sustain in 2017 as an in-person conference. Richard Littauer &
-Co. are doing a great job carrying it forward as a podcast. In addition to the
-usual audio, Richard [published this episode on
-YouTube](https://www.youtube.com/watch?v=5b3guhtE8-0). Here's a fun clip of
-Abby Cabunoc Mayes sharing about [the time we first
-met](https://www.youtube.com/watch?v=5b3guhtE8-0#t=29m8s), which she [captured
-on Instagram](https://www.instagram.com/p/BTzv0W4hz0w/). 😄
+I helped found Sustain in 2017 as an in-person conference. [Richard
+Littauer](https://www.burntfen.com/) & Co. are doing a great job carrying it
+forward as a podcast. In addition to the usual audio, Richard [published this
+episode on YouTube](https://www.youtube.com/watch?v=5b3guhtE8-0). Here's a fun
+clip of [Abby Cabunoc Mayes](https://abbycabs.github.io/) sharing about [the
+time we first met](https://www.youtube.com/watch?v=5b3guhtE8-0#t=29m8s), which
+she [captured on Instagram](https://www.instagram.com/p/BTzv0W4hz0w/). 😄
 
 {% include youtube.html video_id='5b3guhtE8-0' start='1748'%}
 
@@ -68,9 +68,9 @@ coverage](https://techcrunch.com/2023/12/26/the-eternal-struggle-between-open-so
 > HashiCorp is far from the first company to make such changes, of course. App
 > performance management (APM) platform Sentry switched from an open source BSD
 > 3-Clause license to BSL in 2019 for reasons similar to those cited by
-> HashiCorp. However, this year Sentry created an entirely new license called
+> HashiCorp. However, this year **Sentry created an entirely new license called
 > the Functional Source License (FSL) designed to “grant freedom without
-> harmful free-riding,” the company said at the time. It’s a little like BSL,
+> harmful free-riding,”** the company said at the time. It’s a little like BSL,
 > but with a few tweaks — for example, FSL-licensed products automatically
 > revert to an open source Apache license after two years, compared to four
 > years with BSL.
