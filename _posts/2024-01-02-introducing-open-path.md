@@ -63,7 +63,7 @@ We launched [a new license called FSL](https://fsl.software/) in November. Paul
 Sawers at TechCrunch [covered
 it](https://techcrunch.com/2023/11/20/with-functional-source-license-sentry-wants-to-grant-developers-freedom-without-harmful-free-riding/)
 at the time, and continues to refer to it in his [ongoing
-coverage](https://techcrunch.com/2023/12/26/the-eternal-struggle-between-open-source-and-proprietary-software/):
+coverage of industry trends](https://techcrunch.com/2023/12/26/the-eternal-struggle-between-open-source-and-proprietary-software/):
 
 > HashiCorp is far from the first company to make such changes, of course. App
 > performance management (APM) platform Sentry switched from an open source BSD
