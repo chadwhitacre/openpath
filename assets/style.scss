@@ -68,13 +68,6 @@ blockquote {
   font-size: 10pt;
 }
 
-img.headshot {
-  float: left;
-  width: 33% !important;
-  margin: 6px 40px 6px 0;
-  border-radius: 3px;
-}
-
 a.read-more {
   display: block;
   margin: 12pt 0 0;
@@ -172,12 +165,20 @@ header {
     color: var(--black);
   }
 
-  .stream {
+  .intro {
     background: var(--black);
     color: var(--white);
 
     a {
       color: var(--white);
+    }
+
+    img.headshot {
+      float: left;
+      width: 33% !important;
+      margin: 6px 40px 6px 0;
+      border-radius: 10px;
+      border: 2px solid var(--white);
     }
   }
 }
@@ -234,7 +235,7 @@ footer {
   ul {
     width: 60%;
     min-width: 192px;
-    columns: 4; /* should match number of icons */
+    columns: 5; /* should match number of icons */
     margin: 0 auto;
 
     li {

@@ -1,3 +1,8 @@
+plugins:
+  - jekyll-feed
+title: Open Path with Chad Whitacre
+description: Conversations about topics that matter to the Open Source community, the tech industry, and society at large
+author: Chad Whitacre
 sass:
   sass_dir: .
 exclude: ["Makefile", "README.md"]

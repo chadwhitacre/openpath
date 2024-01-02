@@ -8,25 +8,31 @@
     <style>
       @import url("/assets/style.css?{{site.time | date: '%s'}}");
     </style>
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="{{ site.title }}"
+      href="/feed.xml"
+    />
 
     <!-- ty opengraph.xyz 🙏 -->
     <title>
       {{ page.title }}{% if page.url != '/' %} ❧ Open Path with Chad Whitacre{%
       endif %}
     </title>
-    <meta name="description" content="{{ page.description }}" />
+    <meta name="description" content="{{ page.excerpt }}" />
 
     <meta property="og:url" content="https://openpath.chadwhitacre.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:description" content="{{ page.excerpt }}" />
     <meta property="og:image" content="{{ page_image }}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="twitter:domain" content="openpath.chadwhitacre.com" />
     <meta property="twitter:url" content="https://openpath.chadwhitacre.com/" />
     <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:description" content="{{ page.excerpt }}" />
     <meta name="twitter:image" content="{{ page_image }}" />
 
     <!-- ty https://emojitofavicon.com/ 🙏 -->
@@ -73,6 +79,11 @@
           <li>
             <a href="https://twitter.com/chadwhitacre_"
               ><img src="/assets/social/x.svg" alt="X"
+            /></a>
+          </li>
+          <li>
+            <a href="/feed.xml"
+              ><img src="/assets/social/rss.svg" alt="RSS"
             /></a>
           </li>
           <li>

@@ -1,43 +1,32 @@
 ---
 layout: default
 title: "Open Path with Chad Whitacre"
-description: "Conversations about Open Source, tech, and society, hosted by Chad Whitacre"
+excerpt: "Conversations about Open Source, tech, and society, hosted by Chad Whitacre"
 ---
 
 <section class="intro">
   <div class="content">
-    {% include headshot.html %}
+    <img
+      src="/assets/chadwhitacre.jpg"
+      alt="headshot of Chad Whitacre"
+      class="headshot"
+    />
 
     <p>
       Greetings! My name is
       <a href="https://chadwhitacre.com/">Chad Whitacre</a>, and I'm Head of
       Open Source at <a href="https://sentry.io/welcome/">Sentry</a>.
     </p>
+
     <p>
-      Open Path is where I contribute to and host important conversations about
-      topics that matter to the Open Source community, the wider tech industry,
-      and society at large.
+      Open Path is a blog about topics that matter to the Open Source community,
+      the wider tech industry, and society at large.
     </p>
 
     <p>Thanks for visiting! 💃</p>
   </div>
 </section>
 
-<section class="stream">
-  <div class="content">
-    <h2>Latest Video</h2>
-    {% include youtube.html video_id='3kAh6N9D6WA' %}
-    <a href="https://www.youtube.com/@ChadWhitacre/streams" class="read-more"
-      >Browse all on YouTube →</a
-    >
-
-    <div class="clear"></div>
-  </div>
-</section>
-
 <section class="blog">
-  <div class="content">
-    <h2>Blog</h2>
-    {% include updates.html n=2 %}
-  </div>
+  <div class="content">{% include posts.html n=2 %}</div>
 </section>

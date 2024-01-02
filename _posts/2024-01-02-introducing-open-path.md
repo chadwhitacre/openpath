@@ -1,13 +1,12 @@
 ---
 title: Introduction &amp; Roundup
-description: Announcement about the Open Path website
+excerpt: Announcement about the Open Path website
 published: 2024-01-02
 ---
 
-Greetings and welcome to my new website, [Open Path](/). The purpose of
-this site is to contribute to and host important conversations about topics
-that matter to the Open Source community, the wider tech industry, and society
-at large.
+Greetings! Welcome to [Open Path](/). The purpose of this new site is to
+contribute to important conversations about topics that matter to the Open
+Source community, the wider tech industry, and society at large.
 
 ## A Little About Me
 
