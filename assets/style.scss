@@ -38,25 +38,34 @@ body {
 
 h1 {
   font: normal 26pt/115% "Yatra One";
-  margin: 0;
 }
 h2 {
   font: normal 20pt/150% "Yatra One";
-  margin: 0 0 9pt;
+  padding: 24pt 0 9pt;
+  &:first-child {
+    padding: 0;
+  }
 }
 h3 {
   font: normal 16pt/150% "Work Sans";
-  margin: 36pt 0 7pt;
+  padding: 36pt 0 7pt;
+  h2 + & {
+    padding-top: 0;
+  }
 }
-p {
-  margin: 0 0 16pt;
-  padding: 0;
+p + p,
+p + div {
+  padding: 16pt 0 0;
+}
+blockquote {
+  border-left: 1px solid var(--black);
+  margin: 16pt 0;
+  padding: 0 0 0 9pt;
 }
 
 .meta {
   color: var(--green);
   font-size: 10pt;
-  margin-bottom: 18pt;
 }
 
 img.headshot {
@@ -80,24 +89,26 @@ strong {
 
 .youtube {
   /* https://www.w3schools.com/howto/howto_css_aspect_ratio.asp */
-  &.aspect-ratio-16-9 {
-    padding-top: 56.25%;
-  }
 
-  width: 100%;
-  position: relative;
+  .outer {
+    width: 100%;
+    position: relative;
 
-  .youtube-inner {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
+    &.aspect-ratio-16-9 {
+      padding-top: 56.25%;
+    }
+    .inner {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
 
-    iframe {
-      width: 100%;
-      height: 100%;
-      border-radius: 3px;
+      iframe {
+        width: 100%;
+        height: 100%;
+        border-radius: 3px;
+      }
     }
   }
 }
@@ -153,7 +164,7 @@ header {
   }
 
   h3 {
-    margin: 18pt 0 6pt;
+    padding: 18pt 0 6pt;
   }
 
   section {
@@ -216,8 +227,7 @@ footer {
   }
 
   p {
-    margin: 0 0 36pt;
-    padding: 0;
+    padding: 0 0 36pt;
     text-align: center;
   }
 
