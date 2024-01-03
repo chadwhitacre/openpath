@@ -66,6 +66,7 @@ blockquote {
 .meta {
   color: var(--green);
   font-size: 10pt;
+  line-height: 125%;
 }
 
 a.read-more {
@@ -265,12 +266,20 @@ footer {
 }
 
 @media (max-width: 640px) {
-  .homepage header .content {
-    h1 {
-      font-size: 7vw;
-    }
-    h2 {
-      font-size: 4vw;
+  .homepage header {
+    background: radial-gradient(
+      farthest-corner at 25% 61.8%,
+      rgba(240, 234, 219, 1),
+      rgba(240, 234, 219, 0) 100%
+    );
+
+    .content {
+      h1 {
+        font-size: 7vw;
+      }
+      h2 {
+        font-size: 3.5vw;
+      }
     }
   }
   .inside-page header .content {

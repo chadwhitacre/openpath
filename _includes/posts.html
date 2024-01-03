@@ -4,8 +4,7 @@
     <a class="title" href="{{ post.url }}">{{ post.title }}</a>
   </h3>
   <div class="meta">
-    <span class="date">{{ post.date | date: "%Y-%m-%d" }} &middot;</span>
-    {{ post.excerpt }}
+    {{ post.date | date: "%Y-%m-%d" }} ❧ {{ post.excerpt }}
   </div>
 </div>
 {% endfor %}

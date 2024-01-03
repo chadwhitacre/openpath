@@ -1,12 +1,12 @@
 ---
-title: Introduction &amp; Roundup
-excerpt: Announcement about the Open Path website
-draft: true
+title: Welcome to Open Path
+excerpt: Open Path is a new blog from Chad Whitacre about Open Source, tech, and society
 ---
 
-Greetings! Welcome to [Open Path](/). The purpose of this blog is to
-contribute to important conversations about topics that matter to the Open
-Source community, the wider tech industry, and society at large.
+Greetings! Welcome to [Open Path](/). The purpose of this blog is to contribute
+to important conversations about topics that matter to the Open Source
+community, the wider tech industry, and society at large. In this intro post
+I'll give you a little background on myself, and a roundup of recent activity.
 
 ## A Little About Me
 
