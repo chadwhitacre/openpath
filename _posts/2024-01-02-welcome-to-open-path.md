@@ -13,14 +13,14 @@ I'll give you a little background on myself, and a roundup of recent activity.
 <img src="/assets/chadwhitacre.jpg" class="float-left"> My name is [Chad
 Whitacre](https://chadwhitacre.com/), and I've been involved in Open Source
 since 2001, soon after Christine Peterson [coined the
-term](https://opensource.com/article/18/2/coining-term-open-source-software) in
-order to make the Free Software movement more marketable. I participated in the
-Python web development boom in the 2000s that gave rise to Django and Flask.
-During this time, I experienced first-hand the tension between volunteer Open
-Source work and paid closed source work, so I spent the 2010s on a crowdfunding
-startup I founded called Gittip (later Gratipay). Now here in the 2020s my role
-is Head of Open Source at [Sentry](https://sentry.io/welcome/), an application
-monitoring company with deep roots in the Open Source community.
+term](https://opensource.com/article/18/2/coining-term-open-source-software). I
+participated in the Python web development boom in the 2000s that gave rise to
+Django and Flask. During this time, I experienced first-hand the tension
+between volunteer Open Source work and paid closed source work, so I spent the
+2010s as founder of a crowdfunding startup called Gittip (later Gratipay). Now,
+here in the 2020s, I am Head of Open Source at
+[Sentry](https://sentry.io/welcome/), an application monitoring company with
+deep roots in the Open Source community.
 
 In the past I've published on the [Gittip](https://blog.gittip.com/) and
 [Gratipay](https://gratipay.news) blogs, as well as [on
