@@ -4,19 +4,19 @@ excerpt: Announcement about the Open Path website
 draft: true
 ---
 
-Greetings! Welcome to [Open Path](/). The purpose of this new site is to
+Greetings! Welcome to [Open Path](/). The purpose of this blog is to
 contribute to important conversations about topics that matter to the Open
 Source community, the wider tech industry, and society at large.
 
 ## A Little About Me
 
 My name is [Chad Whitacre](https://chadwhitacre.com/), and I've been involved
-in Open Source since 2001, a few years after Christine Peterson [coined the
-term](https://opensource.com/article/18/2/coining-term-open-source-software) to
-make the Free Software movement more marketable. I participated in the Python
-web development boom in the 2000s that gave rise to Django and Flask. During
-this time, I experienced first-hand the tension between volunteer Open Source
-work and paid closed source work, so I spent the 2010s on a crowdfunding
+in Open Source since 2001, soon after Christine Peterson [coined the
+term](https://opensource.com/article/18/2/coining-term-open-source-software) in
+order to make the Free Software movement more marketable. I participated in the
+Python web development boom in the 2000s that gave rise to Django and Flask.
+During this time, I experienced first-hand the tension between volunteer Open
+Source work and paid closed source work, so I spent the 2010s on a crowdfunding
 startup I founded called Gittip (later Gratipay). Now here in the 2020s my role
 is Head of Open Source at [Sentry](https://sentry.io/welcome/), an application
 monitoring company with deep roots in the Open Source community.
