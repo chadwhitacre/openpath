@@ -10,8 +10,9 @@ Source community, the wider tech industry, and society at large.
 
 ## A Little About Me
 
-My name is [Chad Whitacre](https://chadwhitacre.com/), and I've been involved
-in Open Source since 2001, soon after Christine Peterson [coined the
+<img src="/assets/chadwhitacre.jpg" class="float-left"> My name is [Chad
+Whitacre](https://chadwhitacre.com/), and I've been involved in Open Source
+since 2001, soon after Christine Peterson [coined the
 term](https://opensource.com/article/18/2/coining-term-open-source-software) in
 order to make the Free Software movement more marketable. I participated in the
 Python web development boom in the 2000s that gave rise to Django and Flask.
