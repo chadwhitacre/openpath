@@ -1,6 +1,6 @@
 ---
 title: Welcome to Open Path
-excerpt: Open Path is a new blog from Chad Whitacre about Open Source, tech, and society
+excerpt: Open Path is a new blog by Chad Whitacre about Open Source, tech, and society
 ---
 
 Greetings! Welcome to [Open Path](/). The purpose of this blog is to contribute
