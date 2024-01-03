@@ -34,7 +34,7 @@ considered principal words and are capitalized.
 
 body {
   font:
-    normal 14pt/150% "Work Sans",
+    normal 14pt/130% "Work Sans",
     sans-serif;
 
   &.homepage {
@@ -56,14 +56,14 @@ h1 {
   font: normal 26pt/115% "Yatra One";
 }
 h2 {
-  font: normal 20pt/150% "Yatra One";
+  font: normal 20pt/130% "Yatra One";
   padding: 24pt 0 9pt;
   &:first-child {
     padding: 0;
   }
 }
 h3 {
-  font: normal 16pt/150% "Work Sans";
+  font: normal 16pt/130% "Work Sans";
   padding: 36pt 0 7pt;
   h2 + & {
     padding-top: 0;
@@ -82,7 +82,7 @@ blockquote {
 .meta {
   color: var(--green);
   font-size: 10pt;
-  line-height: 125%;
+  line-height: 130%;
 }
 
 a.read-more {
