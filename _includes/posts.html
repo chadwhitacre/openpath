@@ -5,7 +5,7 @@ for post in posts limit: include.n %}
     <a class="title" href="{{ post.url }}">{{ post.title }}</a>
   </h3>
   <div class="meta">
-    <span class="date">{{ post.published | date: "%Y-%m-%d" }} &middot;</span>
+    <span class="date">{{ post.date | date: "%Y-%m-%d" }} &middot;</span>
     {{ post.excerpt }}
   </div>
 </div>

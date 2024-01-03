@@ -171,6 +171,16 @@ header {
 
     a {
       color: var(--white);
+      &.sentry {
+        &::before {
+          content: "   ";
+          white-space: pre;
+        }
+        display: inline-block;
+        background: no-repeat url("/assets/sentry.svg");
+        background-size: auto 50%;
+        background-position: left 45%;
+      }
     }
 
     img.headshot {

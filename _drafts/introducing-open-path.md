@@ -1,7 +1,7 @@
 ---
 title: Introduction &amp; Roundup
 excerpt: Announcement about the Open Path website
-published: 2024-01-02
+draft: true
 ---
 
 Greetings! Welcome to [Open Path](/). The purpose of this new site is to

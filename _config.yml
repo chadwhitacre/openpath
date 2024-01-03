@@ -1,8 +1,11 @@
 plugins:
   - jekyll-feed
-title: Open Path with Chad Whitacre
-description: Conversations about topics that matter to the Open Source community, the tech industry, and society at large
+
+# For RSS feed, keep in sync with index.html meta
+title: Open Path by Chad Whitacre
+excerpt: "A Blog About Open Source, Tech, and Society"
 author: Chad Whitacre
+
 sass:
   sass_dir: .
 exclude: ["Makefile", "README.md"]
