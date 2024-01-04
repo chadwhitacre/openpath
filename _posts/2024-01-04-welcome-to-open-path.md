@@ -113,7 +113,6 @@ Open Source is not an end in itself. To get from Open Source to Love and back,
 we have a lot of ground to cover:
 
 - will
-- ends
 - trust
 - unity
 - voices
