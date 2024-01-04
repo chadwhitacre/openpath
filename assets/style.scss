@@ -142,6 +142,30 @@ ol {
   }
 }
 
+.ml-embedded {
+  padding: 16pt 0;
+}
+.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
+  padding: 0 !important;
+  .ml-form-successContent {
+    margin: 24pt auto !important;
+    text-align: center !important;
+    h4 {
+      display: inline !important;
+      margin: 0 !important;
+      text-align: center !important;
+      color: var(--white) !important;
+      font: normal 14pt/150% "Work Sans" !important;
+    }
+    h4::after {
+      content: " Check your inbox to confirm.";
+    }
+    p {
+      display: none;
+    }
+  }
+}
+
 .clear {
   clear: both;
 }
@@ -269,7 +293,6 @@ footer {
   }
 
   p {
-    padding: 0 0 36pt;
     text-align: center;
   }
 
@@ -278,6 +301,7 @@ footer {
     min-width: 192px;
     columns: 4; /* should match number of icons */
     margin: 0 auto;
+    padding: 0;
 
     li {
       display: block;
