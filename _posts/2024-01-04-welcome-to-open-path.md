@@ -33,9 +33,9 @@ establishing a platform for myself to explore themes in Open Source and beyond.
 ## Why? So I Won't Get Fined
 
 To be honest, I'm irrationally terrified to start blogging again. A
-psychologist evaluated me in 2018 (routine, kidney donation). He diagnosed me
-with PTSD from all of the online conflict related to the end of Gittip
-(Gratipay). 2015–2017 did, in fact, suck.
+psychologist evaluated me in 2018 (a routine part of kidney donation). He
+diagnosed me with PTSD from all of the online conflict related to the end of
+Gittip (Gratipay). 2015–2017 did, in fact, suck.
 
 In one sense, then, [I'm here so I won't get
 fined](https://www.youtube.com/watch?v=rmABbHSOTqQ). I work for Sentry. My job
@@ -50,7 +50,7 @@ have theirs:
   Vinegar](https://benv.ca/)—[employee
   2](https://blog.sentry.io/welcome-ben-vinegar/), my former boss
 
-They have their platforms. This is mine.
+Those are theirs. This is mine.
 
 Now, I'm a mission-driven guy. I naturally tend to want to relate my work in
 the world back to crisp fundamentals. Sentry's mission is **to enable
@@ -89,10 +89,16 @@ Source supply chain in order to be stable products." Meh, maybe. I think this
 only really gets interesting when we start talking about the state of the Open
 Source ecosystem as a whole, beyond just our own products.
 
-Broadly understood, enabling developers to ship with confidence includes
-solving the Open Source sustainability crisis. This is way bigger than Sentry,
-and that's where thought leadership enters my job description. Hence, this
-blog.
+Broadly understood, Sentry's mission includes solving the Open Source
+sustainability crisis. We want to enable developers to ship with confidence:
+
+- for developers in general, confidence in the security and overall quality of
+  their Open Source dependencies; and
+- for noncommercial Open Source developers, confidence that we've collectively,
+  financially got their back.
+
+Both are way bigger than Sentry, and that's where thought leadership enters my
+job description. Hence, this blog.
 
 ## Really Why? The Lens of Love
 
@@ -104,7 +110,7 @@ I wrote about this when Gratipay was dying its slow death.
 [**Love**](https://opensource.com/open-organization/16/9/openness-means-to-what-end)
 is the word. That's the lens I come back to, trite and loaded as it may be.
 Open Source is not an end in itself. To get from Open Source to Love and back,
-there is a lot to talk about:
+we have a lot of ground to cover:
 
 - will
 - ends
@@ -125,11 +131,11 @@ there is a lot to talk about:
 - resistance
 - generosity
 - economics
-- companies
 - community
 - submission
 - resentment
 - productivity
+- corporations
 - post-scarcity
 - sustainability
 - confrontation
@@ -147,8 +153,8 @@ sure how I'll be able to avoid going down rabbit holes such as these. 🐰🕳�
 I do think Open Source is one of the most interesting things going right now,
 precisely because it does touch on so many fundamental questions about what it
 means to be human in the world. I'm terrified at the prospect of engaging these
-questions publicly—vertiginous as this path seems to be starting out along the
-edge of a cliff (to press the metaphor).
+questions publicly—to press the metaphor, this path seems to be starting out along the
+edge of a cliff!
 
 Hopefully [Open Path](https://openpath.chadwhitacre.com/) leads to a good
 place. Hopefully I won't get fined.
