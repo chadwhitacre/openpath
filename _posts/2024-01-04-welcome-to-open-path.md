@@ -120,6 +120,7 @@ we have a lot of ground to cover:
 - service
 - conflict
 - scarcity
+- fairness
 - legalism
 - activism
 - freedom
