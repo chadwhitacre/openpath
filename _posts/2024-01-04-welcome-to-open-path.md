@@ -132,6 +132,7 @@ we have a lot of ground to cover:
 - obedience
 - resistance
 - generosity
+- journalism
 - economics
 - consumers
 - community
