@@ -6,7 +6,8 @@ excerpt: Open Path is a new blog by Chad Whitacre about Open Source, tech, and s
 Greetings! Welcome to [Open Path](/). The purpose of this blog is to contribute
 to important conversations about topics that matter to the Open Source
 community, the wider tech industry, and society at large. In this intro post
-I'll give you a little background on myself, and a roundup of recent activity.
+I'll give you a little background on myself, and sketch the big picture for the
+direction of this blog.
 
 ## A Little About Me
 
@@ -26,60 +27,130 @@ In the past I've published on the [Gittip](https://blog.gittip.com/) and
 [Gratipay](https://gratipay.news) blogs, as well as [on
 OpenSource.com](https://opensource.com/users/whit537). In my current role I
 publish [on Sentry's blog](https://blog.sentry.io/authors/chad-whitacre/), but
-there is more I want to say than makes sense to post there. With Open Path
-I am excited to have a place to explore themes in Open Source and beyond.
+there is more I need to say than makes sense to post there. With Open Path I am
+establishing a platform for myself to explore themes in Open Source and beyond.
 
-Thanks for visiting!
+## Why? So I Won't Get Fined
 
-## Roundup of Recent Activity
+To be honest, I'm irrationally terrified to start blogging again. A
+psychologist evaluated me in 2018 (routine, kidney donation). He diagnosed me
+with PTSD from all of the online conflict related to the end of Gittip
+(Gratipay). 2015–2017 did, in fact, suck.
 
-### Sustain Podcast
+In one sense, then, [I'm here so I won't get
+fined](https://www.youtube.com/watch?v=rmABbHSOTqQ). I work for Sentry. My job
+requires me to be a "thought leader," so I need a platform. Others at Sentry
+have theirs:
 
-I appeared on the [Sustain Podcast](https://podcast.sustainoss.org/213) to talk
-about [Sentry's 2023 FOSS
-sponsorships](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/).
-I helped found Sustain in 2017 as an in-person conference. [Richard
-Littauer](https://www.burntfen.com/) & Co. are doing a great job carrying it
-forward as a podcast. In addition to the usual audio, Richard [published this
-episode on YouTube](https://www.youtube.com/watch?v=5b3guhtE8-0). Here's a fun
-clip of [Abby Cabunoc Mayes](https://abbycabs.github.io/) sharing about [the
-time we first met](https://www.youtube.com/watch?v=5b3guhtE8-0#t=29m8s), which
-she [captured on Instagram](https://www.instagram.com/p/BTzv0W4hz0w/). 😄
+- [David Cramer](https://cra.mr/)—[technical
+  co-founder](https://github.com/getsentry/sentry/commit/3c2e87573d3bd16f61cf08fece0638cc47a4fc22), my boss
+- [Armin Ronacher](https://lucumr.pocoo.org/)—[employee
+  1](https://blog.sentry.io/welcome-armin-ronacher/), principle architect
+- [Ben
+  Vinegar](https://benv.ca/)—[employee
+  2](https://blog.sentry.io/welcome-ben-vinegar/), my former boss
 
-{% include youtube.html video_id='5b3guhtE8-0' start='1748'%}
+They have their platforms. This is mine.
 
-### Hacking Open Source Business
+Now, I'm a mission-driven guy. I naturally tend to want to relate my work in
+the world back to crisp fundamentals. Sentry's mission is **to enable
+developers to ship with confidence**, so that guides my work in Open Source at
+Sentry.
 
-I recorded an episode with Avi Press and Matt Yonkovit for [The Hacking Open
-Source Business Podcast](https://www.youtube.com/@opensourcebusiness), which is
-from their company, [Scarf](https://about.scarf.sh/). I'm looking forward to
-this being published, because we uncover a number of important questions that I
-want to explore further, including the meaning of the term, "an Open Source
-company."
+Our Open Source Program Office (OSPO) has four programs:
 
-### TechCrunch Coverage
+1. _Self-hosted._ Our business model is SaaS, but we want all developers to be
+   able to use Sentry and Codecov. My team is responsible for our self-hosted
+   offerings, which are suitable out-of-the-box for small-volume and
+   proof-of-concept deployments, and can serve as blueprints for more robust
+   setups.
 
-We launched [a new license called FSL](https://fsl.software/) in November. Paul
-Sawers at TechCrunch [covered
-it](https://techcrunch.com/2023/11/20/with-functional-source-license-sentry-wants-to-grant-developers-freedom-without-harmful-free-riding/)
-at the time, and continues to refer to it in his [ongoing
-coverage of industry trends](https://techcrunch.com/2023/12/26/the-eternal-struggle-between-open-source-and-proprietary-software/):
+1. _Community engagement._ Open Source is the de facto development model for
+   developers society-wide. Practically speaking, my team maintains GitHub
+   automations to help us stay on top of inbound issues.
 
-> HashiCorp is far from the first company to make such changes, of course. App
-> performance management (APM) platform Sentry switched from an open source BSD
-> 3-Clause license to BSL in 2019 for reasons similar to those cited by
-> HashiCorp. However, this year **Sentry created an entirely new license called
-> the Functional Source License (FSL) designed to “grant freedom without
-> harmful free-riding,”** the company said at the time. It’s a little like BSL,
-> but with a few tweaks — for example, FSL-licensed products automatically
-> revert to an open source Apache license after two years, compared to four
-> years with BSL.
->
-> Again, this highlighted the perennial struggle from companies looking to
-> embrace the open source ethos, without compromising their commercial
-> interests.
+1. _Licensing and compliance._ We work closely with Legal to ensure compliance
+   with the terms of the licenses of the components we use, and to properly
+   license the software we ourselves produce.
 
-Indeed, the [creative tension between user freedom and developer
-sustainability](https://blog.sentry.io/sentrys-open-source-values/) is a major
-theme we're exploring and working to address at Sentry, and so will be a major
-theme here on Open Path as well.
+1. _Funding._ We give lots of money to Open Source projects. It's fun.
+
+I see (1) as directly related to our mission. My team "enables developers" by
+making Sentry and Codecov available to use in a way it wouldn't be otherwise. I
+see (2) as one degree removed. When developers have trouble using our products,
+we want to hear about it, so we can help them out and potentially improve the
+products.
+
+I see (3) and (4) as further removed from Sentry's mission, narrowly
+understood. Our licensing and funding activities do not directly help Sentry
+and Codecov users ship their own software with confidence. On the one hand, if
+you squint, you could be like, "Well, Sentry and Codecov need a strong Open
+Source supply chain in order to be stable products." Meh, maybe. I think this
+only really gets interesting when we start talking about the state of the Open
+Source ecosystem as a whole, beyond just our own products.
+
+Broadly understood, enabling developers to ship with confidence includes
+solving the Open Source sustainability crisis. This is way bigger than Sentry,
+and that's where thought leadership enters my job description. Hence, this
+blog.
+
+## Really Why? The Lens of Love
+
+Sentry's mission is to enable developers to ship with confidence, but this is
+my platform, not Sentry's. These are my opinions, not those of my employer.
+What is my mission? What are the fundamentals I care about?
+
+I wrote about this when Gratipay was dying its slow death.
+[**Love**](https://opensource.com/open-organization/16/9/openness-means-to-what-end)
+is the word. That's the lens I come back to, trite and loaded as it may be.
+Open Source is not an end in itself. To get from Open Source to Love and back,
+there is a lot to talk about:
+
+- will
+- ends
+- trust
+- unity
+- service
+- conflict
+- scarcity
+- legalism
+- activism
+- freedom
+- diversity
+- gratitude
+- authority
+- hierarchy
+- humanity
+- obedience
+- resistance
+- generosity
+- economics
+- companies
+- community
+- submission
+- resentment
+- productivity
+- post-scarcity
+- sustainability
+- confrontation
+- future of work
+- platform decay
+- open companies
+- exit to community
+- individual and group
+- governing the commons
+
+Like I say, I naturally tend to want to relate my work in the world back to
+fundamentals. If I'm going to blog in my own voice on my own platform, I'm not
+sure how I'll be able to avoid going down rabbit holes such as these. 🐰🕳️
+
+I do think Open Source is one of the most interesting things going right now,
+precisely because it does touch on so many fundamental questions about what it
+means to be human in the world. I'm terrified at the prospect of engaging these
+questions publicly—vertiginous as this path seems to be starting out along the
+edge of a cliff (to press the metaphor).
+
+Hopefully [Open Path](https://openpath.chadwhitacre.com/) leads to a good
+place. Hopefully I won't get fined.
+
+Thanks for visiting! 💃

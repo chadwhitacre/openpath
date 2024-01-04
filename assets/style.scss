@@ -70,6 +70,8 @@ h3 {
     padding-top: 0;
   }
 }
+ol + p,
+ul + p,
 p + p,
 p + div {
   padding: 16pt 0 0;
@@ -104,6 +106,14 @@ img.float-left {
   margin: 6px 40px 6px 0;
   border-radius: 10px;
   border: 2px solid var(--green);
+}
+
+ul,
+ol {
+  padding: 8pt 0 0 16pt;
+  li {
+    padding: 8pt 0 0;
+  }
 }
 
 .youtube {
