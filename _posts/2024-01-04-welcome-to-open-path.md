@@ -90,7 +90,8 @@ interesting when we start talking about the state of the Open Source ecosystem
 as a whole, beyond just our own products.
 
 Broadly understood, Sentry's mission includes solving the Open Source
-sustainability crisis. We enable developers to ship with confidence:
+sustainability crisis. We want to enable developers to ship with confidence,
+meaning:
 
 - for developers in general, confidence in the security and overall quality of
   their Open Source dependencies; and
