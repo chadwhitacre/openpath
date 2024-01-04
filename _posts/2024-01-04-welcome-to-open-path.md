@@ -83,14 +83,14 @@ products.
 
 I see (3) and (4) as further removed from Sentry's mission, narrowly
 understood. Our licensing and funding activities do not directly help Sentry
-and Codecov users ship their own software with confidence. On the one hand, if
-you squint, you could be like, "Well, Sentry and Codecov need a strong Open
-Source supply chain in order to be stable products." Meh, maybe. I think this
-only really gets interesting when we start talking about the state of the Open
-Source ecosystem as a whole, beyond just our own products.
+and Codecov users ship their own software with confidence. If you squint, you
+could be like, "Well, Sentry and Codecov need a strong Open Source supply chain
+in order to be stable products." Meh, maybe. I think this only really gets
+interesting when we start talking about the state of the Open Source ecosystem
+as a whole, beyond just our own products.
 
 Broadly understood, Sentry's mission includes solving the Open Source
-sustainability crisis. We want to enable developers to ship with confidence:
+sustainability crisis. We enable developers to ship with confidence:
 
 - for developers in general, confidence in the security and overall quality of
   their Open Source dependencies; and
