@@ -39,7 +39,7 @@ Gittip (Gratipay). 2015–2017 did, in fact, suck.
 
 In one sense, then, [I'm here so I won't get
 fined](https://www.youtube.com/watch?v=rmABbHSOTqQ). I work for Sentry. My job
-requires me to be a "thought leader," so I need a platform. Others at Sentry
+requires me to be a "thought leader." I need a platform. Others at Sentry
 have theirs:
 
 - [David Cramer](https://cra.mr/)—[technical
@@ -76,7 +76,7 @@ Our Open Source Program Office (OSPO) has four programs:
 1. _Funding._ We give lots of money to Open Source projects. It's fun.
 
 I see (1) as directly related to our mission. My team "enables developers" by
-making Sentry and Codecov available to use in a way it wouldn't be otherwise. I
+making Sentry and Codecov available to use in a way they wouldn't be otherwise. I
 see (2) as one degree removed. When developers have trouble using our products,
 we want to hear about it, so we can help them out and potentially improve the
 products.
@@ -116,6 +116,7 @@ we have a lot of ground to cover:
 - ends
 - trust
 - unity
+- voices
 - service
 - conflict
 - scarcity
@@ -127,10 +128,12 @@ we have a lot of ground to cover:
 - authority
 - hierarchy
 - humanity
+- producers
 - obedience
 - resistance
 - generosity
 - economics
+- consumers
 - community
 - submission
 - resentment
