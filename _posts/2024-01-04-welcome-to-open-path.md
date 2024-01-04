@@ -76,7 +76,7 @@ Our Open Source Program Office (OSPO) has four programs:
 1. _Funding._ We give lots of money to Open Source projects. It's fun.
 
 I see (1) as directly related to our mission. My team "enables developers" by
-making Sentry and Codecov available to use in a way they wouldn't be otherwise. I
+making Sentry and Codecov available to use in a way they couldn't otherwise. I
 see (2) as one degree removed. When developers have trouble using our products,
 we want to hear about it, so we can help them out and potentially improve the
 products.
