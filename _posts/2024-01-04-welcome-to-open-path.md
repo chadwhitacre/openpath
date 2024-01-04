@@ -139,6 +139,7 @@ we have a lot of ground to cover:
 - submission
 - resentment
 - productivity
+- employment
 - corporations
 - post-scarcity
 - sustainability
