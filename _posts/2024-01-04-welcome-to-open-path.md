@@ -37,7 +37,7 @@ psychologist evaluated me in 2018 (a routine part of kidney donation). He
 diagnosed me with PTSD from all of the online conflict related to the end of
 Gittip (Gratipay). 2015–2017 did, in fact, suck.
 
-In one sense, then, [I'm here so I won't get
+In one sense, then, [I'm just here so I won't get
 fined](https://www.youtube.com/watch?v=rmABbHSOTqQ). I work for Sentry, and my job
 requires me to be a "thought leader," so I need a platform. Others at Sentry
 have theirs:
