@@ -281,6 +281,16 @@ header {
     a {
       color: var(--black);
     }
+    img {
+      &.landscape {
+        width: 100%;
+      }
+      &.portrait {
+        width: 60%;
+      }
+      margin: 8pt auto;
+      display: block;
+    }
   }
 }
 

@@ -1,0 +1,5 @@
+<!-- prettier-ignore -->
+<a class="img" href="{% if include.url != nil %}{{ include.url }}{% else %}{{ include.src }}{% endif %}">
+  <img class="{% if include.orientation != nil %}{{ include.orientation }}{% else %}landscape{% endif %}" src="{{ include.src }}">
+</a>
+<!-- otherwise its output confuses the markdown renderer -->
