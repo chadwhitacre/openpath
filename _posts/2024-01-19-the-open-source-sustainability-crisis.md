@@ -78,13 +78,13 @@ our creative use of [well-trodden
 paths](https://twitter.com/eigenjoy/status/862412458517962752) is Open Source
 _subsidization_, not _sustainability_.
 
-{% include img.html src="./new-role.jpg" url="https://twitter.com/eigenjoy/status/862412458517962752" %}
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">If you&#39;re interested in monetizing your open-source project, I made this handy chart for you: <a href="https://t.co/2yAjCRt78T">pic.twitter.com/2yAjCRt78T</a></p>&mdash; Nate (@eigenjoy) <a href="https://twitter.com/eigenjoy/status/862412458517962752?ref_src=twsrc%5Etfw">May 10, 2017</a></blockquote>
 
-As I define it, Open Source sustainability means no hoops. Self-determined
-individuals freely produce Open Source software, and get paid in proportion to
-their productivity without having to also become tech influencers, or sell
-contracts, or any other shenanigans. Those can who want to. I envision a world
-where we don't have to.
+As I define it, Open Source sustainability means no hoops, no "New Role" in
+Nate's chart. Self-determined individuals freely produce Open Source software,
+and get paid in proportion to their productivity without having to also become
+tech influencers, or sell contracts, or any other shenanigans. Those can who
+want to. I envision a world where we don't have to.
 
 ## What is the Sustainability Crisis?
 
