@@ -9,9 +9,9 @@ Let's get [the XKCD reference](https://xkcd.com/2347/) out of the way, shall we?
 
 Okay, now let's talk about the Open Source sustainability crisis. The purpose
 of this post is to define terms. What is Open Source sustainability? Why do I
-say it is in crisis? My answers are that sustainability is when people can get
-paid _without jumping through hoops_, and it's a crisis because people are
-burning out.
+say it is in crisis? My answers are that sustainability is when people are
+getting paid _without jumping through hoops_, and we're in a crisis because
+people aren't _and they're burning out_.
 
 ## What is Open Source Sustainability?
 
@@ -102,7 +102,7 @@ Just as the security crisis is adjacent to the sustainability crisis, so is the
 [Open Source
 diversity](https://en.wikipedia.org/wiki/Diversity_in_open-source_software)
 crisis: Open Source is markedly less demographically diverse than software
-engineering in general. This inequality of outcome is caused by inequality of
+engineering in general. We have not just inequality of outcome but inequality of
 opportunity.
 [35%](https://www.statista.com/statistics/617136/digital-population-worldwide/)
 of people don't even have Internet access yet, let alone free time to hack on
