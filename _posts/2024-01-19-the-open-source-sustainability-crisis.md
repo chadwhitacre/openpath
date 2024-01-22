@@ -73,8 +73,9 @@ Today we are at zero.
 Hoops are boring. We've had scarcity-based economic relations for millenia.
 Open Source is designed for a different world. It presents the first real
 opportunity in our society to begin to develop a post-scarcity economic model
-at scale. That likely wants unpacking in a future post. For now, I assert that
-our creative use of [well-trodden
+at scale. That likely wants unpacking in [a future
+post](https://github.com/chadwhitacre/openpath/issues/15). For now, I assert
+that our creative use of [well-trodden
 paths](https://twitter.com/eigenjoy/status/862412458517962752) is Open Source
 _subsidization_, not _sustainability_.
 
@@ -154,7 +155,6 @@ led to Frontend Masters. My story is not all doom and gloom like it is
 portrayed in the article. But it def wasn't a given I'd be able to capitalize
 on the networking opportunities that OSS gave me."]_
 
-
 ## The Path Lies Through Platforms
 
 Funding platforms are critical to achieving Open Source sustainability. Maybe
@@ -186,5 +186,5 @@ Collective](ttps://www.opencollective.org/), and
 
 What's hard is opening the corporate floodgates. Companies receive outsized
 value from Open Source, and companies control nearly all the funds. How do we
-open the floodgates? _tl;dr_ Taxes and social pressure. More on that in a
-future post.
+open the floodgates? _tl;dr_ Taxes and social pressure. More on that in [a
+future post](https://github.com/chadwhitacre/openpath/issues/14).
