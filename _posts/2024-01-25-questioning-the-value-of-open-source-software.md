@@ -14,7 +14,7 @@ Foundation sponsored the research, which builds on the [Census
 II](https://www.linuxfoundation.org/research/census-ii-of-free-and-open-source-software-application-libraries)
 project.
 
-{% include img.html src="./paper.webp" url="https://octoverse.github.com/2022/top-programming-languages" iorientation="portrait" %}
+{% include img.html src="./paper.webp" url="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148" orientation="portrait" %}
 
 Here is [Frank's
 tl;dr](https://www.linkedin.com/feed/update/urn:li:activity:7153860222812372993/):
