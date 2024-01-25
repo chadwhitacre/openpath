@@ -278,6 +278,25 @@ header {
   article {
     background: var(--white);
     color: var(--black);
+    .tldr {
+      display: block;
+      position: relative;
+      span {
+        color: var(--yellow);
+        text-transform: uppercase;
+        font-size: 8pt;
+        line-height: 8pt;
+        display: block;
+        position: absolute;
+        top: 18pt;
+        left: 11pt;
+      }
+      color: var(--white);
+      background: var(--green);
+      margin: 12pt 0 0;
+      padding: 12pt 12pt 12pt 42pt;
+      border-radius: 10px;
+    }
     a {
       color: var(--black);
     }

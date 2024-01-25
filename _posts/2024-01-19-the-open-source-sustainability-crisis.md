@@ -1,6 +1,6 @@
 ---
 title: The Open Source Sustainability Crisis
-excerpt: What is Open Source sustainability? Why is it in crisis?
+excerpt: What is Open Source sustainability? Fair pay, no hoops. Why is it in crisis? Burnout.
 ---
 
 Let's get [the XKCD reference](https://xkcd.com/2347/) out of the way, shall we?
