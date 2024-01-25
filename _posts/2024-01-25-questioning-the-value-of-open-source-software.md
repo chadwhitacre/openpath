@@ -159,7 +159,7 @@ which I've since used to
 my
 [attempts](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
 to tackle [the Open Source sustainability
-crisis](http://localhost:4000/2024/the-open-source-sustainability-crisis/).
+crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/).
 Estimates like this are always a messy business, involving lots of assumptions
 and hand-waving. Still, they are vital to understanding the nature and scope of
 the crisis. We need good work in this area.
