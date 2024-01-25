@@ -65,8 +65,8 @@ flow](https://en.wikipedia.org/wiki/Stock_and_flow) variables). I learned about
 [GHTorrent](https://gousios.org/bibliography/G13.html) and
 [BuiltWith](https://builtwith.com/). The appendix on the goods market analysis
 of the value of Open Source seems helpful. The data on the number of
-programmers responsible for producing the bulk of OSS (p. 20) is intriguing.
-I'm going to have to revisit my assumption in [my previous
+programmers responsible for producing the bulk of OSS (p. 20) is quite
+intriguing. I'm going to have to revisit my assumption in [my previous
 post](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 that "[t]he sustainable Open Source community taken as a whole will be roughly
 the same size" as a big tech company, i.e., 10,000 to 100,000 engineers. It
