@@ -63,14 +63,14 @@ which seems pretty well-established (though I'm sure it is messy under the
 hood). I learned some basic economics language ([stock and
 flow](https://en.wikipedia.org/wiki/Stock_and_flow) variables). I learned about
 [GHTorrent](https://gousios.org/bibliography/G13.html) and
-[BuiltWith](https://builtwith.com/). The goods market analysis of the value of
-Open Source seems helpful. The data on the number of programmers responsible
-for producing the bulk of OSS (p. 20) is intriguing. I'm going to have
-to revisit my assumption in [my previous
-post](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/) that
-"[t]he sustainable Open Source community taken as a whole will be roughly the
-same size" as a big tech company, i.e., 10,000 to 100,000 engineers. It seems
-likely to be off by an order of magnitude. I aim to do that in [a future
+[BuiltWith](https://builtwith.com/). The appendix on the goods market analysis
+of the value of Open Source seems helpful. The data on the number of
+programmers responsible for producing the bulk of OSS (p. 20) is intriguing.
+I'm going to have to revisit my assumption in [my previous
+post](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
+that "[t]he sustainable Open Source community taken as a whole will be roughly
+the same size" as a big tech company, i.e., 10,000 to 100,000 engineers. It
+seems likely to be off by an order of magnitude. I aim to do that in [a future
 post](https://github.com/chadwhitacre/openpath/issues/20).
 
 That said, **I do not accept headline result 1 ("companies would spend 3.5 times
