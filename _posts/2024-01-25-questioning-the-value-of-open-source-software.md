@@ -78,11 +78,11 @@ more")**, because I think result 3 ("it would cost $8.8 trillion") is irrelevant
 
 ## A Critical Flaw?
 
-Step 2 in the argument seems critically flawed to me, which is to say that
-result 3 seems misleading, and result 1 seems false. The options for acquiring
-software are buy, borrow, or build. Borrow means OSS. If we take that off the
-table, companies still have two options: buy or build. The build option is what
-the 8.8 T estimates. The working paper calls this the "labor market valuation
+Step 2 in the argument seems critically flawed to me. If so, result 3 is
+misleading, and result 1 is false. The options for acquiring software are buy,
+borrow, or build. Borrow means OSS. If we take that off the table, companies
+still have two options: buy or build. The build option is what the $8.8
+trillion estimates. The working paper calls this the "labor market valuation
 approach."
 
 > The thought experiment is that we live in a world where OSS does not exist
@@ -101,16 +101,16 @@ step in to fill the gap. The authors do explore this option. They call it the
 
 This seems to me a much more fruitful comparison than the labor market
 approach, because it is much closer to what we would expect to actually happen
-if OSS did suddenly cease to exist.
+in an alternate timeline without OSS.
 
 Compared to the result of the labor market approach, $8.8 trillion, the result
 of the goods market approach is **four orders of magnitude lower, at $177
-million** (p. 37). If I'm reading it right, using this for step 2 (result 3),
-the argument fails, and result 1 essentially disappears: 3.4 + 0.000177 =
-$3.400177 trillion. If so, **companies would spend 1.00005 times more** on
-software than they currently do, if OSS didn't exist.
+million** (p. 37). If I'm reading it right, using this for step 2 (result 3)
+weakens the argument to the point of failure, and result 1 essentially
+disappears: 3.4 + 0.000177 = $3.400177 trillion. If so, **companies would spend
+1.00005 times more** on software than they currently do, if OSS didn't exist.
 
-The working paper includes the good markets approach in an appendix, and does
+The working paper includes the goods market approach in an appendix, and does
 not report the result in its abstract. I propose either making a better case
 for using the labor market approach, or revising the working paper to make the
 goods market approach primary (either drop the labor market approach or move it
@@ -158,7 +158,7 @@ which I've since used to
 [inform](https://gratipay.news/your-company-should-probably-pay-2000-per-person-for-open-source-9205443e209d)
 my
 [attempts](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
-to tackle [the Open Source sustainability
+to [tackle](https://fossfunders.com/) the [Open Source sustainability
 crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/).
 Estimates like this are always a messy business, involving lots of assumptions
 and hand-waving. Still, they are vital to understanding the nature and scope of
@@ -168,5 +168,6 @@ I do not accept the primary result of the "[Value of Open Source
 Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)" working
 paper, that companies would spend 3.5 times more on software if OSS didn't
 exist. Based on my reading, companies would spend almost nothing more if OSS
-didn't exist. I look forward to wrestling with the implications of this in [a
-future post](https://github.com/chadwhitacre/openpath/issues/20).
+didn't exist. This challenges my own estimates as well. I look forward to
+wrestling with the implications in [a future
+post](https://github.com/chadwhitacre/openpath/issues/20).
