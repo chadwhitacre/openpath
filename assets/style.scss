@@ -216,8 +216,15 @@ header {
     }
   }
 
-  h3 {
-    padding: 18pt 0 6pt;
+  .update {
+    h3 {
+      padding: 18pt 0 6pt;
+    }
+    &:first-of-type {
+      h3 {
+        padding-top: 0;
+      }
+    }
   }
 
   section {
