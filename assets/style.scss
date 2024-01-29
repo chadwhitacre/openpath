@@ -103,7 +103,7 @@ strong {
 img.float-left {
   float: left;
   width: 33% !important;
-  margin: 6px 40px 6px 0;
+  margin: 6px 40px 6px 0 !important;
   border-radius: 10px;
   border: 2px solid var(--green);
 }
