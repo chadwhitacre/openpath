@@ -73,6 +73,7 @@ h3 {
 ol + p,
 ul + p,
 p + p,
+div + p,
 p + div {
   padding: 16pt 0 0;
 }
@@ -285,11 +286,11 @@ header {
   article {
     background: var(--white);
     color: var(--black);
-    .tldr {
+    .tldr,
+    .update {
       display: block;
       position: relative;
       span {
-        color: var(--yellow);
         text-transform: uppercase;
         font-size: 8pt;
         line-height: 8pt;
@@ -298,11 +299,26 @@ header {
         top: 18pt;
         left: 11pt;
       }
-      color: var(--white);
-      background: var(--green);
       margin: 12pt 0 0;
-      padding: 12pt 12pt 12pt 42pt;
+      padding: 12pt 12pt 12pt 50pt;
       border-radius: 10px;
+
+      &.tldr {
+        background: var(--green);
+      }
+      &.update {
+        background: var(--black);
+      }
+      color: var(--white);
+      span {
+        color: var(--yellow);
+      }
+      a {
+        color: var(--white);
+      }
+      blockquote {
+        border-left-color: var(--white);
+      }
     }
     a {
       color: var(--black);

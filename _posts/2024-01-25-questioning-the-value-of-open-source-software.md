@@ -3,6 +3,11 @@ title: Questioning “The Value of Open Source Software”
 excerpt: The new HBS working paper seems fundamentally flawed to me, though it has some helpful parts.
 ---
 
+<div class="update"><span>update</span> I posted some <a
+href="https://discourse.sustainoss.org/t/sustain-together-summary-january-26th/1465/5">further
+thoughts on the Sustain forum</a>, including an email I sent to the
+authors.</div>
+
 Harvard Business School (HBS) recently published a working paper titled, "[The
 Value of Open Source
 Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148),"

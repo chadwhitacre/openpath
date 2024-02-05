@@ -4,10 +4,10 @@ layout: default
 
 <div class="content">
   <h2>{{ page.title }}</h2>
-  <p class="meta">
+  <div class="meta">
     By <a href="https://chadwhitacre.com/">Chad Whitacre</a> ❧ Published on {{
     page.date | date: '%B %e, %Y' }}
-  </p>
-  <p class="tldr"><span>tl;dr</span> {{ page.excerpt }}</p>
+  </div>
+  <div class="tldr"><span>tl;dr</span> {{ page.excerpt }}</div>
   {{ content }}
 </div>

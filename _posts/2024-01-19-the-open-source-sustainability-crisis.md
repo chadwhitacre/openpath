@@ -149,11 +149,14 @@ There was no viral moment when we collectively realized that we were taking
 advantage of Marc. We quietly crushed him without ever noticing. [There are
 many such cases](https://blog.tidelift.com/maintainer-burnout-is-real).
 
-_[[Update from Marc](https://twitter.com/1Marc/status/1748422612114362706):
-"The thing I'd add to that, is I was able to create a network that eventually
-led to Frontend Masters. My story is not all doom and gloom like it is
-portrayed in the article. But it def wasn't a given I'd be able to capitalize
-on the networking opportunities that OSS gave me."]_
+<div class="update">
+  <span>Update</span>
+  <a href="https://twitter.com/1Marc/status/1748422612114362706">From Marc</a>:
+  <blockquote>The thing I'd add to that, is I was able to create a network
+  that eventually led to Frontend Masters. My story is not all doom and gloom
+  like it is portrayed in the article. But it def wasn't a given I'd be able to
+  capitalize on the networking opportunities that OSS gave me."</blockquote>
+</div>
 
 ## The Path Lies Through Platforms
 
