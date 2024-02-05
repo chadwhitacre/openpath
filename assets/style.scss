@@ -323,15 +323,27 @@ header {
     a {
       color: var(--black);
     }
-    img {
-      &.landscape {
-        width: 100%;
+    .img {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
       }
-      &.portrait {
-        width: 60%;
+      img {
+        &.landscape {
+          width: 100%;
+        }
+        &.portrait {
+          width: 60%;
+        }
+        margin: 8pt auto;
+        display: block;
       }
-      margin: 8pt auto;
-      display: block;
+      .caption {
+        color: var(--green);
+        font-size: 10pt;
+        line-height: 130%;
+        text-align: right;
+      }
     }
   }
 }
