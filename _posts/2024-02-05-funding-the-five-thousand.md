@@ -68,10 +68,11 @@ We already have hundreds of millions of dollars flowing into Open Source. The
 Linux Foundation alone had projected revenue for 2022 of $243.57M (that's in
 their [most recent annual
 report](https://project.linuxfoundation.org/hubfs/LF%20Research/2022%20Linux%20Foundation%20Annual%20Report.pdf?hsLang=en),
-in a footnote on page 138). However, they are somewhat infamous for [not paying actual
+in a footnote on page 138). However, they are somewhat infamous for [not paying
+actual
 developers](https://lunduke.substack.com/p/linux-foundation-spends-just-34-of).
-Sourcing the funds seems achievable. The challenge is in directing it to the
-right people, with transparency and accountability.
+Sourcing the funds is a challenge but seems achievable. The other challenge is
+directing it to the right people, with transparency and accountability.
 
 {% include img.html src="./fair-pay-no-hoops.webp" url="https://twitter.com/FeyNudibranch/status/1754142226270048572" caption="Based on a slide from Kara Sowles Deloss' talk at FOSDEM." %}
 
