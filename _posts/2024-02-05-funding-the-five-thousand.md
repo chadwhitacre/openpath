@@ -1,6 +1,6 @@
 ---
 title: Funding the Five Thousand
-excerpt: We can solve the OSS sustainability crisis for less than $2 billion, priced to cost.
+excerpt: We can solve the OSS sustainability crisis for less than $1 billion, priced to cost.
 ---
 
 A number of years ago, I did some napkin math on [the value created by Open
@@ -49,9 +49,11 @@ At a rough sketch, 5,000 devs times a global average salary for a full-stack
 developer of
 [US$71,100](https://www.statista.com/statistics/793602/worldwide-developer-survey-average-salaries/)
 comes out to $355 million per year. We should do some [more work to pin down
-the numbers](https://github.com/chadwhitacre/openpath/issues/20) (most current
-devs are likely in high-cost-of-living locales), but even if we paid Bay Area
-rates we could fund all 5,000 for **under $2 billion**.
+the numbers](https://github.com/chadwhitacre/openpath/issues/20), as there may
+be more than 5,000 maintainers, and most likely live in higher-cost locales.
+For this post let's say it seems likely we can fund all Open Source maintainers
+for **under $1 billion**. That's way less than the trillions that HBS and my
+old napkin math would have us anchor on.
 
 ## Narrowing Our Focus
 
