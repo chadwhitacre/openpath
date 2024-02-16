@@ -3,7 +3,7 @@
 bundle := /opt/homebrew/Cellar/ruby@2.7/2.7.8_1/bin/bundle
 
 default: bundle
-	$(bundle) exec jekyll serve --host 0.0.0.0 --livereload --drafts
+	$(bundle) exec jekyll serve --host 0.0.0.0 --livereload --drafts --future
 
 bundle: ruby
 	# Installs GitHub Pages gem via Gemfile

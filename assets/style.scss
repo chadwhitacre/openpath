@@ -18,7 +18,7 @@ considered principal words and are capitalized.
 
 ==============================================================================*/
 
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;1,400&family=Yatra+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Yatra+One&display=swap");
 
 :root {
   --white: #f0eadb;
@@ -95,7 +95,9 @@ a.read-more {
   float: right;
 }
 
-b,
+b {
+  font-weight: 480;
+}
 strong {
   font-weight: normal;
   background: var(--yellow);
@@ -319,9 +321,6 @@ header {
       blockquote {
         border-left-color: var(--white);
       }
-    }
-    a {
-      color: var(--black);
     }
     .img {
       text-decoration: none;
