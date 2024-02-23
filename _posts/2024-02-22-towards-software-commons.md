@@ -160,7 +160,7 @@ The parallel with Creative Commons is particularly [suggestive](https://github.c
 
 There is much work to do to hammer out the specifics of the software sharing
 models that should qualify for inclusion in Software Commons, but this feels to
-me like the right place to locate the conversation, because the two failure
+me like **the right place to locate the conversation**, because the two failure
 modes of a commons are the [tragedy of the
 commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) and
 [enclosure](https://en.wikipedia.org/wiki/Enclosure). In the former, a majority
