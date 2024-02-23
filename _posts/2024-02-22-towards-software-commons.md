@@ -7,7 +7,7 @@ A number of us have been [working for the past six
 months](https://github.com/getsentry/fsl.software/issues/2) to find a term,
 adjacent to but distinct from Free and Open Source Software (FOSS), to [elevate
 developer sustainability to a value on par with user
-freedom](https://blog.sentry.io/sentrys-open-source-values/). This is 
+freedom](https://blog.sentry.io/sentrys-open-source-values/). This is
 in response to Chef co-founder [Adam Jacob's proposal](https://twitter.com/adamhjk/status/1687113805237714944):
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">I think the way forward here is to make what I suspect is a loose confederation of folks using non-compete licenses to actually get together and draft their own set of values. To then brand that. And stand behind it proudly.</p>&mdash; Adam Jacob (@adamhjk) <a href="https://twitter.com/adamhjk/status/1687113805237714944?ref_src=twsrc%5Etfw">August 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -21,7 +21,7 @@ two values.
 
 A number of prominent voices are recognizing the need to resolve this tension
 between the limitations inherent in Open Source and the challenge of developer
-sustainability, [starting with](https://opensource.org/blog/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report) the __Open Source Initiative__ (OSI) itself:
+sustainability, [starting with](https://opensource.org/blog/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report) the **Open Source Initiative** (OSI) itself:
 
 > Since the early days of the Open Source movement, companies have experimented
 > with finding a balance between granting their users the basic freedoms
@@ -35,7 +35,7 @@ existential risk of harmful free-riding. Some even [voluntarily share their
 financial success](https://fossfunders.com/) with the non-commercial
 maintainers in the ecosystem.
 
-Regarding different models of sustainability, __Jacob Kaplan-Moss__, co-founder
+Regarding different models of sustainability, **Jacob Kaplan-Moss**, co-founder
 of Django, recently let loose [a full-throated
 rant](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/):
 
@@ -95,7 +95,7 @@ solidifies lower levels.
 
 ### Post-Open
 
-The very author of the Open Source Definition, __Bruce Perens__, is now
+The very author of the Open Source Definition, **Bruce Perens**, is now
 also looking for what comes next. At a recent State of Open keynote, he snarked, "[We
 have a great corporate welfare
 program](https://www.youtube.com/watch?v=suUfS0-p5Yg#t=1m54s)," and talked
@@ -124,12 +124,13 @@ terms of "[open products](https://gratipay.news/open-products-25824a325fea)":
 > fully open-source to boot.
 
 {% include img.html src="./please-trespass.webp"
-url="https://gratipay.news/open-products-25824a325fea" caption="I wrote 
+url="https://gratipay.news/open-products-25824a325fea" caption="I wrote
 &ldquo;Open Products&rdquo; way back in 2013." %}
 
 I'm excited to find Bruce talking about this. It seems to be a case of
 independent discovery: Bruce's work on Post-Open, and the response to Adam's
 call to action, to develop a new brand around a new articulation of values.
+This is a sign of an idea whose time has come.
 
 ## Introducing Software Commons
 
@@ -163,7 +164,7 @@ sharing models that should qualify for inclusion in Software Commons, but this f
 to me like the right place to locate the conversation, because the two failure
 modes of a commons are [enclosure](https://en.wikipedia.org/wiki/Enclosure) and
 the [tragedy of the
-commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons).  In the former,
+commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). In the former,
 a small group gains control and excludes others, imposing _too many
 restrictions_. In the latter, a large group overuses the common resource to the
 point of destruction, due to _too few restrictions_. That is, the tension
