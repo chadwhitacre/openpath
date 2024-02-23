@@ -159,15 +159,15 @@ The parallel with Creative Commons is particularly [suggestive](https://github.c
 > BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) there so I feel the
 > license categories listed fit perfectly well within what you've defined.
 
-There is much work to do to hammer out the specifics of the software
-sharing models that should qualify for inclusion in Software Commons, but this feels
-to me like the right place to locate the conversation, because the two failure
-modes of a commons are [enclosure](https://en.wikipedia.org/wiki/Enclosure) and
-the [tragedy of the
-commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). In the former,
-a small group gains control and excludes others, imposing _too many
-restrictions_. In the latter, a large group overuses the common resource to the
-point of destruction, due to _too few restrictions_. That is, the tension
+There is much work to do to hammer out the specifics of the software sharing
+models that should qualify for inclusion in Software Commons, but this feels to
+me like the right place to locate the conversation, because the two failure
+modes of a commons are the [tragedy of the
+commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) and
+[enclosure](https://en.wikipedia.org/wiki/Enclosure). In the former, a majority
+of people overuses the common resource to the point of destruction, due to _too
+few restrictions_. In the latter, a minority of people gains control and
+excludes the majority, imposing _too many restrictions_. That is, the tension
 inherent in commons management seems to be exactly the tension we find in the
 software ecosystem today: [between user freedom and developer
 sustainability](https://blog.sentry.io/sentrys-open-source-values/).
