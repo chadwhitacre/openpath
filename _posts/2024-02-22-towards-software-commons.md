@@ -172,8 +172,8 @@ inherent in commons management seems to be exactly the tension we find in the
 software ecosystem today: [between user freedom and developer
 sustainability](https://blog.sentry.io/sentrys-open-source-values/).
 
-If you think [Software Commons](https://softwarecommons.com/) might have legs,
-and you want to help find a balance of user freedom and developer
-sustainability that honors Open Source while evolving beyond its limitations,
-you can [dive in on this GitHub
+If you think [Software Commons](https://softwarecommons.com/)
+might have legs, and you want to help find a balance of user freedom and
+developer sustainability that honors Open Source while evolving beyond
+its limitations, you can [dive in on this GitHub
 issue](https://github.com/getsentry/fsl.software/issues/2). 🙏
