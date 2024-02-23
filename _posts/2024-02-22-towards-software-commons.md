@@ -142,8 +142,7 @@ resonates, because it indicates a superset of FOSS:
 > The _software commons_ consists of all computer software which is available
 > at little or no cost and which can be reused with few restrictions. It
 > includes open source software which can be modified with few restrictions.
-> However the commons also includes software outside of these categories – for
-> instance, software which is in the public domain.
+> However the commons also includes software outside of these categories[.]
 
 Amazingly, the [domain](https://softwarecommons.com/) was available. I bought
 it forthwith. It seems like [a strong
