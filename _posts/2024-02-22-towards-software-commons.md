@@ -81,7 +81,7 @@ on broadening the term "open source":
 > [BSL](https://mariadb.com/bsl-faq-mariadb/) in my version of “open source”.
 
 The [Codecov
-kerfuffle](https://about.codecov.io/blog/codecov-is-now-open-source/) taught us
+kerfuffle](https://news.ycombinator.com/item?id=36971490) taught us
 to [look for another
 term](https://blog.sentry.io/lets-talk-about-open-source/). As part of
 developing [FSL](https://fsl.software/) (our BSL upgrade), we [worked with the
