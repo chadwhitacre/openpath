@@ -9,10 +9,10 @@ in order to come up with a "[fair
 share](https://gratipay.news/your-company-should-probably-pay-2000-per-person-for-open-source-9205443e209d)"
 amount that companies should be paying projects. Last month, researchers from Harvard
 Business School (HBS) published [a working paper with a similar
-scope](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148).  I have
+scope](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148). I have
 [serious questions about their
 work](http://localhost:4000/2024/questioning-the-value-of-open-source-software/),
-but, to be honest, my attempt was also really hand-wavy. 
+but, to be honest, my attempt was also really hand-wavy.
 
 Some of the details of the HBS paper got me thinking, though. They claim,
 credibly enough, that there are only a few thousand developers that produce all
@@ -22,7 +22,7 @@ catchy title 😌). This might feel low, even shockingly low, but hear me out.
 Who are the direct consumers of Open Source software? Largely it is other devs,
 of whom there are about [28.7
 million](https://www.statista.com/statistics/627312/worldwide-developer-population/)
-in the world. Therefore, the ratio of consumers to producers of OSS is approximately 
+in the world. Therefore, the ratio of consumers to producers of OSS is approximately
 5,740 to 1. Now, buried in Meta's [most recent
 10-Q](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001326801/00c8dc47-8ba5-46e0-ba88-ed2e959dfd6e.pdf),
 I find that they have 71,469 employees (p. 33) serving 3.03 billion monthly
@@ -77,7 +77,7 @@ directing it to the right people, with transparency and accountability.
 {% include img.html src="./fair-pay-no-hoops.webp" url="https://twitter.com/FeyNudibranch/status/1754142226270048572" caption="Based on a slide from Kara Sowles Deloss' talk at FOSDEM." %}
 
 The main source of funds will continue to be companies, with governments and
-philanthropies as secondary sources.  Whether via foundations or funding
+philanthropies as secondary sources. Whether via foundations or funding
 platforms, the main target of funding from a company's point of view should be
 projects rather than people. That's what companies depend on and care about.
 If a maintainer moves on from a project then the funds should be available to
@@ -86,7 +86,7 @@ maintenance](https://www.youtube.com/watch?v=e5FV-AnKPlo).
 
 The problem of getting funds from projects to people is a problem of
 governance. This is quite important but should largely be hidden from
-companies. 
+companies.
 
 ## Next Steps
 
