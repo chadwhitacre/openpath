@@ -9,7 +9,7 @@ to represent the values behind such efforts as [FSL][2]. What we're less clear
 on is what exactly it is we are naming. [What are our goals][13]?
 
 There's a "thin" version in which our goal is to produce an educational
-website, and a "thick" version in which we are founding (or retrofitting?) an
+website, and a "thick" version in which we are founding (or joining with?) an
 institution. The thick version would obviously be a much more serious
 commitment, so it needs justifying. That's what I aim to do in this post.
 
@@ -58,8 +58,8 @@ analogy:
 
 > [An idea's] peculiar character, too, is that no one possesses the less,
 > because every other possesses the whole of it. He who receives an idea from
-> me, receives instruction himself without lessening mine; as **he who lights
-> his taper at mine, receives light without darkening me**. That ideas should
+> me, receives instruction himself without lessening mine; as he who lights
+> his taper at mine, receives light without darkening me. That ideas should
 > freely spread from one to another over the globe, for the moral and mutual
 > instruction of man, and improvement of his condition, seems to have been
 > peculiarly and benevolently designed by nature[.]
@@ -76,8 +76,8 @@ Public_][8], p. 121).
   to find time for them.
 
 The rivalrous resource in software as a commons is _maintainer attention_ (p.
-161). "Open Source is _consumed_ like a public good, [but] _produced_ like a
-commons" (p. 212). This distinction is essential to thinking clearly about
+161). "**Open Source is _consumed_ like a public good, [but] _produced_ like a
+commons**" (p. 212). This distinction is essential to thinking clearly about
 software as a commons.
 
 ## Enclosure and Tragedy in Software
@@ -175,18 +175,18 @@ fit for their situation. This might be roughly parallel to GitHub's
 [choosealicense.com][12].
 
 Then there's a "thick" version in which what we are doing is founding (or
-retrofitting?) an institution. The reason we would do this is because it is the
+joining with?) an institution. The reason we would do this is because it is the
 only way to solve the three big problems that our analysis of software as a
 commons has uncovered:
 
 1. the **closed-source information enclosure** of the bulk of society's software;
-1. the **enclosure of maintainer attention**, requiring them to jump through hoops to attend to their software; and
+1. the **enclosure of maintainer attention**, eroding overall community independence; and
 1. the **tragedy of the commons**, burning out maintainers.
 
 If the only problem we are trying to solve is the first, then yes, we can put
-up an informational website that gives us something to link to next time we
-announce an FSL product and that educates companies on options for sharing
-their source code in ways that fit their business, and be done with it.
+up an informational website that educates companies on options for sharing
+their source code in ways that fit their business and gives us something to
+link to next time we announce an FSL product, and be done with it.
 
 However, I don't think we can justify using the name Software Commons while
 ignoring the second and third problems. Maintainer burnout is a real problem
