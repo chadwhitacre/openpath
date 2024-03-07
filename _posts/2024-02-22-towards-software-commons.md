@@ -3,6 +3,10 @@ title: Towards Software Commons
 excerpt: The world is ready for something beyond Open Source. Is it Software Commons?
 ---
 
+<div class="update"><span>update</span> Follow-up: &ldquo;<a
+href="/2024/the-case-for-a-new-institution/">The Case for an
+Institution</a>&rdquo;</div>
+
 A number of us have been [working for the past six
 months](https://github.com/getsentry/fsl.software/issues/2) to find a term,
 adjacent to but distinct from Free and Open Source Software (FOSS), to [elevate

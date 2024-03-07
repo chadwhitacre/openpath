@@ -3,6 +3,10 @@ title: The Case for an Institution
 excerpt: Software Commons is a great name. But for what? It should be an institution.
 ---
 
+<div class="update"><span>update</span> Help us <a
+href="https://github.com/softwarecommons/softwarecommons.com/issues/4">write
+bylaws</a>.</div>
+
 Over [on GitHub][0] we've (mostly) converged on "[Software Commons][19]" as our
 answer to [Adam Jacob's call][1] to find a brand name other than "Open Source"
 to represent the values behind such efforts as [FSL][2]. What we're less clear
