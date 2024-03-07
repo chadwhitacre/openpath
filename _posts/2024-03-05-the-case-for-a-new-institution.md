@@ -113,7 +113,10 @@ Open Source itself allows for some restrictions, for example:
 - on patent litigation.
 
 Open Source draws the line where it does because of its value system: the
-freedom of users overrides the needs of maintainers.
+freedom of users overrides the needs of maintainers. Attempts by companies to
+change an Open Source project's license to a more restrictive license generally
+demonstrate the power of Open Source. If there is a real third-party community
+around the project, a viable fork emerges.
 
 Since we value maintainer needs on par with user rights, we are open to
 drawing the line of acceptable restriction differently. In the spirit of Jacob
