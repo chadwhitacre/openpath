@@ -3,8 +3,9 @@ title: The Case for an Institution
 excerpt: Software Commons is a great name. But for what? It should be an institution.
 ---
 
-<div class="update"><span>update</span> Help us <a
-href="https://github.com/softwarecommons/softwarecommons.com/issues/4">write
+<div class="update"><span>update</span> We ended up separating out the "thin"
+and "thick" goals, using Software Commons for the latter. Help us <a
+href="https://github.com/softwarecommons/softwarecommons.com/issues/4"> write
 bylaws</a>.</div>
 
 Over [on GitHub][0] we've (mostly) converged on "[Software Commons][19]" as our
@@ -248,12 +249,12 @@ principles illustrated by long-enduring CPR institutions" (p. 90):
 The sort of institution I have in mind for Software Commons, after Ostrom's
 principles:
 
-1. brings together producers and consumers of FOSS under one roof to negotiate
-   an enduring solution to [the Open Source sustainability crisis][23]
-   (probably it's a new funding platform that sets prices and moves money; is it a
-   multi-stakeholder platform cooperative?); and
-1. fleshes out and educates the industry on software sharing practices between
-   closed and Open Source.
+1. brings together producers and consumers of FOSS under one roof, alongside
+   platform partners, to negotiate an enduring solution to [the Open Source
+   sustainability crisis][23] (is it a multi-stakeholder platform cooperative?);
+   and
+1. ~~fleshes out and educates the industry on software sharing practices between
+   closed and Open Source.~~ [_<b>Update:</b> dropping this from scope._]
 
 Perhaps there is an institution that exists today that could be made to fit
 this description. It's worth talking about, but I'm skeptical.
@@ -264,9 +265,9 @@ this description. It's worth talking about, but I'm skeptical.
   association][24].
 - It's not [Post-Open][27]; I talked with Bruce yesterday, and if I understand
   it right, it really only represents producers.
-- I think an Ostrom-ian institution needs to run a platform, but I'm not sure
-  any of the existing platforms ([GitHub Sponsors][28], [Thanks.dev][29]) can be
-  shifted sufficiently.
+- An Ostrom-ian institution needs to provide accountability for money flow, but
+  I'm not sure any of the existing platforms ([GitHub Sponsors][28],
+  [Thanks.dev][29]) on their own is the right solution.
 - [OS Collective][26] probably comes closest; it's worth a conversation. My
   hunch is FOSS consumer representation is too weak.
 
