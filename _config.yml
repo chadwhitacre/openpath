@@ -8,7 +8,7 @@ author: Chad Whitacre
 
 sass:
   sass_dir: .
-exclude: ["Makefile", "README.md"]
+exclude: ["Makefile", "README.md", "bin"]
 permalink: /:year/:title/
 defaults:
   - values:
