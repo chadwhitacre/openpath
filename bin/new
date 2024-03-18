@@ -8,9 +8,9 @@ filename="_posts/$date_-$slug.md"
 assets_dir="$year/$slug"
 
 echo "---" > $filename
-echo "title: $title" > $filename
-echo "excerpt: Foo."  > $filename
-echo "---" > $filename
+echo "title: $title" >> $filename
+echo "excerpt: Foo."  >> $filename
+echo "---" >> $filename
 
 mkdir -p "$assets_dir"
 echo "DON'T FORGET ME" > "$assets_dir/social.webp.txt"
