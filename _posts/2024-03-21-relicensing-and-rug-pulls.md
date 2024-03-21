@@ -68,8 +68,8 @@ people outside HashiCorp did a lot of work to get the
 [OpenTofu](https://www.linuxfoundation.org/press/announcing-opentofu) fork off
 the ground. It seems to be viable. On the other hand, since Sentry relicensed
 in 2019, no viable fork has emerged. There was no community of people not
-employed by Functional Software, Inc. who were developing the product. There
-was no-one standing on the rug.
+employed by Functional Software, Inc. dba Sentry who were developing the
+product. There was no-one standing on the rug.
 
 {% include img.html src="Percentage_of_Commits_by_Era_and_Relation.webp"
 url="https://blog.sentry.io/nows-the-time-for-delayed-open-source/?original_referrer=https%3A%2F%2Fblog.sentry.io%2F" caption="Sentry has always been built by Sentry" %}
