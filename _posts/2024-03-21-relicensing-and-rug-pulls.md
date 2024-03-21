@@ -72,7 +72,7 @@ product. There was no-one standing on the rug.
 {% include img.html src="Percentage_of_Commits_by_Era_and_Relation.webp"
 url="https://blog.sentry.io/nows-the-time-for-delayed-open-source/?original_referrer=https%3A%2F%2Fblog.sentry.io%2F" caption="Sentry has always been built by Sentry" %}
 
-Was Redis relicensing a rug pull? I don't know. They
+Was Redis' relicensing a rug pull? I don't know. They
 mention "efforts to support a community-led governance model, and our desire to
 [maintain the BSD
 license](https://redis.com/blog/redis-license-bsd-will-remain-bsd/)." I
