@@ -102,7 +102,8 @@ mine):
 If no fork emerges, it seems a death knell for Salvatore's dreams for
 Redis-the-community, even while it vindicates the decision of
 Redis-the-company. I felt a similar pang of loss when I [watched David
-say](https://www.youtube.com/watch?v=MYoipcYW_Qk&t=1713s) (emphasis mine):
+say](https://www.youtube.com/watch?v=MYoipcYW_Qk&t=1713s), in reference to
+Sentry's own relicensing (emphasis mine):
 
 > There's no billion-dollar revenue companies that are exclusively [permissive]
 > Open Source[.] I want to believe somebody will do it, at some point. They'll
