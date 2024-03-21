@@ -107,7 +107,7 @@ say](https://www.youtube.com/watch?v=MYoipcYW_Qk&t=1713s) (emphasis mine):
 > There's no billion-dollar revenue companies that are exclusively [permissive]
 > Open Source[.] I want to believe somebody will do it, at some point. They'll
 > take that leap, and it will work. **We were not going to be the ones to
-> quite do it**, because it was just frustrating for us.
+> quite do it**[.]
 
 Community is at the heart of Open Source. Companies are at the heart of our
 economy. Somehow it would sure be great if we could [figure out
