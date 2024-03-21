@@ -1,6 +1,6 @@
 ---
 title: Relicensing and Rug Pulls
-excerpt: If a viable fork materializes, relicensing was a rug pull. It not, it wasn't ... and that's kinda sad.
+excerpt: If a viable fork materializes, relicensing was a rug pull. If not, it wasn't ... and that's kinda sad.
 ---
 
 Another day, [another major Open Source project
