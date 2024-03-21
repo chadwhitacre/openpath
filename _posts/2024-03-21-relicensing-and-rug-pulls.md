@@ -6,46 +6,44 @@ excerpt: If a viable fork materializes, relicensing was a rug pull. If not, it w
 Another day, [another major Open Source project
 relicenses](https://redis.com/blog/redis-adopts-dual-source-available-licensing/)
 to avoid [getting
-Jeff'd](https://www.youtube.com/watch?v=XZ3w_jec1v8#t=29m27s).  This time it's
+Jeff'd](https://www.youtube.com/watch?v=XZ3w_jec1v8#t=29m27s). This time it's
 Redis ... again. Was it a rug pull? It's too soon to tell. It's only a rug pull
 if someone was standing on the rug.
-
 
 ## A Brief History of Redis Licensing
 
 - <b>2009</b>—After working on it privately for three years (yes?), Salvatore
-[publishes](https://github.com/redis/redis/commit/ed9b544e10b84cd43348ddfab7068b610a5df1f7) Redis core on GitHub [under
-BSD-3](https://github.com/redis/redis/blob/ed9b544e10b84cd43348ddfab7068b610a5df1f7/COPYING).
-{% include img.html src="betatesters.webp"
-url="https://github.com/redis/redis/blob/ed9b544e10b84cd43348ddfab7068b610a5df1f7/BETATESTING.txt" %}
+  [publishes](https://github.com/redis/redis/commit/ed9b544e10b84cd43348ddfab7068b610a5df1f7) Redis core on GitHub [under
+  BSD-3](https://github.com/redis/redis/blob/ed9b544e10b84cd43348ddfab7068b610a5df1f7/COPYING).
+  {% include img.html src="betatesters.webp"
+  url="https://github.com/redis/redis/blob/ed9b544e10b84cd43348ddfab7068b610a5df1f7/BETATESTING.txt" %}
 
-- <b>2016</b>—Redis starts making modules, licensing them under AGPL (e.g. [RediSearch](https://github.com/RediSearch/RediSearch/commit/c60925a9268ac9843244ee33c033c4789dd4ce50), [RedisJSON](https://github.com/RedisJSON/RedisJSON/commit/6f638aca7df52e884f14b494168462add5366e7a#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7), [RediTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries/commit/7224436f2c0b981f48e9331cea306bea85a01ed7#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)).
+- <b>2016</b>—Redis starts making modules, licensing them under AGPL (e.g., [RediSearch](https://github.com/RediSearch/RediSearch/commit/c60925a9268ac9843244ee33c033c4789dd4ce50), [RedisJSON](https://github.com/RedisJSON/RedisJSON/commit/6f638aca7df52e884f14b494168462add5366e7a#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7), [RediTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries/commit/7224436f2c0b981f48e9331cea306bea85a01ed7#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)).
 
 - <b>2018</b>—Redis relicenses its modules from AGPL to
-Apache-2.0-with-Commons-Clause. I don't find an announcement from them, but
-here's [a version of events in a TechCrunch
-op-ed](https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/#m_-47614634501600442334829)
-from a VC who was involved, and Redis refers to the 2018 Commons Clause
-relicensing in [their 2021
-post](https://redis.com/blog/redis-labs-modules-license-changes/).
+  Apache-2.0-with-Commons-Clause. I don't find an announcement from them, but
+  here's [a version of events in a TechCrunch
+  op-ed](https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/#m_-47614634501600442334829)
+  from a VC who was involved, and Redis refers to the 2018 Commons Clause
+  relicensing in [their 2021
+  post](https://redis.com/blog/redis-labs-modules-license-changes/).
 
 - <b>2021</b>—[Commons Clause](https://commonsclause.com/) is a fine idea with
-an unfortunate name. It's a non-compete rider on an otherwise Open Source
-license ... but a commons is precisely a resource that is [governed
-openly](https://www.amazon.com/dp/0521405998), not corporately. Due in part to
-related controversy, Redis [relicenses its modules
-again](https://redis.com/blog/redis-labs-modules-license-changes/) to a new
-license: the non-compete Redis Source Available License (RSAL).
+  an unfortunate name. It's a non-compete rider on an otherwise Open Source
+  license ... but a commons is precisely a resource that is [governed
+  openly](https://www.amazon.com/dp/0521405998), not corporately. Due in part to
+  related controversy, Redis [relicenses its modules
+  again](https://redis.com/blog/redis-labs-modules-license-changes/) to a new
+  license: the non-compete Redis Source Available License (RSAL).
 
 - <b>2022</b>—Redis [relicenses its modules
-again](https://redis.com/blog/rsalv2-sspl-announcement/) to a dual licensing
-arrangement: a cleaned-up RSALv2, and—in a bid to reduce license
-proliferation—MongoDB's
-[SSPL](https://en.wikipedia.org/wiki/Server_Side_Public_License).
+  again](https://redis.com/blog/rsalv2-sspl-announcement/) to a dual licensing
+  arrangement: a cleaned-up RSALv2, and—in a bid to reduce license
+  proliferation—MongoDB's
+  [SSPL](https://en.wikipedia.org/wiki/Server_Side_Public_License).
 
 - <b>2024</b>—Yesterday, after 15 years, core Redis went from BSD-3 to the same
-RSALv2/SSPL arrangement as the modules.
-
+  RSALv2/SSPL arrangement as the modules.
 
 ## Criteria for a Rug Pull
 
