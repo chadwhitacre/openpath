@@ -83,10 +83,15 @@ blockquote {
   padding: 0 0 0 9pt;
 }
 
-.meta {
+.meta, .disclosure {
   color: var(--green);
   font-size: 10pt;
   line-height: 130%;
+}
+
+.disclosure {
+  text-align: right;
+  margin: 12pt 0;
 }
 
 a.read-more {
@@ -117,12 +122,6 @@ ol {
   li {
     padding: 8pt 0 0;
   }
-}
-
-.disclosure {
-  font-size: 10pt;
-  line-height: 130%;
-  color: var(--green);
 }
 
 .youtube {
@@ -309,7 +308,7 @@ header {
       }
       margin: 12pt 0 0;
       padding: 12pt 12pt 12pt 50pt;
-      border-radius: 10px;
+      border-radius: 6pt;
 
       &.tldr {
         background: var(--green);

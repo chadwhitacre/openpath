@@ -1,11 +1,8 @@
 ---
 title: Towards Software Commons
 excerpt: The world is ready for something beyond Open Source. Is it Software Commons?
+update: 'Follow-up: &ldquo;<a href="/2024/the-case-for-a-new-institution/">The Case for an Institution</a>&rdquo;'
 ---
-
-<div class="update"><span>update</span> Follow-up: &ldquo;<a
-href="/2024/the-case-for-a-new-institution/">The Case for an
-Institution</a>&rdquo;</div>
 
 A number of us have been [working for the past six
 months](https://github.com/getsentry/fsl.software/issues/2) to find a term,
@@ -20,8 +17,6 @@ FOSS ensures user freedom, which is wonderful. Developer sustainability is also
 wonderful, and we've reached a point in the evolution of the tech industry and
 our society where it is time to converge on how we're going to balance these
 two values.
-
-{% include disclosure.html %}
 
 ## A Widely Recognized Need
 

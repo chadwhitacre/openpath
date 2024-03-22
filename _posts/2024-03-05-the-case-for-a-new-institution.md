@@ -1,12 +1,8 @@
 ---
 title: The Case for an Institution
 excerpt: Software Commons is a great name. But for what? It should be an institution.
+update: 'We ended up separating out the &ldquo;thin&rdquo; and &ldquo;thick&rdquo; goals, using Software Commons for the latter. Help us <a href="https://github.com/softwarecommons/softwarecommons.com/issues/4"> write bylaws</a>.'
 ---
-
-<div class="update"><span>update</span> We ended up separating out the "thin"
-and "thick" goals, using Software Commons for the latter. Help us <a
-href="https://github.com/softwarecommons/softwarecommons.com/issues/4"> write
-bylaws</a>.</div>
 
 Over [on GitHub][0] we've (mostly) converged on "[Software Commons][19]" as our
 answer to [Adam Jacob's call][1] to find a brand name other than "Open Source"
@@ -26,9 +22,7 @@ commitment, so it needs justifying. That's what I aim to do in this post.
   institution is necessary](#software-commons-an-institution) to protect
   against these risks.
 - I conclude with [a brief sketch](#sketching-an-institution) of what this
-institution might look like.
-
-{% include disclosure.html %}
+  institution might look like.
 
 ## Software as a Commons
 

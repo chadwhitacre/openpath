@@ -9,5 +9,10 @@ layout: default
     page.date | date: '%B %e, %Y' }}
   </div>
   <div class="tldr"><span>tl;dr</span> {{ page.excerpt }}</div>
+  {% if page.update %}<div class="update"><span>update</span>{{ page.update }}</div>{% endif %}
+  <div class="disclosure">
+    Disclosure / advertisement: I work for
+    <a href="https://sentry.io/welcome/">Sentry</a>.
+  </div>
   {{ content }}
 </div>
