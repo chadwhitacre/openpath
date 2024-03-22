@@ -96,7 +96,7 @@ a.read-more {
 }
 
 b {
-  font-weight: 480;
+  font-weight: 537;
 }
 strong {
   font-weight: normal;
@@ -117,6 +117,12 @@ ol {
   li {
     padding: 8pt 0 0;
   }
+}
+
+.disclosure {
+  font-size: 10pt;
+  line-height: 130%;
+  color: var(--green);
 }
 
 .youtube {

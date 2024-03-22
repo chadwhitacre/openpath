@@ -26,7 +26,9 @@ commitment, so it needs justifying. That's what I aim to do in this post.
   institution is necessary](#software-commons-an-institution) to protect
   against these risks.
 - I conclude with [a brief sketch](#sketching-an-institution) of what this
-  institution might look like.
+institution might look like.
+
+{% include disclosure.html %}
 
 ## Software as a Commons
 

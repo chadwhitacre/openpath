@@ -21,6 +21,8 @@ wonderful, and we've reached a point in the evolution of the tech industry and
 our society where it is time to converge on how we're going to balance these
 two values.
 
+{% include disclosure.html %}
+
 ## A Widely Recognized Need
 
 A number of prominent voices are recognizing the need to resolve this tension
