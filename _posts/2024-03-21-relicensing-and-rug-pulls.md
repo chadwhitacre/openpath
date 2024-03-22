@@ -18,7 +18,7 @@ if someone was standing on the rug.
   {% include img.html src="betatesters.webp"
   url="https://github.com/redis/redis/blob/ed9b544e10b84cd43348ddfab7068b610a5df1f7/BETATESTING.txt" %}
 
-- <b>2016</b>—Redis starts making modules, licensing them under AGPL (e.g., [RediSearch](https://github.com/RediSearch/RediSearch/commit/c60925a9268ac9843244ee33c033c4789dd4ce50), [RedisJSON](https://github.com/RedisJSON/RedisJSON/commit/6f638aca7df52e884f14b494168462add5366e7a#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7), [RediTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries/commit/7224436f2c0b981f48e9331cea306bea85a01ed7#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)).
+- <b>2016</b>—Redis starts making modules, licensing them under AGPL (e.g., [RediSearch](https://github.com/RediSearch/RediSearch/commit/c60925a9268ac9843244ee33c033c4789dd4ce50), [RedisJSON](https://github.com/RedisJSON/RedisJSON/commit/6f638aca7df52e884f14b494168462add5366e7a#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7), [RedisTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries/commit/7224436f2c0b981f48e9331cea306bea85a01ed7#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)).
 
 - <b>2018</b>—Redis relicenses its modules from AGPL to
   Apache-2.0-with-Commons-Clause. I don't find an announcement from them, but
