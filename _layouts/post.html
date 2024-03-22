@@ -10,6 +10,18 @@ layout: default
   </div>
   <div class="tldr"><span>tl;dr</span> {{ page.excerpt }}</div>
   {% if page.update %}<div class="update"><span>update</span>{{ page.update }}</div>{% endif %}
+  {% if page.series %}<div class="series">
+    {% assign posts = site.posts | where: "series", page.series | sort: 'date' | reverse  %}
+    <span>series</span>
+    <ul>
+      {% for post in posts %}
+      <li {% if post.title == page.title %}class="current"{% endif %}>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   <div class="disclosure">
     Disclosure / advertisement: I work for
     <a href="https://sentry.io/welcome/">Sentry</a>.

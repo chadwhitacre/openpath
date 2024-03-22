@@ -1,7 +1,7 @@
 ---
 title: Towards Software Commons
 excerpt: The world is ready for something beyond Open Source. Is it Software Commons?
-update: 'Follow-up: &ldquo;<a href="/2024/the-case-for-a-new-institution/">The Case for an Institution</a>&rdquo;'
+series: funding
 ---
 
 A number of us have been [working for the past six

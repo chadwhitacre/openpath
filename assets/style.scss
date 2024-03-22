@@ -94,6 +94,32 @@ blockquote {
   margin: 12pt 0;
 }
 
+.series {
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      &::before {
+        visibility: hidden;
+        content: '▶';
+        font-size: 8pt;
+      }
+      &.current::before {
+        visibility: visible;
+      }
+      a {
+        text-decoration: none;
+        &::hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
 a.read-more {
   display: block;
   margin: 12pt 0 0;
@@ -294,6 +320,7 @@ header {
     background: var(--white);
     color: var(--black);
     .tldr,
+    .series,
     .update {
       display: block;
       position: relative;
@@ -312,6 +339,9 @@ header {
 
       &.tldr {
         background: var(--green);
+      }
+      &.series {
+        background: var(--black);
       }
       &.update {
         background: var(--black);

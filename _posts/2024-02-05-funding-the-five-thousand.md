@@ -1,6 +1,7 @@
 ---
 title: Funding the Five Thousand
 excerpt: We can solve the OSS sustainability crisis for less than $1 billion, priced to cost.
+series: funding
 ---
 
 A number of years ago, I did some napkin math on [the value created by Open
