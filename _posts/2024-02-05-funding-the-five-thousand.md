@@ -12,7 +12,7 @@ amount that companies should be paying projects. Last month, researchers from Ha
 Business School (HBS) published [a working paper with a similar
 scope](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148). I have
 [serious questions about their
-work](http://localhost:4000/2024/questioning-the-value-of-open-source-software/),
+work](/2024/questioning-the-value-of-open-source-software/),
 but, to be honest, my attempt was also really hand-wavy.
 
 Some of the details of the HBS paper got me thinking, though. They claim,
