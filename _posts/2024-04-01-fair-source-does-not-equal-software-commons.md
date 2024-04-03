@@ -34,7 +34,8 @@ developer sustainability:
 
 I had initially tried to see these two aspects of sustainability—licensing and
 funding—as worth pursuing together. Now I see them as worth pursuing
-separately. Neither is an attempt to change the fundamental definitions of
+separately. Endorsing one does not entail endorsing the other, and neither one
+attempts to change the fundamental definitions of
 [Free](https://www.gnu.org/philosophy/free-sw.en.html#fs-definition) and [Open
 Source](https://opensource.org/osd) Software.
 
