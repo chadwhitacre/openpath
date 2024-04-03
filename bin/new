@@ -11,6 +11,7 @@ echo "---" > $filename
 echo "title: $title" >> $filename
 echo "excerpt: Foo."  >> $filename
 echo "---" >> $filename
+#echo "{% include img.html src="betatesters.webp" url=\"\" "%}
 
 mkdir -p "$assets_dir"
 echo "DON'T FORGET ME" > "$assets_dir/social.webp.txt"

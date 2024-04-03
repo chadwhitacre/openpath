@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="content">
+  {% if page.noindex %}
+  <div class="draft">
+    Unlisted Draft
+  </div>
+  {% endif %}
   <h2>{{ page.title }}</h2>
   <div class="meta">
     By <a href="https://chadwhitacre.com/">Chad Whitacre</a> ❧ Published on {{

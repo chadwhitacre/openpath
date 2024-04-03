@@ -15,6 +15,10 @@
       href="/feed.xml"
     />
 
+    {% if page.noindex  %}
+    <meta name="robots" content="noindex">
+    {% endif %}
+
     <!-- ty opengraph.xyz 🙏 -->
     <title>
       {{ page.title }}{% if page.url != '/' %} ❧ Open Path by Chad Whitacre{%

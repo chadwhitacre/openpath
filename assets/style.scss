@@ -83,17 +83,25 @@ blockquote {
   padding: 0 0 0 9pt;
 }
 
+hr {
+  border: 0;
+  margin: 24pt 0 24pt 49%;
+  &::before {
+    content: "❧";
+    color: var(--green);;
+  }
+}
+
+
 .meta, .disclosure {
   color: var(--green);
   font-size: 10pt;
   line-height: 130%;
 }
-
 .disclosure {
   text-align: right;
   margin: 12pt 0;
 }
-
 .series {
   ul {
     margin: 0;
@@ -118,6 +126,16 @@ blockquote {
       }
     }
   }
+}
+.draft {
+  color: red;
+  text-transform: uppercase;
+  font-size: 36pt;
+  line-height: 120%;
+  text-align: center;
+  margin: 0 0 36pt;
+  text-transform: uppercase;
+  border-bottom: 3pt solid red;
 }
 
 a.read-more {
