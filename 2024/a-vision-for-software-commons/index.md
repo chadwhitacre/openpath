@@ -95,9 +95,9 @@ efforts are hooking into. I love to see it. More power to 'em. This might be
 what we have to resort to in America as well, but there's an option we could
 try first.
 
-<b>FOMO</b> is the new, unproven option. Companies are herd animals. Look
-how quickly every company in the industry became an AI company. Eighteen months
-ago, Nvidia was still [talking about the
+<b>FOMO</b> is the new, unproven option. Companies are herd animals. Look how
+quickly every company in the industry became an AI company. Eighteen months
+ago, we were still [talking about the
 metaverse](https://www.youtube.com/watch?v=egHs3Yc7jUY#t=1m50s). At the
 individual level, quirks of our psychology can be [used to influence
 behavior](<https://en.wikipedia.org/wiki/Nudge_(book)>)—for good or ill. How
