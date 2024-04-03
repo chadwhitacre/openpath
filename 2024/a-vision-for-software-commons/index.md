@@ -43,11 +43,11 @@ In designing Software Commons, there are two new realities we need to create,
 and one we can't give up. The two things we need are:
 
 - <b>Funding</b>. Security crises are the most painful symptom highlighting our
-chronic underprovisioning of maintainer attention. The answer is to pay
-people to pay attention.
+  chronic underprovisioning of maintainer attention. The answer is to pay
+  people to pay attention.
 
 - <b>Accountability</b>. We need assurances that all companies are doing their
-part to fund Open Source, and that the money is being used responsibly.
+  part to fund Open Source, and that the money is being used responsibly.
 
 The thing we can't give up is the [<b>hacker
 spirit</b>](https://en.wikipedia.org/wiki/Hacker_ethic). If the only real
@@ -95,7 +95,7 @@ efforts are hooking into. I love to see it. More power to 'em. This might be
 what we have to resort to in America as well, but there's an option we could
 try first.
 
-<b>FOMO</b> is the new, as-yet-untried option. Companies are herd animals. Look
+<b>FOMO</b> is the new, unproven option. Companies are herd animals. Look
 how quickly every company in the industry became an AI company. Eighteen months
 ago, Nvidia was still [talking about the
 metaverse](https://www.youtube.com/watch?v=egHs3Yc7jUY#t=1m50s). At the
@@ -105,7 +105,7 @@ can we work with the grain of &ldquo;corporate psychology&rdquo; (if you will)
 to overcome the [tragedy of the Open Source
 commons](/2024/the-case-for-a-new-institution/#tragedy-of-the-software-commons)?
 
-FOMO is the angle I've been working with [FOSS
+FOMO is the tack I've taken with [FOSS
 Funders](https://fossfunders.com/), collecting logos of companies that care
 enough to participate in Open Source funding and talk about it, in order to
 inspire others. After six months, we're at 17 companies. That's not very many.
@@ -164,7 +164,7 @@ Imagine, if you will—I can't believe I'm saying this, but bear with me—imagi
 GitLab, and Bitbucket agree together to add a line-item to every single
 invoice for an opt-out "**Software Commons Open Source Fair Share**." 😳
 
-### A Proof of Concept Invoice 
+### A Proof of Concept Invoice
 
 GitHub's enterprise sticker price is
 [$252/user/year](https://github.com/pricing). GitLab Premium is
@@ -252,7 +252,7 @@ Where would the money go? It would go to Open Source foundations, weighted in
 part by the aggregate language breakdown across repositories according to the
 code hosting platforms. Another part would go to foundations that support the
 operating systems, databases, and developer tools that don't show up in the
-language breakdown. 
+language breakdown.
 
 {% include img.html src="languages.webp"
 url="https://github.com/getsentry/sentry"
@@ -263,28 +263,28 @@ Each foundation would be responsible for their ecosystem. As budgets grow
 year over year, we would expect them to take more and more responsibility:
 
 - Foundations would be able to take on new responsibility for <b>security</b>.
-Right now we depend on products like Socket, Snyk, and Dependabot to bolt
-security onto mostly unregulated repositories. With real funding, we would be
-able to expect real accountability from foundations for their own package
-repositories, proactively finding and removing [malicious
-packages](https://twitter.com/feross/status/1774153518800404494) such as XZ
-5.6. This tees up nicely with [European
-negotations](https://twitter.com/chadwhitacre_/status/1775189599402311990) over
-the [Cyber Resilience
-Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act). 
+  Right now we depend on products like Socket, Snyk, and Dependabot to bolt
+  security onto mostly unregulated repositories. With real funding, we would be
+  able to expect real accountability from foundations for their own package
+  repositories, proactively finding and removing [malicious
+  packages](https://twitter.com/feross/status/1774153518800404494) such as XZ
+  5.6. This tees up nicely with [European
+  negotations](https://twitter.com/chadwhitacre_/status/1775189599402311990) over
+  the [Cyber Resilience
+  Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act).
 
 - Foundations would also be able to make real strides in <b>diversity</b>. The
-uncompensated nature of much current Open Source maintenance work exacerbates
-existing inequalities of opportunity. Ecosystem foundations can partner with
-Outreachy and other specialists to recruit and mentor participants from diverse
-backgrounds.
+  uncompensated nature of much current Open Source maintenance work exacerbates
+  existing inequalities of opportunity. Ecosystem foundations can partner with
+  Outreachy and other specialists to recruit and mentor participants from diverse
+  backgrounds.
 
 - Just as companies will want to have their Open Source contributions beyond
-the Fair Share accounted for, we should also ask foundations to transparently
-report their budget <b>allocations</b> in high-level categories such as R&D,
-registry maintenance, events, marketing, and general administration. Shared norms can
-emerge over time. What is the acceptable ratio of spending on events to
-spending on engineering? Let's find out.
+  the Fair Share accounted for, we should also ask foundations to transparently
+  report their budget <b>allocations</b> in high-level categories such as R&D,
+  registry maintenance, events, marketing, and general administration. Shared norms can
+  emerge over time. What is the acceptable ratio of spending on events to
+  spending on engineering? Let's find out.
 
 ### The Heart of Open Source
 
@@ -306,7 +306,7 @@ sustainability](/2024/the-open-source-sustainability-crisis/#what-is-open-source
 
 > Open Source sustainability is when any smart, motivated person can produce
 > widely adopted Open Source software and get paid fairly without jumping
-> through hoops. 
+> through hoops.
 
 ## Challenges Aplenty
 
@@ -314,7 +314,7 @@ Getting money into Open Source is a huge challenge. ROI has not gotten us where
 we need to be. _Just maybe_ we can build a FOMO rocket—if GitHub, GitLab, and
 Bitbucket can all come together as the booster stage. If not FOMO, there's
 always taxation, which will be even _more_ work to pull off, though if it is
-our only option, even in the United States, we'll likely have to try it. 
+our only option, even in the United States, we'll likely have to try it.
 
 Getting money to the right people is another huge challenge. It will take years
 for foundations to scale up to handle the responsibility. But scale they must,
