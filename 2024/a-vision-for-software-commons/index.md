@@ -322,11 +322,11 @@ in order to meet the increasing demands of government and business for
 security-hardened Open Source ecosystems.
 
 The hardest challenge will be ensuring that the flickering heart and soul of
-Open Source does not wither away. It can never truly die, of course, as long as
-two people exist who freely share their code with each other. But the ideal
-future—mine, anyway—is a thriving indy Open Source community, stewarded by
-foundations, coexisting alongside the large corporations and governments of our
-civilization.
+Open Source does not dwindle further. It can never truly die, of course, as
+long as two people exist who freely share their code with each other. But the
+ideal future—mine, anyway—is a thriving indy Open Source community, stewarded
+by foundations, coexisting alongside the large corporations and governments of
+our civilization.
 
 _That_ is the opportunity I see for [Software Commons](https://softwarecommons.com/).
 
