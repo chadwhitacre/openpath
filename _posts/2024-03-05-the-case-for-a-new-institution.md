@@ -247,10 +247,11 @@ principles:
 
 1. brings together producers and consumers of FOSS under one roof, alongside
    platform partners, to negotiate an enduring solution to [the Open Source
-   sustainability crisis][23] (is it a multi-stakeholder platform cooperative?);
-   and
-1. ~~fleshes out and educates the industry on software sharing practices between
-   closed and Open Source.~~ [_<b>Update:</b> dropping this from scope._]
+   sustainability crisis][23] (is it a multi-stakeholder platform
+   cooperative?); and
+1. ~~fleshes out and educates the industry on software sharing practices
+   between closed and Open Source.~~ [_<b>Update:</b> [dropping this from
+   scope](/2024/fair-source-does-not-equal-software-commons/)._]
 
 Perhaps there is an institution that exists today that could be made to fit
 this description. It's worth talking about, but I'm skeptical.
