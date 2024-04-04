@@ -1,7 +1,6 @@
 ---
 title: A Vision for Software Commons
 excerpt: Imagine an indy Open Source contingent thriving alongside our corporations and governments.
-noindex: true
 ---
 
 [Heartbleed](https://heartbleed.com/),
