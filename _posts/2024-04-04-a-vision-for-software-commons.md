@@ -1,6 +1,6 @@
 ---
 title: A Vision for Software Commons
-excerpt: Imagine an indy Open Source contingent thriving alongside our corporations and governments.
+excerpt: Imagine an indie Open Source contingent thriving alongside our corporations and governments.
 ---
 
 [Heartbleed](https://heartbleed.com/),
@@ -64,7 +64,7 @@ have [lost](/2024/the-case-for-a-new-institution/#enclosure-of-attention). For
 companies, Open Source is about cost savings and brand equity. That's fine. For
 humans, Open Source is about autonomy, creativity, and free-spirited
 collaboration within a welcoming community. It's wonderful when companies
-employ maintainers, _and_ we need to sustain a significant indy maintainer
+employ maintainers, _and_ we need to sustain a significant indie maintainer
 contingent in the Open Source community. We need to fix the XKCD pic with many
 more small blocks, not one big one.
 
@@ -327,7 +327,7 @@ security-hardened Open Source ecosystems.
 The hardest challenge will be ensuring that the flickering heart and soul of
 Open Source does not dwindle further as pressure mounts. It can never truly
 die, of course, as long as two people exist who freely share their code with
-each other. But the ideal future—mine, anyway—is a thriving indy Open Source
+each other. But the ideal future—mine, anyway—is a thriving indie Open Source
 contingent, stewarded by foundations, coexisting alongside the corporations and
 governments of our civilization.
 
