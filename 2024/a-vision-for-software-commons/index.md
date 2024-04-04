@@ -304,8 +304,8 @@ maintainers to pitch grants for future projects in order to access funds has it
 the wrong way around. They already did the work.
 
 Forward-thinking foundations will find ways to distribute the economic benefits
-of Fair Share more in keeping with the Open Source spirit of collaborative
-autonomy. This is how we will ultimately reach [Open Source
+of Fair Share in keeping with the Open Source spirit of collaborative autonomy.
+This is how we will ultimately reach [Open Source
 sustainability](/2024/the-open-source-sustainability-crisis/#what-is-open-source-sustainability):
 
 > Open Source sustainability is when any smart, motivated person can produce
