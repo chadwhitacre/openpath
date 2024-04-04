@@ -1,6 +1,6 @@
 ---
 title: A Vision for Software Commons
-excerpt: Imagine an indy Open Source community thriving alongside our corporations and governments.
+excerpt: Imagine an indy Open Source contingent thriving alongside our corporations and governments.
 noindex: true
 ---
 
@@ -37,6 +37,15 @@ sustainability crisis](/2024/the-open-source-sustainability-crisis/#what-is-the-
 > severely underprovisioned. How do we know? The real indicator of the Open
 > Source sustainability crisis as I define it is **maintainer burnout**.
 
+My [initial
+sketch](/2024/the-case-for-a-new-institution/#sketching-an-institution) for
+Software Commons was an institution that "brings together producers and
+consumers of FOSS under one roof, alongside platform partners, to negotiate an
+enduring solution to [the Open Source sustainability
+crisis](/2024/the-open-source-sustainability-crisis/)." Let's fill in the
+picture more. This is gonna be terrifying or thrilling, I don't
+know which yet.
+
 ## What We Need, What We Can't Give Up
 
 In designing Software Commons, there are two new realities we need to create,
@@ -47,7 +56,7 @@ and one we can't give up. The two things we need are:
   people to pay attention.
 
 - <b>Accountability</b>. We need assurances that all companies are doing their
-  part to fund Open Source, and that the money is being used responsibly.
+  part to fund Open Source, and that the money is being used to actually improve the ecosystem.
 
 The thing we can't give up is the [<b>hacker
 spirit</b>](https://en.wikipedia.org/wiki/Hacker_ethic). If the only real
@@ -55,7 +64,7 @@ option to make a living in Open Source is to take a job at a megacorp, we will
 have [lost](/2024/the-case-for-a-new-institution/#enclosure-of-attention). For
 companies, Open Source is about cost savings and brand equity. That's fine. For
 humans, Open Source is about autonomy, creativity, and free-spirited
-collaboration within a like-minded community. It's wonderful when companies
+collaboration within a welcoming community. It's wonderful when companies
 employ maintainers, _and_ we need to sustain a significant indy maintainer
 contingent in the Open Source community. We need to fix the XKCD pic with many
 more small blocks, not one big one.
@@ -134,54 +143,44 @@ year after year. The opportunity with Software Commons is to split the check.
 
 ## Splitting the Check With a Fair Share
 
-My [initial
-sketch](/2024/the-case-for-a-new-institution/#sketching-an-institution) for
-Software Commons was an institution that "brings together producers and
-consumers of FOSS under one roof, alongside platform partners, to negotiate an
-enduring solution to [the Open Source sustainability
-crisis](/2024/the-open-source-sustainability-crisis/)." Let's fill in the
-picture more. This is where it gets either terrifying or thrilling, I don't
-know which yet.
+The problem is that we need a check to split. We need a tab, a hook, some
+entrypoint that provides these properties:
 
-The problem is that we need a hook. The ideal solution is—are you ready?—**code
-hosting platforms**. I'm talking about GitHub, GitLab, and Bitbucket, which together
-account for practically all [corporate code hosting
-usage](https://www.jetbrains.com/lp/devecosystem-2023/team-tools/#vcs).
+1. a way to meter <b>consumption</b> of Open Source software;
+1. a way to weight <b>distribution</b> to maintainers; and
+1. a way to actually collect the money, an <b>invoice</b>.
 
-{% include img.html src="codehosting.webp"
-url="https://www.jetbrains.com/lp/devecosystem-2023/team-tools/#vcs"
-caption="Code hosting platform usage in 2023 (source: Jetbrains)"
-%}
+I believe the answer, if we don't want to have to resort to taxation, is for
+one or more large developer tools companies to step up and add a line-item to
+their invoices, for an opt-out "**Software Commons Open Source Fair Share**." 😳
 
-Why are code hosting platforms the key? Because they already have these three
-ingredients:
-
-1. a way to meter consumption, <b>user seats</b>;
-1. a way to weight distribution, <b>language usage</b>; and
-1. a way to collect money, an <b>invoice</b>.
-
-Imagine, if you will—I can't believe I'm saying this, but bear with me—imagine that GitHub,
-GitLab, and Bitbucket agree together to add a line-item to every single
-invoice for an opt-out "**Software Commons Open Source Fair Share**." 😳
+Now, I work for a developer tools company. Maybe Sentry will be the one to pull
+this off, maybe not. Other strong candidates would be cloud providers (AWS,
+GCP, Azure) or code hosting platforms (GitHub, GitLab, Bitbucket), maybe even
+project management products (Atlassian, GitHub, Linear). Maybe it's one
+company, maybe it's a consortium, in which case we would need to reconcile
+customers between them to account properly for Fair Share payments.
 
 ### A Proof of Concept Invoice
 
-GitHub's enterprise sticker price is
-[$252/user/year](https://github.com/pricing). GitLab Premium is
-[$348](https://about.gitlab.com/pricing/) and Bitbucket Premium is
-[$360](https://www.atlassian.com/software/bitbucket/pricing). I think they all
-also have usage-based pricing for a lot of things, so a company's final bill is
-significantly higher, though of course rates are also often
-negotiated. For the sake of illustration let's use an average of $320
-as a per seat price, and let's put the Fair Share at a nice even
-$128/user/year.
+Let's imagine some large developer tools company called Excellent Software,
+Inc. that has per seat pricing of $320 per year plus some usage based pricing.
+Let's put the Fair Share at a nice even $128 per user per year.
 
-Okay, ready? Here's what a company's bill might look like:
+Okay, ready? Here's what a customer's bill might look like:
 
 {% include img.html src="invoice-58306118.webp"
 url="invoice-58306118.pdf"
 caption="To dream the impossible dream."
 %}
+
+For this example I've taken it that user seats are enough of a proxy for Open
+Source consumption that we don't need to include usage-based pricing in the
+equation. But notice that the number of units for Fair Share is 920 instead of
+1000 for the main product. This is because Fair Share is based on previous
+year's consumption, so we would look at previous year's seats. The 1000 is for
+the customer's future usage of Excellent Software's own product. Restaurant vs.
+grocery store.
 
 Now, that dollar amount, $128, is pulled out of thin air. Some napkin math I did a few
 years back puts the amount at more like [$2,000 per user per
@@ -197,18 +196,19 @@ want to try something else first that might lessen or obviate the need for a
 tax (and create something really new and interesting in the world), then here's
 how I think we could do it:
 
-1. <b>Start with a really, really small amount.</b> Let's say $8 per user per year,
-   something just barely above a rounding error. The goal is to make it as easy
-   as possible for as many companies as possible to say "yes," so we see _at
-   least_ 95% participation across all customers of GitHub, GitLab, and
-   Bitbucket. Really, 99% participation should be the goal at this stage.
+1. <b>Start with a really, really small amount.</b> Let's say $8 per user per
+   year, something just barely above a rounding error. The goal is to make it
+   as easy as possible for as many companies as possible to say "yes," so we
+   see _at least_ 95% participation across all customers of whichever dev tool
+   companies participate. Really, 99% participation should be the goal at this
+   stage.
 
 1. <b>Ratchet up year by year.</b> Go from $8 to $16 to $32 to $64 to $128 to
    $256 to $512 to $1024 to $2048. What's that? Nine years. Maybe we start at
    $4, and a decade from now we're up into hypothetical real money.
 
 1. <b>Monitor participation metrics.</b> We would need to balance transparency
-   with privacy for the code hosting platforms, who don't share their total
+   with privacy for the dev tools company, who won't share their total
    user seats. We should have some public metrics, though, probably total
    annual dollar volume, percentage participating at all, and percentage
    participating above, at, and below the set Fair Share amount.
@@ -229,10 +229,11 @@ how I think we could do it:
    don't!
 
 1. <b>Account for other contributions.</b> Fair Share should be only one part
-   of what companies contribute to Open Source. Two other major components are
-   employee time spent on Open Source projects, and gifts-in-kind (Fastly
-   donating PyPI bandwidth is the best example). We need a robust reporting
-   framework to factor in these contributions to the overall picture.
+   of what companies contribute to Open Source. Some already contribute
+   financially. Two other major components are employee time spent on Open
+   Source projects, and gifts-in-kind (Fastly donating PyPI bandwidth is the
+   best example). We need a robust reporting framework to factor in these
+   contributions to the overall picture.
 
 1. <b>Frame the aggregates in terms of
    [GDP](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)</b>. The best way
@@ -249,29 +250,26 @@ how I think we could do it:
 ## Accountability Through Foundations
 
 Where would the money go? It would go to Open Source foundations, weighted in
-part by the aggregate language breakdown across repositories according to the
-code hosting platforms. Another part would go to foundations that support the
-operating systems, databases, and developer tools that don't show up in the
-language breakdown.
-
-{% include img.html src="languages.webp"
-url="https://github.com/getsentry/sentry"
-caption="The language breakdown for <code>getsentry/sentry</code>."
-%}
+part by the aggregate language breakdown across the developer tools company's
+customer base. Sentry is like half JavaScript projects, for example. Another
+part would go to foundations that support the operating systems, databases, and
+developer tools that don't show up in a language breakdown.
 
 Each foundation would be responsible for their ecosystem. As budgets grow
 year over year, we would expect them to take more and more responsibility:
 
 - Foundations would be able to take on new responsibility for <b>security</b>.
   Right now we depend on products like Socket, Snyk, and Dependabot to bolt
-  security onto mostly unregulated repositories. With real funding, we would be
-  able to expect real accountability from foundations for their own package
-  repositories, proactively finding and removing [malicious
+  security onto mostly unregulated package repositories. With real funding, we
+  would be able to expect real accountability from foundations for their own
+  package repositories, proactively finding and removing [malicious
   packages](https://twitter.com/feross/status/1774153518800404494) such as XZ
   5.6. This tees up nicely with [European
   negotations](https://twitter.com/chadwhitacre_/status/1775189599402311990) over
   the [Cyber Resilience
-  Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act).
+  Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act),
+  and [EO
+  14028](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity) in the U.S.
 
 - Foundations would also be able to make real strides in <b>diversity</b>. The
   uncompensated nature of much current Open Source maintenance work exacerbates
@@ -282,14 +280,14 @@ year over year, we would expect them to take more and more responsibility:
 - Just as companies will want to have their Open Source contributions beyond
   the Fair Share accounted for, we should also ask foundations to transparently
   report their budget <b>allocations</b> in high-level categories such as R&D,
-  registry maintenance, events, marketing, and general administration. Shared norms can
+  registry maintenance, events, marketing, outreach, and general administration. Shared norms can
   emerge over time. What is the acceptable ratio of spending on events to
   spending on engineering? Let's find out.
 
 ### The Heart of Open Source
 
 I'm gonna come out and say it: the bulk of foundation funds should go to
-**individual people who create value by writing Open Source software**. _This_ is
+**individual people who created value by writing Open Source software**. _This_ is
 the heart of Open Source: people freely sharing their code with other people in
 the community—and yes, companies—who are free to read, run, modify, and
 redistribute it for any purpose.
@@ -298,9 +296,14 @@ In order to preserve this essential element of Open Source, foundations should
 utilize mechanisms such as [Open Collective
 expenses](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses)
 and [Liberapay teams](https://liberapay.com/about/teams) to give individuals
-real economic autonomy. Jobs are fine. Grants are fine. But forward-thinking
-foundations will find ways to distribute the economic benefits of the Fair
-Share that are more in keeping with the Open Source spirit of collaborative
+real economic autonomy. Jobs are fine. Grants are fine. But individual
+contributors are like the restaurant staff who did the actual work of
+preparing, serving, and cleaning up the meal we just enjoyed. Asking
+maintainers to pitch grants for future projects in order to access funds has it
+the wrong way around. They already did the work.
+
+Forward-thinking foundations will find ways to distribute the economic benefits
+of Fair Share more in keeping with the Open Source spirit of collaborative
 autonomy. This is how we will ultimately reach [Open Source
 sustainability](/2024/the-open-source-sustainability-crisis/#what-is-open-source-sustainability):
 
@@ -311,10 +314,10 @@ sustainability](/2024/the-open-source-sustainability-crisis/#what-is-open-source
 ## Challenges Aplenty
 
 Getting money into Open Source is a huge challenge. ROI has not gotten us where
-we need to be. _Just maybe_ we can build a FOMO rocket—if GitHub, GitLab, and
-Bitbucket can all come together as the booster stage. If not FOMO, there's
-always taxation, which will be even _more_ work to pull off, though if it is
-our only option, even in the United States, we'll likely have to try it.
+we need to be. _Just maybe_ we can build a FOMO rocket—if some developer tools
+company steps up as the booster stage. If not FOMO, there's always taxation,
+which will be even _more_ work to pull off, though if it is our only option,
+even in the United States, we'll likely have to try it.
 
 Getting money to the right people is another huge challenge. It will take years
 for foundations to scale up to handle the responsibility. But scale they must,
@@ -325,11 +328,11 @@ The hardest challenge will be ensuring that the flickering heart and soul of
 Open Source does not dwindle further as pressure mounts. It can never truly
 die, of course, as long as two people exist who freely share their code with
 each other. But the ideal future—mine, anyway—is a thriving indy Open Source
-community, stewarded by foundations, coexisting alongside the corporations and
+contingent, stewarded by foundations, coexisting alongside the corporations and
 governments of our civilization.
 
 _That_ is the opportunity I see for [Software Commons](https://softwarecommons.com/).
 
 ---
 
-_Seem interesting? Contribute [on GitHub](https://github.com/softwarecommons/softwarecommons.com/issues)._
+_Share the vision? Contribute [on GitHub](https://github.com/softwarecommons/softwarecommons.com/issues)._
