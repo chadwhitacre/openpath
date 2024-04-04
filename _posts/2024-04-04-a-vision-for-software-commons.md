@@ -163,9 +163,9 @@ customers between them to account properly for Fair Share payments.
 
 ### A Proof of Concept Invoice
 
-Let's imagine some large developer tools company called Excellent Software,
-Inc. that has per seat pricing of $320 per year plus some usage based pricing.
-Let's put the Fair Share at a nice even $128 per user per year.
+Let's imagine some large developer tools company called DevTools, Inc. that has
+per seat pricing of $320 per year plus some usage based pricing. Let's put the
+Fair Share at a nice even $128 per user per year.
 
 Okay, ready? Here's what a customer's bill might look like:
 
@@ -179,8 +179,8 @@ Source consumption that we don't need to include usage-based pricing in the
 equation. But notice that the number of units for Fair Share is 920 instead of
 1000 for the main product. This is because Fair Share is based on previous
 year's consumption, so we would look at previous year's seats. The 1000 is for
-the customer's future usage of Excellent Software's own product. Restaurant vs.
-grocery store.
+the customer's future usage of DevTools' own product. Restaurant vs. grocery
+store.
 
 Now, that dollar amount, $128, is pulled out of thin air. Some napkin math I did a few
 years back puts the amount at more like [$2,000 per user per
