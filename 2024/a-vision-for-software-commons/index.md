@@ -264,7 +264,7 @@ year over year, we would expect them to take more and more responsibility:
   would be able to expect real accountability from foundations for their own
   package repositories, proactively finding and removing [malicious
   packages](https://twitter.com/feross/status/1774153518800404494) such as XZ
-  5.6. This tees up nicely with [European
+  5.6.x. This tees up nicely with [European
   negotations](https://twitter.com/chadwhitacre_/status/1775189599402311990) over
   the [Cyber Resilience
   Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act),
