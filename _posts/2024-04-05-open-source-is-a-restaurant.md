@@ -65,14 +65,13 @@ Open Source is not a <b>soup kitchen</b>. Payments to Open Source projects are
 not donations, they are not charity. They would be if someone else ate the
 meal, but you ate it.
 
-Companies are by definition not geared towards making charitable
-donations. Yes, corporate philanthropy is a thing. It's peanuts. I'm seeing
-maybe [$25
+Companies are by definition not geared towards making charitable donations.
+Yes, corporate philanthropy is a thing. It's peanuts. I'm seeing maybe [$25
 billion/year](https://doublethedonation.com/types-of-corporate-philanthropy/),
 on a U.S. economy of [$25 _trillion_](https://www.google.com/search?q=us+gdp) a
-year. Open Source [likely accounts for 100s of
-billions](https://gratipay.news/open-source-captures-almost-none-of-the-value-it-creates-9015eb7e293e)
-of this and currently recoups [100s of
+year. Open Source likely accounts for [100s of billions of this
+value](https://gratipay.news/open-source-captures-almost-none-of-the-value-it-creates-9015eb7e293e)
+and currently recoups [100s of
 millions](https://fosdem.org/2024/events/attachments/fosdem-2024-2751-the-state-of-funding-free-open-source-software/slides/22659/State_of_FOSS_Funding_FOSDEM_2024_IQwHRvb.pdf)
 (PDF). We need to grow Open Source income by several orders of magnitude.
 Calling it charity is a doomed approach. Fortunately, it's also not accurate.
@@ -106,7 +105,7 @@ become commercial kitchens, as it were, fit to deliver at scale. At the same
 time, we need foundations to find ways of funding individuals that [fit the
 Open Source ethos of collaborative
 autonomy](/2024/a-vision-for-software-commons/#the-heart-of-open-source). If
-Open Source is to be a retaurant, let it be the [Moosewood
+Open Source is to be a restaurant, let it be the [Moosewood
 Collective](https://en.wikipedia.org/wiki/Moosewood_Restaurant).
 
 ## A New Bucket
