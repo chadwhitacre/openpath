@@ -58,14 +58,14 @@ h1 {
 }
 h2 {
   font: normal 20pt/130% "Yatra One";
-  padding: 36pt 0 9pt;
+  padding: 42pt 0 9pt;
   &:first-child {
     padding: 0;
   }
 }
 h3 {
   font: normal 16pt/130% "Work Sans";
-  padding: 36pt 0 7pt;
+  padding: 32pt 0 7pt;
   h2 + & {
     padding-top: 0;
   }

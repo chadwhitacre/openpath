@@ -49,7 +49,7 @@ is a good enough idea to warrant its own post.
 
 Open Source is not a <b>grocery store</b>. At a grocery store (or pretty much
 any other store, but this analogy works best if we use food), you pay _first_,
-then you get your food.
+then you get to eat.
 
 This is analogous to thinking of payments to Open Source projects in terms of
 ROI: what am I getting in the future for the money I am paying now? This
@@ -81,7 +81,7 @@ Calling it charity is a doomed approach. Fortunately, it's also not accurate.
 
 Open Source is a <b>restaurant</b>. At a restaurant, you eat your meal _first_,
 and _then_ you are expected to pay for it. Yes, we could dine and dash. But we
-don't. When presented with a tab for a meal we have just consumed, we pay
+don't. When presented with a tab for a meal we have just eaten, we pay
 the tab.
 
 Now picture a meal with a large group of friends. Inevitably, someone forgot
