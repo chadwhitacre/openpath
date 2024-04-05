@@ -1,5 +1,5 @@
 ---
-title: Open Source is a Restaurant
+title: Open Source Is a Restaurant
 excerpt: It was a great meal. Are we going to pay the tab?
 ---
 
