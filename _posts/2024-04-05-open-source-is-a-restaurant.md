@@ -125,6 +125,6 @@ We need a new bucket:
 Look, don't get me wrong. This is a _huge honkin' deal_. We're essentially
 asking our corporations to become a _little teensy tiny bit_ less sociopathic than they
 currently by nature are. Everything is against us. There's no way this could
-possibly work. Unless enough of us collectively want it to.
+possibly work. Unless enough of us collectively want it to work.
 
-I want it to.
+I want it to work.
