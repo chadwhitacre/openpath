@@ -19,3 +19,4 @@ echo "---" >> $filename
 echo '{% include img.html src="social.webp" caption="" url="" %}' >> $filename
 
 cp social.webp "$post_dir/"
+git add "$post_dir"
