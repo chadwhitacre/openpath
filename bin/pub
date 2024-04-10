@@ -1,0 +1,11 @@
+#!/usr/bin/env zsh
+if [ "$#" -eq 0 ]; then
+  echo "What path?"
+  exit
+fi
+post_dir="$1"
+date_=$(date +"%Y-%m-%d")
+slug=$(echo $post_dir | cut -d '/' -f 2)
+filename="_posts/$date_-$slug.md"
+mv "$post_dir/index.md" "$filename"
+sed -i '' '4d' "$filename"

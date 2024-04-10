@@ -1,17 +1,21 @@
 #!/usr/bin/env zsh
+if [ "$#" -eq 0 ]; then
+  echo "What title?"
+  exit
+fi
 
 title="$@"
-slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 year=$(date +"%Y")
-date_=$(date +"%Y-%m-%d")
-filename="_posts/$date_-$slug.md"
-assets_dir="$year/$slug"
+slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+post_dir="$year/$slug"
+mkdir -p "$post_dir"
 
+filename="$post_dir/index.md"
 echo "---" > $filename
 echo "title: $title" >> $filename
 echo "excerpt: Foo."  >> $filename
+echo "noindex: true" >> $filename
 echo "---" >> $filename
-#echo "{% include img.html src="betatesters.webp" url=\"\" "%}
+echo '{% include img.html src="social.webp" caption="" url="" %}' >> $filename
 
-mkdir -p "$assets_dir"
-echo "DON'T FORGET ME" > "$assets_dir/social.webp.txt"
+cp social.webp "$post_dir/"
