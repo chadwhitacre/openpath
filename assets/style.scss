@@ -159,6 +159,9 @@ img.float-left {
 ul,
 ol {
   padding: 8pt 0 0 16pt;
+  ul, ol {
+    padding-top: 0;
+  }
   li {
     padding: 8pt 0 0;
   }
