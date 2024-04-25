@@ -129,7 +129,9 @@ The "rules and regulations" are arriving. The intent is for "a light-touch and
 tailor-made regulatory regime." Unintended consequences seem inevitable. It was
 green onions from a distant supplier that took down Chi-Chi's restaurant in the
 worst hepatitis A outbreak in U.S. history. Log4j and XZ are the green onions.
-They are grown in someone's unregulated backyard. How does this play out?
+They are grown in [someone's unregulated
+backyard](https://www.softwaremaxims.com/blog/not-a-supplier). How does this
+play out?
 
 "Open source projects will not be
 required to directly implement the mandated processes described in the CRA,"
@@ -198,14 +200,16 @@ demands placed on them, directly or indirectly, by the CRA?
 and [Ruby
 Central](https://rubycentral.org/news/ruby-central-welcomes-new-software-engineer-in-residence-sponsored-by-aws/)
 have started down this path. PHP is [furthest
-along](https://thephp.foundation/structure/#core_developers). This would change
+along](https://thephp.foundation/structure/#core_developers). Taken to its conclusion, this would change
 the character of our foundations, but not necessarily in a bad way. There is no
 scale without discipline.
 
-In regulating Open Source like a restaurant, let's also [fund Open Source like a
-restaurant](/2024/open-source-is-a-restaurant/). Let's preserve the heart and
-soul of Open Source, _and_ deliver the safety and security that the European
-Union and the world need from us.
+In regulating Open Source like a restaurant, let's also [fund Open Source like
+a restaurant](/2024/open-source-is-a-restaurant/). Let's [preserve the heart
+and soul of Open
+Source](/2024/a-vision-for-software-commons/#the-heart-of-open-source), _and_
+deliver the safety and security that the European Union and the world need from
+us.
 
 ---
 
