@@ -6,7 +6,7 @@ noindex: true
 
 I took AP Computer Science in 1994, in a small lab with a dozen
 Macintoshes. For homework, we wrote out top-down
-designs and Pascal snippets, on paper. Some we typed in the next day.
+designs and Pascal snippets on paper. Some we typed in the next day.
 
 My mom, a math teacher in a different district, drove me to CompUSA at Parkway
 Center Mall and plunked $124.99 plus tax for a shrink-wrapped box with Borland
@@ -94,7 +94,7 @@ built atop it. An Open Source carve-out in the CRA is a
 _really big deal_.
 
 
-## Rules and Regulations
+## There Are Rules and Regulations
 
 Stephen Walli's Meme #3 is, "[There is no scale without
 discipline](https://medium.com/@stephenrwalli/my-history-of-free-and-open-source-software-1bac0a75a6ba#5d29),"
@@ -192,17 +192,17 @@ management, technical services, and general management and operations. We have
 a service reliability team, and events and marketing staff. We _also_ have a
 full-fledged product engineering organization—the bulk of our company.
 
-Will the foundations of the future start hiring engineering staff, to meet the
+Will the foundations of the future employ engineers, to meet the
 demands placed on them, directly or indirectly, by the CRA?
 [Django](https://www.djangoproject.com/fundraising/#who-are-the-django-fellows)
 and [Ruby
 Central](https://rubycentral.org/news/ruby-central-welcomes-new-software-engineer-in-residence-sponsored-by-aws/)
-have started down this path. The PHP Foundation is [furthest
+have started down this path. PHP is [furthest
 along](https://thephp.foundation/structure/#core_developers). This would change
 the character of our foundations, but not necessarily in a bad way. There is no
 scale without discipline.
 
-In regulating Open Source like a restaurant, let's also [fundOpen Source like a
+In regulating Open Source like a restaurant, let's also [fund Open Source like a
 restaurant](/2024/open-source-is-a-restaurant/). Let's preserve the heart and
 soul of Open Source, _and_ deliver the safety and security that the European
 Union and the world need from us.
