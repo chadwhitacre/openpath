@@ -11,7 +11,7 @@ designs and Pascal snippets on paper. Some we typed in the next day.
 My mom, a math teacher in a different district, drove me to CompUSA at Parkway
 Center Mall and plunked $124.99 plus tax for a shrink-wrapped box with Borland
 Turbo Pascal on probably half a dozen 3½" floppies to install on our Gateway 2000.
-We [ate at Chi-Chi’s](https://www.reddit.com/r/pittsburgh/comments/16ufhkw/who_remembers_shopping_at_compusa_and_then/) and I got fried ice cream but not 
+We [ate at Chi-Chi’s](https://www.reddit.com/r/pittsburgh/comments/16ufhkw/who_remembers_shopping_at_compusa_and_then/) and I got fried ice cream but not
 [hepatitis](https://en.wikipedia.org/wiki/Chi-Chi%27s#Bankruptcy,_hepatitis_A,_and_closure_in_United_States_and_Canada)
 (thankfully) and I really hope I can visit [the last one standing](https://www.chi-chis.at/)
 in September. So epic. Back home I wrote Pascal on the Gateway instead of
@@ -40,13 +40,12 @@ blank paper to prove it.
 
 Now, besides a war on terror and a global pandemic, what's the delta between
 1994's Borland Turbo Pascal and 2024's Python or JavaScript or Rust? I think
-it's just the money part. Some projects certainly _feel_ like 
+it's just the money part. Some projects certainly _feel_ like
 products, highly dependable opaque-in-practice solutions to a problem. How
 many of us [open](https://github.com/python/cpython)
 [the](https://chromium.googlesource.com/v8/v8.git)
 [hood](https://github.com/rust-lang/rust)? Probably as many as
 fix our own car.
-
 
 ## Stewarding Borland Turbo ... Python?
 
@@ -89,10 +88,9 @@ be](https://www.youtube.com/watch?v=wRzqvHulcEA#t=18m07s)":
 The European Union does not regularly invent new kinds of economic actor. The
 last time was in 2008, with the "[new legislative
 framework](https://single-market-economy.ec.europa.eu/single-market/goods/new-legislative-framework_en),"
-since compacted, ossified, solidified, and hardened by 15+ years of government 
+since compacted, ossified, solidified, and hardened by 15+ years of government
 built atop it. An Open Source carve-out in the CRA is a
 _really big deal_.
-
 
 ## There Are Rules and Regulations
 
@@ -102,13 +100,12 @@ which he unpacks elsewhere [using a cooking
 metaphor](https://medium.com/@stephenrwalli/sustaining-open-source-software-4a62a4b6d0f3#595f)
 (emphasis added):
 
-
 > Everyone knows how to fry to an egg. You can become a reasonable cook with
 > some practice, expanding your repertoire and toolset. You may get good enough
 > to cook for friends or tackle the Holiday meal for family. You might
 > specialize and become very good at baking. But the world of cooking changes
 > dramatically when you say the word ‘restaurant.’
-> 
+>
 > Restaurants, regardless of whether they are 2-person taco trucks or
 > Michelin-starred experiences, are businesses that happen to involve cooking.
 > There is a suddenly an array of cooking skills required to consistently,
@@ -118,7 +115,7 @@ metaphor](https://medium.com/@stephenrwalli/sustaining-open-source-software-4a62
 > regulations.** Added on top of that customers need to be served, accounts
 > payable/receivable need to be managed, (you need to spend less than you
 > earn,) and the team needs to be hired, trained, motivated, and paid.
-> 
+>
 > So too with software. There is a considerable difference between the problem
 > sets that need to be solved to deliver software solutions consistently at
 > scale (to large numbers of users in a community or large numbers of
@@ -135,8 +132,7 @@ play out?
 
 "Open source projects will not be
 required to directly implement the mandated processes described in the CRA,"
-[observes Mike Milinkovich](
-https://eclipse-foundation.blog/2023/12/19/good-news-on-the-cyber-resilience-act/),
+[observes Mike Milinkovich](https://eclipse-foundation.blog/2023/12/19/good-news-on-the-cyber-resilience-act/),
 a leader in the Open Source community's response. "But every
 commercial product made available in the EU which is built on top of those open
 source projects _will_. I predict this will put pressure on projects and
