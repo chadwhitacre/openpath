@@ -200,7 +200,7 @@ along](https://thephp.foundation/structure/#core_developers). Taken to its concl
 the character of our foundations, but not necessarily in a bad way. There is no
 scale without discipline.
 
-In regulating Open Source like a restaurant, let's also [fund Open Source like
+If we are to regulate Open Source like a restaurant, let's also [fund Open Source like
 a restaurant](/2024/open-source-is-a-restaurant/). Let's [preserve the heart
 and soul of Open
 Source](/2024/a-vision-for-software-commons/#the-heart-of-open-source), _and_
