@@ -45,6 +45,9 @@ I've hit upon an analogy that I think clarifies our situation. It's
 Vision for Software Commons," but there's a lot going on there and I think this
 is a good enough idea to warrant its own post.
 
+How should we think about the economics of Open Source? It's not a grocery
+store, or a soup kitchen. It's a restaurant.
+
 ### Not a Grocery Store
 
 Open Source is not a <b>grocery store</b>. At a grocery store (or pretty much

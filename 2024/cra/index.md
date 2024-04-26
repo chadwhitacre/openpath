@@ -1,11 +1,11 @@
 ---
-title: "OSS Stewards, Software Restaurants"
+title: OSS Stewards as Software Restaurants
 excerpt: With new EU legislation, Open Source foundations are growing up fast. Where are we headed?
 noindex: true
 ---
 
 I took AP Computer Science in 1994, in a small lab with a dozen
-Macintoshes. For homework, we wrote out top-down
+Macintoshes. For homework, we scribbled top-down
 designs and Pascal snippets on paper. Some we typed in the next day.
 
 My mom, a math teacher in a different district, drove me to CompUSA at Parkway
@@ -34,18 +34,17 @@ Software"](https://medium.com/@stephenrwalli/my-history-of-free-and-open-source-
 > there is enormous work still to be done to turn it into a problem-solving
 > product for customers.
 
-Borland Turbo Pascal was clearly a "product" for me in 1994, on this
+Borland Turbo Pascal was clearly a product for me in 1994, on this
 definition. It solved my problem for money. I had the shrink-wrap and
 blank paper to prove it.
 
 Now, besides a war on terror and a global pandemic, what's the delta between
-1994's Borland Turbo Pascal and 2024's Python or JavaScript or Rust? I think
-it's just the money part. Some projects certainly _feel_ like
-products, highly dependable opaque-in-practice solutions to a problem. How
-many of us [open](https://github.com/python/cpython)
-[the](https://chromium.googlesource.com/v8/v8.git)
-[hood](https://github.com/rust-lang/rust)? Probably as many as
-fix our own car.
+1994's Borland Turbo Pascal and 2024's JavaScript or Rust or Python? I think
+it's just the money part. Some projects certainly _feel_ like products, highly
+dependable opaque-in-practice solutions to a problem. How many of us
+[open](https://chromium.googlesource.com/v8/v8.git)
+[the](https://github.com/rust-lang/rust)
+[hood](https://github.com/python/cpython)? Probably as many as fix our own car.
 
 ## Stewarding Borland Turbo ... Python?
 
@@ -83,16 +82,15 @@ Here it is as a slide from the author of the CRA explaining to FOSDEM, "[what
 the open-source software steward will
 be](https://www.youtube.com/watch?v=wRzqvHulcEA#t=18m07s)":
 
-{% include img.html src="osss.webp" caption="OSS Stewards are a new economic actor in the EU." url="https://fosdem.org/2024/events/attachments/fosdem-2024-3683-the-regulators-are-coming-one-year-on/slides/22201/Slides_CRA_FOSDEM_v3_ukPnQUG.pdf" %}
+{% include img.html src="osss.webp" caption="OSS stewards are a new economic actor in the EU." url="https://fosdem.org/2024/events/attachments/fosdem-2024-3683-the-regulators-are-coming-one-year-on/slides/22201/Slides_CRA_FOSDEM_v3_ukPnQUG.pdf" %}
 
 The European Union does not regularly invent new kinds of economic actor. The
 last time was in 2008, with the "[new legislative
 framework](https://single-market-economy.ec.europa.eu/single-market/goods/new-legislative-framework_en),"
 since compacted, ossified, solidified, and hardened by 15+ years of government
-built atop it. An Open Source carve-out in the CRA is a
-_really big deal_.
+built atop it. An Open Source carve-out in the CRA is _a really big deal_.
 
-## There Are Rules and Regulations
+## EU Is Saying the Word "Restaurant"
 
 Stephen Walli's Meme #3 is, "[There is no scale without
 discipline](https://medium.com/@stephenrwalli/my-history-of-free-and-open-source-software-1bac0a75a6ba#5d29),"
@@ -100,19 +98,19 @@ which he unpacks elsewhere [using a cooking
 metaphor](https://medium.com/@stephenrwalli/sustaining-open-source-software-4a62a4b6d0f3#595f)
 (emphasis added):
 
-> Everyone knows how to fry to an egg. You can become a reasonable cook with
-> some practice, expanding your repertoire and toolset. You may get good enough
-> to cook for friends or tackle the Holiday meal for family. You might
-> specialize and become very good at baking. But the world of cooking changes
-> dramatically when you say the word ‘restaurant.’
+> Everyone knows how to fry an egg. You can become a reasonable cook with some
+> practice, expanding your repertoire and toolset. You may get good enough to
+> cook for friends or tackle the Holiday meal for family. You might specialize
+> and become very good at baking. But **the world of cooking changes dramatically
+> when you say the word ‘restaurant.’**
 >
 > Restaurants, regardless of whether they are 2-person taco trucks or
 > Michelin-starred experiences, are businesses that happen to involve cooking.
-> There is a suddenly an array of cooking skills required to consistently,
+> There is suddenly an array of cooking skills required to consistently,
 > reliably, repeatably deliver the same food outcome every time. There is a
 > team with roles, and that adds all manner of communications challenges to
-> ensure the consistent delivery of food (and experience). **There are rules and
-> regulations.** Added on top of that customers need to be served, accounts
+> ensure the consistent delivery of food (and experience). **There are rules
+> and regulations.** Added on top of that customers need to be served, accounts
 > payable/receivable need to be managed, (you need to spend less than you
 > earn,) and the team needs to be hired, trained, motivated, and paid.
 >
@@ -120,39 +118,46 @@ metaphor](https://medium.com/@stephenrwalli/sustaining-open-source-software-4a62
 > sets that need to be solved to deliver software solutions consistently at
 > scale (to large numbers of users in a community or large numbers of
 > customers) versus bespoke solutions in the small or solutions with dozens of
-> users not tens of thousands.
+> users not tens of thousands. These aren’t ‘open source’ problems. They’re
+> software skillset and experience problems. These problems have everything to
+> do with software hygiene and software engineering and **apply to all software
+> regardless of licensing regime or community versus corporate creation**.
 
-The "rules and regulations" are arriving. The intent is for "a light-touch and
-tailor-made regulatory regime." Unintended consequences seem inevitable. It was
-green onions from a distant supplier that took down Chi-Chi's restaurant in the
-worst hepatitis A outbreak in U.S. history. Log4j and XZ are the green onions.
-They are grown in [someone's unregulated
-backyard](https://www.softwaremaxims.com/blog/not-a-supplier). How does this
-play out?
+With the CRA, the European Union is saying the word "restaurant" over the whole
+software industry, including Open Source.  The "rules and regulations" are
+arriving. They intend a "light-touch and tailor-made regulatory regime" for
+Open Source. Cue the unintended consequences. It was green onions from a
+distant supplier that took down Chi-Chi's restaurant in the worst hepatitis A
+outbreak in U.S. history. My friend's father's friend died. Log4j and XZ are the
+green onions. They are grown in [someone's back
+yard](https://www.softwaremaxims.com/blog/not-a-supplier). How does this play
+out?
 
-"Open source projects will not be
-required to directly implement the mandated processes described in the CRA,"
-[observes Mike Milinkovich](https://eclipse-foundation.blog/2023/12/19/good-news-on-the-cyber-resilience-act/),
-a leader in the Open Source community's response. "But every
-commercial product made available in the EU which is built on top of those open
-source projects _will_. I predict this will put pressure on projects and
-communities to enhance their processes to assist in downstream
-commercialization." There is no scale without discipline. Mike continues:
+"Open source projects will not be required to directly implement the mandated
+processes described in the CRA," [observes Mike
+Milinkovich](https://eclipse-foundation.blog/2023/12/19/good-news-on-the-cyber-resilience-act/),
+a leader in the Open Source community's response. "But every commercial product
+made available in the EU which is built on top of those open source projects
+_will_. I predict this will put pressure on projects and communities to enhance
+their processes to assist in downstream commercialization." There is no scale
+without discipline. Mike continues (emphasis added):
 
 > After all, if a project is used in hundreds of products, doing the bulk of
 > the CE Mark conformance work in the project rather than repeating the effort
-> hundreds of times makes enormous sense. But as we all know, OSS projects at
-> the moment simply do not have the resources to do this. It is impossible to
+> hundreds of times makes enormous sense. But as we all know, **OSS projects at
+> the moment simply do not have the resources to do this**. It is impossible to
 > know how all of this will play out, but an optimistic hypothesis is that once
 > companies are required by law to meet secure software development practices
 > they will be incented to invest in the upstream projects they rely upon.
 
 Pessimistic hypotheses are also available, but let's share Mike's optimism. If
-we are to make the best of this new legal landscape, FOSS foundations need our
-support _more than ever_ in order to live up to the demands of an Open Source
-software steward.
+we are to make the best of this new legal landscape, we need to support FOSS
+foundations _now more than ever_ in order for them to live up to the demands of
+an Open Source software steward. If we are to regulate Open Source like a
+restaurant, let us also [fund Open Source like a
+restaurant](/2024/open-source-is-a-restaurant/#the-restaurant-analogy).
 
-## Rounding Out the Role
+## Rounding Out the Roles
 
 Historically, FOSS foundations have focused on some things and not others. Back in
 2009, Stephen Walli and co-author Paula Hunter [taxonomized these things as
@@ -184,29 +189,23 @@ ago jump out:
    events for the community."
 
 With government regulation of Open Source, foundations seem poised to take on
-even more responsibility. In the limit, they could even evolve into weird
-software companies. Sentry has teams that provide a legal framework for IP
+even more responsibility. In the limit, they could even evolve to look like weird
+software companies. Consider a software company like my employer, Sentry. It provides a legal framework for IP
 management, technical services, and general management and operations. We have
 a service reliability team, and events and marketing staff. We _also_ have a
 full-fledged product engineering organization—the bulk of our company.
 
-Will the foundations of the future employ engineers, to meet the
-demands placed on them, directly or indirectly, by the CRA?
+Will the foundations of the future employ engineers, to meet the demands
+(direct or indirect) of regulators?
 [Django](https://www.djangoproject.com/fundraising/#who-are-the-django-fellows)
 and [Ruby
 Central](https://rubycentral.org/news/ruby-central-welcomes-new-software-engineer-in-residence-sponsored-by-aws/)
 have started down this path. PHP is [furthest
-along](https://thephp.foundation/structure/#core_developers). Taken to its conclusion, this would change
-the character of our foundations, but not necessarily in a bad way. There is no
-scale without discipline.
-
-If we are to regulate Open Source like a restaurant, let's also [fund Open
-Source like a restaurant](/2024/open-source-is-a-restaurant/). Let's [preserve
-the heart and soul of Open
-Source](/2024/a-vision-for-software-commons/#the-heart-of-open-source), _and_
-deliver the safety and security that the European Union and the world need from
-us.
-
----
-
-{% include img.html src="social.webp" caption="" url="" %}
+along](https://thephp.foundation/structure/#core_developers). Taken to its
+conclusion, this would change the character of our foundations, but not
+necessarily in a bad way. There is no scale without discipline, and there are
+ways to scale that [preserve the heart and soul of Open
+Source](/2024/a-vision-for-software-commons/#the-heart-of-open-source).
+Foundations have an opportunity—perhaps an obligation—to play a pivotal role in
+ensuring that homegrown green onions from a thousand back yards are safe for
+mass consumption.
