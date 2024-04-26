@@ -175,7 +175,7 @@ follows](https://www.jolts.world/index.php/jolts/article/view/64/148):
    1. Support Across the Project Lifecycle
    1. Funding: Members, Dues, and Donations
 
-With some minor modifications (rip forges lol), these still obtain. Two
+With some minor modifications (rip forges lol), these still apply. Two
 things foundations own today more clearly than 15 years
 ago jump out:
 
