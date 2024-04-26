@@ -1,7 +1,6 @@
 ---
 title: OSS Stewards as Software Restaurants
 excerpt: With new EU legislation, Open Source foundations are growing up fast. Where are we headed?
-noindex: true
 ---
 
 I took AP Computer Science in 1994, in a small lab with a dozen
