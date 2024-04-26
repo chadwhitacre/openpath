@@ -8,7 +8,7 @@ I took AP Computer Science in 1994, in a small lab with a dozen
 Macintoshes. For homework, we scribbled top-down
 designs and Pascal snippets on paper. Some we typed in the next day.
 
-My mom, a math teacher in a different district, drove me to CompUSA at Parkway
+A few weeks in, my mom (a math teacher in a different district) drove me to CompUSA at Parkway
 Center Mall and plunked $124.99 plus tax for a shrink-wrapped box with Borland
 Turbo Pascal on probably half a dozen 3½" floppies to install on our Gateway 2000.
 We [ate at Chi-Chi’s](https://www.reddit.com/r/pittsburgh/comments/16ufhkw/who_remembers_shopping_at_compusa_and_then/) and I got fried ice cream but not
@@ -19,7 +19,7 @@ paper.
 
 {% include img.html src="level-3.gif" caption="Parkway Center Mall floorplan dot tumblr dot com" url="https://www.tumblr.com/kirbypuckett/42594346160/parkway-center-mall" %}
 
-This is the context in which I read Stephen Walli's "[My [Memes About] Free and
+I thought about this experience when I read Stephen Walli's "[My [Memes About] Free and
 Open Source
 Software"](https://medium.com/@stephenrwalli/my-history-of-free-and-open-source-software-1bac0a75a6ba#5ea4)
 (a good post with a bad title; also, the emphasis below is mine):
@@ -54,7 +54,7 @@ Union law as the <b>steward</b>. This is one of the most remarkable aspects of
 the [Cyber Resilience Act
 (CRA)](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_EN.pdf), a
 new piece of legislation that has kept the Open Source community in Europe
-quite busy for the past 18 months. U.S. devs are less aware of it, but it will
+quite busy for the past 18 months. Many outside Europe are less aware of it, but it will
 have a profound impact on all of us in the coming years. (I started [wrapping my
 head around the CRA in this
 ticket](https://github.com/chadwhitacre/openpath/issues/40), so if you want to
