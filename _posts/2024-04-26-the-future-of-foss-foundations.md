@@ -1,5 +1,5 @@
 ---
-title: OSS Stewards as Software Restaurants
+title: The Future of FOSS Foundations 
 excerpt: With new EU legislation, Open Source foundations are growing up fast. Where are we headed?
 ---
 
@@ -20,7 +20,7 @@ paper.
 
 I thought about this experience when I read Stephen Walli's "[My [Memes About] Free and
 Open Source
-Software"](https://medium.com/@stephenrwalli/my-history-of-free-and-open-source-software-1bac0a75a6ba#5ea4)
+Software](https://medium.com/@stephenrwalli/my-history-of-free-and-open-source-software-1bac0a75a6ba#5ea4)"
 (a good post with a bad title; also, the emphasis below is mine):
 
 > <b>Meme #7: Don’t confuse products with projects.</b>
