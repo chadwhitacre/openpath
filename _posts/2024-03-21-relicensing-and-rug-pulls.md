@@ -35,11 +35,12 @@ url="https://github.com/redis/redis/blob/ed9b544e10b84cd43348ddfab7068b610a5df1f
   relicensing in [their 2021
   post](https://redis.com/blog/redis-labs-modules-license-changes/).
 
-- <b>2021</b>—[Commons Clause](https://commonsclause.com/) is a fine idea with
-  an unfortunate name. It's a non-compete rider on an otherwise Open Source
-  license ... but a commons is precisely a resource that is [governed
-  openly](https://www.amazon.com/dp/0521405998), not corporately. Due in part to
-  related controversy, Redis [relicensed its **modules**
+- <b>2021</b>—[Commons Clause](https://commonsclause.com/) is a controversial
+  idea—a non-compete rider on an otherwise Open Source license—with a controversial name. Apache [pushed
+  back](https://www.apache.org/foundation/license-faq.html#mod-license) on
+  trademark grounds. What's more, a commons is precisely a resource that is
+  [governed openly](https://www.amazon.com/dp/0521405998), not corporately. Probably
+  due to this controversy, Redis [relicensed its **modules**
   again](https://redis.com/blog/redis-labs-modules-license-changes/) to a new
   license: the non-compete Redis Source Available License (<b>RSAL</b>).
 
