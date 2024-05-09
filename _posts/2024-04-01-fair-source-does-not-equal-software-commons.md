@@ -1,7 +1,6 @@
 ---
 title: Fair Source <> Software Commons
 excerpt: Fair Source is about licensing. Software Commons is about funding. Let's do both ... separately.
-series: funding
 ---
 
 Yes, it is April 1. No, this is not an April Fools Joke. This is a quick post

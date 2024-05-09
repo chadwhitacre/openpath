@@ -1,7 +1,6 @@
 ---
 title: Towards Software Commons
 excerpt: The world is ready for something beyond Open Source. Is it Software Commons?
-series: funding
 ---
 
 A number of us have been [working for the past six

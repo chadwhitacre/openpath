@@ -1,7 +1,6 @@
 ---
 title: The Case for an Institution
 excerpt: Software Commons is a great name. But for what? It should be an institution.
-series: funding
 ---
 
 Over [on GitHub][0] we've (mostly) converged on "[Software Commons][19]" as our
