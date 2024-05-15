@@ -74,7 +74,7 @@ monitor self-hosted. The data comes from our [opt-in
 beacon](https://develop.sentry.dev/self-hosted/#self-hosted-beacon). Of course,
 many users do not opt in, or have network configurations that block beacon
 traffic even if sent. (A few months ago we noticed a precipitous decline over
-the course of an hour. Nearly 10% of instances stopped reporting.
+the course of an hour. Nearly 20% of instances stopped reporting.
 Investigation showed patterns in admin emails of dropped instances that lead us
 to hypothesize that China blocked us at the Great Firewall.) The self-hosted
 instances visible to us are an unknowable fraction of the overall install base.
