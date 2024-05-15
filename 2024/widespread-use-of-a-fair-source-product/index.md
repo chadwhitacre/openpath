@@ -87,8 +87,8 @@ had [a bug until recently](https://github.com/getsentry/sentry/pull/62441) that
 prevents us from filtering out inactive instances from versions older than five
 months. We currently show <b>3,950</b> active instances running versions published
 in the past five months. These two bounds, along with the recognition that many
-instances do not report their existence to us, led me to [claim <b>**10,000+
-instances**</b> as a conservative
+instances do not report their existence to us, led me to [claim **<b>10,000+
+instances</b>** as a conservative
 estimate](https://twitter.com/chadwhitacre_/status/1790382981028159807).
 
 As to my claim that users range from hobbyists to FAANG companies, I'm not
