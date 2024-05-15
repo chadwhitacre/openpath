@@ -99,7 +99,7 @@ going to speak further. I'm content to let those doubt who will.
 
 Besides doubting my claim about the widespread adoption of Sentry under
 licenses that we now call Fair Source, Eric makes another point worth
-addressing.
+addressing:
 
 > There seems to be an inconsistency between the claim that “fair source” is
 > already in wide use and the fact that some people are only now getting around
