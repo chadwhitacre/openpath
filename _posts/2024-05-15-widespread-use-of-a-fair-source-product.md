@@ -38,7 +38,7 @@ errors and performance issues in software products. David Cramer started the
 project 16 years ago as [an unlicensed 71-line Django
 plugin](https://github.com/getsentry/sentry/commit/3c2e87573d3bd16f61cf08fece0638cc47a4fc22).
 Today 300+ people produce Sentry in a corporation with a SaaS hosting business
-serving 90,000+ customers. We get occassional code contributions from non-staff
+serving 100,000+ customers. We get occassional code contributions from non-staff
 (much more so in our SDKs, which are MIT-licensed), but by and large
 Sentry-the-product has [always been produced](https://blog.sentry.io/nows-the-time-for-delayed-open-source/#sentrys-history-with-delayed-open-source) by Sentry-the-company.
 
