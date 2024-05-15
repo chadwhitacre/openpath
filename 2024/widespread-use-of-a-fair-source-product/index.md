@@ -146,7 +146,7 @@ it](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintaine
 As producers of software, yes: we are "now getting around to naming and
 formulating the concept and putting up a website about it." The reason it took
 Sentry so long is because we wanted so badly to make this work inside of Open
-Source. Like n8n before us, we have now
+Source. Now, like n8n before us, we have
 [ceded](https://blog.sentry.io/lets-talk-about-open-source/).
 
 Agree or disagree with the formulation of Fair Source, it's not tenable to
