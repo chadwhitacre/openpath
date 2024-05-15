@@ -45,7 +45,7 @@ are MIT-licensed), but by and large Sentry-the-product has [always been
 produced](https://blog.sentry.io/nows-the-time-for-delayed-open-source/#sentrys-history-with-delayed-open-source)
 by Sentry-the-company.
 
-{% include img.html src="Percentage_of_Commits_by_Era_and_Relation.webp" caption="Sentry has always been produced by Sentry" url="https://blog.sentry.io/nows-the-time-for-delayed-open-source/#sentrys-history-with-delayed-open-source" %}
+{% include img.html src="Percentage_of_Commits_by_Era_and_Relation.webp" caption="Sentry has always been produced by Sentry." url="https://blog.sentry.io/nows-the-time-for-delayed-open-source/#sentrys-history-with-delayed-open-source" %}
 
 In addition to SaaS, we offer [self-hosted
 Sentry](https://github.com/getsentry/self-hosted), a Docker Compose packaging
@@ -151,6 +151,6 @@ Sentry so long is because we wanted so badly to make this work inside of Open
 Source. Now, like n8n before us, we have
 [ceded](https://blog.sentry.io/lets-talk-about-open-source/).
 
-Agree or disagree with the formulation of Fair Source, it's not tenable to
-argue against it _a priori_. The proof of the pudding is in the eating, and
-10,000+ are happily doing so.
+Agree or disagree with the formulation of Fair Source, arguing against it _a
+priori_ is untenable. The proof of the pudding is in the eating, and 10,000+ do
+happily.
