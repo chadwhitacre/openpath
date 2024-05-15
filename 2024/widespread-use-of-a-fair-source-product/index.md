@@ -7,10 +7,10 @@ noindex: true
 We aim to [launch Fair Source](https://github.com/fairsource/fair.io/issues/14)
 in July, just shy of a year since Adam Jacob's [call for a new
 term](https://twitter.com/adamhjk/status/1687113805237714944) after our
-[Codecov misstep](https://news.ycombinator.com/item?id=36971490).  Yesterday,
+[Codecov misstep](https://news.ycombinator.com/item?id=36971490). Yesterday,
 we hit ESR's radar. His [reaction was
 negative](https://twitter.com/esrtweet/status/1790350881424056680): "No
-corporate legal department will *ever* sign off on letting a 'fair source'
+corporate legal department will _ever_ sign off on letting a 'fair source'
 project be used in house[.]" I
 [said](https://twitter.com/chadwhitacre_/status/1790382981028159807) that
 Sentry seems a clear existence proof to the contrary. Eric [inquired
@@ -22,8 +22,7 @@ further](https://twitter.com/esrtweet/status/1790680602053579084):
 > 1. There seems to be an inconsistency between the claim that "fair source" is
 >    already in wide use and the fact that some people are only now getting
 >    around to naming and formulating the concept and putting up a website
->    about it. 
->
+>    about it.
 > 2. If it's nevertheless true, I'm wondering why no word of such an important
 >    development had never [sic] reached me before.
 >
@@ -32,7 +31,6 @@ further](https://twitter.com/esrtweet/status/1790680602053579084):
 In this post I aim to back up my claim. I'll explain what self-hosted Sentry
 is, then unpack my claim that we have 10,000+ installations out in the wild.
 I'll end by addressing Eric's additional points.
-
 
 ## Self-hosted Sentry
 
@@ -55,7 +53,7 @@ is suitable out of the box for low-volume and proof-of-concept deployments, and
 also serves as a blueprint for those who want to operate Sentry at scale. The
 feature set is the same between self-hosted and SaaS. In fact, sufficiently
 motivated self-hosted users can enable bleeding edge features before they're
-enabled in SaaS. We do not monetize self-hosted Sentry. 
+enabled in SaaS. We do not monetize self-hosted Sentry.
 
 Since 2019, we have licensed Sentry using what the Open Source Initiative (OSI)
 recently called "[delayed Open Source
