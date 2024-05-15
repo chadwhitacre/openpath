@@ -67,7 +67,7 @@ License](https://blog.sentry.io/introducing-the-functional-source-license-freedo
 (FSL). Both our BSL and the FSL count for what we now classify as "Fair
 Source." We have almost five years of history with the practice.
 
-## Receipts
+## Receipts (Almost)
 
 Sentry has a dashboard on one of our internal BI platforms that we use to
 monitor self-hosted. The data comes from our [opt-in
@@ -79,7 +79,7 @@ Investigation showed patterns in admin emails of dropped instances that lead us
 to hypothesize that China blocked us at the Great Firewall.) The self-hosted
 instances visible to us are an unknowable fraction of the overall install base.
 
-{% include img.html src="dashboard.webp" caption="No, you can't see the whole dashboard." %}
+{% include img.html src="dashboard.webp" caption="No, you can't actually see the dashboard." %}
 
 We show <b>18,751</b> self-hosted instances in the wild running versions published
 in the past five years. Not all of these are active instances, however, and we
