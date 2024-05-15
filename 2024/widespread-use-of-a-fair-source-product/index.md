@@ -81,12 +81,13 @@ instances visible to us are an unknowable fraction of the overall install base.
 
 {% include img.html src="dashboard.webp" caption="No, you can't actually see the dashboard." %}
 
-We show <b>18,751</b> self-hosted instances in the wild running versions published
-in the past five years. Not all of these are active instances, however, and we
-had [a bug until recently](https://github.com/getsentry/sentry/pull/62441) that
-prevents us from filtering out inactive instances from versions older than five
-months. We currently show <b>3,950</b> active instances running versions published
-in the past five months. These two bounds, along with the recognition that many
+We show <b>18,751</b> self-hosted instances in the wild running versions
+published in the past five years, under what we now call Fair Source licenses.
+Not all of these are active instances, however, and we had [a bug until
+recently](https://github.com/getsentry/sentry/pull/62441) that prevents us from
+filtering out inactive instances from versions older than five months. We
+currently show <b>3,950</b> active instances running versions published in the
+past five months. These two bounds, along with the recognition that many
 instances do not report their existence to us, led me to [claim **<b>10,000+
 instances</b>** as a conservative
 estimate](https://twitter.com/chadwhitacre_/status/1790382981028159807).
