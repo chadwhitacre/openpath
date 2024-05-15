@@ -120,7 +120,7 @@ origin story](https://github.com/n8n-io/n8n/issues/40) that [kicked off five
 years
 ago](https://github.com/faircode-io/faircode/commit/fd15361f8af9c19910f773768f632a1713f3e89b).
 They [agree in principle](https://github.com/fairsource/fair.io/issues/10) to
-merge into Fair Source once we're further along. The reason they chose Fair
+merge into Fair Source when the time is right. The reason they chose Fair
 Code in the first place is because Fair Source was already staked out for the
 name of a particular license. That license has little traction (it's not listed
 in SPDX) and the steward has moved on, making way for us to revive the term for
