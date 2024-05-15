@@ -67,7 +67,7 @@ License](https://blog.sentry.io/introducing-the-functional-source-license-freedo
 (FSL). Both our BSL and the FSL count for what we now classify as "Fair
 Source." We have almost five years of history with the practice.
 
-## The Receipts
+## Receipts
 
 Sentry has a dashboard on one of our internal BI platforms that we use to
 monitor self-hosted. The data comes from our [opt-in
@@ -79,14 +79,16 @@ Investigation showed patterns in admin emails of dropped instances that lead us
 to hypothesize that China blocked us at the Great Firewall.) The self-hosted
 instances visible to us are an unknowable fraction of the overall install base.
 
-We show **18,751 self-hosted instances** in the wild running versions published
+{% include img.html src="dashboard.webp" caption="No, you can't see the whole dashboard." %}
+
+We show <b>18,751</b> self-hosted instances in the wild running versions published
 in the past five years. Not all of these are active instances, however, and we
 had [a bug until recently](https://github.com/getsentry/sentry/pull/62441) that
 prevents us from filtering out inactive instances from versions older than five
-months. We currently show **3,950 active instances** running versions published
+months. We currently show <b>3,950</b> active instances running versions published
 in the past five months. These two bounds, along with the recognition that many
-instances do not report their existence to us, led me to [claim **10,000+
-instances** as a conservative
+instances do not report their existence to us, led me to [claim <b>**10,000+
+instances**</b> as a conservative
 estimate](https://twitter.com/chadwhitacre_/status/1790382981028159807).
 
 As to my claim that users range from hobbyists to FAANG companies, I'm not
