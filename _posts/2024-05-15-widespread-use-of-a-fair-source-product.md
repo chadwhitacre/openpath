@@ -1,7 +1,6 @@
 ---
 title: Widespread Use of a Fair Source Product
 excerpt: Self-hosted Sentry is a clear existence proof of the viability of the Fair Source model.
-noindex: true
 ---
 
 We aim to [launch Fair Source](https://github.com/fairsource/fair.io/issues/14)
