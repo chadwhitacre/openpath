@@ -79,7 +79,7 @@ Investigation showed patterns in admin emails of dropped instances that lead us
 to hypothesize that China blocked us at the Great Firewall.) The self-hosted
 instances visible to us are an unknowable fraction of the overall install base.
 
-{% include img.html src="dashboard.webp" caption="No, you can't actually see the dashboard." %}
+{% include img.html src="dashboard.webp" caption="No, you can't actually see the dashboard." url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" %}
 
 We show <b>18,751</b> self-hosted instances in the wild running versions
 published in the past five years, under what we now call Fair Source licenses.
@@ -110,6 +110,8 @@ claim more modestly that _Sentry_ is already in wide use under licenses that we
 now call Fair Source. This is sufficient to disprove Eric's original statement,
 that "No corporate legal department will ever sign off on letting a ‘fair
 source’ project be used in house[.]" Thousands have.
+
+{% include img.html src="atlassian.webp" caption="Atlassian's legal department did not drive their migration." url="https://sentry.io/customers/atlassian/" %}
 
 That said, the roots of Fair Source are not as shallow as they might seem.
 [Fair Code](https://web.archive.org/web/20240508232939/https://faircode.io/)
