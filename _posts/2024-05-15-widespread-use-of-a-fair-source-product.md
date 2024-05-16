@@ -152,5 +152,5 @@ Source. Now, like n8n before us, we have
 [ceded](https://blog.sentry.io/lets-talk-about-open-source/).
 
 Agree or disagree with the formulation of Fair Source, arguing against it _a
-priori_ is untenable. The proof of the pudding is in the eating, and 10,000+ do
-happily.
+priori_ is untenable. The proof of the pudding is in the eating, and 10,000+
+feast happily.
