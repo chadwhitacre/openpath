@@ -4,10 +4,10 @@ excerpt: Self-hosted Sentry is a clear existence proof of the viability of the F
 ---
 
 We aim to [launch Fair Source](https://github.com/fairsource/fair.io/issues/14)
-in July, just shy of a year since Adam Jacob's [call for a new
+in ~~July~~ _August_, just over a year from Adam Jacob's [call for a new
 term](https://twitter.com/adamhjk/status/1687113805237714944) after our
-[Codecov misstep](https://news.ycombinator.com/item?id=36971490). Yesterday,
-we hit ESR's radar. His [reaction was
+[Codecov misstep](https://news.ycombinator.com/item?id=36971490). Yesterday, we
+hit ESR's radar. His [reaction was
 negative](https://twitter.com/esrtweet/status/1790350881424056680): "No
 corporate legal department will _ever_ sign off on letting a 'fair source'
 project be used in house[.]" I
