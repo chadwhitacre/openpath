@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
   <head>
-    {% capture page_image %}{{ page.url | absolute_url }}social.webp{%
-    endcapture %}
+    {% capture page_url %}{{ page.url | absolute_url }}{% endcapture %}
+    {% capture image_url %}{{ page_url }}social.webp{% endcapture %}
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style>
@@ -26,18 +26,18 @@
     </title>
     <meta name="description" content="{{ page.excerpt }}" />
 
-    <meta name="url" property="og:url" content="https://openpath.chadwhitacre.com/" />
-    <meta name="type" property="og:type" content="website" />
-    <meta name="title" property="og:title" content="{{ page.title }}" />
-    <meta name="description" property="og:description" content="{{ page.excerpt }}" />
-    <meta name="image" property="og:image" content="{{ page_image }}" />
+    <meta property="og:url" content="{{ page_url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.excerpt }}" />
+    <meta property="og:image" content="{{ image_url }}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="twitter:domain" content="openpath.chadwhitacre.com" />
-    <meta property="twitter:url" content="https://openpath.chadwhitacre.com/" />
+    <meta property="twitter:url" content="{{ page_url }}" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{{ page.excerpt }}" />
-    <meta name="twitter:image" content="{{ page_image }}" />
+    <meta name="twitter:image" content="{{ image_url }}" />
 
     <!-- ty https://emojitofavicon.com/ 🙏 -->
     <link
