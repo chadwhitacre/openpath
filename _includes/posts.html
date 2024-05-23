@@ -4,7 +4,7 @@
     <a class="title" href="{{ post.url }}">{{ post.title }}</a>
   </h3>
   <div class="meta">
-    {{ post.date | date: "%Y-%m-%d" }} ❧ {{ post.excerpt }}
+    {{ forloop.rindex }} ❧ {{ post.date | date: "%Y-%m-%d" }} ❧ {{ post.excerpt }}
   </div>
 </div>
 {% endfor %}
