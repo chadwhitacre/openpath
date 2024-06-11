@@ -104,7 +104,7 @@ Hobby projects are akin to residential kitchens. Mounting expectations such as
 and [EO
 14028](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)
 are akin to OSHA inspections. We need Open Source foundations to
-become commercial kitchens, as it were, fit to deliver at scale. At the same
+[become commercial kitchens](/2024/the-future-of-foss-foundations/), as it were, fit to deliver at scale. At the same
 time, we need foundations to find ways of funding individuals that [fit the
 Open Source ethos of collaborative
 autonomy](/2024/a-vision-for-software-commons/#the-heart-of-open-source). If
