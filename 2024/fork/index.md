@@ -200,11 +200,12 @@ of the OSD, then the alliance has come to an end.
 ## The Key Is Delayed Open Source
 
 With trust at an all-time low, the best option to resolve the tension between
-community and single-vendor interests is to friendly-fork the Open Source brand. But,
-can this be amicable? We've been together for 25 years! Companies with
-single-vendor projects also run and participate in community projects. Most
-developers use both. We're all part of the wider developer community and
-technology industry.
+community and single-vendor interests seems to be to fork the Open Source
+brand. Ideally, it can be a _friendly_ fork. We've been together for 25 years.
+Companies with single-vendor projects also run and participate in community
+projects. Most developers use both. We're all part of the wider developer
+community and technology industry. Let's see if we can do this amicably and in
+a somewhat orderly fashion.
 
 The key to Fair Source is [delayed Open Source
 publication](https://opensource.org/dosp). That is our olive branch to the
