@@ -1,15 +1,15 @@
 ---
-title: The Coming Fork of Open Source
-excerpt: First there was Free Software, then Open Source. Now, get ready for Fair Source.
+title: The Coming Friendly Fork of Open Source
+excerpt: "First there was Free Software, then Open Source. Now, get ready for a friendly fork: Fair Source."
 noindex: true
 ---
 
-A new brand of software sharing is emerging out of Open Source, along a fault
-line present since Day Zero. The new name is [Fair Source](https://fair.io/),
+A new brand of software sharing is emerging out of Open Source, along a seam
+present since Day Zero. The new name is [Fair Source](https://fair.io/),
 and it will free up companies to share their core software products like never
 before. But first, it will cause some turbulence.
 
-Many Open Source advocates will see the Fair Source fork as a helpful
+Many Open Source advocates will see the Fair Source friendly fork as a helpful
 clarification that relieves the pressure we've seen year after year to change
 the Open Source Definition
 ([latest](https://danb.me/blog/futo-open-source-definition/)). Unfortunately,
@@ -22,9 +22,9 @@ Zero, the day when Free Software advocates capitalized on Netscape Navigator's
 source code release to [create the Open Source
 brand](https://opensource.org/history).
 
-What is the fault line? What is the key?
+What is the seam? What is the key?
 
-## The Fault Line Is Governance
+## The Seam Is Governance
 
 Dirk Riehle, professor of Open Source software at University of Erlangen,
 published an article in 2009 entitled, "[The Single-Vendor Commercial Open
@@ -200,7 +200,7 @@ of the OSD, then the alliance has come to an end.
 ## The Key Is Delayed Open Source
 
 With trust at an all-time low, the best option to resolve the tension between
-community and single-vendor interests is to fork the Open Source brand. But,
+community and single-vendor interests is to friendly-fork the Open Source brand. But,
 can this be amicable? We've been together for 25 years! Companies with
 single-vendor projects also run and participate in community projects. Most
 developers use both. We're all part of the wider developer community and
@@ -249,7 +249,7 @@ default in [BUSL](https://spdx.org/licenses/BUSL-1.1).
 ### Early Feedback Is Positive
 
 Thankfully, some voices who would limit Open Source based on governance are
-also seeing value in the Fair Source fork.
+also seeing value in the Fair Source friendly fork.
 
 - <b>Matt Wilson</b>, early Red Hat employee and long-time FOSS advocate,
   [offered the following
@@ -306,7 +306,7 @@ version and take it in a different direction.
 Dirk asked in 2021, "[What’s next after
 'source-available'?](https://dirkriehle.com/2021/10/05/whats-next-after-source-available/)"
 Our answer is [Fair Source](https://fair.io/). In this post I've presented the
-historical case for forking, and for a key feature, eventual Open Source.
+historical case for friendly-forking, and for a key feature, eventual Open Source.
 There's much more to define and design. [Join us on
 GitHub](https://github.com/fairsource/fair.io/issues/14) to participate. You
 can also [subscribe there](https://github.com/fairsource/fair.io/issues/14) or
