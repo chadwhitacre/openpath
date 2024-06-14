@@ -13,9 +13,9 @@ Many Open Source advocates will see the Fair Source friendly fork as a helpful
 clarification that relieves the pressure we've seen year after year to change
 the Open Source Definition
 ([latest](https://danb.me/blog/futo-open-source-definition/)). Unfortunately,
-some will likely cast Fair Source as an enemy of Open Source. Let's not
+some people will likely cast Fair Source as an enemy of Open Source. Let's not
 let them carry the day. Fair Source and Open Source can and should be seen as
-complementary approaches that both have their place.
+complementary approaches that both have their place. This is a friendly fork.
 
 Thankfully—remarkably—the key to Fair Source was _also_ present in 1998 on Day
 Zero, the day when Free Software advocates capitalized on Netscape Navigator's
