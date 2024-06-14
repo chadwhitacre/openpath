@@ -90,7 +90,7 @@ judgement](https://dirkriehle.com/2020/03/12/please-help-keep-our-language-preci
 > dominance and control of a proprietor in both the traditional closed source
 > and the single-vendor open source case without confusing the two.
 
-In 2023, he called outright for [excluding commercial Open Source from the Open
+In 2023, he observed efforts to outright [exclude commercial Open Source from the Open
 Source
 Definition (OSD)](https://dirkriehle.com/publications/2023-selected/the-future-of-the-open-source-definition/):
 
