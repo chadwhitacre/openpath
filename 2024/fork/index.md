@@ -4,7 +4,7 @@ excerpt: "First there was Free Software, then Open Source. Now, get ready for a 
 noindex: true
 ---
 
-A new brand of software sharing is splitting off of Open Source in a friendly
+A new brand of software sharing is separating from Open Source in a friendly
 fork, along a seam present since Day Zero. The new name is [Fair
 Source](https://fair.io/), and it will free up companies to share their core
 software products like never before.  But first, it will cause some turbulence.
