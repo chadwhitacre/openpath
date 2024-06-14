@@ -1,5 +1,5 @@
 ---
-title: The Coming Friendly Fork of Open Source
+title: A Friendly Fork of Open Source is Coming
 excerpt: "First there was Free Software, then Open Source. Now, get ready for a friendly fork: Fair Source."
 noindex: true
 ---
