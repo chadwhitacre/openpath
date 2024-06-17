@@ -30,8 +30,8 @@ two:
    ARR](https://blog.sentry.io/building-for-the-fortune-500-000/). Fair Source
    is clearly safe for our business.
 
-Our experience is an existence proof for what is possible. Our ideal outcome is
-many companies opening up their closed-source products. FSL has allowed
+Sentry is an existence proof for what is possible. Our ideal outcome is
+for many more companies to open up their closed-source products. FSL has allowed
 [AnswerOverflow](https://www.answeroverflow.com/),
 [Codecrafters](https://codecrafters.io/), [Convex](https://www.convex.dev/),
 [GitButler](https://gitbutler.com/), and
@@ -90,7 +90,9 @@ Change the name to HashiCorp or Redis, and we have the same controversy over
 pulls](https://openpath.chadwhitacre.com/2024/relicensing-and-rug-pulls/) today
 as 16 years ago. An ideal outcome with Fair Source is that fewer companies
 would rug-pull, because more companies would start out Fair Source to begin
-with. Developers would know [what kind of community](https://dirkriehle.com/2021/01/23/two-types-of-open-source-communities/) they're getting into.
+with. Developers would clearly know up front [what kind of
+community](https://dirkriehle.com/2021/01/23/two-types-of-open-source-communities/)
+they're getting into.
 
 ### The Gradual Rejection of COSS
 
@@ -233,7 +235,7 @@ of the OSD, then the alliance seems to be at an end.
 
 ## Delayed Open Source, Better Than Closed
 
-One key element of Fair Source is [delayed Open Source
+The defining element of Fair Source is [delayed Open Source
 publication](https://opensource.org/dosp). Karl Fogel
 and coauthors [defined the term in a
 whitepaper](https://opensource.org/delayed-open-source-publication) for OSI
@@ -267,12 +269,12 @@ In other words, delayed Open Source mitigates against vendor lock-in and
 platform decay. If push comes to shove, another party—community or
 commercial—can fork an older version of the software and take it in a different
 direction. Fair Source software confers real benefits today, and it
-meaningfully protects both users and producers.
+meaningfully protects both users and producers against worst-case scenarios.
 
 
 ### It Was There All Along
 
-The paper authors credit GhostScript as the first to go this route, "around
+The DOSP paper authors credit GhostScript as the first to go this route, "around
 1998" (p. 6). The idea is on record even earlier, from Richard Stallman
 himself, in of all things his March, 1998 [response to the release of the
 Netscape Navigator source
@@ -300,19 +302,19 @@ Source since the beginning.
 Wilson</b>'s](https://x.com/_msw_/status/1792710296957841408) and [<b>Eric
 Raymond</b>'s](https://x.com/esrtweet/status/1790870518456861153) feedback
 above.
-- <b>Dan Brown</b>, maintainer of [Open Source Confusion
-Cases](https://github.com/ssddanbrown/Open-Source-Confusion-Cases/), has
-started [recommending Fair
-Source](https://x.com/ssddanbrown/status/1799801803871322607) as an alternative
-term.
 - <b>Adam Jacob</b>, co-founder of Chef and founder of System Initiative,
 gave the [call to adventure](https://x.com/adamhjk/status/1687113805237714944)
 a year ago that began this story arc, and he recently
 [agreed](https://x.com/adamhjk/status/1790105587533099438), "I think 'Fair
 Source' is a good enough name."
+- <b>Dan Brown</b>, maintainer of [Open Source Confusion
+Cases](https://github.com/ssddanbrown/Open-Source-Confusion-Cases/), has
+started [recommending Fair
+Source](https://x.com/ssddanbrown/status/1799801803871322607) as an alternative
+term.
 - <b>Dirk Riehle</b> himself recently
 [noticed](https://dirkriehle.com/2024/02/07/what-about-skipping-the-open-source-part-in-commercial-open-source/)
-Fair Source early adopter GitButler:
+FSL adopter GitButler:
 > It will be interesting to see whether GitButler can build a [Fair Source]
 > community like commercial open source firms were able to build an open source
 > community around their software."
