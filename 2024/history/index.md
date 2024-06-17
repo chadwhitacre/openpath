@@ -15,7 +15,7 @@ One way to think about Fair Source software is __safety__:
 
 1. Safe for <b>developers</b> to read, run, modify, and contribute back to
    without undue compliance risk.
-1. Safe for <b>companies</b> to apply to their core products without risk to
+1. Safe for <b>companies</b> to adopt for their core software products without risk to
    their business.
 
 At Sentry we have been applying what we are now calling Fair Source principles
@@ -30,9 +30,9 @@ two:
    ARR](https://blog.sentry.io/building-for-the-fortune-500-000/). Fair Source
    is clearly safe for our business.
 
-Our experience shows what is possible, and if we can do it, so can you. The
-outcome we're going for is more companies opening up their closed-source
-products.  FSL has allowed [AnswerOverflow](https://www.answeroverflow.com/),
+Our experience is an existence proof for what is possible. Our ideal outcome is
+many companies opening up their closed-source products. FSL has allowed
+[AnswerOverflow](https://www.answeroverflow.com/),
 [Codecrafters](https://codecrafters.io/), [Convex](https://www.convex.dev/),
 [GitButler](https://gitbutler.com/), and
 [PowerSync](https://www.powersync.com/) to do just that. But FSL is not right
