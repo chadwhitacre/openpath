@@ -1,30 +1,61 @@
 ---
-title: A Friendly Fork of Open Source is Coming
-excerpt: "First there was Free Software, then Open Source. Now, get ready for a friendly fork: Fair Source."
+title: The Historical Case for Fair Source
+excerpt: "First there was Free Software, then Open Source. How did we get to Fair Source?"
 noindex: true
 ---
 
-A new brand of software sharing is separating from Open Source in a friendly
-fork, along a seam present since Day Zero. The new name is [Fair
-Source](https://fair.io/), and it will free up companies to share their core
-software products like never before.  But first, it will cause some turbulence.
+We're creating a new brand of software sharing called [Fair
+Source](https://fair.io/). It relates historically to Open Source (started in
+1998) which relates to Free Software (1983). In some fashion, software sharing
+goes back to the beginning of computing. Why do we need Fair Source now?
 
-Many Open Source advocates will see the Fair Source friendly fork as a helpful
-clarification that relieves the pressure we've seen year after year to change
-the Open Source Definition
-([latest](https://danb.me/blog/futo-open-source-definition/)). Unfortunately,
-some people will likely cast Fair Source as an enemy of Open Source. Let's not
-let them carry the day. Fair Source and Open Source can and should be seen as
-complementary approaches that both have their place. This is a friendly fork.
+### Safe for Developers and Companies Alike
 
-Thankfully—remarkably—the key to Fair Source was _also_ present in 1998 on Day
-Zero, the day when Free Software advocates capitalized on Netscape Navigator's
-source code release to [create the Open Source
-brand](https://opensource.org/history).
+One way to think about Fair Source software is __safety__:
 
-What is the seam? What is the key?
+1. Safe for <b>developers</b> to read, run, modify, and contribute back to
+   without undue compliance risk.
+1. Safe for <b>companies</b> to apply to their core products without risk to
+   their business.
 
-## The Seam Is Governance
+At Sentry we have been applying what we are now calling Fair Source principles
+for 5+ years, and we have clearly been able to achieve a balance between these
+two:
+
+1. We have [10,000+ organizations using self-hosted
+   Sentry](/2024/widespread-use-of-a-fair-source-product/)
+   under [FSL](https://fsl.software/), the flagship license of Fair Source.
+   Fair Source is clearly safe for developers.
+1. We recently announced [100,000 cloud customers and $100 million
+   ARR](https://blog.sentry.io/building-for-the-fortune-500-000/). Fair Source
+   is clearly safe for our business.
+
+Our experience shows what is possible, and if we can do it, so can you. The
+outcome we're going for is more companies opening up their closed-source
+products.  FSL has allowed [AnswerOverflow](https://www.answeroverflow.com/),
+[Codecrafters](https://codecrafters.io/), [Convex](https://www.convex.dev/),
+[GitButler](https://gitbutler.com/), and
+[PowerSync](https://www.powersync.com/) to do just that. But FSL is not right
+for every company. We want to recognize and encourage alternative approaches
+that also combine safety for developers with safety for companies.
+
+But why make it a new brand, Fair Source? Why is Free and Open Source Software
+(FOSS) not sufficient? FOSS is safe for developers, surely. Is it really unsafe
+for companies sharing their core products?
+
+The problem is that there historically have been two very different
+understandings of Open Source: _commercial_ and _community_. They have formed
+an uneasy alliance since the beginning. In launching Fair Source we are
+reinforcing the community view of Open Source, and creating a new brand to
+encourage companies to share their otherwise closed-source core products. In
+the [words of Matt Wilson](https://x.com/_msw_/status/1792710296957841408),
+early Red Hat employee and long-time FOSS advocate:
+
+> Fair Source provides as many of the benefits of Open Source that its
+> producers are comfortable giving, while reserving and asserting a minimal set
+> of exclusive rights to help achieve a sustainable business model.
+
+## The Great Governance Divide
 
 Dirk Riehle, professor of Open Source software at University of Erlangen,
 published an article in 2009 entitled, "[The Single-Vendor Commercial Open
@@ -40,10 +71,11 @@ based on "their different control and ownership structures":
 >   stakeholder with the purpose of commercially exploiting it.
 
 Notable examples of the latter in 2009 were MySQL, SugarCRM, Jaspersoft, and
-Alfresco. There are many more examples today, including my employer, Sentry.
+Alfresco. There are many more examples today, including Sentry and other FSL
+adopters.
 
 Already a year earlier, in 2008, Dirk had drawn attention to the confusion and
-tensions that can arise from housing both models in the Open Source tent.
+tensions that can arise from housing both models under one Open Source tent.
 In "[The Perils of Going from Community to Commercial Open
 Source](https://dirkriehle.com/2008/11/04/the-perils-of-going-from-community-to-commercial-open-source/),"
 Dirk discussed the case of the now-forgotten TWiki. "[U]sing his root access
@@ -56,7 +88,9 @@ left the project and created a fork."
 Change the name to HashiCorp or Redis, and we have the same controversy over
 [relicensing and rug
 pulls](https://openpath.chadwhitacre.com/2024/relicensing-and-rug-pulls/) today
-as 16 years ago.
+as 16 years ago. An ideal outcome with Fair Source is that fewer companies
+would rug-pull, because more companies would start out Fair Source to begin
+with. Developers would know [what kind of community](https://dirkriehle.com/2021/01/23/two-types-of-open-source-communities/) they're getting into.
 
 ### The Gradual Rejection of COSS
 
@@ -142,10 +176,10 @@ to "Open Source Software." It worked. The story caught fire, and Eric and Bruce
 quickly formed the [Open Source Initiative](https://opensource.org/) (OSI) to
 steward the new brand.
 
-Now, Netscape published Mozilla under the [Netscape Public
+Consider this, though: Netscape published Mozilla under the [Netscape Public
 License](https://en.wikipedia.org/wiki/Netscape_Public_License), yet this
-license was either never submitted to OSI or they rejected it. Why might the
-Open Source Initiative have rejected the license of its flagship first project?
+license was either never submitted to OSI or they rejected it. Why might 
+OSI reject the license of its flagship first project?
 
 Richard Stallman (RMS) [documented the
 reasons](https://www.gnu.org/philosophy/netscape-npl.html). Richard had founded
@@ -195,25 +229,15 @@ OSI-approved license.
 commercial and community interests**. The first Open Source project, Mozilla,
 was a single-vendor commercial Open Source project. Dirk, Thierry, and others
 who wish to chide, must chide Netscape. If single-vendor is to be written out
-of the OSD, then the alliance has come to an end.
+of the OSD, then the alliance seems to be at an end.
 
-## The Key Is Delayed Open Source
+## Delayed Open Source, Better Than Closed
 
-With trust at an all-time low, the best option to resolve the tension between
-community and single-vendor interests seems to be to fork the Open Source
-brand. Ideally, it can be a _friendly_ fork. We've been together for 25 years.
-Companies with single-vendor projects also run and participate in community
-projects. Most developers use both. We're all part of the wider developer
-community and technology industry. Let's see if we can do this amicably and in
-a somewhat orderly fashion.
-
-The key to Fair Source is [delayed Open Source
-publication](https://opensource.org/dosp). That is our olive branch to the
-community activists to whom we're ceding the term Open Source. It's also our
-offer to the wider developer community with whom we still identify. Karl Fogel
+One key element of Fair Source is [delayed Open Source
+publication](https://opensource.org/dosp). Karl Fogel
 and coauthors [defined the term in a
-whitepaper](https://opensource.org/delayed-open-source-publication) for the
-Open Source Initiative (underwritten by Sentry):
+whitepaper](https://opensource.org/delayed-open-source-publication) for OSI
+(underwritten by Sentry):
 
 > Delayed Open Source Publication (DOSP) is the practice of distributing or
 > publicly deploying software under a proprietary license at first, then
@@ -223,19 +247,38 @@ Open Source Initiative (underwritten by Sentry):
 Also called "[eventual Open
 Source](https://github.com/ftrotter/OSE/blob/a360875170b4a9818e3a4691beced81d7d5f13a8/OSELicense.asciidoc),"
 the approach is gaining popularity through the
-[BUSL](https://spdx.org/licenses/BUSL-1.1) and (Sentry's
-own) [FSL](https://fsl.software/) licenses, but it has been around since the
-beginning. The researchers credit GhostScript as the first to go this route, "around
-1998" (p. 6).
+[BUSL](https://spdx.org/licenses/BUSL-1.1) and Sentry's
+[FSL](https://fsl.software/). Some, such as Thierry, have been
+[dismissive](https://opensource.net/why-single-vendor-is-the-new-proprietary/):
+
+> Imagine a world where you have to run a buggy two-year-old version with known
+> vulnerabilities because that’s the Open Source one.
+
+This is a strawman argument. The expectation is that you run today's version
+today. As mentioned above, [10,000+ self-hosted Sentry
+users](https://openpath.chadwhitacre.com/2024/widespread-use-of-a-fair-source-product/)
+do just that. Then what's the point of the eventual conversion? Eric Raymond [recognized the
+value](https://x.com/esrtweet/status/1790870518456861153) of DOSP when he said:
+
+> It's the guarantee of a timed flip to full open source that puts a bound on
+> the business and legal risk. That's very clever.
+
+In other words, delayed Open Source mitigates against vendor lock-in and
+platform decay. If push comes to shove, another party—community or
+commercial—can fork an older version of the software and take it in a different
+direction. Fair Source software confers real benefits today, and it
+meaningfully protects both users and producers.
+
 
 ### It Was There All Along
 
-GhostScript may have been the first to put eventual Open Source into practice,
-but the idea is on record even earlier, from Richard Stallman himself, in
-of all things his March, 1998 [response to the release of the Netscape
-Navigator source code](https://www.gnu.org/philosophy/netscape-npl.html)(!). After
-observing the asymmetry in Netscape's license that effectively made Mozilla a
-single-vendor commercial project, he offered this (emphasis mine):
+The paper authors credit GhostScript as the first to go this route, "around
+1998" (p. 6). The idea is on record even earlier, from Richard Stallman
+himself, in of all things his March, 1998 [response to the release of the
+Netscape Navigator source
+code](https://www.gnu.org/philosophy/netscape-npl.html)(!). After observing the
+asymmetry in Netscape's license that effectively made Mozilla a single-vendor
+commercial project, he offered this (emphasis mine):
 
 > One proposed solution for this asymmetry is to **put a time limit on
 > it—perhaps three or five years**. <b>That would be a big improvement</b>,
@@ -247,77 +290,53 @@ the release date of the Original Code[.]" Coincidentally, two years is what we
 settled on for [FSL](https://fsl.software/), tightening from the four-year
 default in [BUSL](https://spdx.org/licenses/BUSL-1.1).
 
-### Early Feedback Is Positive
+### Early Feedback Is Guardedly Positive
 
-Thankfully, some voices who would limit Open Source based on governance are
-also seeing value in the Fair Source friendly fork.
+Others in the community are seeing the potential for Fair Source to resolve the
+tension between community and commercial interests that has characterized Open
+Source since the beginning.
 
-- <b>Matt Wilson</b>, early Red Hat employee and long-time FOSS advocate,
-  [offered the following
-  summary](https://x.com/_msw_/status/1792710296957841408): "Fair Source
-  provides as many of the benefits of Open Source that its producers are
-  comfortable giving, while reserving and asserting a minimal set of exclusive
-  rights to help achieve a sustainable business model."
-
-- <b>Eric Raymond</b> was [initially
-  skeptical](https://x.com/esrtweet/status/1790350881424056680) but [came
-  around](https://x.com/esrtweet/status/1790870518456861153): "It's the guarantee
-  of a timed flip to full open source that puts a bound on the business and legal
-  risk. That's very clever."
-
+- I mentioned [<b>Matt
+Wilson</b>'s](https://x.com/_msw_/status/1792710296957841408) and [<b>Eric
+Raymond</b>'s](https://x.com/esrtweet/status/1790870518456861153) feedback
+above.
 - <b>Dan Brown</b>, maintainer of [Open Source Confusion
-  Cases](https://github.com/ssddanbrown/Open-Source-Confusion-Cases/), has
-  started [recommending Fair
-  Source](https://x.com/ssddanbrown/status/1799801803871322607).
-
-- <b>Adam Jacob</b>, co-founder of Chef and founder of System Initiative, gave
-  the [call to adventure](https://x.com/adamhjk/status/1687113805237714944) a
-  year ago that began this story arc. He recently
-  [said](https://x.com/adamhjk/status/1790105587533099438), "I think 'Fair
-  Source' is a good enough name."
-
+Cases](https://github.com/ssddanbrown/Open-Source-Confusion-Cases/), has
+started [recommending Fair
+Source](https://x.com/ssddanbrown/status/1799801803871322607) as an alternative
+term.
+- <b>Adam Jacob</b>, co-founder of Chef and founder of System Initiative,
+gave the [call to adventure](https://x.com/adamhjk/status/1687113805237714944)
+a year ago that began this story arc, and he recently
+[agreed](https://x.com/adamhjk/status/1790105587533099438), "I think 'Fair
+Source' is a good enough name."
 - <b>Dirk Riehle</b> himself recently
-  [noticed](https://dirkriehle.com/2024/02/07/what-about-skipping-the-open-source-part-in-commercial-open-source/)
-  Fair Source early adopter GitButler: "It will be interesting to see whether GitButler
-  can build a [Fair Source] community like commercial open source firms were
-  able to build an open source community around their software."
+[noticed](https://dirkriehle.com/2024/02/07/what-about-skipping-the-open-source-part-in-commercial-open-source/)
+Fair Source early adopter GitButler:
+> It will be interesting to see whether GitButler can build a [Fair Source]
+> community like commercial open source firms were able to build an open source
+> community around their software."
 
-My hope is that even strident voices such as <b>Thierry Carrez</b> can accept
-the Fair Source fork as a good-faith attempt to resolve the tensions that have
-been present within Open Source since Day Zero, "[to go beyond the rant &
+My hope is that over time even strident voices such as <b>Thierry Carrez</b> can accept
+Fair Source as a good-faith attempt to resolve the tensions that have
+been present within Open Source since 1998, "[to go beyond the rant &
 provide an alternative](https://x.com/tcarrez/status/1764220293319393559)."
 
-So far, Thierry has been
-[dismissive](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
-of the delayed Open Source approach: "Imagine a world where you have to run a
-buggy two-year-old version with known vulnerabilities because that’s the Open
-Source one." Opposing his objection are the [10,000+ organizations that
-self-host
-Sentry](https://openpath.chadwhitacre.com/2024/widespread-use-of-a-fair-source-product/),
-which has been eventually Open Source—what we now call Fair Source—for five
-years. Fair Source confers real benefits today, and meaningfully protects
-against [vendor lockin](https://en.wikipedia.org/wiki/Vendor_lock-in) and
-[platform decay](https://en.wikipedia.org/wiki/Enshittification). No, you're
-not expected to run a buggy two-year-old version. You're expected to run
-today's version today, and if push comes to shove to fork the two-year-old
-version and take it in a different direction.
 
 ## Help Shape Fair Source
 
 Dirk asked in 2021, "[What’s next after
 'source-available'?](https://dirkriehle.com/2021/10/05/whats-next-after-source-available/)"
 Our answer is [Fair Source](https://fair.io/). In this post I've presented the
-historical case for friendly-forking, and for a key feature, eventual Open Source.
-There's much more to define and design. [Join us on
+historical case for the creation of Fair Source and for a key feature, eventual
+Open Sourck. There's much more to define and design. [Join us on
 GitHub](https://github.com/fairsource/fair.io/issues/14) to participate. You
 can also [subscribe there](https://github.com/fairsource/fair.io/issues/14) or
 [on X](https://x.com/fairsrc) for updates.
 
-The net effect of Fair Source will be more code out in the world, more
-[sustainability for
-developers](https://blog.sentry.io/sentrys-open-source-values/), and less
-pressure to change the Open Source Definition in one direction or another. Our
-tenuous alliance of commercial and community interests has gotten us where we
-are today—which is really far. Let's see it as a sign of success that we're now
-ready for community projects and single-vendor projects to go even further in
-parallel: Open Source _and_ Fair Source.
+The net effect of Fair Source can be more closed-source code released to the
+world, and less pressure to change the Open Source Definition in one direction
+or another. Our tenuous alliance of commercial and community interests has
+gotten us where we are today—which is really far. Let's see it as a sign of
+success that we're now ready for community projects and single-vendor projects
+to go even further in parallel: Open Source _and_ Fair Source.
