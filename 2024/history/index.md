@@ -5,13 +5,12 @@ noindex: true
 ---
 
 We're creating a new brand of software sharing called [Fair
-Source](https://fair.io/). It relates historically to Open Source (started in
-1998) which relates to Free Software (1983). In some fashion, software sharing
+Source](https://fair.io/). It relates historically to Open Source (started in 1998) which relates to Free Software (1983). In some fashion, software sharing
 goes back to the beginning of computing. Why do we need Fair Source now?
 
 ### Safe for Developers and Companies Alike
 
-One way to think about Fair Source software is __safety__:
+One way to think about Fair Source software is **safety**:
 
 1. Safe for <b>developers</b> to read, run, modify, and contribute back to
    without undue compliance risk.
@@ -180,7 +179,7 @@ steward the new brand.
 
 Consider this, though: Netscape published Mozilla under the [Netscape Public
 License](https://en.wikipedia.org/wiki/Netscape_Public_License), yet this
-license was either never submitted to OSI or they rejected it. Why might 
+license was either never submitted to OSI or they rejected it. Why might
 OSI reject the license of its flagship first project?
 
 Richard Stallman (RMS) [documented the
@@ -271,7 +270,6 @@ commercial—can fork an older version of the software and take it in a differen
 direction. Fair Source software confers real benefits today, and it
 meaningfully protects both users and producers against worst-case scenarios.
 
-
 ### It Was There All Along
 
 The DOSP paper authors credit GhostScript as the first to go this route, "around
@@ -299,31 +297,30 @@ tension between community and commercial interests that has characterized Open
 Source since the beginning.
 
 - I mentioned [<b>Matt
-Wilson</b>'s](https://x.com/_msw_/status/1792710296957841408) and [<b>Eric
-Raymond</b>'s](https://x.com/esrtweet/status/1790870518456861153) feedback
-above.
+  Wilson</b>'s](https://x.com/_msw_/status/1792710296957841408) and [<b>Eric
+  Raymond</b>'s](https://x.com/esrtweet/status/1790870518456861153) feedback
+  above.
 - <b>Adam Jacob</b>, co-founder of Chef and founder of System Initiative,
-gave the [call to adventure](https://x.com/adamhjk/status/1687113805237714944)
-a year ago that began this story arc, and he recently
-[agreed](https://x.com/adamhjk/status/1790105587533099438), "I think 'Fair
-Source' is a good enough name."
+  gave the [call to adventure](https://x.com/adamhjk/status/1687113805237714944)
+  a year ago that began this story arc, and he recently
+  [agreed](https://x.com/adamhjk/status/1790105587533099438), "I think 'Fair
+  Source' is a good enough name."
 - <b>Dan Brown</b>, maintainer of [Open Source Confusion
-Cases](https://github.com/ssddanbrown/Open-Source-Confusion-Cases/), has
-started [recommending Fair
-Source](https://x.com/ssddanbrown/status/1799801803871322607) as an alternative
-term.
+  Cases](https://github.com/ssddanbrown/Open-Source-Confusion-Cases/), has
+  started [recommending Fair
+  Source](https://x.com/ssddanbrown/status/1799801803871322607) as an alternative
+  term.
 - <b>Dirk Riehle</b> himself recently
-[noticed](https://dirkriehle.com/2024/02/07/what-about-skipping-the-open-source-part-in-commercial-open-source/)
-FSL adopter GitButler:
-> It will be interesting to see whether GitButler can build a [Fair Source]
-> community like commercial open source firms were able to build an open source
-> community around their software."
+  [noticed](https://dirkriehle.com/2024/02/07/what-about-skipping-the-open-source-part-in-commercial-open-source/)
+  FSL adopter GitButler:
+  > It will be interesting to see whether GitButler can build a [Fair Source]
+  > community like commercial open source firms were able to build an open source
+  > community around their software."
 
 My hope is that over time even strident voices such as <b>Thierry Carrez</b> can accept
 Fair Source as a good-faith attempt to resolve the tensions that have
 been present within Open Source since 1998, "[to go beyond the rant &
 provide an alternative](https://x.com/tcarrez/status/1764220293319393559)."
-
 
 ## Help Shape Fair Source
 
