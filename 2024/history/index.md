@@ -20,8 +20,8 @@ One lens through which to view Fair Source is **safety**. Fair Source software i
 
 1. safe for <b>developers</b> to read, run, modify, and contribute back to
    without undue compliance risk; and
-1. safe for <b>companies</b> to adopt for their core software products without risk to
-   their business.
+1. safe for <b>companies</b> to adopt for their core software products without
+   undue risk to their business.
 
 At Sentry we have been applying what we are now calling Fair Source principles
 for 5+ years, and we have clearly been able to achieve a balance between these
@@ -69,13 +69,12 @@ projects](/2024/the-open-source-sustainability-crisis/#whats-wrong-with-hoops)
 through adjacent scarcities, but Open Source itself is [not a business
 model](https://dirkriehle.com/2008/05/18/open-source-is-a-business-strategy-not-a-business-model/).
 
-While companies cannot use Open Source licenses to maintain control of their
-core products, they _can_ control the roadmap. Historically, this plays out
-in two very different understandings of Open Source: _community_ and _commercial_.
-These have formed an uneasy alliance since the beginning.
-Fair Source reinforces the community view of Open Source,
-by creating a new brand for commercial entities sharing their core
-products. In the [words of Matt
+While companies cannot maintain control of how their core products are used and
+still be Open Source, they _can_ control the roadmap. Historically, this plays
+out in two very different understandings of Open Source: _community_ and
+_commercial_. These have formed an uneasy alliance since the beginning. Fair
+Source reinforces the community view of Open Source, by creating a new brand
+for commercial entities sharing their core products. In the [words of Matt
 Wilson](https://x.com/_msw_/status/1792710296957841408), early Red Hat employee
 and long-time FOSS advocate:
 
@@ -265,7 +264,7 @@ of the OSD, then the alliance seems to be at an end.
 
 ## Delayed Open Source, Better Than Closed
 
-The defining element of Fair Source is [delayed Open Source
+One defining element of Fair Source is [delayed Open Source
 publication](https://opensource.org/dosp). Karl Fogel
 and coauthors [defined the term in a
 whitepaper](https://opensource.org/delayed-open-source-publication) for OSI
@@ -349,9 +348,8 @@ Source since the beginning.
   > community around their software."
 
 My hope is that over time even strident voices such as <b>Thierry Carrez</b>
-can accept Fair Source as a good-faith attempt to resolve the tension between
-community and commercial interests in which Open Source was born, "[to go
-beyond the rant & provide an
+can accept Fair Source as a good-faith attempt to resolve the tension in which
+Open Source was born, "[to go beyond the rant & provide an
 alternative](https://x.com/tcarrez/status/1764220293319393559)."
 
 ## Help Shape Fair Source
