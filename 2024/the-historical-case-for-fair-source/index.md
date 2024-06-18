@@ -12,9 +12,9 @@ to the dawn of computing. What is Fair Source? Why do we need it now?
 Fair Source is software that is safe for companies to share and developers to
 use. We need it because Open Source, historically, has been a tenuous alliance
 of community and commercial projects, and this alliance seems to have run its
-course. Fair Source can reduce pressure to change the Open Source Definition,
-and make it possible for more companies to meaningfully share their core
-software products.
+course. By introducing a new term, Fair Source, for single-vendor commercial
+projects, we can reduce pressure to change the Open Source Definition, and free
+up more companies to share their core software products.
 
 ## Safe for Developers and Companies Alike
 
