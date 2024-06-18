@@ -126,8 +126,8 @@ suspicious of commercial Open Source (COSS) but he does not outright reject the
 concept. By his account, [SugarCRM coined the term in
 2004](https://dirkriehle.com/2009/06/19/commercial-open-source-the-naming-confusion-remains/).
 It is [still used today](https://www.coss.community/), most often in referrence
-to [open
-core](https://alampitt.typepad.com/lampitt_or_leave_it/2009/03/opencore-licensing-the-new-standard-in-commercial-software-business-models.html)
+to [Open
+Core](https://alampitt.typepad.com/lampitt_or_leave_it/2009/03/opencore-licensing-the-new-standard-in-commercial-software-business-models.html)
 software, most often by [Joseph Jacks](https://x.com/josephjacks_) and [OSS
 Capital](https://oss.capital/) portfolio companies. But trust has dwindled.
 
@@ -280,9 +280,12 @@ and [Elastic](https://www.elastic.co/)
 ([ELv2](https://www.elastic.co/licensing/elastic-license)). All have tens of
 thousands of users under their respective non-compete terms, which generally
 prevent harmful free-riding by hyperscaler cloud vendors, while allowing
-individual companies to self-host.
+individual companies to self-host. [Open
+Core](https://alampitt.typepad.com/lampitt_or_leave_it/2009/03/opencore-licensing-the-new-standard-in-commercial-software-business-models.html)
+can be seen as a variation of this, in that it has the same goal of protecting
+the business model of a primary project owner.
 
-What about eventual Open Source?
+But what about eventual Open Source?
 
 ### Eventual Open Source, Better Than Closed
 
