@@ -393,8 +393,7 @@ can also [subscribe there](https://github.com/fairsource/fair.io/issues/14) or
 
 The net effect of Fair Source can be more closed-source code released to the
 world, and less pressure to change the Open Source Definition in one direction
-or another. Our tenuous alliance of community and commercial project owners has
-gotten us where we are today—which is really far. Let's see it as a sign of
-maturity and success that we're now ready for community and commercial projects
-to go even further in parallel: [Open Source](https://opensource.org/) _and_
-[Fair Source](https://fair.io/).
+or another. The alliance of community and commercial project owners has
+gotten us where we are today, which is really far. Let's see it as a sign of
+maturity and success that we're now ready to go even further in parallel: [Open
+Source](https://opensource.org/) _and_ [Fair Source](https://fair.io/).
