@@ -112,7 +112,7 @@ privileges, Peter Thoeny changed twiki.org, the main project website, to
 implement a new governance model. [...] A few days later, the core developers
 left the project and created a fork."
 
-{% include img.html src="twiki.webp" caption="" url="https://twiki.org/" %}
+{% include img.html src="twiki.webp" caption="TWiki.org is frozen in time." url="https://twiki.org/" %}
 
 Change the name to HashiCorp or Redis, and we have the same controversy over
 [relicensing and rug
