@@ -262,7 +262,7 @@ was a single-vendor commercial Open Source project. Dirk, Thierry, and others
 who wish to chide, must chide Netscape. If single-vendor is to be written out
 of the OSD, then the alliance seems to be at an end.
 
-## Delayed Open Source, Better Than Closed
+## Eventual Open Source, Better Than Closed
 
 One defining element of Fair Source is [delayed Open Source
 publication](https://opensource.org/dosp). Karl Fogel
