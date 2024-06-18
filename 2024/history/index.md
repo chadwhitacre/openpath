@@ -46,7 +46,7 @@ closed-source products. FSL has allowed
 for every company. We want to recognize and encourage alternative approaches
 that also combine safety for developers with safety for companies.
 
-But why adopt a new term, Fair Source? Why is Free and Open Source Software
+But why adopt a new label, Fair Source? Why is Free and Open Source Software
 (FOSS) not sufficient? FOSS is safe for developers, surely. Open Source is
 known and loved by practically the whole developer community. Is it really
 unsafe for companies sharing their core products?
@@ -69,18 +69,10 @@ projects](/2024/the-open-source-sustainability-crisis/#whats-wrong-with-hoops)
 through adjacent scarcities, but Open Source itself is [not a business
 model](https://dirkriehle.com/2008/05/18/open-source-is-a-business-strategy-not-a-business-model/).
 
-While companies cannot maintain control of how their core products are used and
-still be Open Source, they _can_ control the roadmap. Historically, this plays
-out in two very different understandings of Open Source: _community_ and
-_commercial_. These have formed an uneasy alliance since the beginning. Fair
-Source reinforces the community view of Open Source, by defining a new term
-for commercial entities sharing their core products. In the [words of Matt
-Wilson](https://x.com/_msw_/status/1792710296957841408), early Red Hat employee
-and long-time FOSS advocate:
-
-> Fair Source provides as many of the benefits of Open Source that its
-> producers are comfortable giving, while reserving and asserting a minimal set
-> of exclusive rights to help achieve a sustainable business model.
+Companies cannot control how their projects are used and
+still be Open Source, but they _can_ control the roadmap—_production_ if not _consumption_. Historically, this discrepancy
+has supported two very different understandings of Open Source: _community_ and
+_commercial_. These have formed an uneasy alliance since the beginning.
 
 How do community and commercial Open Source differ?
 
@@ -117,9 +109,11 @@ left the project and created a fork."
 Change the name to HashiCorp or Redis, and we have the same controversy over
 [relicensing and rug
 pulls](https://openpath.chadwhitacre.com/2024/relicensing-and-rug-pulls/) today
-as 16 years ago. An ideal outcome with Fair Source is that fewer companies
-would rug-pull, because more companies would start out Fair Source to begin
-with. Developers would clearly know up front [what kind of
+as 16 years ago. Perhaps we'll learn to [celebrate
+relicensing](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/),
+but a possible outcome with Fair Source is that we would see less relicensing as
+more companies start out Fair Source to begin with. Developers would clearly
+know up front [what kind of
 community](https://dirkriehle.com/2021/01/23/two-types-of-open-source-communities/)
 they're getting into.
 
@@ -261,13 +255,39 @@ OSI-approved license.
 commercial and community interests**. The first Open Source project, Mozilla,
 was a single-vendor commercial Open Source project. Dirk, Thierry, and others
 who wish to chide, must chide Netscape. If single-vendor is to be written out
-of the OSD, then the alliance seems to be at an end.
+of the OSD, then the alliance seems to have run its course.
 
-## Eventual Open Source, Better Than Closed
+## Fair Source Is a Good Way Forward
 
-One defining element of Fair Source is [delayed Open Source
-publication](https://opensource.org/dosp). Karl Fogel
-and coauthors [defined the term in a
+Fair Source supports the community view of Open Source, defining a new
+term for single-vendor commercial projects. In the [words of Matt
+Wilson](https://x.com/_msw_/status/1792710296957841408), early Red Hat employee
+and long-time FOSS advocate:
+
+> Fair Source provides as many of the benefits of Open Source that its
+> producers are comfortable giving, while reserving and asserting a minimal set
+> of exclusive rights to help achieve a sustainable business model.
+
+How does Fair Source operate? By combining non-compete licenses with delayed
+Open Source publication, also called eventual Open Source.
+
+Non-compete licenses can support wide adoption by many compliance departments.
+This is amply demonstrated not only by [Sentry
+(FSL)](/2024/widespread-use-of-a-fair-source-product/), but also
+[MongoDB](https://www.mongodb.com/)
+([SSPL](https://www.mongodb.com/legal/licensing/server-side-public-license))
+and [Elastic](https://www.elastic.co/)
+([ELv2](https://www.elastic.co/licensing/elastic-license)). All have tens of
+thousands of users under their respective non-compete terms, which generally
+prevent harmful free-riding by hyperscaler cloud vendors, while allowing
+individual companies to self-host.
+
+What about eventual Open Source?
+
+### Eventual Open Source, Better Than Closed
+
+[Delayed Open Source publication](https://opensource.org/dosp) is a key element
+of Fair Source. Karl Fogel and coauthors [defined the term in a
 whitepaper](https://opensource.org/delayed-open-source-publication) for OSI
 (underwritten by Sentry):
 
