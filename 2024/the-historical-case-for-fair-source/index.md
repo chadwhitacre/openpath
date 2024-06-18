@@ -384,16 +384,17 @@ alternative](https://x.com/tcarrez/status/1764220293319393559)."
 
 Dirk asked in 2021, "[What’s next after
 'source-available'?](https://dirkriehle.com/2021/10/05/whats-next-after-source-available/)"
-Our answer is [Fair Source](https://fair.io/). In this post I've presented the
-historical case for the creation of Fair Source and for its key feature,
-eventual Open Source. There's much more to define and design. [Join us on
-GitHub](https://github.com/fairsource/fair.io/issues/14) to participate. You
+Our answer is [Fair Source](https://fair.io/). I've made the case that it is a
+good way to resolve tensions that have been present in Open Source since the
+beginning. The net effect can be more closed-source code released to the
+world, and less pressure to change the Open Source Definition one way or
+another. The basic characteristics of Fair Source are non-compete licensing
+and eventual Open Source, but there is much more to define and design. [Join us
+on GitHub](https://github.com/fairsource/fair.io/issues/14) to participate. You
 can also [subscribe there](https://github.com/fairsource/fair.io/issues/14) or
 [on X](https://x.com/fairsrc) for updates.
 
-The net effect of Fair Source can be more closed-source code released to the
-world, and less pressure to change the Open Source Definition in one direction
-or another. The alliance of community and commercial project owners has
+The alliance of community and commercial project owners in Open Source has
 gotten us where we are today, which is really far. Let's see it as a sign of
 maturity and success that we're now ready to go even further in parallel: [Open
 Source](https://opensource.org/) _and_ [Fair Source](https://fair.io/).
