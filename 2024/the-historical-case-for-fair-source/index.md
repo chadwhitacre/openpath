@@ -4,7 +4,7 @@ excerpt: "First there was Free Software, then Open Source. How did we get to Fai
 noindex: true
 ---
 
-We're defining a new term for software sharing called [Fair
+We're defining a new term for software sharing, [Fair
 Source](https://fair.io/). It relates historically to Open Source (started
 in 1998) and Free Software (1983). In some fashion, software sharing goes back
 to the dawn of computing. What is Fair Source? Why do we need it now?
@@ -12,19 +12,19 @@ to the dawn of computing. What is Fair Source? Why do we need it now?
 Fair Source is software that is safe for companies to share and developers to
 use. We need it because Open Source, historically, has been a tenuous alliance
 of community and commercial projects, and this alliance seems to have run its
-course. By introducing a new term, Fair Source, for single-vendor commercial
-projects, we can reduce pressure to change the Open Source Definition, and free
-up more companies to share their core software products.
+course. By introducing a new term for commercial projects, we can set better
+expectations with developers, reduce pressure to change the Open Source
+Definition, and free up more companies to share their core software products.
 
 ## Safe for Developers and Companies Alike
 
 One lens through which to view Fair Source is **safety**. Fair Source software
 is:
 
-1. safe for <b>developers</b> to read, run, modify, and contribute back to
-   without undue compliance risk; and
-1. safe for <b>companies</b> to adopt for their core software products without
-   undue risk to their business.
+1. safe for <b>developers</b> to read, run (in most cases), modify, and
+   contribute to without undue compliance risk; and
+1. safe for <b>companies</b> to adopt for their core software products
+   without undue risk to their business.
 
 At Sentry we have been applying what we are now calling Fair Source principles
 for 5+ years, and we have clearly been able to achieve a balance between these
