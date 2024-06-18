@@ -275,8 +275,8 @@ whitepaper](https://opensource.org/delayed-open-source-publication) for OSI
 > subsequently and in a planned fashion publishing that software’s source code
 > under an Open Source license.
 
-Also called "[eventual Open
-Source](https://github.com/ftrotter/OSE/blob/a360875170b4a9818e3a4691beced81d7d5f13a8/OSELicense.asciidoc),"
+Also called [eventual Open
+Source](https://github.com/ftrotter/OSE/blob/a360875170b4a9818e3a4691beced81d7d5f13a8/OSELicense.asciidoc),
 the approach is gaining popularity through the
 [BUSL](https://spdx.org/licenses/BUSL-1.1) and Sentry's
 [FSL](https://fsl.software/). Some, such as Thierry, have been
