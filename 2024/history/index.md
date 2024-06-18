@@ -4,7 +4,7 @@ excerpt: "First there was Free Software, then Open Source. How did we get to Fai
 noindex: true
 ---
 
-We're creating a new brand of software sharing called [Fair
+We're defining a new term for software sharing called [Fair
 Source](https://fair.io/). It relates historically to Open Source (started in 1998) and Free Software (1983). In some fashion, software sharing goes back
 to the dawn of computing. What is Fair Source? Why do we need it now?
 
@@ -46,10 +46,10 @@ closed-source products. FSL has allowed
 for every company. We want to recognize and encourage alternative approaches
 that also combine safety for developers with safety for companies.
 
-But why make it a new brand, Fair Source? Why is Free and Open Source Software
+But why adopt a new term, Fair Source? Why is Free and Open Source Software
 (FOSS) not sufficient? FOSS is safe for developers, surely. Open Source is
-known and loved by practically the whole developer community. Is it really unsafe for
-companies sharing their core products?
+known and loved by practically the whole developer community. Is it really
+unsafe for companies sharing their core products?
 
 ### The Limitations of FOSS for Core Products
 
@@ -73,7 +73,7 @@ While companies cannot maintain control of how their core products are used and
 still be Open Source, they _can_ control the roadmap. Historically, this plays
 out in two very different understandings of Open Source: _community_ and
 _commercial_. These have formed an uneasy alliance since the beginning. Fair
-Source reinforces the community view of Open Source, by creating a new brand
+Source reinforces the community view of Open Source, by defining a new term
 for commercial entities sharing their core products. In the [words of Matt
 Wilson](https://x.com/_msw_/status/1792710296957841408), early Red Hat employee
 and long-time FOSS advocate:
@@ -198,14 +198,15 @@ Mary that Netscape agreed to out of desperation.
 {% include img.html src="code_rush.webp" caption="There's an hour-long documentary about Netscape called <i>Code Rush</i>." url="https://www.youtube.com/watch?v=4Q7FTjhvZ7Y" %}
 
 Free Software advocates outside the company, including Eric Raymond (ESR) and
-Bruce Perens, eagerly jumped in to help, but the parties had different motivations.
-Netscape was making a last-ditch attempt to save the business. ESR,
-jwz & co. were capitalizing on an opportunity to advance the community-minded Free Software
-movement. Along the way they realized that "Free Software" confused people, so they
-[rebranded](https://opensource.com/article/18/2/coining-term-open-source-software)
-to "Open Source Software." It worked. The story caught fire, and Eric and Bruce
-quickly formed the [Open Source Initiative](https://opensource.org/) (OSI) to
-steward the new brand.
+Bruce Perens, eagerly jumped in to help, but the parties had different
+motivations. Netscape was making a last-ditch attempt to save the business.
+ESR, jwz & co. were capitalizing on an opportunity to advance the
+community-minded Free Software movement. Along the way they realized that "Free
+Software" confused people, so [they
+changed](http://www.catb.org/~esr/open-source.html) to "[Open Source
+Software](https://opensource.com/article/18/2/coining-term-open-source-software)."
+It worked. The story caught fire, and Eric and Bruce quickly formed the [Open
+Source Initiative](https://opensource.org/) (OSI) to steward the new movement.
 
 Consider this, though: Netscape published Mozilla under the [Netscape Public
 License](https://en.wikipedia.org/wiki/Netscape_Public_License), yet this
