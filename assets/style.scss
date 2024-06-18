@@ -74,6 +74,8 @@ ol + p,
 ul + p,
 p + p,
 div + p,
+ol + div,
+ul + div,
 p + div {
   padding: 16pt 0 0;
 }

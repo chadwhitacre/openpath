@@ -5,32 +5,40 @@ noindex: true
 ---
 
 We're creating a new brand of software sharing called [Fair
-Source](https://fair.io/). It relates historically to Open Source (started in 1998) which relates to Free Software (1983). In some fashion, software sharing
-goes back to the beginning of computing. Why do we need Fair Source now?
+Source](https://fair.io/). It relates historically to Open Source (started in 1998) and Free Software (1983). In some fashion, software sharing goes back
+to the dawn of computing. What is Fair Source? Why do we need it now?
 
-### Safe for Developers and Companies Alike
+Fair Source is software that is safe for companies to share and developers to
+use. We need it because Open Source, historically, has been a tenuous alliance
+of commercial and community interests, and this alliance is unraveling. The key
+to Fair Source is delayed Open Source publication, also known as
+eventual Open Source.
 
-One way to think about Fair Source software is **safety**:
+## Safe for Developers and Companies Alike
 
-1. Safe for <b>developers</b> to read, run, modify, and contribute back to
-   without undue compliance risk.
-1. Safe for <b>companies</b> to adopt for their core software products without risk to
+One lens through which to view Fair Source is **safety**. Fair Source software is:
+
+1. safe for <b>developers</b> to read, run, modify, and contribute back to
+   without undue compliance risk; and
+1. safe for <b>companies</b> to adopt for their core software products without risk to
    their business.
 
 At Sentry we have been applying what we are now calling Fair Source principles
 for 5+ years, and we have clearly been able to achieve a balance between these
-two:
+two.
 
-1. We have [10,000+ organizations using self-hosted
-   Sentry](/2024/widespread-use-of-a-fair-source-product/)
+1. Fair Source is safe for <b>developers</b>: we have [10,000+ organizations
+   using self-hosted Sentry](/2024/widespread-use-of-a-fair-source-product/)
    under [FSL](https://fsl.software/), the flagship license of Fair Source.
-   Fair Source is clearly safe for developers.
-1. We recently announced [100,000 cloud customers and $100 million
-   ARR](https://blog.sentry.io/building-for-the-fortune-500-000/). Fair Source
-   is clearly safe for our business.
+1. Fair Source is safe for <b>companies</b>: we recently announced
+   [100,000 cloud customers and $100 million
+   ARR](https://blog.sentry.io/building-for-the-fortune-500-000/).
 
-Sentry is an existence proof for what is possible. Our ideal outcome is
-for many more companies to open up their closed-source products. FSL has allowed
+{% include img.html src="not-bad.jpg" caption='Considered "not bad" by 4M developers. Yuk yuk.' url="https://x.com/virtualmilin/status/1790867028905271647" %}
+
+Sentry is an existence proof of the viability of Fair Source. We've taken it
+from zero to one. Our goal now is to help other companies open up their
+closed-source products. FSL has allowed
 [AnswerOverflow](https://www.answeroverflow.com/),
 [Codecrafters](https://codecrafters.io/), [Convex](https://www.convex.dev/),
 [GitButler](https://gitbutler.com/), and
@@ -39,20 +47,43 @@ for every company. We want to recognize and encourage alternative approaches
 that also combine safety for developers with safety for companies.
 
 But why make it a new brand, Fair Source? Why is Free and Open Source Software
-(FOSS) not sufficient? FOSS is safe for developers, surely. Is it really unsafe
-for companies sharing their core products?
+(FOSS) not sufficient? FOSS is safe for developers, surely. Open Source is
+known and loved by practically the whole developer community. Is it really unsafe for
+companies sharing their core products?
 
-The problem is that there historically have been two very different
-understandings of Open Source: _commercial_ and _community_. They have formed
-an uneasy alliance since the beginning. In launching Fair Source we are
-reinforcing the community view of Open Source, and creating a new brand to
-encourage companies to share their otherwise closed-source core products. In
-the [words of Matt Wilson](https://x.com/_msw_/status/1792710296957841408),
-early Red Hat employee and long-time FOSS advocate:
+### The Limitations of FOSS For Core Products
+
+Kubernetes is Open Source, but Google Search is not. React is Open Source, but
+Facebook News Feed is not. Linux is Open Source, but Amazon Web Services is
+not. Open Source has carried the day for shared infrastructure, but has barely
+made any inroads into end-user products. Why?
+
+Open Source licenses, [by definition](https://opensource.org/osd), forego the
+right to exclusive monetization that forms the basis of any viable business
+model. Non-compete licenses are not Open Source licenses, and Open Source
+licenses are not non-compete licenses. Companies that try to Open Source
+their core products habitually come up against this reality. In the ugliest
+cases, it leads to [relicensing rug pulls](/2024/relicensing-and-rug-pulls/).
+Instead, we have evolved many solutions for [subsidizing Open Source
+projects](/2024/the-open-source-sustainability-crisis/#whats-wrong-with-hoops)
+through adjacent scarcities, but Open Source itself is [not a business
+model](https://dirkriehle.com/2008/05/18/open-source-is-a-business-strategy-not-a-business-model/).
+
+While companies cannot use Open Source licenses to maintain control of their
+core products, they _can_ control the roadmap. Historically, this plays out
+in two very different understandings of Open Source: _community_ and _commercial_.
+These have formed an uneasy alliance since the beginning.
+Fair Source reinforces the community view of Open Source,
+by creating a new brand for commercial entities sharing their core
+products. In the [words of Matt
+Wilson](https://x.com/_msw_/status/1792710296957841408), early Red Hat employee
+and long-time FOSS advocate:
 
 > Fair Source provides as many of the benefits of Open Source that its
 > producers are comfortable giving, while reserving and asserting a minimal set
 > of exclusive rights to help achieve a sustainable business model.
+
+How do community and commercial Open Source differ?
 
 ## The Great Governance Divide
 
@@ -152,7 +183,7 @@ community open source'":
 
 Where did single-vendor come from? When did this tension arise?
 
-### It Was There All Along
+### The Divide Was There All Along
 
 [Mozilla](https://en.wikipedia.org/wiki/Mozilla) was the first Open Source
 project. Competing with Microsoft and losing badly, Jamie Zawinski (jwz) and
@@ -170,7 +201,7 @@ Mary that Netscape agreed to out of desperation.
 Free Software advocates outside the company, including Eric Raymond (ESR) and
 Bruce Perens, eagerly jumped in to help, but the parties had different motivations.
 Netscape was making a last-ditch attempt to save the business. ESR,
-jwz & co. were capitalizing on an opportunity to advance the Free Software
+jwz & co. were capitalizing on an opportunity to advance the community-minded Free Software
 movement. Along the way they realized that "Free Software" confused people, so they
 [rebranded](https://opensource.com/article/18/2/coining-term-open-source-software)
 to "Open Source Software." It worked. The story caught fire, and Eric and Bruce
@@ -179,7 +210,7 @@ steward the new brand.
 
 Consider this, though: Netscape published Mozilla under the [Netscape Public
 License](https://en.wikipedia.org/wiki/Netscape_Public_License), yet this
-license was either never submitted to OSI or they rejected it. Why might
+license was either never submitted to OSI or rejected. Why might
 OSI reject the license of its flagship first project?
 
 Richard Stallman (RMS) [documented the
@@ -218,7 +249,7 @@ Here is the relevant text from [NPL-1.0](https://spdx.org/licenses/NPL-1.0.html)
 > License, and may license such additional products on different terms from
 > those contained in this License.
 
-{% include img.html src="navigator.webp" caption="Source: Wikipedia" url="https://en.wikipedia.org/wiki/Netscape_Navigator#Decline" %}
+{% include img.html src="navigator.webp" caption="Source: Wikipedia (modified)" url="https://en.wikipedia.org/wiki/Netscape_Navigator#Decline" %}
 
 It wasn't until [late 2001](https://wiki.mozilla.org/Timeline), after the dot-com
 bubble had burst and Netscape had lost all relevance, that the community could
@@ -267,10 +298,10 @@ value](https://x.com/esrtweet/status/1790870518456861153) of DOSP when he said:
 In other words, delayed Open Source mitigates against vendor lock-in and
 platform decay. If push comes to shove, another party—community or
 commercial—can fork an older version of the software and take it in a different
-direction. Fair Source software confers real benefits today, and it
-meaningfully protects both users and producers against worst-case scenarios.
+direction. Fair Source offers real benefits, and meaningfully
+protects both users and producers against worst-case scenarios.
 
-### It Was There All Along
+### Eventual Open Source Was There All Along
 
 The DOSP paper authors credit GhostScript as the first to go this route, "around
 1998" (p. 6). The idea is on record even earlier, from Richard Stallman
@@ -317,18 +348,19 @@ Source since the beginning.
   > community like commercial open source firms were able to build an open source
   > community around their software."
 
-My hope is that over time even strident voices such as <b>Thierry Carrez</b> can accept
-Fair Source as a good-faith attempt to resolve the tensions that have
-been present within Open Source since 1998, "[to go beyond the rant &
-provide an alternative](https://x.com/tcarrez/status/1764220293319393559)."
+My hope is that over time even strident voices such as <b>Thierry Carrez</b>
+can accept Fair Source as a good-faith attempt to resolve the tension between
+community and commercial interests in which Open Source was born, "[to go
+beyond the rant & provide an
+alternative](https://x.com/tcarrez/status/1764220293319393559)."
 
 ## Help Shape Fair Source
 
 Dirk asked in 2021, "[What’s next after
 'source-available'?](https://dirkriehle.com/2021/10/05/whats-next-after-source-available/)"
 Our answer is [Fair Source](https://fair.io/). In this post I've presented the
-historical case for the creation of Fair Source and for a key feature, eventual
-Open Sourck. There's much more to define and design. [Join us on
+historical case for the creation of Fair Source and for its key feature,
+eventual Open Source. There's much more to define and design. [Join us on
 GitHub](https://github.com/fairsource/fair.io/issues/14) to participate. You
 can also [subscribe there](https://github.com/fairsource/fair.io/issues/14) or
 [on X](https://x.com/fairsrc) for updates.
@@ -337,5 +369,6 @@ The net effect of Fair Source can be more closed-source code released to the
 world, and less pressure to change the Open Source Definition in one direction
 or another. Our tenuous alliance of commercial and community interests has
 gotten us where we are today—which is really far. Let's see it as a sign of
-success that we're now ready for community projects and single-vendor projects
-to go even further in parallel: Open Source _and_ Fair Source.
+maturity and success that we're now ready for community projects and
+single-vendor projects to go even further in parallel: [Open
+Source](https://opensource.org/) _and_ [Fair Source](https://fair.io/).
