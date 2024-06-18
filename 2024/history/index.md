@@ -51,7 +51,7 @@ But why make it a new brand, Fair Source? Why is Free and Open Source Software
 known and loved by practically the whole developer community. Is it really unsafe for
 companies sharing their core products?
 
-### The Limitations of FOSS For Core Products
+### The Limitations of FOSS for Core Products
 
 Kubernetes is Open Source, but Google Search is not. React is Open Source, but
 Facebook News Feed is not. Linux is Open Source, but Amazon Web Services is
