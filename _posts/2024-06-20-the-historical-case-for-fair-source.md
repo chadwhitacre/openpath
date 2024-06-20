@@ -110,9 +110,8 @@ left the project and created a fork."
 {% include img.html src="twiki.webp" caption="TWiki.org is frozen in time." url="https://twiki.org/" %}
 
 Change the name to HashiCorp or Redis, and we have the same controversy over
-[relicensing and rug
-pulls](https://openpath.chadwhitacre.com/2024/relicensing-and-rug-pulls/) today
-as 16 years ago. Perhaps we'll learn to [celebrate
+[relicensing and rug pulls](/2024/relicensing-and-rug-pulls/) today as 16 years
+ago. Perhaps we'll learn to [celebrate
 relicensing](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/),
 but avoiding the need seems preferable. If companies start out Fair Source to
 begin with, developers will know clearly up front [what kind of
@@ -328,10 +327,10 @@ the approach is gaining popularity through the
 
 This is a strawman argument. The expectation is that you run today's version
 today. As mentioned above, [10,000+ self-hosted Sentry
-users](https://openpath.chadwhitacre.com/2024/widespread-use-of-a-fair-source-product/)
-do just that. Then what's the point of the eventual conversion? Eric Raymond
-[recognized the value](https://x.com/esrtweet/status/1790870518456861153) of
-DOSP when he said (my emphasis):
+users](/2024/widespread-use-of-a-fair-source-product/) do just that. Then
+what's the point of the eventual conversion? Eric Raymond [recognized the
+value](https://x.com/esrtweet/status/1790870518456861153) of DOSP when he said
+(my emphasis):
 
 > It's the guarantee of a timed flip to full open source that puts <b>a bound
 > on the business and legal risk</b>. That's very clever.
