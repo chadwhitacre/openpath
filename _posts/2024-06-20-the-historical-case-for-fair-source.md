@@ -1,7 +1,6 @@
 ---
 title: The Historical Case for Fair Source
 excerpt: "First there was Free Software, then Open Source. How did we get to Fair Source?"
-noindex: true
 ---
 
 We're defining a new term for software sharing, [Fair
