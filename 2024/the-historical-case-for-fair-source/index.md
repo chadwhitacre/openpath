@@ -21,7 +21,7 @@ more companies to share their core software products.
 One lens through which to view Fair Source is **safety**. Fair Source software
 is:
 
-1. safe for <b>developers</b> to read, run (in most cases), modify, and
+1. safe for <b>developers</b> to read, run (in almost all cases), modify, and
    contribute to without undue compliance risk; and
 1. safe for <b>companies</b> to adopt for their core software products
    without undue risk to their business.
