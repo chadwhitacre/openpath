@@ -83,6 +83,10 @@ blockquote {
   border-left: 1px solid var(--black);
   margin: 16pt 0;
   padding: 0 0 0 9pt;
+  & > ol,
+  & > ul {
+    padding-top: 0;
+  }
 }
 
 hr {
