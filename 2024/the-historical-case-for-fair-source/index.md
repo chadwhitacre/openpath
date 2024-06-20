@@ -9,8 +9,8 @@ Source](https://fair.io/). It relates historically to Open Source (started
 in 1998) and Free Software (1983). In some fashion, software sharing goes back
 to the dawn of computing. What is Fair Source? Why do we need it now?
 
-Fair Source is software that is safe for companies to share and developers to
-use. We need it because, historically, Open Source has been an ambiguous term,
+<b>Fair Source</b> is software that is **safe for companies to share and developers to
+use**. We need it because, historically, Open Source has been an ambiguous term,
 applied to both community and commercial projects. By introducing a new term
 for commercial projects, Fair Source, we can set better expectations with
 developers, reduce pressure to change the Open Source Definition, and free up
@@ -18,8 +18,8 @@ more companies to share their core software products.
 
 ## Safe for Developers and Companies Alike
 
-One lens through which to view Fair Source is **safety**. Fair Source software
-is:
+One helpful lens through which to view Fair Source is safety. Fair Source
+software is:
 
 1. safe for <b>developers</b> to read, run (in almost all cases), modify, and
    contribute to without undue compliance risk; and
@@ -37,7 +37,7 @@ two.
    [100,000 cloud customers and $100 million
    ARR](https://blog.sentry.io/building-for-the-fortune-500-000/).
 
-{% include img.html src="not-bad.jpg" caption='Considered "not bad" by 4M developers. Yuk yuk.' url="https://x.com/virtualmilin/status/1790867028905271647" %}
+{% include img.html src="not-bad.jpg" caption='Not bad. Yuk yuk.' url="https://x.com/virtualmilin/status/1790867028905271647" %}
 
 Sentry is an existence proof of the viability of Fair Source. We've taken it
 from zero to one. Our goal now is to help other companies open up their
@@ -56,14 +56,14 @@ unsafe for companies sharing their core products?
 
 ### The Limitations of FOSS for Core Products
 
-Kubernetes is Open Source, but Google Search is not. React is Open Source, but
-Facebook News Feed is not. Linux is Open Source, but Amazon Web Services is
-not. Open Source has carried the day for shared infrastructure, but has barely
-made any inroads into end-user products. Why?
+Kubernetes is Open Source, Google Search is not. React is Open Source, Facebook
+News Feed is not. Linux is Open Source, Amazon Web Services is not. Open Source
+has carried the day for shared infrastructure, but has barely made any inroads
+into end-user products. Why?
 
-Open Source licenses, [by definition](https://opensource.org/osd), forego the
-right to exclusive monetization that forms the basis of any viable business
-model. Non-compete licenses are not Open Source licenses, and Open Source
+Open Source licenses, [by definition](https://opensource.org/osd), give up the
+exclusive right to monetize, on which any viable business
+model depends. Non-compete licenses are not Open Source licenses, and Open Source
 licenses are not non-compete licenses. Companies that try to Open Source their
 core products habitually come up against this reality. In the ugliest cases, it
 leads to [relicensing rug pulls](/2024/relicensing-and-rug-pulls/). Instead,
@@ -115,17 +115,16 @@ Change the name to HashiCorp or Redis, and we have the same controversy over
 pulls](https://openpath.chadwhitacre.com/2024/relicensing-and-rug-pulls/) today
 as 16 years ago. Perhaps we'll learn to [celebrate
 relicensing](https://dirkriehle.com/2023/10/12/lets-celebrate-relicensing-from-an-open-source-to-a-proprietary-license/),
-but a possible outcome with Fair Source is that we would see less relicensing
-as more companies start out Fair Source to begin with. Developers would clearly
-know up front [what kind of
+but avoiding the need seems preferable. If companies start out Fair Source to
+begin with, developers will know clearly up front [what kind of
 community](https://dirkriehle.com/2021/01/23/two-types-of-open-source-communities/)
 they're getting into.
 
 ### The Gradual Rejection of COSS
 
-The "single-vendor" article maintains a tone of academic neutrality. The
-"perils" post leaks a little more negative sentiment: "community open source is
-a temptation for startups to make a buck[.]" Dirk in that era seems guardedly
+Dirk's "single-vendor" article maintains a tone of academic neutrality. His
+"perils" post leaks a little more negative sentiment ("community open source is
+a temptation for startups to make a buck"). Dirk in that era seems guardedly
 suspicious of commercial Open Source (COSS) but he does not outright reject the
 concept. By his account, [SugarCRM coined the term in
 2004](https://dirkriehle.com/2009/06/19/commercial-open-source-the-naming-confusion-remains/).
@@ -277,8 +276,21 @@ and long-time FOSS advocate:
 How does Fair Source operate? By combining non-compete licenses with delayed
 Open Source publication, also called eventual Open Source.
 
-Non-compete licenses can support wide adoption by many compliance departments.
-This is amply demonstrated not only by [Sentry
+### Non-compete Software Can Provide a Lot of Value
+
+Though they fall short of the threshold of Free and Open Source Software,
+non-compete licenses nevertheless offer a high degree of value for developers.
+Under non-compete licenses, individuals and companies are generally free—in
+terms of [the four
+freedoms](https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms)—to
+read, run in ways that do not undermine the producer, modify, and contribute
+back to the producer of the software. It's not everything, but it's not
+nothing. Again, [10,000+ self-hosted Sentry
+users](/2024/widespread-use-of-a-fair-source-product/) are proof that a
+non-compete license can confer real benefits to developers.
+
+Along with that, non-compete licenses can support wide adoption by many
+compliance departments. This is amply demonstrated not only by [Sentry
 (FSL)](/2024/widespread-use-of-a-fair-source-product/), but also
 [MongoDB](https://www.mongodb.com/)
 ([SSPL](https://www.mongodb.com/legal/licensing/server-side-public-license))
@@ -395,13 +407,15 @@ Our answer is [Fair Source](https://fair.io/). I've made the case that it is a
 good way to resolve tensions that have been present in Open Source since the
 beginning. The net effect can be more closed-source code released to the
 world, and less pressure to change the Open Source Definition one way or
-another. The basic characteristics of Fair Source are non-compete licensing
+another.
+
+The basic characteristics of Fair Source are non-compete licensing
 and eventual Open Source, but there is much more to define and design. [Join us
 on GitHub](https://github.com/fairsource/fair.io/issues/14) to participate. You
 can also [subscribe there](https://github.com/fairsource/fair.io/issues/14) or
 [on X](https://x.com/fairsrc) for updates.
 
 The alliance of community and commercial project owners in Open Source has
-gotten us where we are today, which is really far. Let's see it as a sign of
-maturity and success that we're now ready to go even further in parallel: [Open
+taken us really far. Let's see it as a sign of maturity and success that we're
+now ready to go even further in parallel: [Open
 Source](https://opensource.org/) _and_ [Fair Source](https://fair.io/).
