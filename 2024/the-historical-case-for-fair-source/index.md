@@ -332,10 +332,10 @@ today. As mentioned above, [10,000+ self-hosted Sentry
 users](https://openpath.chadwhitacre.com/2024/widespread-use-of-a-fair-source-product/)
 do just that. Then what's the point of the eventual conversion? Eric Raymond
 [recognized the value](https://x.com/esrtweet/status/1790870518456861153) of
-DOSP when he said:
+DOSP when he said (my emphasis):
 
-> It's the guarantee of a timed flip to full open source that puts a bound on
-> the business and legal risk. That's very clever.
+> It's the guarantee of a timed flip to full open source that puts <b>a bound
+> on the business and legal risk</b>. That's very clever.
 
 In other words, delayed Open Source mitigates against vendor lock-in and
 platform decay. If push comes to shove, another party—community or
@@ -344,8 +344,8 @@ direction. If a project _has_ decayed, the difference between an old version
 and the latest version may be minimal, or the older version may be better than
 the newer version. You could even fork a version less than two years old, and
 work on it privately until the future license date. Fair Source offers real
-benefits, and meaningfully protects both users and producers against worst-case
-scenarios.
+benefits, and meaningfully protects both developers and companies against
+worst-case scenarios.
 
 ### Eventual Open Source Was There All Along
 
