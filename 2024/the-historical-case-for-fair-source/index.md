@@ -10,11 +10,11 @@ in 1998) and Free Software (1983). In some fashion, software sharing goes back
 to the dawn of computing. What is Fair Source? Why do we need it now?
 
 Fair Source is software that is safe for companies to share and developers to
-use. We need it because Open Source, historically, has been a tenuous alliance
-of community and commercial projects, and this alliance seems to have run its
-course. By introducing a new term for commercial projects, we can set better
-expectations with developers, reduce pressure to change the Open Source
-Definition, and free up more companies to share their core software products.
+use. We need it because, historically, Open Source has been an ambiguous term,
+applied to both community and commercial projects. By introducing a new term
+for commercial projects, Fair Source, we can set better expectations with
+developers, reduce pressure to change the Open Source Definition, and free up
+more companies to share their core software products.
 
 ## Safe for Developers and Companies Alike
 
@@ -75,8 +75,8 @@ model](https://dirkriehle.com/2008/05/18/open-source-is-a-business-strategy-not-
 Companies cannot control how their projects are used and still be Open Source,
 but they _can_ control the roadmap—_production_ if not _consumption_.
 Historically, this discrepancy has supported two very different understandings
-of Open Source: _community_ and _commercial_. These have formed an uneasy
-alliance since the beginning.
+of Open Source: _community_ and _commercial_. This ambiguity has been part of
+Open Source since the beginning.
 
 How do community and commercial Open Source differ?
 
