@@ -328,8 +328,12 @@ DOSP when he said:
 In other words, delayed Open Source mitigates against vendor lock-in and
 platform decay. If push comes to shove, another party—community or
 commercial—can fork an older version of the software and take it in a different
-direction. Fair Source offers real benefits, and meaningfully protects both
-users and producers against worst-case scenarios.
+direction. If a project _has_ decayed, the difference between an old version
+and the latest version may be minimal, or the older version may be better than
+the newer version. You could even fork a version less than two years old, and
+work on it privately until the future license date. Fair Source offers real
+benefits, and meaningfully protects both users and producers against worst-case
+scenarios.
 
 ### Eventual Open Source Was There All Along
 
