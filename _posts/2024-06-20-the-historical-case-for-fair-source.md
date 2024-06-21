@@ -185,15 +185,20 @@ Where did single-vendor come from? When did this tension arise?
 Competing with Microsoft and losing badly, Netscape sales engineer Frank Hecker
 [wrote a 20-page
 proposal](https://frankhecker.com/writings/#netscape-mozilla-and-open-source),
-"to commercially license the source code [for the Communicator suite] under liberal terms, and provide it at
-no charge for noncommercial use." (The memo is not published, but a paper
-based on it is: "[Setting Up Shop: The Business of Open-Source Software](https://frankhecker.com/writings/setting-up-shop/).") Jamie Zawinski (jwz) and other Free Software advocates at Netscape picked up on Frank's memo, and
+"to commercially license the source code [for the Communicator suite] under
+liberal terms, and provide it at no charge for noncommercial use." The memo is
+not published, but a paper based on it is: "[Setting Up Shop: The Business of
+Open-Source Software](https://frankhecker.com/writings/setting-up-shop/)."
+Jamie Zawinski (jwz) and other Free Software advocates at Netscape picked up on
+Frank's memo (which jwz had [partially
+inspired](https://frankhecker.com/writings/setting-up-shop/#appendix)), and
 convinced CEO Jim Barksdale and his management team to [attempt the desperate
 gambit](https://www.oreilly.com/openbook/opensources/book/netrev.html). In a
 press release dated January 22, 1998, they announced their intention to
 [release the source code for Netscape
 Communicator](https://web.archive.org/web/19980202132717/http://www.netscape.com/newsref/pr/newsrelease558.html)
-in order "to harness the creative power of thousands of programmers on the Internet[.]"
+in order "to harness the creative power of thousands of programmers on the
+Internet[.]"
 
 Product lead Michael Toy [said at the
 time](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y#t=4m08s), "We're probably
