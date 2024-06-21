@@ -125,9 +125,10 @@ Dirk's "single-vendor" article maintains a tone of academic neutrality. His
 a temptation for startups to make a buck"). Dirk in that era seems guardedly
 suspicious of commercial Open Source (COSS) but he does not outright reject the
 concept. By his account, [SugarCRM coined the term in
-2004](https://dirkriehle.com/2009/06/19/commercial-open-source-the-naming-confusion-remains/).
-It is [still used today](https://www.coss.community/), most often in referrence
-to [Open
+2004](https://dirkriehle.com/2009/06/19/commercial-open-source-the-naming-confusion-remains/),
+(though Frank Hecker was [using the term already in May,
+1998](https://frankhecker.com/writings/setting-up-shop/)). It is [still used
+today](https://www.coss.community/), most often in referrence to [Open
 Core](https://alampitt.typepad.com/lampitt_or_leave_it/2009/03/opencore-licensing-the-new-standard-in-commercial-software-business-models.html)
 software, most often by [Joseph Jacks](https://x.com/josephjacks_) and [OSS
 Capital](https://oss.capital/) portfolio companies. But trust has dwindled.
@@ -181,14 +182,18 @@ Where did single-vendor come from? When did this tension arise?
 ### The Divide Was There All Along
 
 [Mozilla](https://www.mozilla.org/) was the first Open Source project.
-Competing with Microsoft and losing badly, sales engineer Frank Hecker, along
-with Jamie Zawinski (jwz) and other Free Software advocates at Netscape,
-convinced CEO Jim Barksdale and his management team to [try a desperate
+Competing with Microsoft and losing badly, Netscape sales engineer Frank Hecker
+[wrote a 20-page
+proposal](https://frankhecker.com/writings/#netscape-mozilla-and-open-source),
+"to commercially license the source code [for the Communicator suite] under liberal terms, and provide it at
+no charge for noncommercial use." (The memo is not published, but a paper
+based on it is: "[Setting Up Shop: The Business of Open-Source Software](https://frankhecker.com/writings/setting-up-shop/).") Jamie Zawinski (jwz) and other Free Software advocates at Netscape picked up on Frank's memo, and
+convinced CEO Jim Barksdale and his management team to [attempt the desperate
 gambit](https://www.oreilly.com/openbook/opensources/book/netrev.html). In a
 press release dated January 22, 1998, they announced their intention to
 [release the source code for Netscape
 Communicator](https://web.archive.org/web/19980202132717/http://www.netscape.com/newsref/pr/newsrelease558.html)
-in order to attract a global workforce of volunteer developers.
+in order "to harness the creative power of thousands of programmers on the Internet[.]"
 
 Product lead Michael Toy [said at the
 time](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y#t=4m08s), "We're probably
@@ -350,25 +355,39 @@ work on it privately until the future license date. Fair Source offers real
 benefits, and meaningfully protects both developers and companies against
 worst-case scenarios.
 
-### Eventual Open Source Was There All Along
+### The Answers Were There All Along
 
 The DOSP paper authors credit GhostScript as the first to go this route,
-"around 1998" (p. 6). The idea is on record even earlier, from Richard Stallman
-himself, in of all things his March, 1998 [response to the release of the
-Netscape Communicator source
-code](https://www.gnu.org/philosophy/netscape-npl.html)(!). After observing the
-asymmetry in Netscape's license that effectively made Mozilla a single-vendor
-commercial project, he offered this (emphasis mine):
+"around 1998" (p. 6), but the idea is on record even earlier. Richard Stallman
+suggests it, in his March, 1998 [response to the release of the Netscape
+Communicator source code](https://www.gnu.org/philosophy/netscape-npl.html)(!).
+After observing the asymmetry in Netscape's license that effectively made
+Mozilla a single-vendor commercial project, he offered this:
 
-> One proposed solution for this asymmetry is to **put a time limit on
-> it—perhaps three or five years**. <b>That would be a big improvement</b>,
-> because the time limit would deny the problematical deeper message.
+> One proposed solution for this asymmetry is to put a time limit on it—perhaps
+> three or five years. That would be a big improvement, because the time limit
+> would deny the problematical deeper message.
 
 What's more, if I'm reading the [NPL](https://spdx.org/licenses/NPL-1.0.html)
 right, they _do_ have a time-box built in: "during the two (2) years following
 the release date of the Original Code[.]" Coincidentally, two years is what we
 settled on for [FSL](https://fsl.software/), tightening from the four-year
 default in [BUSL](https://spdx.org/licenses/BUSL-1.1).
+
+Frank Hecker seems to have developed the theory the furthest the earliest. In
+May of 1998, in "[Setting Up
+Shop](https://frankhecker.com/writings/setting-up-shop/)," the extensive paper
+based on his original Netscape memo from the year before, he put forth the
+"[<b>Sell It, Free
+It</b>](https://frankhecker.com/writings/setting-up-shop/#sell-it-free-it)"
+business model. "[A] company's software products start out their product life
+cycle as traditional commercial products and then are **continually converted
+to open-source** products when appropriate[.]" He also discusses "[<b>hybrid
+business
+models</b>](https://frankhecker.com/writings/setting-up-shop/#hybrid-business-models),"
+using, "licenses that are **not quite open-source in the strict sense**, but
+are also not as restrictive as traditional proprietary licenses[.]" Fair Source
+is the combination of these two insights from the dawn of Open Source.
 
 ### Early Feedback Is Guardedly Positive
 
