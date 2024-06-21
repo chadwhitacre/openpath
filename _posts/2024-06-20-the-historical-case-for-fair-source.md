@@ -379,6 +379,8 @@ the release date of the Original Code[.]" Coincidentally, two years is what we
 settled on for [FSL](https://fsl.software/), tightening from the four-year
 default in [BUSL](https://spdx.org/licenses/BUSL-1.1).
 
+{% include img.html src="underlying-points-of-view.webp" caption='Open Source has always been an alliance of different interests. (PDF)' url="https://frankhecker.com/writings/open-source-licensing.pdf" %}
+
 Frank Hecker seems to have developed the theory the furthest the earliest. In
 May of 1998, in "[Setting Up
 Shop](https://frankhecker.com/writings/setting-up-shop/)," the extensive paper
