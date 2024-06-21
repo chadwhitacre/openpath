@@ -183,7 +183,7 @@ Where did single-vendor come from? When did this tension arise?
 [Mozilla](https://www.mozilla.org/) was the first Open Source project.
 Competing with Microsoft and losing badly, sales engineer Frank Hecker, along
 with Jamie Zawinski (jwz) and other Free Software advocates at Netscape,
-convinced CEO Jim Barksdale and his management team to try [a desperate
+convinced CEO Jim Barksdale and his management team to [try a desperate
 gambit](https://www.oreilly.com/openbook/opensources/book/netrev.html). In a
 press release dated January 22, 1998, they announced their intention to
 [release the source code for Netscape
