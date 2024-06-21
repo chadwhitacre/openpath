@@ -206,8 +206,8 @@ Source Initiative](https://opensource.org/) (OSI) to steward the new movement.
 
 Consider this, though: Netscape published Mozilla under the [Netscape Public
 License](https://en.wikipedia.org/wiki/Netscape_Public_License), yet this
-license was either never submitted to OSI or rejected. Why might OSI reject the
-license of its flagship first project?
+license was either never submitted to OSI or rejected. Why might OSI have
+hesitated to approve the license of its flagship first project?
 
 Richard Stallman (RMS) [documented the
 reasons](https://www.gnu.org/philosophy/netscape-npl.html). Richard had founded
