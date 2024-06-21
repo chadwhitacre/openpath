@@ -275,6 +275,8 @@ a single-vendor commercial Open Source project than one might expect. If
 single-vendor is to be written out of the OSD, however, then perhaps the
 alliance has run its course.
 
+{% include img.html src="underlying-points-of-view.webp" caption='Software sharing has always served various ends. (PDF)' url="https://frankhecker.com/writings/open-source-licensing.pdf" %}
+
 ## Fair Source Is a Good Way Forward
 
 Fair Source supports the community view of Open Source, defining a new term for
@@ -378,8 +380,6 @@ right, they _do_ have a time-box built in: "during the two (2) years following
 the release date of the Original Code[.]" Coincidentally, two years is what we
 settled on for [FSL](https://fsl.software/), tightening from the four-year
 default in [BUSL](https://spdx.org/licenses/BUSL-1.1).
-
-{% include img.html src="underlying-points-of-view.webp" caption='Open Source has always been an alliance of different interests. (PDF)' url="https://frankhecker.com/writings/open-source-licensing.pdf" %}
 
 Frank Hecker seems to have developed the theory the furthest the earliest. In
 May of 1998, in "[Setting Up
