@@ -180,16 +180,21 @@ Where did single-vendor come from? When did this tension arise?
 
 ### The Divide Was There All Along
 
-[Mozilla](https://en.wikipedia.org/wiki/Mozilla) was the first Open Source
-project. Competing with Microsoft and losing badly, Jamie Zawinski (jwz) and
-other Free Software advocates at Netscape convinced CEO Jim Barksdale and his
-management team to try a desperate gambit: release the source code for the
-Navigator web browser in order to attract a global workforce of volunteer
-developers. Product lead Michael Toy [said at the
+[Mozilla](https://www.mozilla.org/) was the first Open Source project.
+Competing with Microsoft and losing badly, sales engineer Frank Hecker, along
+with Jamie Zawinski (jwz) and other Free Software advocates at Netscape,
+convinced CEO Jim Barksdale and his management team to try [a desperate
+gambit](https://www.oreilly.com/openbook/opensources/book/netrev.html). In a
+press release dated January 22, 1998, they announced their intention to
+[release the source code for Netscape
+Communicator](https://web.archive.org/web/19980202132717/http://www.netscape.com/newsref/pr/newsrelease558.html)
+in order to attract a global workforce of volunteer developers.
+
+Product lead Michael Toy [said at the
 time](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y#t=4m08s), "We're probably
 doomed. We're probably gonna fail. Microsoft is probably gonna squish us like a
-bug anyway." Opening up Navigator was a marketing and product development Hail
-Mary that Netscape agreed to out of desperation.
+bug anyway." Opening up Communicator was a marketing and product development
+Hail Mary that Netscape agreed to out of desperation.
 
 {% include img.html src="code_rush.webp" caption="There's an hour-long documentary about Netscape called <i>Code Rush</i>." url="https://www.youtube.com/watch?v=4Q7FTjhvZ7Y" %}
 
@@ -211,8 +216,8 @@ hesitated to approve the license of its flagship first project?
 
 Richard Stallman (RMS) [documented the
 reasons](https://www.gnu.org/philosophy/netscape-npl.html). Richard had founded
-the Free Software movement in 1983. He did _not_ participate in the Navigator
-release, and he [carefully
+the Free Software movement in 1983. He did _not_ participate in the
+Communicator source code release, and he [carefully
 distinguished](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 between Free Software and Open Source. RMS [pointed
 out](https://www.gnu.org/philosophy/netscape-npl.html) that NPL-1.0 subtly
@@ -256,7 +261,7 @@ OSI-approved license.
 
 **Open Source was born precisely as a tenuous alliance of community and
 commercial interests**. The first Open Source project, Mozilla, looks more like
-a single-vendor commercial Open Source project than one might expect.  If
+a single-vendor commercial Open Source project than one might expect. If
 single-vendor is to be written out of the OSD, however, then perhaps the
 alliance has run its course.
 
@@ -350,7 +355,7 @@ worst-case scenarios.
 The DOSP paper authors credit GhostScript as the first to go this route,
 "around 1998" (p. 6). The idea is on record even earlier, from Richard Stallman
 himself, in of all things his March, 1998 [response to the release of the
-Netscape Navigator source
+Netscape Communicator source
 code](https://www.gnu.org/philosophy/netscape-npl.html)(!). After observing the
 asymmetry in Netscape's license that effectively made Mozilla a single-vendor
 commercial project, he offered this (emphasis mine):
