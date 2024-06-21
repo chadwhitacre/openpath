@@ -255,10 +255,10 @@ Mozilla](https://www-archive.mozilla.org/mpl/relicensing-faq) under a proper,
 OSI-approved license.
 
 **Open Source was born precisely as a tenuous alliance of community and
-commercial interests**. The first Open Source project, Mozilla, was a
-single-vendor commercial Open Source project. Dirk, Thierry, and others who
-wish to chide, must chide Netscape. If single-vendor is to be written out of
-the OSD, then the alliance seems to have run its course.
+commercial interests**. The first Open Source project, Mozilla, looks more like
+a single-vendor commercial Open Source project than one might expect.  If
+single-vendor is to be written out of the OSD, however, then perhaps the
+alliance has run its course.
 
 ## Fair Source Is a Good Way Forward
 
