@@ -124,11 +124,11 @@ Dirk's "single-vendor" article maintains a tone of academic neutrality. His
 "perils" post leaks a little more negative sentiment ("community open source is
 a temptation for startups to make a buck"). Dirk in that era seems guardedly
 suspicious of commercial Open Source (COSS) but he does not outright reject the
-concept. By his account, [SugarCRM coined the term in
-2004](https://dirkriehle.com/2009/06/19/commercial-open-source-the-naming-confusion-remains/),
-(though Frank Hecker was [using the term already in May,
-1998](https://frankhecker.com/writings/setting-up-shop/)). It is [still used
-today](https://www.coss.community/), most often in referrence to [Open
+concept. By his account, SugarCRM put COSS [on the
+map](https://dirkriehle.com/2009/06/19/commercial-open-source-the-naming-confusion-remains/)
+in 2004, though the term was [in use much
+earlier](https://x.com/dirkriehle/status/1804502329619566727). It is [still
+used today](https://www.coss.community/), most often in reference to [Open
 Core](https://alampitt.typepad.com/lampitt_or_leave_it/2009/03/opencore-licensing-the-new-standard-in-commercial-software-business-models.html)
 software, most often by [Joseph Jacks](https://x.com/josephjacks_) and [OSS
 Capital](https://oss.capital/) portfolio companies. But trust has dwindled.
@@ -214,8 +214,8 @@ motivations. Netscape was making a last-ditch attempt to save the business.
 ESR, jwz & co. were capitalizing on an opportunity to advance the
 community-minded Free Software movement. Along the way they realized that "Free
 Software" confused people, so [they
-changed](http://www.catb.org/~esr/open-source.html) to "[Open Source
-Software](https://opensource.com/article/18/2/coining-term-open-source-software)."
+changed](http://www.catb.org/~esr/open-source.html) to "[open-source
+software](https://opensource.com/article/18/2/coining-term-open-source-software)."
 It worked. The story caught fire, and Eric and Bruce quickly formed the [Open
 Source Initiative](https://opensource.org/) (OSI) to steward the new movement.
 
@@ -270,7 +270,7 @@ Mozilla](https://www-archive.mozilla.org/mpl/relicensing-faq) under a proper,
 OSI-approved license.
 
 **Open Source was born precisely as a tenuous alliance of community and
-commercial interests**. The first Open Source project, Mozilla, looks more like
+commercial interests.** The first Open Source project, Mozilla, looks more like
 a single-vendor commercial Open Source project than one might expect. If
 single-vendor is to be written out of the OSD, however, then perhaps the
 alliance has run its course.
