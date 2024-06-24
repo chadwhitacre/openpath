@@ -183,19 +183,27 @@ Where did single-vendor come from? When did this tension arise?
 
 [Mozilla](https://www.mozilla.org/) was the first Open Source project.
 Competing with Microsoft and losing badly, Netscape sales engineer Frank Hecker
-[wrote a 20-page
-proposal](https://frankhecker.com/writings/#netscape-mozilla-and-open-source),
-"to commercially license the source code [for the Communicator suite] under
-liberal terms, and provide it at no charge for noncommercial use." The memo is
-not published, but a paper based on it is: "[Setting Up Shop: The Business of
-Open-Source Software](https://frankhecker.com/writings/setting-up-shop/)."
+wrote [a 20-page
+proposal](https://frankhecker.com/writings/netscape-source-code/) to release
+the source code for their products. He did not go the whole way to Free
+Software. Rather, he had Netscape [generating
+revenue](https://frankhecker.com/writings/netscape-source-code/#converting_value),
+"at the point that the customer used the source code to create their own
+derivative work." A year later he expanded on the memo in a paper, "[Setting Up
+Shop: The Business of Open-Source
+Software](https://frankhecker.com/writings/setting-up-shop/)," but he did not
+publish [the memo
+itself](https://frankhecker.com/writings/netscape-source-code/) until now, in
+response to this present post(!).
+
 Jamie Zawinski (jwz) and other Free Software advocates at Netscape picked up on
 Frank's memo (which jwz had [partially
 inspired](https://frankhecker.com/writings/setting-up-shop/#appendix)), and
-convinced CEO Jim Barksdale and his management team to [attempt the desperate
-gambit](https://www.oreilly.com/openbook/opensources/book/netrev.html). In a
-press release dated January 22, 1998, they announced their intention to
-[release the source code for Netscape
+convinced CEO Jim Barksdale and his management team to attempt a desperate
+gambit, and [go the whole
+way](https://www.oreilly.com/openbook/opensources/book/netrev.html) to Free
+Software. In a press release dated January 22, 1998, they announced their
+intention to [release the source code for Netscape
 Communicator](https://web.archive.org/web/19980202132717/http://www.netscape.com/newsref/pr/newsrelease558.html)
 in order "to harness the creative power of thousands of programmers on the
 Internet[.]"
@@ -203,7 +211,7 @@ Internet[.]"
 Product lead Michael Toy [said at the
 time](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y#t=4m08s), "We're probably
 doomed. We're probably gonna fail. Microsoft is probably gonna squish us like a
-bug anyway." Opening up Communicator was a marketing and product development
+bug anyway." Releasing the code for Communicator was a marketing and product development
 Hail Mary that Netscape agreed to out of desperation.
 
 {% include img.html src="code_rush.webp" caption="There's an hour-long documentary about Netscape called <i>Code Rush</i>." url="https://www.youtube.com/watch?v=4Q7FTjhvZ7Y" %}
@@ -212,8 +220,8 @@ Free Software advocates outside the company, including Eric Raymond (ESR) and
 Bruce Perens, eagerly jumped in to help, but the parties had different
 motivations. Netscape was making a last-ditch attempt to save the business.
 ESR, jwz & co. were capitalizing on an opportunity to advance the
-community-minded Free Software movement. Along the way they realized that "Free
-Software" confused people, so [they
+community-minded Free Software movement. Along the way they realized that "free
+software" confused people, so [they
 changed](http://www.catb.org/~esr/open-source.html) to "[open-source
 software](https://opensource.com/article/18/2/coining-term-open-source-software)."
 It worked. The story caught fire, and Eric and Bruce quickly formed the [Open
@@ -275,13 +283,15 @@ then-owner AOL Time Warner to [fully relicense
 Mozilla](https://www-archive.mozilla.org/mpl/relicensing-faq) under proper,
 OSI-approved licenses.
 
-**Open Source was born precisely as a tenuous alliance of community and
-commercial interests.** The first Open Source project, Mozilla, looks more like
-a single-vendor commercial Open Source project than one might expect. If
-single-vendor is to be written out of the OSD, however, then perhaps the
-alliance has run its course.
+All that to say, **Open Source was born precisely as a tenuous alliance of
+community and commercial interests.** The first Open Source project, Mozilla,
+looks more like a single-vendor commercial Open Source project than one might
+expect. If single-vendor is to be written out of the OSD, however, then perhaps
+the alliance has run its course.
 
-{% include img.html src="underlying-points-of-view.webp" caption='Software sharing has always served various ends. (PDF)' url="https://frankhecker.com/writings/open-source-licensing.pdf" %}
+{% include img.html src="underlying-points-of-view.webp" caption='Software
+sharing has always served various ends. (PDF)'
+url="https://frankhecker.com/writings/open-source-licensing.pdf" %}
 
 ## Fair Source Is a Good Way Forward
 
@@ -390,8 +400,9 @@ default in [BUSL](https://spdx.org/licenses/BUSL-1.1).
 Frank Hecker seems to have developed the theory the furthest the earliest. In
 May of 1998, in "[Setting Up
 Shop](https://frankhecker.com/writings/setting-up-shop/)," the extensive paper
-based on his original Netscape memo from the year before, he put forth the
-"[<b>Sell It, Free
+based on his [original Netscape
+memo](https://frankhecker.com/writings/netscape-source-code/) from the year
+before, he put forth the "[<b>Sell It, Free
 It</b>](https://frankhecker.com/writings/setting-up-shop/#sell-it-free-it)"
 business model. "[A] company's software products start out their product life
 cycle as traditional commercial products and then are **continually converted
