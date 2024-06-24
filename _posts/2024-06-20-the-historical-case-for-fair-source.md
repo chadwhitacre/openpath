@@ -283,11 +283,11 @@ then-owner AOL Time Warner to [fully relicense
 Mozilla](https://www-archive.mozilla.org/mpl/relicensing-faq) under proper,
 OSI-approved licenses.
 
-All that to say, **Open Source was born precisely as a tenuous alliance of
-community and commercial interests.** The first Open Source project, Mozilla,
-looks more like a single-vendor commercial Open Source project than one might
-expect. If single-vendor is to be written out of the OSD, however, then perhaps
-the alliance has run its course.
+**Open Source was born precisely as a tenuous alliance of community and
+commercial interests.** The first Open Source project, Mozilla, looks more like
+a single-vendor commercial Open Source project than one might expect. If
+single-vendor is to be written out of the OSD, however, then perhaps the
+alliance has run its course.
 
 {% include img.html src="underlying-points-of-view.webp" caption='Software
 sharing has always served various ends. (PDF)'
