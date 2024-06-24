@@ -263,11 +263,17 @@ Here is the relevant text from
 
 {% include img.html src="navigator.webp" caption="Source: Wikipedia (modified)" url="https://en.wikipedia.org/wiki/Netscape_Navigator#Decline" %}
 
-It wasn't until [late 2001](https://wiki.mozilla.org/Timeline), after the
-dot-com bubble had burst and Netscape had lost all relevance, that the
-community could convince then-owner AOL Time Warner to [relicense
-Mozilla](https://www-archive.mozilla.org/mpl/relicensing-faq) under a proper,
-OSI-approved license.
+Granted, Mozilla did encourage contributors to publish _new_ code under the
+[Mozilla Public License](https://spdx.org/licenses/MPL-1.0.html) (MozPL or
+MPL), equivalent to NPL without "[amendments granting Netscape additional
+rights](https://www-archive.mozilla.org/mpl/faq#4)." The compromise between old
+(NPL) and new (MPL) code got as close to Free Software as possible given the
+complex legal realities they were under. It wasn't until [late
+2001](https://wiki.mozilla.org/Timeline), after the dot-com bubble had burst
+and Netscape had lost all relevance, that the community could convince
+then-owner AOL Time Warner to [fully relicense
+Mozilla](https://www-archive.mozilla.org/mpl/relicensing-faq) under proper,
+OSI-approved licenses.
 
 **Open Source was born precisely as a tenuous alliance of community and
 commercial interests.** The first Open Source project, Mozilla, looks more like
