@@ -182,7 +182,7 @@ same, though.
 
 Building platforms and recruiting devs to receive free money is easy. The main
 options today are [GitHub Sponsors](https://github.com/sponsors), [Open
-Collective](ttps://www.opencollective.org/), and
+Collective](https://opencollective.com/), and
 [Tidelift](https://tidelift.com/). I'm also rooting for
 [Thanks.dev](https://thanks.dev/home) (they are helping me a lot at Sentry) and
 [Liberapay](https://liberapay.com/) (they are a fork of Gittip/Gratipay).
