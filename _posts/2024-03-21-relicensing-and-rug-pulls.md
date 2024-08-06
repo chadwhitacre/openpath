@@ -10,6 +10,13 @@ Jeff'd](https://www.youtube.com/watch?v=XZ3w_jec1v8#t=29m27s). This time it's
 Redis ... again. Was it a rug pull? It's too soon to tell. It's only a rug pull
 if someone was standing on the rug.
 
+<div class="update">
+  <span>Update</span>
+  The <a
+  href="https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community">Valkey
+  fork</a> seems to be <a href="https://github.com/valkey-io/valkey">viable</a>.
+</div>
+
 ## A Brief History of Redis Licensing
 
 - <b>2009</b>—After working on it privately for three years (yes?), Salvatore
