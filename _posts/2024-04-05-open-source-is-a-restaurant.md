@@ -137,3 +137,8 @@ currently by nature are. Everything is against us. There's no way this could
 possibly work. Unless enough of us collectively want it to work.
 
 I want it to work.
+
+<div class="update">
+  <span>Update</span>
+  We're moving this forward as <a href="https://osspledge.com/">Open Source Pledge</a>.
+</div>
