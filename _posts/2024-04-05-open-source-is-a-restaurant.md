@@ -3,6 +3,12 @@ title: Open Source Is a Restaurant
 excerpt: It was a great meal. Are we going to pay the tab?
 ---
 
+### Related Video
+
+{% include youtube.html video_id="AZZyV0gk3TM" %}
+
+---
+
 With [XZ](https://research.swtch.com/xz-timeline) we're in a fresh round of
 proposals to fix [Open Source
 sustainability](/2024/the-open-source-sustainability-crisis/).
