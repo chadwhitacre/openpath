@@ -51,7 +51,7 @@ background colors lol). He
 > “can maintainers live a decent-to-comfortable lifestyle writing free
 > software?”
 
-I recently [wrote](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/#what-is-open-source-sustainability):
+I recently [wrote](https://openpath.quest/2024/the-open-source-sustainability-crisis/#what-is-open-source-sustainability):
 
 > Open Source sustainability is when any smart, motivated person can produce
 > widely adopted Open Source software and get paid fairly without jumping

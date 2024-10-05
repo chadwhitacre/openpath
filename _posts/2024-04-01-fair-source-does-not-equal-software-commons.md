@@ -29,7 +29,7 @@ developer sustainability:
 - [**Software Commons**](https://softwarecommons.com/) has become about bringing
   together companies, foundations, and platforms to solve [the Open Source
   sustainability
-  crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/).
+  crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/).
 
 I had initially tried to see these two aspects of sustainability—licensing and
 funding—as worth pursuing together. Now I see them as worth pursuing

@@ -162,7 +162,7 @@ means to be human in the world. I'm terrified at the prospect of engaging these
 questions publicly—to press the metaphor, this path seems to be starting out along the
 edge of a cliff!
 
-Hopefully [Open Path](https://openpath.chadwhitacre.com/) leads to a good
+Hopefully [Open Path](https://openpath.quest/) leads to a good
 place. Hopefully I won't get fined.
 
 Thanks for visiting! 💃

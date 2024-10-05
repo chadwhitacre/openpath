@@ -7,7 +7,7 @@ excerpt: Imagine an indie Open Source contingent thriving alongside our corporat
 [Log4shell](https://en.wikipedia.org/wiki/Log4Shell), and now
 [XZ](https://tukaani.org/xz-backdoor/). The time has come to take
 definitive concrete action to resolve the [Open Source sustainability
-crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/).
+crisis](https://openpath.quest/2024/the-open-source-sustainability-crisis/).
 This post puts forward a plan for a new entity called [**<b>Software Commons</b>**](https://softwarecommons.com/) that
 combines real funding with real accountability, without losing the [hacker
 spirit](https://en.wikipedia.org/wiki/Hacker_ethic) that is the heart and

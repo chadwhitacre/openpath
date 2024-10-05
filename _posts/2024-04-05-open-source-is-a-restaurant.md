@@ -42,7 +42,7 @@ to [sustainability as I define it](/2024/the-open-source-sustainability-crisis/#
 > widely adopted Open Source software and get paid fairly without jumping
 > through hoops.
 
-Grants are [hoops](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/#whats-wrong-with-hoops).
+Grants are [hoops](https://openpath.quest/2024/the-open-source-sustainability-crisis/#whats-wrong-with-hoops).
 
 ## The Restaurant Analogy
 

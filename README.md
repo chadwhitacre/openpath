@@ -5,7 +5,7 @@
 ### Welcome!
 
 This repo holds the source code for
-[openpath.chadwhitacre.com](https://openpath.chadwhitacre.com/), where I blog
+[openpath.quest](https://openpath.quest/), where I blog
 about topics of interest to the Open Source community, the wider tech industry,
 and society at large. If you have questions or suggestions, feel free to [open
 an issue](https://github.com/chadwhitacre/openpath/issues/new), or reach out on
