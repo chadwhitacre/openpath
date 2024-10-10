@@ -115,7 +115,7 @@ PHP CMS powering a good chunk of the other 57% of the Web: Drupal. Its founder,
 Dries Buytaert, [has all the answers to resolve the WordPress
 crisis](https://dri.es/solving-the-maker-taker-problem). No joke.
 
-Dries work with Drupal is [a master-class in institution-building for governing
+Dries' work with Drupal is [a master-class in institution-building for governing
 the
 commons](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source).
 Elinor Ostrom [wrote the book on this](https://www.amazon.com/dp/1107569788),
@@ -150,11 +150,11 @@ What's more, Dries' irenic tone is exceedingly refreshing. From his [latest](htt
 > keep this post as neutral as possible.
 
 He just comes across as a really good guy, who has done a lot of really great
-work with Drupal and genuinely wants to see others succeed. When he says he
-considers Matt a good friend, I believe him.  If I see hope for WordPress, it's
-that peers such as Dries Buytaert [and David Heinemeier
-Hansson](https://x.com/dhh/status/1843783918270722383) (DHH) are able to get
-through to Matt with constructive feedback leading to personal growth.
+work with Drupal and genuinely wants to see others and Open Source succeed.
+When he says he considers Matt a good friend, I believe him. If I see hope for
+WordPress, it's that peers such as Dries Buytaert [and David Heinemeier
+Hansson](https://x.com/dhh/status/1843783918270722383) (DHH) might get through
+to Matt with constructive feedback leading to personal growth.
 
 
 ## More Good Leaders, Please
@@ -169,7 +169,7 @@ leadership.
 For better or worse, organizations and institutions and communities have
 leaders. For better or worse, leaders put their stamp on the groups they lead,
 often in subtle and far-reaching ways. All leaders make mistakes. Nobody is
-perfect. (I know from personal experience. ;-) Personal growth is deeply ...
+perfect (I know from personal experience ;-). Personal growth is deeply ...
 personal.
 
 If Matt wants a true Open Source community, he should follow Dries' advice and
