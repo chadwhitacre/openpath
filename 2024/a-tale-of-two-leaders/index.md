@@ -99,8 +99,8 @@ and [the](https://x.com/LinuxJedi/status/1843966957495939093)
 
 Moreover, Matt's current behavior is in keeping with his past behavior. Wes Bos
 [pointed out](https://x.com/wesbos/status/1839122560597848533), "Real ones
-remember the @photomatt and @pearsonified thesis theme spat of." I'm not a real
-one so I had to [read up on
+remember the @photomatt and @pearsonified thesis theme spat of 2010." I'm not a
+real one so I had to [read up on
 it](https://poststatus.com/thesis-automattic-and-wordpress/). Vicious, highly
 public conflict seems to be part of Matt's _modus operandi_, part of his
 character as a leader.
