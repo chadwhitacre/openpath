@@ -55,7 +55,7 @@ The [targeted expansion](https://archive.is/TWjAr):
 
 The thin skin: "[My own mother was confused.](https://wordpress.org/news/2024/09/wp-engine/)"
 
-The shakedown: "[a royalty fee equal to 8% of its Gross Revenue](https://automattic.com/2024/10/01/wpe-terms/)."
+The [shakedown](https://automattic.com/2024/10/01/wpe-terms/): "[a royalty fee equal to 8% of its Gross Revenue](https://automattic.com/2024/10/01/wpe-terms/)."
 
 And then, the "[Automattic Alignment](https://ma.tt/2024/10/alignment/)," the
 demand of allegiance:
