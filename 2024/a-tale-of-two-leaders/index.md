@@ -80,7 +80,7 @@ WP Engine
 that Matt "threatened [...] to embark on a self-described 'scorched earth
 nuclear approach,'" if they didn't resolve their conflict before his WordCamp
 keynote. Whether the specific allegation is true, that certainly describes what
-has transpired since. Matt himself calls it "[going to
+has transpired since. Matt himself called it "[going to
 war](https://ma.tt/2024/09/charitable-contributions/)." His keynote is his
 "[Spiciest WordCamp Talk
 Ever!](https://www.youtube.com/watch?v=fnI-QcVSwMU#t=10m05s)" It [immediately
