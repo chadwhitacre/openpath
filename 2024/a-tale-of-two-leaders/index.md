@@ -26,7 +26,7 @@ _leadership_.
 
 ## Matt Mullenweg Is a Tragic Tyrant
 
-It is difficult for not to interpret Matt Mullenweg's behavior during this
+It is difficult for me not to interpret Matt Mullenweg's behavior during this
 crisis through [the lens of Greek
 tragedy](https://brill.com/view/journals/agpt/40/2/article-p234_5.xml):
 
