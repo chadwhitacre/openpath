@@ -178,7 +178,7 @@ what he wants, he should be honest about it. We invented [Fair
 Source](https://fair.io/) precisely for companies who want to share to an
 extent while maintaining control over their core software products.
 
-Maybe DHH is right:
+Maybe DHH is [right](https://world.hey.com/dhh/automattic-is-doing-open-source-dirty-b95cf128):
 
 > I suspect Automattic wants to have their cake and eat it too. They want to
 > retain WordPress' shine of open source, but also be able to extract their
