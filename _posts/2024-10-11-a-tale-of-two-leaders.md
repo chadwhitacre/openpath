@@ -44,7 +44,7 @@ now.](https://x.com/sereedmedia/status/1839394786622722432)"
 
 - "[People think they're a lot more important than they actually are.](https://x.com/photomatt/status/1844188190061756918)"
 
-The [targeted expansion](https://archive.is/TWjAr):
+The [bristling offense](https://archive.is/TWjAr):
 
 > The abbreviation 'WP' is not covered by the WordPress trademarks, but please
 > don’t use it in a way that confuses people. For example, many people think WP
