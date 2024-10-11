@@ -20,9 +20,8 @@ heart of the matter:
 >
 > But now its become apparent that WordPress Foundation is not.
 
-Yes, this episode reveals much about the importance of governance in Open
-Source.  Even more than that, however, it reveals the importance of
-_leadership_.
+Yes, this episode reveals much about the importance of good governance in Open
+Source. Along with that, it reveals the importance of good _leadership_.
 
 ## Matt Mullenweg Is a Tragic Tyrant
 
@@ -193,7 +192,7 @@ If Matt _does_ want WordPress to live up to its potential as a true Open Source
 community, he should follow Dries' advice and make the WordPress Foundation
 truly independent of Automattic, with well-designed governance. It won't be
 easy. There's a lot of mistrust to overcome. He probably needs to offer WP
-Engine a board seat to convince them to shift from Takers to Makers.
+Engine a board seat to convince them to shift from Taker to Maker.
 
 One way or another, **letting go of power is the only cure for tyranny**. It's
 not too late for Matt to embark on a path to deeper growth as a leader.
