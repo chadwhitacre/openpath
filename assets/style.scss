@@ -199,27 +199,27 @@ ol {
   }
 }
 
-.ml-embedded {
-  padding: 16pt 0;
-}
-.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
-  padding: 0 !important;
-  .ml-form-successContent {
-    margin: 24pt auto !important;
-    text-align: center !important;
-    h4 {
-      display: inline !important;
-      margin: 0 !important;
-      text-align: center !important;
-      color: var(--white) !important;
-      font: normal 14pt/150% "Work Sans" !important;
-    }
-    h4::after {
-      content: " Check your inbox to confirm.";
-    }
-    p {
-      display: none;
-    }
+form.buttondown {
+  text-align: center;
+  margin: 16pt 0;
+
+  input {
+    font: 12pt/18pt "Work Sans";
+    padding: 3pt 12pt;
+  }
+
+  button {
+    background: var(--white);;
+    color: var(--black);;
+    font: 12pt/18pt "Work Sans";
+    padding: 3pt 12pt;
+    border: 1px solid var(--white);;
+    border-radius: 4px;
+    margin: 6pt 0 0 3pt;
+    cursor: pointer;
+  }
+  .powered-by {
+    font-size: 10pt;
   }
 }
 
