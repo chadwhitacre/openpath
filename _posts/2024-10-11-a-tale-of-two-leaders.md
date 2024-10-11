@@ -197,3 +197,7 @@ One way or another, **letting go of power is the only cure for tyranny**. It's
 not too late for Matt to embark on a path to deeper growth as a leader.
 Thoughtfully sharing power would heal and revitalize the WordPress community
 and be an inspiration to all of us in Open Source.
+
+---
+
+_Thanks to Michael Selvidge for commenting on a draft of this post._
