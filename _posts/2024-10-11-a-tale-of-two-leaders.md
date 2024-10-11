@@ -8,7 +8,7 @@ This is my contribution to the (ongoing) [Great WordPress Drama of
 Here are explainers from [Ivan Mehta in
 _TechCrunch_](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/)
 and [Emma Roth in _The
-Verge_](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
+Verge_](https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg)
 to get caught up. Adam Jacob is thorough as usual on [the trademark
 angle](https://x.com/adamhjk/status/1844043758800957727). Pelle Wessman [gets
 closer](https://x.com/voxpelli/status/1844346017879294449) to what I see as the
