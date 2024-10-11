@@ -95,8 +95,8 @@ and [the](https://x.com/LinuxJedi/status/1843966957495939093)
 [anytime](https://x.com/sereedmedia/status/1844154707100696931)
 [soon](https://x.com/LucP/status/1843926970763227255).
 
-Moreover, Matt's current behavior is in keeping with his past behavior. Wes Bos
-[pointed out](https://x.com/wesbos/status/1839122560597848533), "Real ones
+Moreover, Matt's current behavior is in keeping with his past behavior, as Wes Bos
+[pointed out](https://x.com/wesbos/status/1839122560597848533): "Real ones
 remember the @photomatt and @pearsonified thesis theme spat of 2010." I'm not a
 real one so I had to [read up on
 it](https://poststatus.com/thesis-automattic-and-wordpress/).  Vicious, highly
