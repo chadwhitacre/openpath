@@ -195,8 +195,8 @@ truly independent of Automattic, with well-designed governance. It won't be
 easy. There's a lot of mistrust to overcome. He probably needs to offer WP
 Engine a board seat to convince them to shift from Takers to Makers.
 
-One way or another, letting go of power is the only cure for tyranny. It's not
-too late for Matt to embark on a path to deeper growth as a leader.
+One way or another, **letting go of power is the only cure for tyranny**. It's
+not too late for Matt to embark on a path to deeper growth as a leader.
 Thoughtfully sharing power would heal and revitalize the WordPress community
 and be an inspiration to all of us in Open Source.
 
