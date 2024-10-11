@@ -69,7 +69,7 @@ WP Engine.](https://wordpress.org/news/2024/09/wp-engine-banned/)"
 - "[I want you all to be informed and involved. Not to stay on the
 sidelines](https://x.com/JavierCasares/status/1843963086073733523)."
 
-And finally, **The Checkbox&trade;**. Yes, it's [really
+And finally, The Checkbox&trade;. Yes, it's [really
 there](https://login.wordpress.org/) ([archive](https://archive.is/FqfEr)), and
 [you have to check it](https://x.com/chadwhitacre_/status/1844483081413214647) to login.
 
@@ -101,9 +101,15 @@ Moreover, Matt's current behavior is in keeping with his past behavior. Wes Bos
 [pointed out](https://x.com/wesbos/status/1839122560597848533), "Real ones
 remember the @photomatt and @pearsonified thesis theme spat of 2010." I'm not a
 real one so I had to [read up on
-it](https://poststatus.com/thesis-automattic-and-wordpress/). Vicious, highly
+it](https://poststatus.com/thesis-automattic-and-wordpress/).  Vicious, highly
 public conflict seems to be part of Matt's _modus operandi_, part of his
 character as a leader.
+
+The essence of tyranny is absolute power, corrupting absolutely.  **Matt does
+not share power.** The WordPress Foundation [is a
+sham](https://x.com/voxpelli/status/1839264084350369806). He is on the
+tyrant's path.
+
 
 
 ## Dries Buytaert Is a Gentle Giant
@@ -134,15 +140,18 @@ The summary of the summary is that healthy commons exhibit seven attributes:
 Drupal exhibits all of these, because Dries [explicitly grew Drupal according
 to the best research on governing the
 commons](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source).
-The Drupal Association is a truly independent, credible non-profit. Dries'
-company Acquia is one company among many operating on equal terms. The Drupal
-community has evolved a complex system of non-monetary accounting for
+He created the Drupal Association as a truly independent, credible non-profit.
+Dries' company Acquia is one company among many operating on equal terms. The
+Drupal community has evolved a complex system of non-monetary accounting for
 contributions to the Drupal project, with the Association trusted to carry out
 monitoring and enforcement. [Go read Dries' deep dive from five years
 ago](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source).
 It's awesome.
 
-What's more, Dries' irenic tone is exceedingly refreshing. From his [latest](https://dri.es/solving-the-maker-taker-problem):
+In short, **Dries shares power.** This is the key to Drupal's success, and
+inspiring testament to Dries' remarkable character as a leader. What's more,
+Dries' irenic tone is exceedingly refreshing. From his
+[latest](https://dri.es/solving-the-maker-taker-problem):
 
 > Although this post was prompted by the controversy between Automattic and WP
 > Engine, it is _not_ about them. I don't have insight into their respective
@@ -152,39 +161,43 @@ What's more, Dries' irenic tone is exceedingly refreshing. From his [latest](htt
 He just comes across as a really good guy, who has done a lot of really great
 work with Drupal and genuinely wants to see others and Open Source succeed.
 When he says he considers Matt a good friend, I believe him. If I see hope for
-WordPress, it's that peers such as Dries Buytaert [and David Heinemeier
-Hansson](https://x.com/dhh/status/1843783918270722383) (DHH) might get through
-to Matt with constructive feedback leading to personal growth.
+WordPress, it's that peers such as Dries might get through to Matt with
+constructive feedback leading to personal growth, and a relaxed grip on
+power in the WordPress community.
 
 
-## More Good Leaders, Please
+## Two Paths for WordPress 
 
-I think Matt is right that WP Engine is hurting the WordPress community. From
-here in the peanut gallery, it does seem like WP Engine is rapaciously—and
-rationally!—strip-mining the WordPress community. As we wrestle with the
-questions of trademarks and licensing and sustainability and funding and
-governance in Open Source that this situation presents, let's not forget about
-leadership.
+I think Matt is right that WP Engine is hurting the WordPress community.  They
+are paradigmatic "Takers" in [Dries'
+model](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source).
+As we wrestle with the questions of trademarks and licensing and sustainability
+and funding and governance in Open Source that this situation presents, let's
+also not forget about leadership.
 
 For better or worse, organizations and institutions and communities have
 leaders. For better or worse, leaders put their stamp on the groups they lead,
 often in subtle and far-reaching ways. All leaders make mistakes. Nobody is
-perfect (I know from personal experience ;-). Personal growth is deeply ...
-personal.
+perfect (I attest from personal experience ;-). Power can be difficult to
+share. Personal growth can be deeply ... personal.
 
-If Matt wants a true Open Source community, he should follow Dries' advice and
-make the WordPress Foundation truly independent of Automattic. If that's not
-what he wants, he should be honest about it. We invented [Fair
-Source](https://fair.io/) precisely for companies who want to share to an
-extent while maintaining control over their core software products.
+If Matt does not want to share power in a true Open Source community, he could
+at least be more honest about it. We invented [Fair Source](https://fair.io/)
+precisely for companies who want to share to an extent while maintaining
+control over their core software products. Relicensing might be Matt's most
+honest option, since a fork already seems likelier every day (smart money says
+Linux Foundation has been courting WP Engine behind the scenes for weeks
+now).
 
-Maybe DHH is [right](https://world.hey.com/dhh/automattic-is-doing-open-source-dirty-b95cf128):
+If Matt _does_ want WordPress to live up to its potential as a true Open Source
+community, he should follow Dries' advice and make the WordPress Foundation
+truly independent of Automattic, with well-designed governance. It won't be
+easy. There's a lot of mistrust to overcome. He probably needs to offer WP
+Engine a board seat to convince them to shift from Takers to Makers.
 
-> I suspect Automattic wants to have their cake and eat it too. They want to
-> retain WordPress' shine of open source, but also be able to extract their
-> pound of flesh from any competitor that might appear, whenever they see fit.
-
-But maybe Matt will be able to pull back from the tyrant's path that he is on,
-and embark instead on a path to deeper growth as a leader.
+Letting go of power is the only cure for tyranny. It's not too late for Matt to
+embark on a path to deeper growth as a leader. Thoughtfully sharing power would
+heal and revitalize the WordPress community and be an inspiration to all of us
+in Open Source.
 
 {% include img.html src="social.webp" caption="" url="" %}
