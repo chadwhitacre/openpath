@@ -33,7 +33,7 @@ By the way, I love that we're finally learning to do this, to move
 conversations from text-based online communication, which has low emotional
 bandwidth, to podcasts and video calls, which have higher emotional bandwidth.
 Just the other week I did two of these, with [Peer
-Richelson](https://x.com/chadwhitacre_/status/1839348202660638802) and with
+Richelsen](https://x.com/chadwhitacre_/status/1839348202660638802) and with
 [Pete from Hugging Face](https://www.youtube.com/watch?v=QdUfB-hBoqk).  I first
 experienced the power of this practice [back in 2013, with
 DHH](https://www.youtube.com/watch?v=p1E-svVd9Xc), in fact.
@@ -117,7 +117,7 @@ what Matt has said all along. Here he is at 49:25:
 
 It's hard for me to fault this. Personally, I can't stand WordPress as a
 software product. It really frustrates me every time I have to use it. So I
-don't, for the most part. That's me opting out of Matt's world. If I did love
+don't, for the most part. That's me opting out of Matt's power. If I did love
 WordPress and didn't like what Matt is doing, I would think about contributing
 to a fork. He's right that Open Source provides a meaningful check-and-balance
 that, e.g., Mark Zuckerberg does not have. David finds this to be "[uncharted
