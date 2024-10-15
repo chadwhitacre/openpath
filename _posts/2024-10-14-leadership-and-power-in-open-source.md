@@ -65,13 +65,13 @@ catch up. ;-)
 Anyway, back to [Matt and David's 2019
 call](https://37signals.com/podcast/open-source-and-power-with-matt-mullenweg/),
 there are some quotes in there that are really juicy in light of the current
-crisis. Here's one at 13:32:
+crisis. Here's the juiciest, at 13:32:
 
 > And the truth is that if I had an evil hat on—like let’s say I started doing
 > evil monopoly stuff—people could easily fork the software, and they would ...
 > tomorrow! So there’s a checks and balances there.
 
-David pushed back on the practicality of a fork against such a large incumbent,
+David pushed back on the feasability of a fork against such a large incumbent,
 but today we have Valkey and OpenTofu as existence proofs that it can and will be
 done. Who among us will be surprised if and when Linux Foundation and WP Engine
 [announce OpenPress](https://x.com/jessethanley/status/1839087749271531655) or
@@ -119,9 +119,9 @@ what Matt has said all along. Here he is at 49:25:
 > Source forking or all sorts of different ways that people can opt out of that
 > person’s power.
 
-It's hard for me to fault this. Personally, I can't stand WordPress as a
-software product. It really frustrates me every time I have to use it. So I
-don't, for the most part. That's me opting out of Matt's power. If I did love
+It's hard for me to fault his main point. Personally, I can't stand WordPress
+as a software product. It really frustrates me every time I have to use it. So
+I don't, for the most part. That's me opting out of Matt's power. If I did love
 WordPress and didn't like what Matt is doing, I would think about contributing
 to a fork. He's right that Open Source provides a meaningful check-and-balance
 that, e.g., Mark Zuckerberg does not have. David finds this to be "[uncharted
