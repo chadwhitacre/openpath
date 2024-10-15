@@ -12,13 +12,16 @@ Heinemeier Hansson, whose name I have yet to be able to spell confidently
 without checking, despite having followed his work and crossed paths a bit
 since 2004.  DHH, let's call him. Shall we?
 
-Matt published [a reply to DHH](https://ma.tt/2024/10/on-dhh/) yesterday
+Matt published [a reply to DHH](https://ma.tt/2024/10/on-dhh/) today
 [update: this is now 404], which sorta is-what-it-is, par for the course in the
 fight Matt is waging. What I found more interesting was [this related
 post](https://ma.tt/2019/10/debating-oss-with-dhh/) from 2019, about a
 conversation Matt had with DHH on the Rework Podcast entitled, "[Open Source
 and Power with Matt
 Mullenweg](https://37signals.com/podcast/open-source-and-power-with-matt-mullenweg/)."
+
+{% include img.html src="old-call.webp" caption="Might be just a bit relevant lol" url="https://37signals.com/podcast/open-source-and-power-with-matt-mullenweg/" %}
+
 The context was Automattic's Series D, and an emerging narrative around growing
 WordPress from 34% of the web to 85%. Today WordPress is at 57%, so Matt is
 right on track, I guess. At the time, David rankled at one company
@@ -44,11 +47,12 @@ The roots go back much further. The term [emotional bandwidth is Mitch Kapor's,
 from 1995](https://tricycle.org/magazine/emotional-bandwidth/). Mitch was
 wrestling with the tension between the promise of the early Internet to bring
 people together, and the reality of the flamewars and conflict that we ended up
-in, even back then. He could only dream of the future we're living in today:
+in, even back then. "The answer," he wrote, "may lie in increasing the emotional
+bandwidth of communication." But he could only dream of the future we're living
+in today:
 
-> The answer may lie in increasing the emotional bandwidth of communication. As
-> telephone systems are upgraded and cable television becomes an access path to
-> the Internet, higher speed connections capable of carrying voice and face
+> As telephone systems are upgraded and cable television becomes an access path
+> to the Internet, higher speed connections capable of carrying voice and face
 > will become much more common.
 
 We're pretty accustomed to dropping to a call in our work lives, inside our
@@ -130,8 +134,8 @@ thoughtful approach to resolving the Maker/Taker problem is inspiring to me.
 Matt's tyrannical approach is not. But I'm free to opt out of Matt's power, so
 what's the problem?
 
-In yesterday's [reply](https://ma.tt/2024/10/on-dhh/) [update: this is now
-404], Matt called out David and Dries for holding the trademarks for Ruby on
+In Matt's [reply to DHH](https://ma.tt/2024/10/on-dhh/) [update: this is now
+404], he called out David and Dries for holding the trademarks for Ruby on
 Rails and Drupal, rather than vesting those with their respective foundations.
 He has a point there, as well.
 
