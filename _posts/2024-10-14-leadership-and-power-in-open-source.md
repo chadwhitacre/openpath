@@ -10,7 +10,7 @@ Drupal. My conclusion was that [Matt does not share power](/2024/a-tale-of-two-l
 Besides Dries, another key interlocutor of Matt's during this crisis is David
 Heinemeier Hansson, whose name I have yet to be able to spell confidently
 without checking, despite having followed his work and crossed paths a bit
-since 2004.  DHH, let's call him. Shall we?
+since 2004. DHH, let's call him. Shall we?
 
 Matt published [a reply to DHH](https://ma.tt/2024/10/on-dhh/) today
 [update: this is now 404], which sorta is-what-it-is, par for the course in the
@@ -39,7 +39,11 @@ Just the other week I did two of these, with [Peer
 Richelsen](https://x.com/chadwhitacre_/status/1839348202660638802) and with
 [Pete from Hugging Face](https://www.youtube.com/watch?v=QdUfB-hBoqk).  I first
 experienced the power of this practice [back in 2013, with
-DHH](https://www.youtube.com/watch?v=p1E-svVd9Xc), in fact.
+DHH](https://www.youtube.com/watch?v=p1E-svVd9Xc), in fact. We talked about
+[mixing Open Source and
+money](https://dhh.dk/2013/the-perils-of-mixing-open-source-and-money.html),
+which is [still highly
+relevant](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/).
 
 {% include img.html src="open-call.webp" caption="Streamed 10 years ago." url="https://www.youtube.com/watch?v=p1E-svVd9Xc" %}
 
