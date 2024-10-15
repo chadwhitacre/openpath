@@ -22,6 +22,11 @@ heart of the matter:
 Yes, this episode reveals much about the importance of good governance in Open
 Source. Along with that, it reveals the importance of good _leadership_.
 
+<div class="update">
+  <span>Update</span>
+  I've published a follow-up, &ldquo;<a href="/2024/leadership-and-power-in-open-source/">Leadership and Power in Open Source</a>.&rdquo;
+</div>
+
 ## Matt Mullenweg Is a Tragic Tyrant
 
 It is difficult for me not to interpret Matt Mullenweg's behavior during this

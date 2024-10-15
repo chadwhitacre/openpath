@@ -1,6 +1,6 @@
 ---
 title: Leadership and Power in Open Source
-excerpt: Open Source offers a real check on power, yet some ways of wielding power in Open Source are still better than others.
+excerpt: Open Source offers a check on power, yet some ways of wielding power are still better than others.
 ---
 
 Last week I waded into the Great WordPress Drama of 2024 with a post comparing
