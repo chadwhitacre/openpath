@@ -1,6 +1,6 @@
 ---
 title: Leadership and Power in Open Source
-excerpt: Open Source offers a real check on power, yet some ways of weilding power in Open Source are still better than others.
+excerpt: Open Source offers a real check on power, yet some ways of wielding power in Open Source are still better than others.
 ---
 
 Last week I waded into the Great WordPress Drama of 2024 with a post comparing
@@ -61,7 +61,7 @@ catch up. ;-)
 Anyway, back to [Matt and David's 2019
 call](https://37signals.com/podcast/open-source-and-power-with-matt-mullenweg/),
 there are some quotes in there that are really juicy in light of the current
-crisis. Here's one from 13:32:
+crisis. Here's one at 13:32:
 
 > And the truth is that if I had an evil hat on—like let’s say I started doing
 > evil monopoly stuff—people could easily fork the software, and they would ...
@@ -131,10 +131,10 @@ Matt's tyrannical approach is not. But I'm free to opt out of Matt's power, so
 what's the problem?
 
 In yesterday's [reply](https://ma.tt/2024/10/on-dhh/) [update: this is now
-404!], Matt called out David and Dries for holding the trademarks for Ruby on
-Rails and Drupal, rather than vesting those with a foundation. He has a point
-there, as well.
+404], Matt called out David and Dries for holding the trademarks for Ruby on
+Rails and Drupal, rather than vesting those with their respective foundations.
+He has a point there, as well.
 
 What I'm seeing here is a clarification of ways to lead in Open Source, ways to
 wield power. I'm grateful that I can opt out of people's power in Open Source,
-and I trust that the best ways of weilding it will win out over time.
+and I trust that the best ways of wielding it will win out over time.
