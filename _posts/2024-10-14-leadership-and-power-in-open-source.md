@@ -113,10 +113,10 @@ and I trust that the best ways of wielding it will win out over time.
 
 ## P.S. Yay For More Emotional Bandwidth
 
-By the way, I love that we're finally learning to do this, to move
-conversations from text-based online communication, which has low emotional
-bandwidth, to podcasts and video calls, which have higher emotional bandwidth.
-Just the other week I did two of these, with [Peer
+By the way, I love that we're finally learning to move conversations from
+text-based online communication, which has low emotional bandwidth, to podcasts
+and video calls, which have higher emotional bandwidth. Just the other week I
+did two of these, with [Peer
 Richelsen](https://x.com/chadwhitacre_/status/1839348202660638802) and with
 [Pete from Hugging Face](https://www.youtube.com/watch?v=QdUfB-hBoqk).  I first
 experienced the power of this practice [back in 2013, with
