@@ -12,9 +12,9 @@ Heinemeier Hansson, whose name I have yet to be able to spell confidently
 without checking, despite having followed his work and crossed paths a bit
 since 2004. DHH, let's call him. Shall we?
 
-Matt published [a reply to DHH](https://ma.tt/2024/10/on-dhh/) today
-[update: this is now 404], which sorta is-what-it-is, par for the course in the
-fight Matt is waging. What I found more interesting was [this related
+Matt published [a reply to DHH](https://ma.tt/2024/10/on-dhh/) today [update:
+Matt took down the original], which sorta is-what-it-is, par for the course in
+the fight Matt is waging. What I found more interesting was [this related
 post](https://ma.tt/2019/10/debating-oss-with-dhh/) from 2019, about a
 conversation Matt had with DHH on the Rework Podcast entitled, "[Open Source
 and Power with Matt
@@ -30,46 +30,10 @@ episode](https://37signals.com/podcast/open-source-and-power-with-matt-mullenweg
 tl;dr Matt _really_ does not share power&mdash;except when he does, then he
 _really_ does.
 
-## Yay For More Emotional Bandwidth
+## Evil Monopoly Stuff
 
-By the way, I love that we're finally learning to do this, to move
-conversations from text-based online communication, which has low emotional
-bandwidth, to podcasts and video calls, which have higher emotional bandwidth.
-Just the other week I did two of these, with [Peer
-Richelsen](https://x.com/chadwhitacre_/status/1839348202660638802) and with
-[Pete from Hugging Face](https://www.youtube.com/watch?v=QdUfB-hBoqk).  I first
-experienced the power of this practice [back in 2013, with
-DHH](https://www.youtube.com/watch?v=p1E-svVd9Xc), in fact. We talked about
-[mixing Open Source and
-money](https://dhh.dk/2013/the-perils-of-mixing-open-source-and-money.html),
-which is [still highly
-relevant](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/).
-
-{% include img.html src="open-call.webp" caption="Streamed 10 years ago." url="https://www.youtube.com/watch?v=p1E-svVd9Xc" %}
-
-The roots go back much further. The term [emotional bandwidth is Mitch Kapor's,
-from 1995](https://tricycle.org/magazine/emotional-bandwidth/). Mitch was
-wrestling with the tension between the promise of the early Internet to bring
-people together, and the reality of the flamewars and conflict that we ended up
-in, even back then. "The answer," he wrote, "may lie in increasing the emotional
-bandwidth of communication." But he could only dream of the future we're living
-in today:
-
-> As telephone systems are upgraded and cable television becomes an access path
-> to the Internet, higher speed connections capable of carrying voice and face
-> will become much more common.
-
-We're pretty accustomed to dropping to a call in our work lives, inside our
-companies. It's great progress that we're starting to see more of this in
-public life as well. Hopefully someday national presidential politics will
-catch up. ;-)
-
-## Back to Matt and DHH
-
-Anyway, back to [Matt and David's 2019
-call](https://37signals.com/podcast/open-source-and-power-with-matt-mullenweg/),
-there are some quotes in there that are really juicy in light of the current
-crisis. Here's the juiciest, at 13:32:
+There are some quotes in Matt and David's call that are really juicy in light
+of the current crisis. Here's the juiciest, at 13:32:
 
 > And the truth is that if I had an evil hat on—like let’s say I started doing
 > evil monopoly stuff—people could easily fork the software, and they would ...
@@ -138,11 +102,45 @@ thoughtful approach to resolving the Maker/Taker problem is inspiring to me.
 Matt's tyrannical approach is not. But I'm free to opt out of Matt's power, so
 what's the problem?
 
-In Matt's [reply to DHH](https://ma.tt/2024/10/on-dhh/) [update: this is now
-404], he called out David and Dries for holding the trademarks for Ruby on
-Rails and Drupal, rather than vesting those with their respective foundations.
-He has a point there, as well.
+In Matt's [reply to DHH](https://ma.tt/2024/10/on-dhh/) [update: Matt took down
+the original], he called out David and Dries for holding the trademarks for
+Ruby on Rails and Drupal, rather than vesting those with their respective
+foundations.  He has a point there, as well.
 
 What I'm seeing here is a clarification of ways to lead in Open Source, ways to
 wield power. I'm grateful that I can opt out of people's power in Open Source,
 and I trust that the best ways of wielding it will win out over time.
+
+## P.S. Yay For More Emotional Bandwidth
+
+By the way, I love that we're finally learning to do this, to move
+conversations from text-based online communication, which has low emotional
+bandwidth, to podcasts and video calls, which have higher emotional bandwidth.
+Just the other week I did two of these, with [Peer
+Richelsen](https://x.com/chadwhitacre_/status/1839348202660638802) and with
+[Pete from Hugging Face](https://www.youtube.com/watch?v=QdUfB-hBoqk).  I first
+experienced the power of this practice [back in 2013, with
+DHH](https://www.youtube.com/watch?v=p1E-svVd9Xc), in fact. We talked about
+[mixing Open Source and
+money](https://dhh.dk/2013/the-perils-of-mixing-open-source-and-money.html),
+which is [still highly
+relevant](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/).
+
+{% include img.html src="open-call.webp" caption="Streamed 10 years ago." url="https://www.youtube.com/watch?v=p1E-svVd9Xc" %}
+
+The roots go back much further. The term [emotional bandwidth is Mitch Kapor's,
+from 1995](https://tricycle.org/magazine/emotional-bandwidth/). Mitch was
+wrestling with the tension between the promise of the early Internet to bring
+people together, and the reality of the flamewars and conflict that we ended up
+in, even back then. "The answer," he wrote, "may lie in increasing the emotional
+bandwidth of communication." But he could only dream of the future we're living
+in today:
+
+> As telephone systems are upgraded and cable television becomes an access path
+> to the Internet, higher speed connections capable of carrying voice and face
+> will become much more common.
+
+We're pretty accustomed to dropping to a call in our work lives, inside our
+companies. It's great progress that we're starting to see more of this in
+public life as well. Hopefully someday national presidential politics will
+catch up. ;-)
