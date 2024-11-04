@@ -43,7 +43,7 @@ tragedy](https://brill.com/view/journals/agpt/40/2/article-p234_5.xml):
 Against that backdrop, consider the hubris:
 
 - "[I've been post-economic for probably 19 years
-now.](https://x.com/sereedmedia/status/1839394786622722432)"
+  now.](https://x.com/sereedmedia/status/1839394786622722432)"
 
 - "[WordPress.org just belongs to me personally.](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)"
 
@@ -64,13 +64,13 @@ And then, the "[Automattic Alignment](https://ma.tt/2024/10/alignment/)," the
 demand of allegiance:
 
 - "[I ask everyone in the WordPress community to <b>vote with your
-wallet</b>.](https://ma.tt/2024/09/ecosystem-thinking/)"
+  wallet</b>.](https://ma.tt/2024/09/ecosystem-thinking/)"
 
 - "[If you want to experience WordPress, use any other host in the world besides
-WP Engine.](https://wordpress.org/news/2024/09/wp-engine-banned/)"
+  WP Engine.](https://wordpress.org/news/2024/09/wp-engine-banned/)"
 
 - "[I want you all to be informed and involved. Not to stay on the
-sidelines](https://x.com/JavierCasares/status/1843963086073733523)."
+  sidelines](https://x.com/JavierCasares/status/1843963086073733523)."
 
 And finally, The Checkbox&trade;. Yes, it's [really
 there](https://login.wordpress.org/) ([archive](https://archive.is/FqfEr)), and
@@ -104,16 +104,14 @@ Moreover, Matt's current behavior is in keeping with his past behavior, as Wes B
 [pointed out](https://x.com/wesbos/status/1839122560597848533): "Real ones
 remember the @photomatt and @pearsonified thesis theme spat of 2010." I'm not a
 real one so I had to [read up on
-it](https://poststatus.com/thesis-automattic-and-wordpress/).  Vicious, highly
+it](https://poststatus.com/thesis-automattic-and-wordpress/). Vicious, highly
 public conflict seems to be part of Matt's _modus operandi_, part of his
 character as a leader.
 
-The essence of tyranny is absolute power, corrupting absolutely.  **Matt does
+The essence of tyranny is absolute power, corrupting absolutely. **Matt does
 not share power.** The WordPress Foundation [is a
 sham](https://x.com/voxpelli/status/1839264084350369806). He is on the
 tyrant's path.
-
-
 
 ## Dries Buytaert Is a Gentle Giant
 
@@ -168,10 +166,9 @@ WordPress, it's that peers such as Dries might get through to Matt with
 constructive feedback leading to personal growth, and a relaxed grip on
 power in the WordPress community.
 
+## Two Paths for WordPress
 
-## Two Paths for WordPress 
-
-I think Matt is right that WP Engine is hurting the WordPress community.  They
+I think Matt is right that WP Engine is hurting the WordPress community. They
 are paradigmatic "Takers" in [Dries'
 model](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source).
 As we wrestle with the questions of trademarks and licensing and sustainability

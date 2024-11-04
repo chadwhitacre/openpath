@@ -1,5 +1,5 @@
 ---
-title: The Future of FOSS Foundations 
+title: The Future of FOSS Foundations
 excerpt: With new EU legislation, Open Source foundations are growing up fast. Where are we headed?
 ---
 
@@ -123,7 +123,7 @@ metaphor](https://medium.com/@stephenrwalli/sustaining-open-source-software-4a62
 > regardless of licensing regime or community versus corporate creation**.
 
 With the CRA, the European Union is saying the word "restaurant" over the whole
-software industry, including Open Source.  The "rules and regulations" are
+software industry, including Open Source. The "rules and regulations" are
 arriving. They intend a "light-touch and tailor-made regulatory regime" for
 Open Source. Cue the unintended consequences. It was green onions from a
 distant supplier that took down Chi-Chi's restaurant in the worst hepatitis A

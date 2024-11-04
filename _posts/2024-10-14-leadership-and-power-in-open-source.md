@@ -105,7 +105,7 @@ what's the problem?
 In Matt's [reply to DHH](https://ma.tt/2024/10/on-dhh/) [update: Matt took down
 the original], he called out David and Dries for holding the trademarks for
 Ruby on Rails and Drupal, rather than vesting those with their respective
-foundations.  He has a point there, as well.
+foundations. He has a point there, as well.
 
 What I'm seeing here is a clarification of ways to lead in Open Source, ways to
 wield power. I'm grateful that I can opt out of people's power in Open Source,
@@ -118,7 +118,7 @@ text-based online communication, which has low emotional bandwidth, to podcasts
 and video calls, which have higher emotional bandwidth. Just the other week I
 did two of these, with [Peer
 Richelsen](https://x.com/chadwhitacre_/status/1839348202660638802) and with
-[Pete from Hugging Face](https://www.youtube.com/watch?v=QdUfB-hBoqk).  I first
+[Pete from Hugging Face](https://www.youtube.com/watch?v=QdUfB-hBoqk). I first
 experienced the power of this practice [back in 2013, with
 DHH](https://www.youtube.com/watch?v=p1E-svVd9Xc), in fact. We talked about
 [mixing Open Source and
