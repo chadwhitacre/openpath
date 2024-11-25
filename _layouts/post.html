@@ -32,4 +32,15 @@ layout: default
     <a href="https://sentry.io/welcome/">Sentry</a>.
   </div>
   {{ content }}
+
+  {% if page.bluesky %}
+  <div class="replies">
+    <span>Replies</span>
+    <div class="bsky"></div>
+  </div>
+  <script src="/assets/replies.js"></script>
+  <script>
+    initReplies('.replies .bsky', '{{page.bluesky}}');
+  </script>
+  {% endif %}
 </div>

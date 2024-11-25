@@ -94,12 +94,12 @@ hr {
   margin: 24pt 0 24pt 49%;
   &::before {
     content: "❧";
-    color: var(--green);;
+    color: var(--green);
   }
 }
 
-
-.meta, .disclosure {
+.meta,
+.disclosure {
   color: var(--green);
   font-size: 10pt;
   line-height: 130%;
@@ -118,7 +118,7 @@ hr {
       list-style: none;
       &::before {
         visibility: hidden;
-        content: '▶';
+        content: "▶";
         font-size: 8pt;
       }
       &.current::before {
@@ -134,7 +134,9 @@ hr {
   }
 }
 .draft {
-  font: normal 18pt/120% "Comic Sans MS", serif;
+  font:
+    normal 18pt/120% "Comic Sans MS",
+    serif;
   color: red;
   text-transform: uppercase;
   margin: 0 0 36pt;
@@ -165,7 +167,8 @@ img.float-left {
 ul,
 ol {
   padding: 8pt 0 0 16pt;
-  ul, ol {
+  ul,
+  ol {
     padding-top: 0;
   }
   li {
@@ -209,11 +212,11 @@ form.buttondown {
   }
 
   button {
-    background: var(--white);;
-    color: var(--black);;
+    background: var(--white);
+    color: var(--black);
     font: 12pt/18pt "Work Sans";
     padding: 3pt 12pt;
-    border: 1px solid var(--white);;
+    border: 1px solid var(--white);
     border-radius: 4px;
     margin: 6pt 0 0 3pt;
     cursor: pointer;
@@ -344,7 +347,8 @@ header {
     color: var(--black);
     .tldr,
     .series,
-    .update {
+    .update,
+    .replies {
       display: block;
       position: relative;
       span {
@@ -361,6 +365,10 @@ header {
       border-radius: 6pt;
 
       &.tldr {
+        background: var(--green);
+      }
+      &.replies {
+        margin-top: 42pt;
         background: var(--green);
       }
       &.series {
@@ -497,6 +505,68 @@ footer {
     display: none;
   }
   #too-small {
+    display: block;
+  }
+}
+
+
+.bsky {
+  .bsky-message {
+    font-size: 10pt;
+    position: relative;
+    top: -1pt;
+  }
+  .bsky-meta {
+    opacity: 0.5;
+    &:hover {
+      opacity: 1.0;
+    }
+    white-space: nowrap;
+    font-size: 10pt;
+    line-height: 10pt;
+    padding: 3pt 0;
+    &.bsky-top {
+      position: relative;
+      top: -2pt;
+    }
+    text-decoration: none;
+    .bsky-icon {
+      width: 12pt;
+      height: 12pt;
+    }
+    .bsky-avatar {
+      height: 12pt;
+      width: 12pt;
+      border-radius: 9999px;
+      border: 1px solid var(--white);
+    }
+    img, svg {
+      position: relative;
+      top: 2.5pt;
+    }
+    svg {
+      margin-left: 3pt;
+    }
+  }
+  .bsky-reply {
+    margin: 12pt 0;
+    .bsky-text {
+      text-decoration: none;
+    }
+    .bsky-replies {
+      padding-left: 16pt;
+    }
+  }
+
+  .bsky-load-more {
+    background: var(--white);
+    color: var(--black);
+    font: 12pt/18pt "Work Sans";
+    padding: 3pt 12pt;
+    border: 1px solid var(--white);
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 40pt 0;
     display: block;
   }
 }
