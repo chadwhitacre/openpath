@@ -115,7 +115,7 @@ class BlueskyReplies {
       { icon: 'repost', count: this.thread.post.repostCount ?? 0, label: 'reposts' },
       { icon: 'reply', count: this.thread.post.replyCount ?? 0, label: 'replies' }
     ];
-    topMeta.innerHTML = `Participate on ${ICONS['bsky']} Bluesky` + stats.map(stat => `
+    topMeta.innerHTML = `Comment on ${ICONS['bsky']} Bluesky` + stats.map(stat => `
       ${ICONS[stat.icon]} ${stat.count} ${stat.label}
     `).join('');
 
