@@ -1,6 +1,7 @@
 ---
 title: A Tale of Two Leaders
 excerpt: Matt Mullenweg and Dries Buytaert are showing us starkly contrasting ways of leading an Open Source community.
+bluesky: https://bsky.app/profile/chadwhitacre.com/post/3l7lbwm3i4h25
 ---
 
 This is my contribution to the (ongoing) [Great WordPress Drama of

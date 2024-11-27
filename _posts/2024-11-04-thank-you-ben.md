@@ -1,6 +1,7 @@
 ---
 title: Thank You, Ben
 excerpt: Ben Vinegar hired me into Sentry four years ago, and now he is moving on. Allow me a few words.
+bluesky: https://bsky.app/profile/chadwhitacre.com/post/3la57ptdk5n2w
 ---
 
 One of my favorite books on leadership is <cite><a
