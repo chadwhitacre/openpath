@@ -1,6 +1,6 @@
-// Heavily modified from https://github.com/czue/bluesky-comments under MIT
+// Heavily modified from https://github.com/czue/bluesky-comments under MIT.
+// This file is also under MIT.
 
-// SVG Icons
 const ICONS = {
   bsky: `<svg class="bsky-icon" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="m135.72 44.03c66.496 49.921 138.02 151.14 164.28 205.46 26.262-54.316 97.782-155.54 164.28-205.46 47.98-36.021 125.72-63.892 125.72 24.795 0 17.712-10.155 148.79-16.111 170.07-20.703 73.984-96.144 92.854-163.25 81.433 117.3 19.964 147.14 86.092 82.697 152.22-122.39 125.59-175.91-31.511-189.63-71.766-2.514-7.3797-3.6904-10.832-3.7077-7.8964-0.0174-2.9357-1.1937 0.51669-3.7077 7.8964-13.714 40.255-67.233 197.36-189.63 71.766-64.444-66.128-34.605-132.26 82.697-152.22-67.108 11.421-142.55-7.4491-163.25-81.433-5.9562-21.282-16.111-152.36-16.111-170.07 0-88.687 77.742-60.816 125.72-24.795z" fill="#f0eadb" transform="translate(0, 35)" /></svg>`,
   heart: `<svg class="bsky-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="#f0eadb"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" /></svg>`,
@@ -106,9 +106,6 @@ class BlueskyReplies {
 
   render() {
     this.container.innerHTML = '';
-    if (!this.thread || !this.thread.replies || this.thread.replies.length === 0) {
-      return;
-    }
 
     const topMeta = document.createElement('a');
     topMeta.className = 'bsky-meta bsky-top';
