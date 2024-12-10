@@ -1,6 +1,6 @@
 ---
 title: Allocating Funds
-excerpt: Foo.
+excerpt: More experiments please.
 noindex: true
 ---
 {% include img.html src="social.webp" caption="" url="" %}
