@@ -3,8 +3,6 @@ title: Allocating Funds
 excerpt: More experiments please.
 noindex: true
 ---
-{% include img.html src="social.webp" caption="" url="" %}
-
 Solving the [Open Source sustainability
 crisis](/2024/the-open-source-sustainability-crisis/) has two parts:
 
