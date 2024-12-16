@@ -162,7 +162,7 @@ Here are some design tradeoffs and questions I notice with these approaches:
 
 #### But What About DAOs?
 
-A little voice in my said tells me I should also mention [decentralized autonomous
+A little voice in my head tells me I should also mention [decentralized autonomous
 organizations](https://www.investopedia.com/tech/what-dao/)
 (DAOs), but to be honest they make little sense to me and feel like an esoteric
 waste of time. I don't know of any Open Source-focused ones. I supposed they can 
