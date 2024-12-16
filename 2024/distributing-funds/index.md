@@ -1,5 +1,5 @@
 ---
-title: Allocating Funds
+title: Distributing Funds
 excerpt: More experiments please.
 noindex: true
 ---
@@ -7,7 +7,7 @@ Solving the [Open Source sustainability
 crisis](/2024/the-open-source-sustainability-crisis/) has two parts:
 
 1. unlocking funds from corporations, and
-2. allocating funds to individuals.
+2. distributing funds to individuals.
 
 Both are hard. I've [talked
 elsewhere](/2024/a-vision-for-software-commons/#three-funding-levers) about the
@@ -15,14 +15,14 @@ elsewhere](/2024/a-vision-for-software-commons/#three-funding-levers) about the
 solving the first problem. The [Open Source
 Pledge](https://opensourcepledge.com/) is one implementation of one of the
 approaches. In this post I want to talk about the second part: assuming funds
-are flowing, how do we allocate them?
+are flowing, how do we distribute them?
 
-{% include img.html src="pachinko.jpg" caption="Not a perfect analogy but I picture allocations as a sort of pachinko machine." url="https://www.youtube.com/watch?v=7RTg89WEsXQ" %}
+{% include img.html src="pachinko.jpg" caption="Not a perfect analogy but I picture distribution as a sort of pachinko machine." url="https://www.youtube.com/watch?v=7RTg89WEsXQ" %}
 
 
 ## A Policy Goal
 
-Let's define a policy goal: **We should allocate money to
+Let's define a policy goal: **We should distribute money to
 individuals to fairly reward past contributions and motivate valuable
 future contributions.** Notice these subordinate aims:
 
@@ -38,7 +38,7 @@ future contributions.** Notice these subordinate aims:
    multiple entities, both for-profit or non-profit. Yet, ultimately, it is
    individuals who produce Open Source software, individuals who make corporate
    funding decisions, individuals at platforms who develop funding algorithms,
-   individuals leading projects who make allocation decisions, and individuals
+   individuals leading projects who make distribution decisions, and individuals
    who ultimately receive funds.
 
 1. <b>Negotiate fairness.</b> The crux of the problem is optimizing a feeling
@@ -53,8 +53,8 @@ in view.
 
 ## Algorithms and People
 
-There are two basic approaches to allocating funds to individuals. We can
-come up with algorithms to allocate funds at scale, and we can empower some
+There are two basic approaches to distributing funds to individuals. We can
+come up with algorithms to distribute funds at scale, and we can empower some
 individuals to make direct decisions. All variations of both approaches are
 worth trying at this stage. It's early days on Open Source sustainability, a
 time for divergence and exploration. Over time and as the sustainability
@@ -67,7 +67,7 @@ I am aware of seven examples of an algorithmic approach: two from individuals,
 two from companies, and three products from funding platforms, two of which are
 still going.
 
-#### Individual Experiments
+#### Individual Experiments With Algorithmic Distribution
 
 Let's start by looking at algorithmic Open Source funding experiments from two
 generous **individuals**: Serkan Holat and Konstantin Vinogradov.
@@ -83,7 +83,7 @@ write-ups at [six](https://x.com/coni2k/status/1543986591286321152),
 and [eighteen
 months](https://dev.to/coni2k/open-source-public-fund-experiment-one-and-a-half-years-update-367d).
 
-{% include img.html src="serkan.png" caption="Each month, Serkan Holat allocates $100 among three projects on Open Collective." url="https://x.com/coni2k/status/1865379070030033053" %}
+{% include img.html src="serkan.png" caption="Each month, Serkan Holat distributes $100 among three projects on Open Collective." url="https://x.com/coni2k/status/1865379070030033053" %}
 
 Serkan's experiment uses [Rob Pike's Criticality Score
 algorithm](https://github.com/ossf/criticality_score), part of the
@@ -192,7 +192,7 @@ Models for human decision-making include tried-and-true negotiation of
 employment or contractor relationships, as well as grant programs with an
 application process.
 
-- The [Sovereign Tech Agency](https://www.sovereign.tech/) allocates tens of
+- The [Sovereign Tech Agency](https://www.sovereign.tech/) distributes tens of
 millions of euros a year for critical digital infrastructure based on direct
 decision-making. 
 - Django has [an active Fellows
@@ -209,7 +209,7 @@ primary task of the PHP Foundation is to fund developers to work on PHP."
 
 Ten years ago I experimented with [a take-what-you-want (twyw)
 model](https://gratipay.news/sharing-our-take-what-you-want-story-911dad62ac32)
-for allocating funds to individuals within a high-trust Open Source project. In
+for distributing funds to individuals within a high-trust Open Source project. In
 this scenario, each individual can see what others are taking. Based on that,
 they can decide for themselves what is fair for themselves to take. Given
 proper management, it can be [a fantastic way to optimize fairness without
@@ -222,13 +222,13 @@ implementation](https://en.liberapay.com/about/teams).
 
 ## Attention Is Costly
 
-Whether we can find algorithms we trust to allocate funds from companies to
+Whether we can find algorithms we trust to distribute funds from companies to
 individual maintainers, or whether we [continue evolving FOSS
 governance](/2024/the-future-of-foss-foundations/) to include directing funding
 flows, encapsulation is key to scaling.
 
 When I buy a cup of coffee, I am not burdened with deciding how much of my five
-dollars to allocate to the farmer who grew the beans, and the shipping company
+dollars to distribute to the farmer who grew the beans, and the shipping company
 that transported them, and the roaster who roasted them, and the suppliers of
 the cup, the paper sleeve, the lid, the milk, and the sugar, and the barista. I
 pay for a product. We need the same with Open Source.
