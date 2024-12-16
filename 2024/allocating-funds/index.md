@@ -17,6 +17,9 @@ Pledge](https://opensourcepledge.com/) is one implementation of one of the
 approaches. In this post I want to talk about the second part: assuming funds
 are flowing, how do we allocate them?
 
+{% include img.html src="pachinko.jpg" caption="Not a perfect analogy but I picture allocations as a sort of pachinko machine." url="https://www.youtube.com/watch?v=7RTg89WEsXQ" %}
+
+
 ## A Policy Goal
 
 Let's define a policy goal: **We should allocate money to
@@ -60,19 +63,82 @@ patterns.
 
 ### Algorithms
 
-I'm aware of four current algorithmic approaches:
+I am aware of seven examples of an algorithmic approach: two from individuals,
+two from companies, and three products from funding platforms, two of which are
+still going.
 
-1. [thanks.dev](https://thanks.dev/home),
-2. [ecosyste.ms funds](https://funds.ecosyste.ms/),
-3. [Microsoft's data-driven
+#### Individual Experiments
+
+Let's start by looking at algorithmic Open Source funding experiments from two
+generous **individuals**: Serkan Holat and Konstantin Vinogradov.
+
+<b>[Serkan Holat](https://www.linkedin.com/in/serkanholat/)</b>, a software
+developer and independent researcher, [launched a monthly funding
+experiment](https://dev.to/coni2k/open-source-public-fund-experiment-lc8)
+nearly two years ago. He has been running it faithfully ever since, with
+[monthly updates on this X/Twitter
+thread](https://x.com/coni2k/status/1865379070030033053), and higher-level
+write-ups at [six](https://x.com/coni2k/status/1543986591286321152),
+[twelve](https://www.linkedin.com/feed/update/urn:li:activity:7022915965306712064/),
+and [eighteen
+months](https://dev.to/coni2k/open-source-public-fund-experiment-one-and-a-half-years-update-367d).
+
+{% include img.html src="serkan.png" caption="Each month, Serkan Holat allocates $100 among three projects on Open Collective." url="https://x.com/coni2k/status/1865379070030033053" %}
+
+Serkan's experiment uses [Rob Pike's Criticality Score
+algorithm](https://github.com/ossf/criticality_score), part of the
+[OpenSSF](https://openssf.org/) initiative. A project's Criticality Score is a measure of its influence and importance. Serkan takes his monthly budget of
+$100, picks three projects at random from Open Collective, and distributes his
+budget based on the Criticality Score of each. I love Serkan for doing
+this consistently for so long. It's a humble but inspiring experiment. Serkan's
+long-term vision is to [fund Open Source through a public tax on proprietary
+software](https://podcast.sustainoss.org/175). His experiment points towards a
+method for distributing this tax should it ever come about.
+
+Venture capitalist <b>[Konstanin Vinogradov](https://kvinogradov.com/)</b>
+recently conducted an algorithmic funding experiment of his own, framed as "[an
+open-source analogue of the S&P 500](https://kvinogradov.com/algo-sponsors/)."
+He distributed a budget of $5,000 within the Python ecosystem through GitHub
+Sponsors.
+
+{% include img.html src="konstantin.png" caption="Konstantin Vinogradov sent $5,037 to 866 users via GitHub Sponsors." url="https://kvinogradov.com/algo-sponsors/" %}
+
+Like Serkan, Konstantin incorporated work from OpenSSF, in this case
+the [Scorecard](https://github.com/ossf/scorecard/). Whereas Criticality Score
+measures influence and importance, Scorecard measures security
+best practices. A lower Scorecard score indicates a project at higher risk of
+security compromise. Konstanin's algorithm is a function of Scorecard score,
+number of sponsors (another proxy for risk), and number of downloads (a proxy
+for value, a rough substitute for Criticality Score). Also like Serkan,
+Konstantin's experiment contributes to the development of
+a long-term vision: an [Open Source
+endowment](https://kvinogradov.com/oss-universities/).
+
+#### Company Experiments
+
+Serkan and Konstantin are to be commended for their individual initiatives.
+That said, corporations are the primary beneficiaries of Open Source and must
+be its primary funders. Let's look at two approaches to algorithmic funding
+from **companies**.
+
+<b>Microsoft</b>
+[Microsoft's data-driven
    expansion](https://opensource.microsoft.com/blog/2024/06/27/5-things-we-learned-from-sponsoring-a-sampling-of-our-open-source-dependencies/)
-   of [their FOSS Fund](https://aka.ms/microsoftfossfund), and
-4. [an experiment from Konstantin
-   Vinogradov](https://kvinogradov.com/algo-sponsors/) contributing to his
-   [proposal for an Open Source
-   endowment](https://kvinogradov.com/oss-universities/).
+   of [their FOSS Fund](https://aka.ms/microsoftfossfund). They use [CHAOSS](https://chaoss.community/) and Ecosyste.ms.
 
-{% include img.html src="grantees-lg.png" caption="Konstantin Vinogradov donated $5,037 to 866 users via GitHub Sponsors." url="https://kvinogradov.com/algo-sponsors/" %}
+<b>Sentry</b> - "[We Just Gave](https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/)" - only looking at deps and employee input, no external metrics.
+
+#### Platform Products
+
+These are great but we need basically every company to participate, and ain't nobody got time for that. Therefore we need **platforms**.
+
+<b>[thanks.dev](https://thanks.dev/home)</b>
+
+<b>[ecosyste.ms funds](https://funds.ecosyste.ms/)</b>
+
+Also <b>[StackAid](https://www.stackaid.us/)</b>. RIP StackAid. ✌️
+
+#### Summary of Algorithmic Approaches
 
 Here are some design tradeoffs and questions I notice with these approaches:
 
@@ -87,11 +153,13 @@ Here are some design tradeoffs and questions I notice with these approaches:
    sponsor](https://bsky.app/profile/chadwhitacre.com/post/2lckusuwvas2p) even
    if the algorithm is semi-secret?
 
-I should mention [decentralized autonomous
+#### But What About DAOs?
+
+A little voice in my said tells me I should also mention [decentralized autonomous
 organizations](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 (DAOs), but to be honest they make little sense to me and feel like an esoteric
-waste of time. I don't know of any Open Source-focused ones. I supposed they're
-a scaled-up version of what we find in typescript-eslint, which has [a
+waste of time. I don't know of any Open Source-focused ones. I supposed they can 
+be a scaled-up version of what we find in typescript-eslint, which has [a
 point-based system for recognizing
 contributions](https://typescript-eslint.io/maintenance/contributor-tiers/). Unlike [Drupal's credit system](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source), points in typescript-eslint [directly drive compensation](https://typescript-eslint.io/maintenance/contributor-tiers#reimbursement). Crucially, though, they note:
 

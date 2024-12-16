@@ -70,6 +70,14 @@ h3 {
     padding-top: 0;
   }
 }
+h4 {
+  font: bold 12pt/150% "Work Sans";
+  text-transform: uppercase;
+  padding: 32pt 0 7pt;
+  h3 + & {
+    padding-top: 0;
+  }
+}
 ol + p,
 ul + p,
 p + p,
