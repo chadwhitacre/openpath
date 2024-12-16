@@ -1,5 +1,5 @@
 ---
-title: Distributing Funds
+title: Distributing Funds in Open Source
 excerpt: More experiments please.
 noindex: true
 ---
@@ -17,7 +17,7 @@ Pledge](https://opensourcepledge.com/) is one implementation of one of the
 approaches. In this post I want to talk about the second part: assuming funds
 are flowing, how do we distribute them?
 
-{% include img.html src="pachinko.jpg" caption="Not a perfect analogy but I picture distribution as a sort of pachinko machine." url="https://www.youtube.com/watch?v=7RTg89WEsXQ" %}
+{% include img.html src="pachinko.jpg" caption="It's not a perfect analogy, but I imagine distribution as a pachinko machine." url="https://www.youtube.com/watch?v=7RTg89WEsXQ" %}
 
 
 ## A Policy Goal
@@ -65,7 +65,7 @@ patterns.
 
 I am aware of seven examples of an algorithmic approach: two from individuals,
 two from companies, and three products from funding platforms, two of which are
-still going.
+still extant.
 
 #### Individual Experiments With Algorithmic Distribution
 
@@ -106,7 +106,7 @@ Sponsors.
 Like Serkan, Konstantin incorporated work from OpenSSF, in this case
 the [Scorecard](https://github.com/ossf/scorecard/). Whereas Criticality Score
 measures influence and importance, Scorecard measures security
-best practices. A lower Scorecard score indicates a project at higher risk of
+best practices. A lower Scorecard score suggests a project at higher risk of
 security compromise. Konstanin's algorithm is a function of Scorecard score,
 number of sponsors (another proxy for risk), and number of downloads (a proxy
 for value, a rough substitute for Criticality Score). Also like Serkan,
@@ -114,21 +114,28 @@ Konstantin's experiment contributes to the development of
 a long-term vision: an [Open Source
 endowment](https://kvinogradov.com/oss-universities/).
 
-#### Company Experiments
+#### Company Experiments With Algorithmic Distribution
 
-Serkan and Konstantin are to be commended for their individual initiatives.
-That said, corporations are the primary beneficiaries of Open Source and must
-be its primary funders. Let's look at two approaches to algorithmic funding
-from **companies**.
+Serkan and Konstantin are to be commended for their individual initiatives. As
+both of their larger visions suggest, corporations are the primary
+beneficiaries of Open Source and must ultimately fund it, whether directly or
+through government. Let's look at two approaches to algorithmic funding from
+**companies**.
 
-<b>Microsoft</b>
-[Microsoft's data-driven
-   expansion](https://opensource.microsoft.com/blog/2024/06/27/5-things-we-learned-from-sponsoring-a-sampling-of-our-open-source-dependencies/)
-   of [their FOSS Fund](https://aka.ms/microsoftfossfund). They use [CHAOSS](https://chaoss.community/) and Ecosyste.ms.
+Earlier this year, <b>Microsoft</b> conducted [a one-off
+iteration](https://opensource.microsoft.com/blog/2024/06/27/5-things-we-learned-from-sponsoring-a-sampling-of-our-open-source-dependencies/)
+of their long-standing [FOSS Fund](https://aka.ms/microsoftfossfund) program
+[using an algorithmic
+approach](https://github.com/microsoft/OSPO/blob/main/bulk-targeted-sponsorship/README.md)
+instead of their usual employee voting process. Employee input was still part
+of the equation, but they also looked at number and scale of projects,
+individual or organization entity, and requests for support in the sponsors’
+profile. They used data from Ecosyste.ms and supposedly also CHAOSS but I don't
+see that.
 
 <b>Sentry</b> - "[We Just Gave](https://blog.sentry.io/we-just-gave-750-000-dollars-to-open-source-maintainers/)" - only looking at deps and employee input, no external metrics.
 
-#### Platform Products
+#### Platform Products for Algorithmic Distribution
 
 These are great but we need basically every company to participate, and ain't nobody got time for that. Therefore we need **platforms**.
 
@@ -156,7 +163,7 @@ Here are some design tradeoffs and questions I notice with these approaches:
 #### But What About DAOs?
 
 A little voice in my said tells me I should also mention [decentralized autonomous
-organizations](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
+organizations](https://www.investopedia.com/tech/what-dao/)
 (DAOs), but to be honest they make little sense to me and feel like an esoteric
 waste of time. I don't know of any Open Source-focused ones. I supposed they can 
 be a scaled-up version of what we find in typescript-eslint, which has [a
