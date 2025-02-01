@@ -28,10 +28,11 @@ we move forward. Employees who engage in unlawful behavior **or other
 misconduct** will be prioritized for appropriate investigation and discipline,
 including termination.
 
-If the referent of loyalty were the Constitution, that would be one thing. It's
-not. It's Trump. If future historians come to see Trump as one who shifted
-America away from the [rule of law](https://en.wikipedia.org/wiki/Rule_of_law),
-point four of "Fork in the Road" may be a key text.
+If the referent of loyalty were the Constitution, that would be one thing. To
+this casual observer, the referent is Trump. If future historians come to see
+Trump as one who shifted America away from the [rule of
+law](https://en.wikipedia.org/wiki/Rule_of_law), point four of "Fork in the
+Road" may be a key text.
 
 Elon's choice of the word "fork" is quite interesting. [A fork in the context
 of an Open Source software
