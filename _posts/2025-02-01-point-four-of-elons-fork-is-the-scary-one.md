@@ -1,6 +1,6 @@
 ---
-title: Point Four of Elon's Fork is the Scary One
-excerpt: The concept of a "fork" comes from Open Source software, and it means a schism.
+title: "Point Four of Elon's Fork is the Scary One"
+excerpt: "The concept of a 'fork' comes from Open Source software, and it means a schism."
 ---
 
 Have you read Elon's "[Fork in the Road](https://www.opm.gov/fork)" email? This
