@@ -51,8 +51,8 @@ pivotal moments of human history:
    agenda](https://nss.org/elon-musk-making-humans-a-multiplanetary-species/).
 
 1. Succession is the inefficient operation of empire. Clearly Musk has
-   positioned himself to succeed Trump. Who succeeds Musk? According to what
-   process?
+   positioned himself to succeed (preempt?) Trump. Who succeeds Musk? According
+   to what process?
 
 1. It hasn't happened yet, but he indicated he would return Twitter to a public
    company after reorganizing it as X. Is there a world in which he returns the
