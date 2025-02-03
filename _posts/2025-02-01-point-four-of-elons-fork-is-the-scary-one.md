@@ -48,4 +48,5 @@ as such, it is **a form of schism**.
 I don't expect Trump to have known this meaning of the word. Perhaps Elon
 explained it to him.
 
-Empires don't last forever.
+Empires don't last forever. [Neither do
+republics](/2025/the-birth-of-the-american-empire/).
