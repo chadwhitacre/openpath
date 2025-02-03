@@ -52,10 +52,11 @@ out to have been one of the pivotal moments of human history:
 1. Many accept Musk's rise to power as good news.
 
 1. I don't see this change being forcibly reverted. The protest from those who
-   don't accept Musk will likely subside to a manageable simmer relatively soon.
+   don't accept Musk will likely subside to a manageable simmer relatively
+   soon. The next election will be a critical test.
 
 1. [Unlike Rome](https://en.wikipedia.org/wiki/War_of_Actium), this transition
-   happened without an overt war, which is good.
+   happened without an overt war (so far), which is good.
 
 1. Elon seems to me likely to succeed in making the U.S. more efficient and
    effective, based on his success with Twitter and his other companies.
