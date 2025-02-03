@@ -36,7 +36,7 @@ Caesar](https://en.wikipedia.org/wiki/Augustus):
 
 I strongly suspect that in Elon's mind, January 20, 2025 was the end of the
 American Republic and the birth of the American Empire. He has forked the
-United States.
+United States, just like Octavian did Rome.
 
 ## So What?
 
