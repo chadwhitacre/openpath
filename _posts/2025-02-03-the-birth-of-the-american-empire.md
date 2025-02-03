@@ -8,7 +8,11 @@ four](/2025/point-four-of-elons-fork-is-the-scary-one/) of Elon Musk's "[Fork
 in the Road](https://www.opm.gov/fork)" document.
 "[Fork](https://en.wikipedia.org/wiki/Fork_(software_development))" is a
 technical term in Open Source software that refers to a schism in the community
-behind a project. Point four quite possibly signals [the end of the rule of
+behind a project.
+[Unfolding](https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/)
+[developments](https://www.washingtonpost.com/business/2025/01/31/elon-musk-treasury-department-payment-systems/)
+[suggest](https://www.wired.com/story/elon-musk-government-young-engineers/)
+that point four may indeed signal [the end of the rule of
 law](/2025/point-four-of-elons-fork-is-the-scary-one/) in the United States of
 America. What comes after? Empire.
 
