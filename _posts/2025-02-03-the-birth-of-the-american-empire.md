@@ -35,7 +35,8 @@ Caesar](https://en.wikipedia.org/wiki/Augustus):
 > was largely free of armed conflict.
 
 I strongly suspect that in Elon's mind, January 20, 2025 was the end of the
-American Republic, and the birth of the American Empire.
+American Republic and the birth of the American Empire. He has forked the
+United States.
 
 ## So What?
 
