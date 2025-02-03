@@ -19,10 +19,10 @@ salute](https://theconversation.com/elon-musk-and-the-history-of-the-roman-salut
 
 {% include img.html src="hail-caesar.webp" caption="Hail Caesar!" %}
 
-The [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic) ended in 27
-BC when Octavian took the title [Augustus
-Caesar](https://en.wikipedia.org/wiki/Augustus), inaugurating the [Roman
-Empire](https://en.wikipedia.org/wiki/Roman_Empire):
+The [Roman Republic](https://en.wikipedia.org/wiki/Roman_Republic) gave way to
+the [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) in 27 BC, when
+Octavian took the title [Augustus
+Caesar](https://en.wikipedia.org/wiki/Augustus):
 
 > The reign of Augustus initiated an imperial cult, as well as an era of
 > imperial peace (the _Pax Romana_ or _Pax Augusta_) in which the Roman world
