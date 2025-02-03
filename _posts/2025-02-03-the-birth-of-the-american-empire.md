@@ -14,7 +14,9 @@ America. What comes after? Empire.
 
 ## Hail Caesar
 
-Elon's supporters [recognize his gesture at the inauguration as a Roman
+Elon thinks about the Roman Empire [every
+day](https://www.reddit.com/r/EnoughMuskSpam/comments/16k06r1/elon_says_he_thinks_about_the_roman_empire_every/).
+His supporters call his controversial gesture at the inauguration [a Roman
 salute](https://theconversation.com/elon-musk-and-the-history-of-the-roman-salute-248032).
 
 {% include img.html src="hail-caesar.webp" caption="Hail Caesar!" %}
@@ -50,9 +52,9 @@ pivotal moments of human history:
 1. Elon is likely to use his new power primarily to pursue his [interplantary
    agenda](https://nss.org/elon-musk-making-humans-a-multiplanetary-species/).
 
-1. Succession is the inefficient operation of empire. Clearly Musk has
-   positioned himself to succeed (preempt?) Trump. Who succeeds Musk? According
-   to what process?
+1. In empires, succession is often inefficient. Clearly Musk has positioned
+   himself to succeed (preempt?) Trump. Who succeeds Musk? According to what
+   process?
 
 1. It hasn't happened yet, but Elon indicated he would return Twitter to a public
    company after reorganizing it as X. Is there a world in which he returns the
