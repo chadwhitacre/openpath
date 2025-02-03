@@ -36,7 +36,7 @@ American Republic, and the birth of the American Empire.
 A few brief comments on what seems (from so close to it) to be one of the
 pivotal moments of human history:
 
-1. Many will accept Musk's rise to power as good news.
+1. Many accept Musk's rise to power as good news.
 
 1. I don't see this change being forcibly reverted. The noise from those who
    don't accept Musk will likely subside to a manageable simmer relatively soon.
