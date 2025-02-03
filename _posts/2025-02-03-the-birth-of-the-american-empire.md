@@ -45,12 +45,13 @@ himself as having forked the United States as Octavian did Rome.
 
 ## So What?
 
-A few brief comments on what seems (from so close to it) to be one of the
-pivotal moments of human history:
+If Elon has essentially succeeded in forking America into an empire under his
+Caesar-ship, what does it mean?  Here are a few brief comments on what may turn
+out to have been one of the pivotal moments of human history:
 
 1. Many accept Musk's rise to power as good news.
 
-1. I don't see this change being forcibly reverted. The noise from those who
+1. I don't see this change being forcibly reverted. The protest from those who
    don't accept Musk will likely subside to a manageable simmer relatively soon.
 
 1. [Unlike Rome](https://en.wikipedia.org/wiki/War_of_Actium), this transition
