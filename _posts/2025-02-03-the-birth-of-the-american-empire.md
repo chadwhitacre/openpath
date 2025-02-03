@@ -54,8 +54,8 @@ pivotal moments of human history:
    positioned himself to succeed (preempt?) Trump. Who succeeds Musk? According
    to what process?
 
-1. It hasn't happened yet, but he indicated he would return Twitter to a public
+1. It hasn't happened yet, but Elon indicated he would return Twitter to a public
    company after reorganizing it as X. Is there a world in which he returns the
    U.S. to a republic once he has run his course?
 
-1. This is a particularly salient time to worship a deity other than Caesar.
+1. This is a salient time to worship a deity other than Caesar.
