@@ -34,6 +34,11 @@ Caesar](https://en.wikipedia.org/wiki/Augustus):
 > imperial peace (the _Pax Romana_ or _Pax Augusta_) in which the Roman world
 > was largely free of armed conflict.
 
+Elon's Twitter bio once read "[Imperator of
+Mars](https://www.newsweek.com/elon-musk-imperator-mars-meaning-definition-twitter-bio-1582768)."
+Imperator is a "title conferred by the Roman senate on Julius Caesar and
+Augustus and adopted by later successors."
+
 I strongly suspect that in Elon's mind, January 20, 2025 was the end of the
 American Republic, and the birth of the American Empire. I suspect he thinks of
 himself as having forked the United States as Octavian did Rome.
