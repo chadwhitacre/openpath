@@ -1,5 +1,5 @@
 ---
-title: Luke Missed the Deadline
+title: Luke Missed the Memo
 excerpt: The OSI is not being arbitrary and capricious.
 ---
 
