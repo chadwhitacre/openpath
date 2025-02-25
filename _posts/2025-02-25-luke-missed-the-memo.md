@@ -12,7 +12,7 @@ I tried
 leaving this as a comment on Luke's blog, but only members of the blog may post
 comments.
 
-And yes I'm running for an individual board seat.
+And yes I'm running. [Vote March 7](https://opensource.org/blog/get-ready-to-vote-for-osis-board-of-directors-in-2025)! :-)
 
 ### My Comment for Luke's Blog
 
