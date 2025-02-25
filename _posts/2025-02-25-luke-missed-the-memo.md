@@ -18,10 +18,9 @@ And yes I'm running for an individual board seat.
 
 I received the following email from OSI on February 14. It looks to me like a
 generic email sent to the whole membership list, and the timezone is clearly
-defined. Your post does explain some of Bradley's questions on the call,
-though. ;-)
+defined. Were you a member of OSI on February 14? Did you receive this email?
 
-Were you a member of OSI on February 14? Did you receive this email?
+(Your post _does_ explain some of Bradley's questions on the call. ;-)
 
 ----
 
