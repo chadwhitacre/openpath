@@ -1,6 +1,7 @@
 ---
 title: Luke Missed the Memo
 excerpt: The OSI is not being arbitrary and capricious.
+bluesky: https://bsky.app/profile/chadwhitacre.com/post/3liz2htc3sc2x
 ---
 
 This is a response to Luke Faraone's post, "[I'm running for the OSI board...
@@ -13,6 +14,11 @@ leaving this as a comment on Luke's blog, but only members of the blog may post
 comments.
 
 And yes I'm running. [Vote March 7](https://opensource.org/blog/get-ready-to-vote-for-osis-board-of-directors-in-2025)! :-)
+
+<div class="update">
+  <span>Update</span>
+  OSI has <a href="https://bsky.app/profile/opensource.org/post/3liz24zxtfk2i">addressed the deadline issue</a>.
+</div>
 
 ### My Comment for Luke's Blog
 
