@@ -61,7 +61,7 @@ out to have been one of the pivotal moments of human history:
    effective, based on his success with Twitter and his other companies.
 
 1. Once consolidated, Elon is likely to use his new power primarily to pursue
-   his [interplantary
+   his [interplanetary
    agenda](https://nss.org/elon-musk-making-humans-a-multiplanetary-species/).
 
 1. In empires, succession is often inefficient. Clearly Musk has positioned
