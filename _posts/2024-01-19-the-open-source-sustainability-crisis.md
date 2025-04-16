@@ -2,6 +2,7 @@
 title: The Open Source Sustainability Crisis
 excerpt: What is Open Source sustainability? Fair pay, no hoops. Why is it in crisis? Burnout.
 bluesky: https://bsky.app/profile/chadwhitacre.com/post/3lbvmt5wtgk2q
+homepage_rank: 1
 ---
 
 Let's get [the XKCD reference](https://xkcd.com/2347/) out of the way, shall we?

@@ -1,6 +1,7 @@
 ---
 title: Relicensing and Rug Pulls
-excerpt: If a viable fork materializes, relicensing was a rug pull. If not, it wasn't ... and that's kinda sad.
+excerpt: If a viable fork of Redis emerges, relicensing was a rug pull. If not, it wasn't ... and that's kinda sad.
+homepage_rank: 3
 ---
 
 Another day, [another major Open Source project

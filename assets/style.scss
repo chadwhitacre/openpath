@@ -284,17 +284,6 @@ header {
     }
   }
 
-  .update {
-    h3 {
-      padding: 18pt 0 6pt;
-    }
-    &:first-of-type {
-      h3 {
-        padding-top: 0;
-      }
-    }
-  }
-
   section {
     background: var(--white);
     color: var(--black);
@@ -319,6 +308,22 @@ header {
         background-size: auto 50%;
         background-position: left 45%;
       }
+    }
+  }
+
+  .browse-all {
+    margin-top: 18pt;
+    text-align: right;
+  }
+}
+
+.blog-post-listing {
+  h3 {
+    padding: 18pt 0 6pt;
+  }
+  &:first-of-type {
+    h3 {
+      padding-top: 0;
     }
   }
 }

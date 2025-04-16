@@ -1,10 +1,10 @@
-{% for post in site.posts limit: include.n %}
-<div class="update">
+{% for post in include.posts %}
+<div class="blog-post-listing">
   <h3>
     <a class="title" href="{{ post.url }}">{{ post.title }}</a>
   </h3>
   <div class="meta">
-    {{ forloop.rindex }} ❧ {{ post.date | date: "%Y-%m-%d" }} ❧ {{ post.excerpt }}
+    {% if include.enumerate %}{{ forloop.rindex }} ❧ {% endif %}{{ post.date | date: "%Y-%m-%d" }} ❧ {{ post.excerpt }}
   </div>
 </div>
 {% endfor %}
