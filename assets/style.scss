@@ -51,6 +51,7 @@ body {
   max-width: 640px;
   margin: 0 auto;
   padding: 80px 40px;
+  overflow: auto;
 }
 
 h1 {
@@ -232,10 +233,6 @@ form.buttondown {
   .powered-by {
     font-size: 10pt;
   }
-}
-
-.clear {
-  clear: both;
 }
 
 header {
