@@ -60,14 +60,19 @@
   >
     <header>
       {% if page.url != '/' %}
-      <a href="/">
+      <a href="/" class="content">
+      {% else %}
+      <div class="content">
       {% endif %}
-        <div class="content">
-          <h1>Open Path</h1>
-          <h2>launching May 1 <a href="https://www.youtube.com/shorts/-FiLGdySj7M">on Syntax</a></h2>
-        </div>
+        <h1>Open Path</h1>
+        {% if page.url == '/' %}
+        <h2>First episode out now!</h2>
+        {% include youtube.html video_id="wKutBHQ4a_U" %}
+        {% endif %}
       {% if page.url != '/' %}
       </a>
+      {% else %}
+      </div>
       {% endif %}
     </header>
     <article>{{ content }}</article>
