@@ -254,6 +254,9 @@ header {
     color: var(--black) !important;
     text-decoration: none;
   }
+  h2 a {
+    text-decoration: underline;
+  }
 }
 
 .homepage {
