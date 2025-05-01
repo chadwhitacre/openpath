@@ -37,13 +37,6 @@ body {
   font:
     normal 14pt/150% "Work Sans",
     sans-serif;
-
-  &.homepage {
-    background: url("/assets/hero.webp") var(--white);
-    background-size: 100vw;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-  }
 }
 
 .content {
@@ -238,6 +231,14 @@ form.buttondown {
 header {
   display: flex;
   align-items: center;
+  background: radial-gradient(
+    farthest-corner at 38.2% 61.8%,
+    rgba(240, 234, 219, 1),
+    rgba(240, 234, 219, 0) 100%
+  ), url("/assets/hero.webp"), #efebdd;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
   .content {
     flex: 1;
     overflow: visible;
@@ -267,13 +268,8 @@ header {
 
 .homepage {
   header {
-    height: 50vw; /* hero is 2:1 ratio */
+    min-height: 50vw; /* hero is 2:1 ratio */
     color: var(--black);
-    background: radial-gradient(
-      farthest-corner at 38.2% 61.8%,
-      rgba(240, 234, 219, 1),
-      rgba(240, 234, 219, 0) 100%
-    );
 
     .content {
       h1 {
@@ -341,12 +337,6 @@ header {
 
   header {
     height: 17.6432291666667vw; /* goofy aspect ratio on banner.webp */
-
-    background: radial-gradient(
-      farthest-corner at 20% 50%,
-      rgba(240, 234, 219, 1),
-      rgba(240, 234, 219, 0) 133%
-    );
 
     .content {
       h1 {
@@ -459,12 +449,6 @@ footer {
 
 @media (max-width: 640px) {
   .homepage header {
-    background: radial-gradient(
-      farthest-corner at 25% 61.8%,
-      rgba(240, 234, 219, 1),
-      rgba(240, 234, 219, 0) 100%
-    );
-
     .content {
       h1 {
         font-size: 7vw;
