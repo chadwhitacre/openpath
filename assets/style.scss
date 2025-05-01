@@ -236,8 +236,11 @@ form.buttondown {
 }
 
 header {
+  display: flex;
+  align-items: center;
   .content {
-    height: 100%;
+    flex: 1;
+    overflow: visible;
     h1,
     h2 {
       margin: 0;
@@ -247,6 +250,9 @@ header {
       span {
         white-space: nowrap; /* work around zero-width &nbsp; in font */
       }
+    }
+    .youtube {
+      margin-top: 18pt;
     }
   }
 
@@ -270,8 +276,6 @@ header {
     );
 
     .content {
-      padding: 20vw 40px 0;
-
       h1 {
         font-size: 36pt;
       }
@@ -345,13 +349,8 @@ header {
     );
 
     .content {
-      padding-top: 7vw;
-
       h1 {
         font-size: 26pt;
-      }
-      h2 {
-        display: none;
       }
     }
   }
