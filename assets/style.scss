@@ -23,6 +23,7 @@ considered principal words and are capitalized.
 :root {
   --white: #f0eadb;
   --black: #283124;
+  --gray: #797B6B;
   --green: #404e3a;
   --yellow: #ffff90;
 }
@@ -251,6 +252,9 @@ header {
       span {
         white-space: nowrap; /* work around zero-width &nbsp; in font */
       }
+    }
+    h2 {
+      color: var(--gray);
     }
     .youtube {
       margin-top: 18pt;
