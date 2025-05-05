@@ -18,7 +18,13 @@ considered principal words and are capitalized.
 
 ==============================================================================*/
 
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&family=Yatra+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@font-face {
+  font-family: Czarin;
+  src: url("/assets/czarin.ttf");
+}
+
 
 :root {
   --white: #f0eadb;
@@ -49,10 +55,11 @@ body {
 }
 
 h1 {
-  font: normal 26pt/115% "Yatra One";
+  font: normal 26pt/115% Czarin;
+  text-transform: uppercase;
 }
 h2 {
-  font: normal 20pt/130% "Yatra One";
+  font: normal 26pt/130% Czarin;
   padding: 42pt 0 9pt;
   &.title {
     padding: 0;
@@ -281,7 +288,7 @@ header {
       }
 
       h2 {
-        font-size: 18pt;
+        font-size: 21pt;
         padding-top: 9pt;
       }
     }
