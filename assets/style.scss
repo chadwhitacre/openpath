@@ -263,9 +263,6 @@ header {
     h2 {
       color: var(--gray);
     }
-    .youtube {
-      margin-top: 18pt;
-    }
   }
 
   a {
@@ -284,13 +281,17 @@ header {
 
     .content {
       h1 {
-        font-size: 36pt;
+        font-size: 72pt;
       }
 
       h2 {
-        font-size: 21pt;
+        font-size: 36pt;
         padding-top: 9pt;
       }
+    }
+    .youtube {
+      width: 67%;
+      margin-top: 18pt;
     }
   }
 
@@ -461,10 +462,10 @@ footer {
   .homepage header {
     .content {
       h1 {
-        font-size: 7vw;
+        font-size: 14vw;
       }
       h2 {
-        font-size: 3.5vw;
+        font-size: 7vw;
       }
     }
   }
