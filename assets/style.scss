@@ -290,7 +290,6 @@ header {
       }
     }
     .youtube {
-      width: 67%;
       margin-top: 18pt;
     }
   }
@@ -469,11 +468,6 @@ footer {
       }
     }
   }
-  .inside-page header .content {
-    h1 {
-      font-size: 5vw;
-    }
-  }
   body {
     font-size: 15pt;
   }
@@ -487,11 +481,6 @@ footer {
 @media (max-width: 440px) {
   body {
     font-size: 13pt;
-  }
-  .inside-page header .content {
-    h1 {
-      font-size: 4.8vw; /* based on experience at vw=320px */
-    }
   }
   footer ul li img {
     height: 24px;
