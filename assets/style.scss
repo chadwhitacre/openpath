@@ -517,7 +517,6 @@ footer {
     &:hover {
       opacity: 1.0;
     }
-    white-space: nowrap;
     font-size: 10pt;
     line-height: 10pt;
     padding: 3pt 0;
@@ -526,6 +525,10 @@ footer {
       top: -2pt;
     }
     text-decoration: none;
+    .bsky-group {
+      display: inline-block;
+      white-space: nowrap;
+    }
     .bsky-icon {
       width: 12pt;
       height: 12pt;
