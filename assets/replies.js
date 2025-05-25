@@ -116,7 +116,7 @@ class BlueskyReplies {
       { icon: 'reply', count: this.thread.post.replyCount ?? 0, label: 'replies' }
     ];
     topMeta.innerHTML = `Comment on ${ICONS['bsky']} Bluesky` + stats.map(stat => `
-      ${ICONS[stat.icon]} ${stat.count} ${stat.label}
+      <div class="bsky-group">${ICONS[stat.icon]} ${stat.count} ${stat.label}</div>
     `).join('');
 
     const nested = document.createElement('div');
