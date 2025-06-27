@@ -11,3 +11,11 @@ and society at large. If you have questions or suggestions, feel free to [open
 an issue](https://github.com/chadwhitacre/openpath/issues/new), or reach out on
 [email](mailto:chad@zetaweb.com) or
 [X](https://twitter.com/chadwhitacre_).
+
+### Setup on Mac
+
+```
+brew install rbenv
+rbenv init
+make
+```
