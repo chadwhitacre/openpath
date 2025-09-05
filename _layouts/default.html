@@ -67,7 +67,14 @@
         <h1>OPEN PATH</h1>
         {% if page.url == '/' %}
         <h2>Open Source is a gift that's greater than we realize.</h2>
-        {% include youtube.html video_id="VTY-lQ3S1gw" %}
+
+        <div class="youtube">
+          <div class="outer aspect-ratio-16-9">
+            <div class="inner">
+              <iframe src="https://www.youtube.com/embed/videoseries?si=jMF_d8EnJSB2j935&amp;list=PLLnpHn493BHGpDEkW891rUPwPFtcSd7ZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
         {% endif %}
       {% if page.url != '/' %}
       </a>
