@@ -66,7 +66,7 @@
       {% endif %}
         <h1>OPEN PATH</h1>
         {% if page.url == '/' %}
-        <h2>Open Source is a gift that's greater than we realize.</h2>
+        <h2>{{ page.excerpt }}</h2>
 
         <div class="youtube">
           <div class="outer aspect-ratio-16-9">
@@ -74,6 +74,9 @@
               <iframe src="https://www.youtube.com/embed/videoseries?si=jMF_d8EnJSB2j935&amp;list=PLLnpHn493BHGpDEkW891rUPwPFtcSd7ZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
           </div>
+        </div>
+        <div class="playlist-link">
+          <a class="playlist" href="https://www.youtube.com/playlist?list=PLLnpHn493BHGpDEkW891rUPwPFtcSd7ZC">YouTube Playlist →</a>
         </div>
         {% endif %}
       {% if page.url != '/' %}

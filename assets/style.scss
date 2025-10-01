@@ -265,7 +265,7 @@ header {
     }
   }
 
-  a {
+  a.content {
     color: var(--black) !important;
     text-decoration: none;
   }
@@ -291,6 +291,17 @@ header {
     }
     .youtube {
       margin-top: 18pt;
+    }
+    .playlist-link {
+      display: block;
+      text-align: right;
+      margin: 24pt 0 0;
+      a {
+        background: rgba(240, 234, 219, 0.5); // white
+        font-size: larger;
+        font-weight: bold;
+        padding: 6pt 12pt;
+      }
     }
   }
 
