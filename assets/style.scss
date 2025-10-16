@@ -285,7 +285,7 @@ header {
       }
 
       h2 {
-        font-size: 36pt;
+        font-size: 27pt;
         padding-top: 9pt;
       }
     }
@@ -475,7 +475,7 @@ footer {
         font-size: 14vw;
       }
       h2 {
-        font-size: 7vw;
+        font-size: 5.5vw;
       }
     }
   }
@@ -489,6 +489,15 @@ footer {
     padding: 40px;
   }
 }
+
+@media (max-width: 530px) { .homepage header .content h2 { font-size: 5.4vw; } }
+@media (max-width: 500px) { .homepage header .content h2 { font-size: 5.3vw; } }
+@media (max-width: 470px) { .homepage header .content h2 { font-size: 5.2vw; } }
+@media (max-width: 440px) { .homepage header .content h2 { font-size: 5.1vw; } }
+@media (max-width: 410px) { .homepage header .content h2 { font-size: 5.0vw; } }
+@media (max-width: 380px) { .homepage header .content h2 { font-size: 4.9vw; } }
+@media (max-width: 350px) { .homepage header .content h2 { font-size: 4.8vw; } }
+
 @media (max-width: 440px) {
   body {
     font-size: 13pt;
