@@ -76,7 +76,7 @@ Because it offers two key protections to the community:
 1. **Protection against enshittification**. If a company loses its way with a
    product, the community or another company can pick up with a version prior
    to when the decay set in, and carry it forward in a different direction.
-1. **Protection against a vendor disappearing**. If the original producer
+1. **Protection against vendor disappearance**. If the original producer
    goes out of business, it's guaranteed that others can carry it forward
 unencumbered.
 
@@ -92,12 +92,18 @@ David himself identifies the problems that DOSP solves:
 > think it's a great reassurance that the source code is freely available[.]
 
 Having source available provides only limited reassurance, however. As the
-O'Saasy License stands today, every company would have to maintain their own
-private fork if an O'Saasy-licensed product were to be abandoned or degraded.
-This is impractical at scale. With DOSP, there is the truly "great" reassurance
-that another organization (whether a commercial company or a non-profit
-foundation) could take over maintenance of the product and carry it forward for
-the benefit of all users.
+O'Saasy License stands today, every company would be responsible for hosting
+its own deployment of the software, in the event an O’Saasy-licensed product is
+abandoned or degraded. Especially for a product like Fizzy that is marketed
+toward non-technical users, the current license provides no realistic path
+forward if upstream maintenance stops. Non-technical customers cannot be
+expected to self-host, and under the current license, nobody can do it for
+them.
+
+With DOSP, there is the truly "great" reassurance that another organization
+(whether a commercial company or a non-profit foundation) could step in to
+carry the product forward for the sustainable benefit of all users.
+
 
 ## An Invitation
 
