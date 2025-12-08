@@ -186,6 +186,20 @@ ol {
   }
 }
 
+table {
+  margin: 8pt 0 16pt;
+  td {
+    vertical-align: top;
+  }
+  th, td:first-child  {
+    text-transform: uppercase;
+    font-size: smaller;
+    font-weight: bold;
+    white-space: nowrap;
+    padding-right: 12pt;
+  }
+}
+
 .youtube {
   /* https://www.w3schools.com/howto/howto_css_aspect_ratio.asp */
 
