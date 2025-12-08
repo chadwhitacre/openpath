@@ -198,6 +198,9 @@ table {
     white-space: nowrap;
     padding-right: 12pt;
   }
+  td:first-child  {
+    text-align: right ! important;
+  }
 }
 
 .youtube {

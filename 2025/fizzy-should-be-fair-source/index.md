@@ -13,7 +13,7 @@ the [Fair Source](https://fair.io/) movement with Fizzy.
 ## What is Fair Source?
 
 Fair Source is a movement parallel to Open Source that we
-[founded](https://blog.sentry.io/sentry-is-now-fair-source/) last year. Our 
+[started](https://blog.sentry.io/sentry-is-now-fair-source/) last year. Our
 intent is to resolve the conflict between community and corporate interests
 that has [plagued Open Source since the
 beginning](/2024/the-historical-case-for-fair-source/). We currently have [a
@@ -29,12 +29,12 @@ Here's a chart of parallels:
 
 |  | Open Source | Fair Source |
 |:-------|:-------|:-------|
-| Founding Date | [February 3, 1998](https://opensource.com/article/18/2/coining-term-open-source-software) | [August 6, 2024](https://blog.sentry.io/sentry-is-now-fair-source/) |
+| Dates From | [February 3, 1998](https://opensource.com/article/18/2/coining-term-open-source-software) | [August 6, 2024](https://blog.sentry.io/sentry-is-now-fair-source/) |
 | Definition | [OSD](https://opensource.org/osd) | [FSD](https://fair.io/about/) |
 | Licenses, e.g. | [BSD](https://opensource.org/license/bsd-3-clause), [MIT](https://opensource.org/license/mit), [GPL](https://opensource.org/license/gpl-3-0) | [FSL](https://fsl.software/), [FCL](https://fcl.dev/), [BSL](https://mariadb.com/bsl-faq-mariadb/) |
 | Projects, e.g. | [Linux](https://github.com/torvalds/linux), [PostgreSQL](https://github.com/postgres/postgres), [Firefox](https://github.com/mozilla-firefox/firefox) | [Sentry](http://github.com/getsentry/sentry), [Pythagora](https://github.com/Pythagora-io/gpt-pilot), [Typebot](https://github.com/baptisteArno/typebot.io) |
 
-According to the [definition](https://fair.io/about/):
+According to the [Fair Source Definition](https://fair.io/about/):
 
 > Fair Source Software (FSS):
 >
@@ -76,9 +76,9 @@ Because it offers two key protections to the community:
 1. **Protection against enshittification**. If a company loses its way with a
    product, the community or another company can pick up with a version prior
    to when the decay set in, and carry it forward in a different direction.
-1. **Protection against vendor disappearance**. If the original producer
-   goes out of business, it's guaranteed that others can carry it forward
-unencumbered.
+1. **Protection against vendor disappearance**. If the original product owner
+   goes fully out of business, it's guaranteed that others can carry it forward
+   unencumbered.
 
 David himself identifies the problems that DOSP solves:
 
