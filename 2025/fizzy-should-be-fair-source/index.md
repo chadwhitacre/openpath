@@ -29,7 +29,7 @@ Here's a chart of parallels:
 
 |  | Open Source | Fair Source |
 |:-------|:-------|:-------|
-| Dates From | [February 3, 1998](https://opensource.com/article/18/2/coining-term-open-source-software) | [August 6, 2024](https://blog.sentry.io/sentry-is-now-fair-source/) |
+| Dates From | [February 8, 1998](https://en.wikipedia.org/wiki/Open_Source_Initiative) | [August 6, 2024](https://blog.sentry.io/sentry-is-now-fair-source/) |
 | Definition | [OSD](https://opensource.org/osd) | [FSD](https://fair.io/about/) |
 | Licenses, e.g. | [BSD](https://opensource.org/license/bsd-3-clause), [MIT](https://opensource.org/license/mit), [GPL](https://opensource.org/license/gpl-3-0) | [FSL](https://fsl.software/), [FCL](https://fcl.dev/), [BSL](https://mariadb.com/bsl-faq-mariadb/) |
 | Projects, e.g. | [Linux](https://github.com/torvalds/linux), [PostgreSQL](https://github.com/postgres/postgres), [Firefox](https://github.com/mozilla-firefox/firefox) | [Sentry](http://github.com/getsentry/sentry), [Pythagora](https://github.com/Pythagora-io/gpt-pilot), [Typebot](https://github.com/baptisteArno/typebot.io) |
