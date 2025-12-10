@@ -112,4 +112,4 @@ Source is an opportunity for company founders that wish to share their core
 software products without jeopardizing their core business models, to create a
 new movement together based on shared values. We have a dozen folks
 on board already. We would welcome 37signals to join us and [make Fizzy Fair
-Source](https://github.com/basecamp/fizzy/compare).
+Source](https://github.com/basecamp/fizzy/pull/2039).
