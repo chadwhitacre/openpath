@@ -1,6 +1,7 @@
 ---
 title: Fizzy Should Be Fair Source
 excerpt: The new product from 37signals is source-available, but there's no reason it couldn't be Fair Source.
+homepage_rank: 2
 ---
 37signals released a new product last week, a kanban implementation called
 [Fizzy](https://www.fizzy.do/). They also [made the code
