@@ -67,7 +67,7 @@ publication](https://opensource.org/delayed-open-source-publication):
 > under an Open Source license.
 
 I've [proposed a small change to the O'Saasy
-License](https://github.com/basecamp/fizzy/compare) that would make it fit the
+License](https://github.com/basecamp/fizzy/pull/2039) that would make it fit the
 Fair Source Definition.
 
 ## Why DOSP Matters
