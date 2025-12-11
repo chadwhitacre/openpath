@@ -10,6 +10,8 @@ they're calling the [O'Saasy License](https://www.fizzy.do/license). In this
 post I want to make the case and extend the invitation to 37signals to join
 the [Fair Source](https://fair.io/) movement with Fizzy.
 
+{% include youtube.html video_id="VQXlSpPIY-Y" %}
+
 ## What is Fair Source?
 
 Fair Source is a movement parallel to Open Source that we
