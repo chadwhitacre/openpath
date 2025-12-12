@@ -12,6 +12,10 @@ layout: default
   <div class="meta">
     By <a href="https://chadwhitacre.com/">Chad Whitacre</a> ❧ Published on {{
     page.date | date: '%B %e, %Y' }}
+    {%- if page.canonical_url %}
+    ❧ Originally published on
+    <a href="{{ page.canonical_url }}">{{ page.canonical_name }}</a>
+    {%- endif -%}
   </div>
   <div class="tldr"><span>tl;dr</span> {{ page.excerpt }}</div>
   {% if page.update %}<div class="update"><span>update</span>{{ page.update }}</div>{% endif %}

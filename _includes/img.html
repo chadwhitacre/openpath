@@ -1,7 +1,7 @@
 <!-- prettier-ignore -->
 <div>
   <a class="img" href="{% if include.url != nil %}{{ include.url }}{% else %}{{ include.src }}{% endif %}">
-    <img class="{% if include.orientation != nil %}{{ include.orientation }}{% else %}landscape{% endif %}" src="{{ include.src }}">
+    <img class="{% if include.orientation != nil %}{{ include.orientation }}{% else %}landscape{% endif %}" src="{{ include.src }}" alt="{% if include.alt != nil %}{{ include.alt }}{% endif %}">
     {% if include.caption != nil %}<div class="caption">{{ include.caption }}</div>{% endif %}
   </a>
 </div>
