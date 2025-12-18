@@ -4,7 +4,7 @@ excerpt: Open Source needs improvement. Let's not let etymology distract from re
 noindex: true
 ---
 
-Last week 37signals launched [Fizzy](https://www.fizzy.do/), a source-available
+37signals recently launched [Fizzy](https://www.fizzy.do/), a source-available
 kanban product that they choose to call open source, in
 [open defiance](https://x.com/dhh/status/1996627792008827342) of the [Open Source
 Initiative](https://opensource.org/)'s [Open Source
