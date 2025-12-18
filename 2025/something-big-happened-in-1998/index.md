@@ -138,8 +138,10 @@ Definition. In the pre-OSI original? Exactly one.
 ---
 
 There's a couple trees, but let's not lose sight of the forest. Something big
-happened in 1998. It's perfectly justified to accept that OSI founded the Open
-Source movement with the Open Source Definition.
+happened in 1998. It's perfectly justified to accept that [Open Source
+Initiative](https://opensource.org/) founded the [Open
+Source](https://en.wikipedia.org/wiki/Open_source) movement with the [Open
+Source Definition](https://opensource.org/osd).
 
 {% include img.html src="trees.webp" %}
 
