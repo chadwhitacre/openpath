@@ -44,11 +44,11 @@ trust. Yes, Christine Peterson's
 [statement](https://opensource.com/article/18/2/coining-term-open-source-software),
 "I am the originator of the term 'open source software'," needs some
 qualification to fully square with anecdotal documentation such as Dieter
-Plaetinck collects of [the term's appearance prior to OSI's
+Plaetinck has collected of [the term's appearance prior to OSI's
 founding](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/).
 
-That said, while there were a handful of outliers prior to OSI, "wide
-circulation" goes too far.
+That said, while there were a handful of references to "open source" prior to
+OSI, "wide circulation" goes too far.
 
 
 ## A Clearer Picture
