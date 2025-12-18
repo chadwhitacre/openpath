@@ -137,10 +137,9 @@ Definition. In the pre-OSI original? Exactly one.
 
 ---
 
-Something big happened in 1998: the Open Source movement was born, spearheaded
-by the founders of the Open Source Initiative. Sure, there's a couple trees,
-but let's not lose sight of the forest. It's perfectly justified to believe
-that OSI founded the Open Source movement with the Open Source Definition.
+There's a couple trees, but let's not lose sight of the forest. Something big
+happened in 1998. It's perfectly justified to believe that OSI founded the Open
+Source movement with the Open Source Definition.
 
 {% include img.html src="trees.webp" %}
 
