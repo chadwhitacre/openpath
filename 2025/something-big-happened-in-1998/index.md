@@ -22,10 +22,10 @@ case](https://keygen.sh/blog/reconsider/) on his blog. I want to zoom in on one
 particular claim that came up.
 
 
-## Etymology Is a Distraction
+## The Etymological Ploy
 
 Detractors of OSI and the Open Source Definition sometimes attempt to
-delegitimize them by contesting the history of the term "open source." David,
+undermine them by contesting the history of the term "open source." David,
 [for
 example](https://github.com/basecamp/fizzy/pull/2039#issuecomment-3637693952)
 (emphasis mine):
@@ -40,13 +40,14 @@ trademark "open source." Yes, this is an inconvenient truth for an organization
 that understands itself to be the "[steward of the Open Source
 Definition](https://opensource.org/about)." Yes, representatives of OSI have at
 times been clumsy (to put it mildly) in handling this truth, and that has eroded
-trust. Yes, Christine Peterson's
+trust.
+
+Yes, Christine Peterson's
 [statement](https://opensource.com/article/18/2/coining-term-open-source-software),
 "I am the originator of the term 'open source software'," needs some
 qualification to fully square with anecdotal evidence such as Dieter
 Plaetinck has collected of [the term's appearance prior to OSI's
 founding](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/).
-
 That said, while there were a handful of outlier references to "open source"
 prior to OSI, "wide circulation" goes too far.
 
