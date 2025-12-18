@@ -1,6 +1,6 @@
 ---
 title: Something Big Happened in 1998
-excerpt: Open Source needs improvement. Let's not let etymology distract from real issues.
+excerpt: Let's settle the etymology of "open source" so we can move on to more important things.
 noindex: true
 ---
 
@@ -85,7 +85,7 @@ software development. Internet Archive maintains
 I analyzed the ~53 million posts to the `comp.*` newsgroups from 1986 to 2013,
 and found an even clearer explosion (vs. Ngrams Viewer) in usage of the term
 "open source" at the founding of OSI. 0.004% of posts mentioned the term
-pre-OSI, compared with 0.916% post-OSI, or a 22,800% increase.
+pre-OSI, compared with 0.686% post-OSI, or a 19,282% increase.
 
 {% include img.html src="comp.webp" caption="Based on Internet Archive's comp.* corpus" url="https://archive.org/details/usenet-comp" %}
 
