@@ -54,7 +54,7 @@ circulation" goes too far.
 
 ## A Clearer Picture
 
-Let's look at four charts that paint a clearer picture.
+Let's look at four charts that paint a more complete picture.
 
 
 ### Google Books Ngram Viewer
