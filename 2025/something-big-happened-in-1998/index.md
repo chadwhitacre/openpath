@@ -3,7 +3,6 @@ title: Something Big Happened in 1998
 excerpt: Open Source needs improvement. Let's not let etymology distract from real issues.
 noindex: true
 ---
-{% include img.html src="social.webp" caption="" url="" %}
 
 Last week 37signals launched [Fizzy](https://www.fizzy.do/), a source-available
 kanban product that they choose to call open source, in
