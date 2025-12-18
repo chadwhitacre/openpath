@@ -13,9 +13,9 @@ roundup](https://www.forkable.io/p/openai-anthropic-and-big-tech-unite?open=fals
 of responses (here's [my
 contribution](https://openpath.quest/2025/fizzy-should-be-fair-source/)).
 
-Moving a conversation from X to GitHub is almost always a good idea, and this
-case was no exception. I opened [a PR inviting 37signals to join Fair
-Source](https://github.com/basecamp/fizzy/pull/2039), and DHH graciously hosted
+Moving a conversation from X to GitHub is almost always a good idea, so I
+opened [a PR inviting 37signals to join Fair
+Source](https://github.com/basecamp/fizzy/pull/2039). DHH graciously hosted
 some healthy back and forth (most of it after closing the PR). Fair Source
 collaborator Zeke Gabrielse since [furthered the
 case](https://keygen.sh/blog/reconsider/) on his blog. I want to zoom in on one
