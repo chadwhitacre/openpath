@@ -89,7 +89,7 @@ pre-OSI, compared with 0.916% post-OSI, or a 22,800% increase.
 {% include img.html src="comp.webp" caption="Based on Internet Archive's comp.* corpus" url="https://archive.org/details/usenet-comp" %}
 
 "Wide circulation" does describe the situation after OSI's founding. Prior to
-that, usage of the term "open source" had been sporadic, at best.
+that, usage of the term "open source" seems to have been sporadic, at best.
 
 
 ### Print Magazines 
