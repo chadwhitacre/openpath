@@ -39,11 +39,11 @@ application](https://opensource.org/pressreleases/certified-open-source.php) to
 trademark "open source." Yes, this is an inconvenient truth for an organization
 that understands itself to be the "[steward of the Open Source
 Definition](https://opensource.org/about)." Yes, representatives of OSI have at
-times been clumsy (to put it mildly) in handling this truth, and that erodes
+times been clumsy (to put it mildly) in handling this truth, and that has eroded
 trust. Yes, Christine Peterson's
 [statement](https://opensource.com/article/18/2/coining-term-open-source-software),
 "I am the originator of the term 'open source software'," needs some
-qualification to fully square with anecdotal documentation such as Dieter
+qualification to fully square with anecdotal evidence such as Dieter
 Plaetinck has collected of [the term's appearance prior to OSI's
 founding](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/).
 
@@ -130,7 +130,8 @@ Source](https://openpath.quest/2024/the-historical-case-for-fair-source/)."
 Kinda fun. :)
 
 In the post-OSI version of Frank's memo, I count 305 usages of the term "open
-source." In the pre-OSI original? Exactly one. 
+source," where of course its meaning is bound to the freshly published Open Source
+Definition. In the pre-OSI original? Exactly one.
 
 {% include img.html src="hecker.webp" %}
 
@@ -138,7 +139,8 @@ source." In the pre-OSI original? Exactly one.
 
 Something big happened in 1998: the Open Source movement was born, spearheaded
 by the founders of the Open Source Initiative. Sure, there's a couple trees,
-but let's not lose sight of the forest. 
+but let's not lose sight of the forest. It's perfectly justified to believe
+that OSI founded the Open Source movement with the Open Source Definition.
 
 {% include img.html src="trees.webp" %}
 
@@ -153,10 +155,10 @@ I appreciate Dieter
 [brainstorming](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/)
 better "ways the OSI could introduce itself and its mission." Wikipedia's
 [framing](https://en.wikipedia.org/wiki/Open_Source_Initiative#The_Open_Source_Definition)
-seems fair: "_The Open Source Definition_ (OSD) is the most widely accepted
+seems balanced: "_The Open Source Definition_ (OSD) is the most widely accepted
 standard for open-source software."
 
-I also agree with Kyle Mitchell's
+I also appreciate Kyle Mitchell's
 [conclusion](https://writing.kemitchell.com/2020/05/11/Open-Source-Property)
 (emphasis mine):
 
