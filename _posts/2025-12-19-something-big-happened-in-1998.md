@@ -4,7 +4,7 @@ excerpt: It is reasonable to accept that OSI founded Open Source with the Open S
 homepage_rank: 1
 ---
 
-37signals recently launched a source-available kanban product that they choose
+37signals recently launched a source-available software product that they choose
 to call open source, in [open
 defiance](https://x.com/dhh/status/1996627792008827342) of the [Open Source
 Initiative](https://opensource.org/)'s [Open Source
