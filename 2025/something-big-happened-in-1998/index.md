@@ -14,12 +14,13 @@ of responses (here's [my
 contribution](https://openpath.quest/2025/fizzy-should-be-fair-source/)).
 
 Moving a conversation from X to GitHub is almost always a good idea, so I
-opened [a PR inviting 37signals to join Fair
-Source](https://github.com/basecamp/fizzy/pull/2039). DHH graciously hosted
-some healthy back and forth (most of it after closing the PR). Fair Source
-collaborator Zeke Gabrielse since [furthered the
-case](https://keygen.sh/blog/reconsider/) on his blog. I want to zoom in on one
-particular claim that came up.
+opened [a PR inviting 37signals](https://github.com/basecamp/fizzy/pull/2039)
+to join [Fair Source](https://fair.io/), the initiative we launched a year ago to
+carve out a niche for the best of non-compete, source-available, eventually
+Open Source licensing. DHH graciously hosted some healthy back and forth (most
+of it after closing the PR). Fair Source collaborator Zeke Gabrielse since
+[furthered the case](https://keygen.sh/blog/reconsider/) on his blog. I want to
+zoom in on one particular claim that came up.
 
 
 ## The Etymological Ploy
@@ -54,7 +55,9 @@ prior to OSI, "wide circulation" goes too far.
 
 ## A Clearer Picture
 
-Let's look at four charts that paint a more complete picture.
+Let's look at four charts that paint a more complete picture of the history of
+the term "open source," and its prevalence before and after the founding of OSI
+in February of 1998.
 
 
 ### Google Books Ngram Viewer
@@ -63,15 +66,16 @@ Google provides a [tool to search and compare
 terms](https://books.google.com/ngrams/info) across essentially all English
 books. Comparing the [frequency of "free software" and "open
 source"](https://books.google.com/ngrams/graph?content=Open+Source%2CFree+Software&year_start=1970&year_end=2022&corpus=en&smoothing=0)
-shows a clear explosion in usage coincident with the founding of the Open
-Source Initiative. Prior to that, "open source" does not appear to have been
-"in wide circulation."
+shows a clear explosion in usage of the latter, coincident with the founding of
+the Open Source Initiative. Prior to that, "open source" does not appear to
+have been "in wide circulation."
 
 {% include img.html src="ngram.webp" caption="" url="https://books.google.com/ngrams/graph?content=Open+Source%2CFree+Software&year_start=1970&year_end=2022&corpus=en&smoothing=0" %}
 
 (Both "open source" and "free software" have additional meanings unrelated to
-our subject, such as open source intelligence, and freeware. I take it that
-their relative frequency is indicative, despite the noise.)
+our subject, such as open source intelligence, and freeware. I take it that the
+noise for both is roughly equal, so their relative frequency is still
+indicative.)
 
 ### Usenet
 
@@ -151,7 +155,7 @@ Source Definition](https://opensource.org/osd).
 
 I for one happily acknowledge a debt of awe and gratitude to the (imperfect)
 founders of OSI and the Open Source movement. The best way I know to pay this
-debt is forward: to contribute constructively to the future of Open Source.
+debt is forward: to contribute constructively to the future of both.
 
 I appreciate Dieter
 [brainstorming](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/)
@@ -177,8 +181,8 @@ There's a real beauty in the (unintended) placement of the term "open source"
 outside the realm of legal recourse, consonant with the broader [political
 economy of Open Source](https://www.youtube.com/watch?v=lEEP0A1lEU0). In the
 comfortable words of [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119),
-we are in the realm of SHOULD—neither MUST nor MAY. There are deep
+we are rather in the realm of SHOULD—neither MUST nor MAY. There are deep
 conversations to be had here about Open Source, society at large, and the role
-of OSI. Let's do more of that, and not get sidetracked by etymology.
+of OSI. Let's do more of that, and drop the bad etymology.
 
 update populate to find matches, not pages
