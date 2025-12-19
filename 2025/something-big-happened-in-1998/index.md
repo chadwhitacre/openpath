@@ -84,7 +84,7 @@ from 1979 [into the
 '20s](https://support.google.com/groups/answer/11036538?visit_id=639016878958901763-3230887257&p=usenet&rd=1).
 It was an important venue of early Internet activity, including collaborative
 software development. Internet Archive maintains
-[archives](https://archive.org/details/usenethistorical?tab=collection).
+[an archive](https://archive.org/details/usenethistorical?tab=collection).
 
 I analyzed the ~53 million posts to the `comp.*` newsgroups from 1986 to 2013,
 and found an even clearer explosion (vs. Ngrams Viewer) in usage of the term
@@ -104,7 +104,7 @@ dataset, computing magazines.
 
 In the 1980s and 1990s, print magazines were another important venue of
 communication. Search/chat points to _PC Magazine_, _PC World_, and _Byte_ as
-three of the most important. Internet Archive has a partial archive for the
+the three most relevant for us. Internet Archive has a partial archive for the
 [first](https://archive.org/details/PCMAG). [Vintage
 Apple](https://vintageapple.org/) has full archives for the
 [other](https://vintageapple.org/pcworld/)
@@ -183,9 +183,9 @@ debate must be **won by reason and suasion**, not harassment and naked claims to
 authority.
 
 There's a real beauty in the (unintended) placement of the term "open source"
-outside the realm of legal recourse, consonant with the broader [political
+outside the realm of legal recourse. It fits the broader [political
 economy of Open Source](https://www.youtube.com/watch?v=lEEP0A1lEU0). In the
-comfortable words of [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119),
+words of [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119),
 we are rather in the realm of SHOULD—neither MUST nor MAY. There are deep
 conversations to be had here about Open Source, society at large, and the role
 of OSI. Let's do more of that, and less bad etymology.
