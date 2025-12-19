@@ -1,6 +1,6 @@
 ---
 title: Something Big Happened in 1998
-excerpt: Let's settle the etymology of "open source" so we can move on to more important things.
+excerpt: Open Source needs improvement, but there's no shame accepting it started when OSI defined it.
 noindex: true
 ---
 
@@ -175,6 +175,10 @@ authority.
 
 There's a real beauty in the (unintended) placement of the term "open source"
 outside the realm of legal recourse, consonant with the broader [political
-economy of Open Source](https://www.youtube.com/watch?v=lEEP0A1lEU0). This
-points toward deeper conversations about the meaning of Open Source and the
-role of OSI. Let's do more of that, and not get sidetracked by etymology.
+economy of Open Source](https://www.youtube.com/watch?v=lEEP0A1lEU0). In the
+comfortable words of [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119),
+we are in the realm of SHOULD—neither MUST nor MAY. There are deep
+conversations to be had here about Open Source, society at large, and the role
+of OSI. Let's do more of that, and not get sidetracked by etymology.
+
+update populate to find matches, not pages
