@@ -95,6 +95,9 @@ pre-OSI, compared with 0.686% post-OSI, or a 19,282% increase.
 
 "Wide circulation" does describe the situation after OSI's founding. Prior to
 that, usage of the term "open source" seems to have been sporadic, at best.
+This is significant, because the audience here would have been much more
+technical than that of the widest-possible Google Books corpus, or of the next
+dataset, computing magazines.
 
 
 ### Print Magazines 
