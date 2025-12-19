@@ -1,6 +1,6 @@
 ---
 title: Something Big Happened in 1998
-excerpt: It's reasonable to accept that OSI founded Open Source with the Open Source Definition.
+excerpt: It is reasonable to accept that OSI founded Open Source with the Open Source Definition.
 homepage_rank: 1
 ---
 
