@@ -50,7 +50,7 @@ qualification to fully square with anecdotal evidence such as Dieter
 Plaetinck has collected of [the term's appearance prior to OSI's
 founding](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/).
 That said, while there were a handful of outlier references to "open source"
-prior to OSI, "wide circulation" goes too far.
+prior to OSI, "wide circulation" there was not.
 
 
 ## A Clearer Picture
