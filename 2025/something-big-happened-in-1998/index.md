@@ -143,7 +143,7 @@ Definition. In the pre-OSI original? Exactly one.
 
 {% include img.html src="hecker.webp" %}
 
----
+### Forest and Trees
 
 Yes, there's a couple trees back there. Let's not lose sight of the forest.
 Something big happened in 1998. Whatever your opinion of what's happened since,
@@ -173,18 +173,19 @@ I also appreciate Kyle Mitchell's
 [conclusion](https://writing.kemitchell.com/2020/05/11/Open-Source-Property)
 (emphasis mine):
 
-> [N]o person and no organization owns the phrase “open source” as we know it.
-[...] Our right to speak the term freely, and to argue for our own meanings,
-understandings, and aspirations, isn’t impinged by anyone’s private property.
+> [N]o person and no organization [legally] owns the phrase “open source” as we
+know it. [...] Our right to speak the term freely, and to argue for our
+own meanings, understandings, and aspirations, isn’t impinged by anyone’s
+private property.
 >
-> That right extends to debate about how we ought or ought not use the term, for
-OSI partisans as well as those annoyed, bemused, and abused by them. But that
-debate must be **won by reason and suasion**, not harassment and naked claims to
-authority.
+> That right extends to debate about how we ought or ought not use the term,
+for OSI partisans as well as those annoyed, bemused, and abused by them. But
+that debate must be **won by reason and suasion**, not harassment and naked
+claims to authority.
 
 There's a real beauty in the (unintended) placement of the term "open source"
 outside the realm of legal recourse. It fits the broader [political
-economy of Open Source](https://www.youtube.com/watch?v=lEEP0A1lEU0). In the
+economy of Open Source](https://www.youtube.com/watch?v=lEEP0A1lEU0): in the
 words of [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119),
 we are rather in the realm of SHOULD—neither MUST nor MAY. There are deep
 conversations to be had here about Open Source, society at large, and the role
@@ -192,5 +193,3 @@ of OSI. Let's do more of that, and less bad etymology.
 
 - update populate to find matches, not pages
 - make social image
-- update thumbnail
-- publish video
