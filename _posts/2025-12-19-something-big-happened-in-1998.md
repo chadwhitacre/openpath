@@ -4,9 +4,9 @@ excerpt: It is reasonable to accept that OSI founded Open Source with the Open S
 homepage_rank: 1
 ---
 
-37signals recently launched [Fizzy](https://www.fizzy.do/), a source-available
-kanban product that they choose to call open source, in
-[open defiance](https://x.com/dhh/status/1996627792008827342) of the [Open Source
+37signals recently launched a source-available kanban product that they choose
+to call open source, in [open
+defiance](https://x.com/dhh/status/1996627792008827342) of the [Open Source
 Initiative](https://opensource.org/)'s [Open Source
 Definition](https://opensource.org/osd) (OSI's OSD). Paul Sawers has [a good
 roundup](https://www.forkable.io/p/openai-anthropic-and-big-tech-unite?open=false#%C2%A7open-source-world-gets-in-a-fizz)
