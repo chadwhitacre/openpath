@@ -1,7 +1,6 @@
 ---
 title: Something Big Happened in 1998
 excerpt: It's reasonable to accept that OSI founded Open Source with the Open Source Definition.
-noindex: true
 ---
 
 37signals recently launched [Fizzy](https://www.fizzy.do/), a source-available
