@@ -185,7 +185,7 @@ we are rather in the realm of SHOULD—neither MUST nor MAY. There are deep
 conversations to be had here about Open Source, society at large, and the role
 of OSI. Let's do more of that, and less bad etymology.
 
-update populate to find matches, not pages
-make social image
-update thumbnail
-publish video
+- update populate to find matches, not pages
+- make social image
+- update thumbnail
+- publish video
