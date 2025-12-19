@@ -196,5 +196,3 @@ Open Source](https://www.youtube.com/watch?v=lEEP0A1lEU0): in the words of [RFC
 of MUST or MAY but of SHOULD. There are deep conversations to be had here about
 Open Source, society at large, and the role of OSI. Let's do more of that, and
 less bad etymology.
-
-- make social image
