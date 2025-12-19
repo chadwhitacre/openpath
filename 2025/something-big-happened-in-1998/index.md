@@ -138,18 +138,20 @@ Source](https://openpath.quest/2024/the-historical-case-for-fair-source/)."
 Kinda fun. :)
 
 In the post-OSI version of Frank's memo, I count 305 usages of the term "open
-source," where of course its meaning is bound to the freshly published Open Source
+source," where of course its meaning is bound to the then-freshly minted Open Source
 Definition. In the pre-OSI original? Exactly one.
 
 {% include img.html src="hecker.webp" %}
 
 ---
 
-There's a couple trees, but let's not lose sight of the forest. Something big
-happened in 1998. It's perfectly justified to accept that the [Open Source
+Yes, there's a couple trees back there. Let's not lose sight of the forest.
+Something big happened in 1998. Whatever your opinion of what's happened since,
+it's perfectly justified to accept that the [Open Source
 Initiative](https://opensource.org/) founded the [Open
 Source](https://en.wikipedia.org/wiki/Open_source) movement with the [Open
 Source Definition](https://opensource.org/osd).
+
 
 {% include img.html src="trees.webp" %}
 
