@@ -1,7 +1,8 @@
 ---
-title: Something Big Happened in 1998
-excerpt: It is reasonable to accept that OSI founded Open Source with the Open Source Definition.
+title: OSI Really Did Initiate Open Source
+excerpt: Despite some outliers, "open source" did not meaningfully exist as a concept before 1998.
 homepage_rank: 1
+redirect_from: /2025/something-big-happened-in-1998/
 ---
 
 37signals recently launched a source-available software product that they choose
