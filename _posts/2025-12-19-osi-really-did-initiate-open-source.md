@@ -1,6 +1,6 @@
 ---
 title: OSI Really Did Initiate Open Source
-excerpt: Despite some outliers, "open source" did not meaningfully exist as a concept before 1998.
+excerpt: Despite some outliers, “open source” did not meaningfully exist as a concept before 1998.
 homepage_rank: 1
 redirect_from: /2025/something-big-happened-in-1998/
 ---
