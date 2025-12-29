@@ -18,6 +18,9 @@
     {% if page.noindex  %}
     <meta name="robots" content="noindex">
     {% endif %}
+    {% if page.canonical_url  %}
+    <link rel="canonical" href="{{ page.canonical_url }}">
+    {% endif %}
 
     <!-- ty opengraph.xyz 🙏 -->
     <title>
