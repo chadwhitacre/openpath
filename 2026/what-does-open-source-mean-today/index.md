@@ -27,7 +27,7 @@ of chaos in a thousand different directions?
 
 Last fall I traveled the world in search of an answer to this question. I went
 to Los Angeles, Denmark, India, and Ukraine. The result is my first
-documentary, *[Gift Community](https://www.youtube.com/watch?v=tOn-L3tGKw0)*.
+documentary, *[Gift Community](https://www.youtube.com/watch?v=tOn-L3tGKw0)*:
 
 {% include youtube.html video_id="tOn-L3tGKw0" %}
 
