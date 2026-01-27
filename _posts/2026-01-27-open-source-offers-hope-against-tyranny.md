@@ -35,11 +35,11 @@ The documentary does a lot, and I’m okay with it being more evocative than
 prescriptive. That said, the point I hope it makes is that Open Source _does_
 have something to offer the wider world.
 
-If Open Source only makes humanity more efficient through shared knowledge,
-then no, Open Source does nothing related to mainstream news other than
-distracting from it. I believe it does more. I believe it exhibits political
-and economic relations that can bring humanity to a better place. I believe
-its lessons should be widely shared.
+If Open Source only makes humanity more efficient through shared technical
+knowledge, then no, Open Source does nothing related to mainstream news other
+than distracting from it. I believe it does more. I believe it exhibits
+political and economic relations that can bring humanity to a better place. I
+believe its lessons should be widely shared.
 
 ## Learning From Open Source Leaders
 
