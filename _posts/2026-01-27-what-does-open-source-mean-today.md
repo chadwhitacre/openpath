@@ -1,7 +1,6 @@
 ---
 title: What Does Open Source Mean Today?
 excerpt: The experience of the global Open Source community offers hope against tyranny.
-noindex: true
 ---
 
 I took a break this past weekend. I set my phone down on Friday, and didn’t
