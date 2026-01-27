@@ -10,7 +10,7 @@ about topics of interest to the Open Source community, the wider tech industry,
 and society at large. If you have questions or suggestions, feel free to [open
 an issue](https://github.com/chadwhitacre/openpath/issues/new), or reach out on
 [email](mailto:chad@zetaweb.com) or
-[X](https://twitter.com/chadwhitacre_).
+[X](https://twitter.com/chadwhitacre).
 
 ### Setup on Mac
 
