@@ -1,6 +1,7 @@
 ---
-title: What Does Open Source Mean Today?
-excerpt: The experience of the global Open Source community offers hope against tyranny.
+title: Open Source Offers Hope Against Tyranny 
+excerpt: Leaders like Poul-Henning Kamp, Alex Blokh, and Kailash Nadh show us the future we can have.
+homepage_rank: 1
 ---
 
 I took a break this past weekend. I set my phone down on Friday, and didn’t
@@ -64,9 +65,8 @@ personal growth over time, Linus himself [chief among
 them](https://www.jonobacon.com/2018/09/16/linus-his-apology-and-why-we-should-support-him/).
 
 In a world where tyrants and strongmen increasingly shock us and demand our
-attention, Open Source suggests the possibility that we can focus elsewhere:
-not as a distraction, but as a decision to invest in the world we want. [With
-Mark
+attention, Open Source suggests that we can focus elsewhere: not as a
+distraction, but as a decision to invest in the world we want. [With Mark
 Carney](https://www.weforum.org/stories/2026/01/davos-2026-special-address-by-mark-carney-prime-minister-of-canada/),
 we can take Václav Havel’s proverbial sign out of the window:
 
