@@ -39,6 +39,14 @@ the purpose of a catchy title 😌):
 > not just due to a few highly valuable repositories but by the contributions
 > of this handful of contributors to a substantial number of repositories.
 
+<div class="update">
+    <span>Update</span>
+    Andrew Nesbitt came up with a <a
+    href="https://github.com/chadwhitacre/openpath/issues/20#issuecomment-1932667019">similar
+    result</a>: “around 4,000 developers are responsible for packages that make
+    up 80% of downloads[.]”
+</div>
+
 This might feel low, even shockingly low, but hear me out.
 
 Who are the direct consumers of Open Source software? Largely it is other devs,
