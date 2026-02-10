@@ -5,28 +5,28 @@ noindex: true
 ---
 {% include img.html src="social.webp" caption="" url="" %}
 
-On Sunday evening, June 15, 2025, [three friends
-gathered](https://x.com/steipete/status/1934357642899521713) in Vienna, Austria
-to relive the glory days: [staying up all night
-coding](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal).
-But unlike before, this time they had Claude to stay up all night with them.
+One Sunday evening last June, [three
+friends](https://x.com/steipete/status/1934357642899521713) met in Vienna to
+relive the glory days: [coding all night](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal).
+This time, Claude joined them.
 
 
-{% include img.html src="team.jpg" caption="(r. to l.) Peter, Armin, Mario, Claude."
+{% include img.html src="team.jpg" caption="(r. to l.) Peter, Armin, Mario, Claude(s)."
 url="https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal"
 %}
 
-[Armin Ronacher](https://lucumr.pocoo.org/about/) planted the seed for what
+[**Armin Ronacher**](https://lucumr.pocoo.org/about/) planted the seed for what
 [emerged](https://x.com/mitsuhiko/status/1934670797710479716) as
-[VibeTunnel](https://vibetunnel.sh/) the next morning. [Mario
-Zechner](https://mariozechner.at/) went on [two months
+[VibeTunnel](https://vibetunnel.sh/) the next morning. [**Mario
+Zechner**](https://mariozechner.at/) went on [two months
 later](https://github.com/badlogic/pi-mono/commit/a74c5da112c29466f182a03108337a488c785d76)
-to launch [Pi](https://shittycodingagent.ai/), a coding agent. [Peter
-Steinberger](https://steipete.me/), who convened the June supergroup, built
-on top of Pi on [November
+to create [Pi](https://shittycodingagent.ai/), a coding agent. [**Peter
+Steinberger**](https://steipete.me/), captain of the June team, was standing on Pi's
+shoulders on [November
 24](https://github.com/openclaw/openclaw/commit/f6dd362d39b8e30bd79ef7560aab9575712ccc11)
-when he started what became [OpenClaw](https://openclaw.ai/). That was also the day
-Anthropic [released Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5).
+when he started what became [OpenClaw](https://openclaw.ai/). That was also the
+day Anthropic [released Opus
+4.5](https://www.anthropic.com/news/claude-opus-4-5).
 
 OpenClaw 
 [exploded](https://www.star-history.com/#codecrafters-io/build-your-own-x&torvalds/linux&type=date&legend=top-left).
@@ -36,18 +36,22 @@ indeed](https://x.com/georgepickett/status/2019445652363542911).
 {% include img.html src="stars.png" caption="CodeCrafters is #1 by stars, OpenClaw is #26."
 url="https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md" %}
 
+(For the record: Armin is [a
+friend](https://x.com/mitsuhiko/status/2012926966031159616). He and I first discussed
+agentic coding at Sentry HQ back in October, 2022, when I built [Robb
+Oat](https://archive.ph/XUhTn). I haven't met Mario or Peter.) 
+
 I watched all this from the sidelines because I was busy [making a
-documentary](https://www.youtube.com/watch?v=tOn-L3tGKw0). (For the record:
-Armin is [a friend](https://x.com/mitsuhiko/status/2012926966031159616). He and
-I discussed agentic coding as far back as October, 2022 when I built 
-[Robb Oat](https://archive.ph/XUhTn). I haven't met Peter or Mario.) Since the
-doc went live on January 20 ([watch it
+documentary](https://www.youtube.com/watch?v=tOn-L3tGKw0). Since releasing that 
+on January 20 ([watch it
 tonight!](https://www.youtube.com/watch?v=tOn-L3tGKw0)), I've been catching up
-on the latest developments with agentic coding and beyond. What's going on
+on the latest developments in agentic coding and beyond. What's going on
 here? What does it mean for Open Source?
 
-I figured I'd better taste the Kool-aid in order to form an opinion, so I dove
-into Claude Code w/ Opus 4.5 on a side project. I spent three 12+ hour days
+## Reeling From a Sip
+
+I figured I'd better taste the Kool-Aid in order to form an opinion, so I dove
+into Claude Code with Opus 4.5 on a side project. I spent three 12+ hour days
 with it. I was intoxicated. My family was weirded out.
 [Observing](https://x.com/chadwhitacre/status/2017021563770405198) how
 [expensive](https://x.com/chadwhitacre/status/2017429682757537907) it is, I
@@ -55,21 +59,48 @@ decided to time-box my usage. I gave myself two more days to ship an MVP of
 this side project, and then I would shift to writing up a blog post about my
 experience with agentic coding and my thoughts on its impact on Open Source.
 
-I unplugged for a long weekend. I spent Tuesday with it again and got so bogged
-down in bugs that I gave up on shipping an MVP in the time allotted. I took a
-step back to reflect on what I had just experienced, and that reflection
-snowballed into an intuition that I needed to get as far away from the agentic
-vortex as I could in order to get some perspective on it and gather my true
-thoughts. I drove north through a snow-storm on Friday, spent the night at my
-inlaws empty house (they're in Florida), and spent Saturday with an old Amish
-friend, whom I last visited the week before starting at Sentry over five years
-ago.
+I unplugged for a long weekend. I spent Monday evening and Tuesday with it
+again, and this time got so bogged down in bugs that I gave up on shipping an
+MVP in the time allotted. I took a step back to reflect on what I had just
+experienced. That reflection snowballed into an intuition that I needed to get
+as far away from the agentic vortex as I could, in order to gain enough
+perspective to gather my true thoughts. 
+
+{% include img.html src="seals.webp" caption="Nothing left but the sprites, courtesy of Nano Banana." %}
+
+I drove north through a snow-storm on Friday, spent the night at my inlaws'
+empty house (they're in Florida), and on Saturday found an old Amish friend.  I
+beached the car in three snow drifts on the way. Three times Amish appeared to
+heave me out. The last one tried hitching his horse but that didn't work so he
+pushed instead.
+
+
+## Aaron's Table
+
+I abandoned the car and walked the last mile, wind whipping deep drifts and
+deeper chill. Subzero. Stark sun. My reward: two hours at Aaron's kitchen
+table, eating spelt raisin cookies and peanuts he grew. "Tell me, what is the
+World Wide Web?  How would you explain it to a cabbage farmer? I've been
+studying up a lot lately. A web is a snare, isn't it? Why can't I seem to
+escape it, even out here? What is money anymore except a number in cyberspace?"
+
+{% include img.html src="materials.webp" caption="Also pictured: Issue 1 of <i>The Analog Times</i>." url="https://www.analogsunday.co/" %}
+
+I left with many gifts, the least of which were three books. Two are mine to
+keep: <i>The Complete Works of Menno Simon</i>, and <i>Hope Thou In God: Help
+for Depression From the Psalms and Other Scriptures (Study Questions
+Included)</i>. Yes, the Amish are not unfamiliar with depression and all sorts
+of mental illness. The third book is to return, a zine from the 1990s called
+<i>Why We Live Simply</i>.
+
+What can I say in brief?
+
 
 I spent Saturday night and Sunday re-engaging with society (the Super Bowl
 "helped"), and now here on Monday I'm drafting this post from my local
 library.
 
-{% include img.html src="library.jpg" caption="Remember libraries?" %}
+{% include img.html src="library.webp" caption="Remember libraries?" %}
 
 
 
