@@ -256,7 +256,7 @@ about escaping the machine. I'm framing it as an Orthodox Christian
 contribution to the Great Analog Reset. I intend for the first issue to be an
 essay laying out my vision. To receive a copy, write to:
 
-Gift Magazine  
+Gift  
 P.O. Box 200  
 Sewickley, PA   
 15143-0200  
