@@ -11,7 +11,7 @@ relive the glory days: [coding all night](https://steipete.me/posts/2025/vibetun
 This time, Claude joined them.
 
 
-{% include img.html src="team.jpg" caption="(r. to l.) Peter, Armin, Mario, Claude(s)."
+{% include img.html src="team.jpg" caption="(l. to r.) Peter, Armin, Mario, Claude(s)."
 url="https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal"
 %}
 
@@ -71,9 +71,9 @@ I took a step back to reflect on what I had just experienced. That was the day
 Peter's [SF pilgrimage](https://x.com/steipete/status/2017790488666116514)
 erupted into the [first](https://x.com/francedot/status/2017271738401534310),
 [white-hot](https://x.com/georgepickett/status/2019445652363542911)
-[ClawCon](https://luma.com/moltbot-sf-show-tell). The pull was so strong that I
-felt the need to flee as far away from the agentic vortex as I could, in order
-to gain enough perspective to gather my true thoughts. 
+[ClawCon](https://luma.com/moltbot-sf-show-tell). The pull was so strong I felt
+it even in Pittsburgh. I fled the agentic vortex. How far would I have to go to
+gain enough perspective to gather my true thoughts?
 
 I drove north through [a deadly
 snowstorm](https://triblive.com/local/regional/1-dead-in-18-vehicle-crash-on-i-79/)
@@ -145,21 +145,21 @@ anything I can read out of the insane stream of messages I get, it’s that AI
 psychosis is a thing and needs to be taken serious," [said
 Peter](https://x.com/steipete/status/2018035483960369161). In 
 "[Just One More
-Prompt](https://steipete.me/posts/just-one-more-prompt)," he writes, "AI was supposed to save time, yet I work more than ever before, I have more
+Prompt](https://steipete.me/posts/just-one-more-prompt)," he wrote, "AI was supposed to save time, yet I work more than ever before, I have more
 FOMO than ever before. I dedicate pretty much all my waking time to this, yet
 it doesn’t feel enough."
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If there’s anything I can read out of the insane stream of messages I get, it’s that AI psychosis is a thing and needs to be taken serious.</p>&mdash; Peter Steinberger 🦞 (@steipete) <a href="https://twitter.com/steipete/status/2018035483960369161?ref_src=twsrc%5Etfw">February 1, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Mario [chimes in](https://x.com/badlogicgames/status/2020275522182217887), "The
+Mario [chimed in](https://x.com/badlogicgames/status/2020275522182217887), "The
 winners will be those, who can sustain a healthy life style and not give in to
-the slot machine unconditionally." But Armin opens up about just how difficult
+the slot machine unconditionally." But Armin opened up about just how difficult
 this is, in a section of [his 2025
 recap](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) called "The
 Machine And Me": "I increasingly find it harder not to create parasocial bonds
 with some of the tools I use. I find this odd and discomforting." He develops
 the theme much further in "[Agent Psychosis: Are We Going
-Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)." The conclusion
+Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)" The conclusion
 is chilling:
 
 > Maybe this is just the awkward transition phase before we figure out new
@@ -189,7 +189,7 @@ Forster's classic novella, _[The Machine
 Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)_,
 in which the mass of humanity live encased in cells, fed through a tube,
 evacuating through another, while handheld screens permit them to discuss
-"ideas" with one another. Those outside the Machine's embrace are Homeless.
+"ideas" with one another. The few outside the Machine are Homeless.
 
 We're on our way.
 
@@ -246,8 +246,8 @@ Consider four levels of increasing human autonomy:
 
 1. <b>The Baby Step</b>---Leave your phone in the kitchen on Sunday night instead of sleeping with it. Wake up without it on Monday morning.
 1. <b>[Analog Sunday](https://www.analogsunday.co/)</b>---Detach from the machine all day, once a week. My friend Julian Cisneros is growing this movement.
-1. <b>Screen Time/Bean Time</b>---Silly name my daughter and I came up with for using screens professionally, detaching in private life. Fully unplugged outside of work/school. This is where it gets real because we have to go back to old ways of communicating, finding information, navigating, accounting, etc. **This is where I'm at today.**
-1. <b>Analog Economy</b>---Some today are able to avoid the machine in their professional life as well. I'm not there and see no clear path, but ...
+1. <b>Screen Time/Bean Time</b>---Silly name my daughter and I came up with for using screens professionally, detaching in private life. Unplugged outside of work/school. Calls but no texting. It gets real because we have to go back to old ways of communicating, finding information, navigating, accounting, etc. **This is where I'm at today.**
+1. <b>Analog Economy</b>---Some avoid the machine in their professional life as well. I'm not there and see no clear path, but ...
 
 ### Introducing _Gift_ Magazine
 
@@ -267,5 +267,5 @@ currency). Be sure to include a return address or otherwise specify where
 to send it.
 
 I don't plan to promote _Gift_ online beyond this post. I'll go back to
-shuffling Open Source deck chairs, but in my off-hours I hope to become
+shuffling Open Source deck chairs ... but in my off-hours I hope to become
 increasingly Homeless.
