@@ -279,7 +279,7 @@ USA
 
 Suggested reciprocation is $5 cash or check (or rough equivalent in your local
 currency). Be sure to include a return address or otherwise specify where to
-send it.
+mail it.
 
 I don't plan to promote _Gift_ online. I'll go back to shuffling Open Source
 deck chairs ... but in my off-hours I hope to become increasingly Homeless.
