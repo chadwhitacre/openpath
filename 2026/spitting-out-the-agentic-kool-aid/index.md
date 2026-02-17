@@ -1,6 +1,6 @@
 ---
-title: Agentic AI Has Roused Me to Action
-excerpt:  After tasting the future of invasive agents, I'm ready to contribute to the Great Analog Reset.
+title: Spitting Out the Agentic Kool-AId
+excerpt:  After tasting the future of invasive agents, I'm waking up to the possibility of a different life.
 noindex: true
 ---
 {% include img.html src="social.webp" caption="" url="" %}
@@ -79,8 +79,8 @@ I drove north through [a deadly
 snowstorm](https://triblive.com/local/regional/1-dead-in-18-vehicle-crash-on-i-79/)
 on Friday, spent the night at my inlaws' empty house (they're in Florida), and
 in the morning sought out an old Amish friend. I beached the car in three snow drifts.
-Three times Amish appeared to heave me out. The last one tried hitching his
-horse.
+Three times Amish appeared to heave me out. The last tried hitching his
+horse to my car.
 
 
 ## Aaron's Table
@@ -91,6 +91,9 @@ from the field outside, at Aaron's kitchen table. "Tell me, what is the World
 Wide Web?  How would you explain it to a cabbage farmer? I've been studying up
 a lot lately. A web is a snare, isn't it? Why can't I seem to escape it, even
 out here? What is money anymore except a number in cyberspace?"
+
+I suggested that perhaps the cabbage farmer ought to be telling me about the
+Web. Two hours passed quickly.
 
 {% include img.html src="materials.webp" caption="Also pictured: Issue 1 of <i>The Analog Times</i>." url="https://www.analogsunday.co/" %}
 
@@ -165,7 +168,7 @@ is chilling:
 > Maybe this is just the awkward transition phase before we figure out new
 norms.
 >
-> Or maybe some of us are genuinely losing the plot, and we won’t know
+> Or maybe some of us are **genuinely losing the plot**, and we won’t know
 which camp we’re in until we look back. All I know is that when I watch someone
 at 3am, running their tenth parallel agent session, telling me they’ve never
 been more productive — in that moment I don’t see productivity. I see someone
@@ -196,12 +199,19 @@ We're on our way.
 Creeping vines [seem to have
 agency](https://www.youtube.com/watch?v=jlqqZZ7q4-s) in timelapse. I imagine
 technology in a century-long timelapse, a tentacled monster forcing itself into
-our orifices. Screens went from massive CRTs sitting on our floor, to LCDs on
-our wall, to laptops on our lap, to smartphones in our hand, to smart glasses
-on our face, to VR goggles covering our face, and now Neuralink is preparing
-[clinical trials of
-Blindsight](https://neuralink.com/trials/visual-prosthesis/). I wrote a song
-about this progression with my friend Kirk Botula:
+our orifices. Take screens as an example. They went from:
+
+- curtains hung in public theaters, to
+- massive CRTs sitting on the floor at home, to
+- flat-panel LCDs on our wall, to
+- laptops on our lap, to
+- smartphones in our hand, to
+- smart glasses on our face, to
+- VR goggles covering our face, and now
+- Neuralink is preparing to [bypass our eyeballs
+entirely](https://neuralink.com/trials/visual-prosthesis/).
+
+I wrote a song with a friend about this progression:
 
 {% include youtube.html video_id="op-G-1JuXOg" %}
 
@@ -241,6 +251,8 @@ sustainability challenges (finally getting solved with
 [Endowment](https://endowment.dev/))---I am now also committing myself to
 disembarking from the titantic of technological accelerationism.
 
+{% include youtube.html video_id="DoKxrEJaeTM" %}
+
 I have started returning to a pre-screen, analog life. What does this mean?
 Consider four levels of increasing human autonomy:
 
@@ -252,20 +264,22 @@ Consider four levels of increasing human autonomy:
 ### Introducing _Gift_ Magazine
 
 I'm launching a print magazine called _Gift_ to contribute to the conversation
-about escaping the machine. I'm framing it as an Orthodox Christian
-contribution to the Great Analog Reset. I intend for the first issue to be an
-essay laying out my vision. To receive a copy, write to:
+about escaping the machine. I intend for the first issue to be an essay laying
+out my vision (fair warning: God will be acknowledged).
+
+{% include img.html src="gift.webp" %}
+
+To receive a copy of the inaugural issue, write to:
 
 Gift  
 P.O. Box 200  
 Sewickley, PA   
-15143-0200  
+15143  
 USA
 
-Suggested donation is $5 cash or check (or rough equivalent in your local
-currency). Be sure to include a return address or otherwise specify where 
-to send it.
+Suggested reciprocation is $5 cash or check (or rough equivalent in your local
+currency). Be sure to include a return address or otherwise specify where to
+send it.
 
-I don't plan to promote _Gift_ online beyond this post. I'll go back to
-shuffling Open Source deck chairs ... but in my off-hours I hope to become
-increasingly Homeless.
+I don't plan to promote _Gift_ online. I'll go back to shuffling Open Source
+deck chairs ... but in my off-hours I hope to become increasingly Homeless.
