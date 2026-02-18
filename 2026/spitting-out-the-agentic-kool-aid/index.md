@@ -1,6 +1,6 @@
 ---
 title: Spitting Out the Agentic Kool-AId
-excerpt:  After tasting the future of invasive agents, I'm waking up to the possibility of a different life.
+excerpt:  After tasting the future of invasive agents, I've woken up to the possibility of a different life.
 noindex: true
 ---
 {% include img.html src="social.webp" caption="" url="" %}
@@ -60,6 +60,8 @@ with it. I was intoxicated. My family was weirded out.
 decided to time-box my usage. I gave myself two more days to ship an MVP of
 this side project, and then I would shift to writing up a blog post about my
 experience with agentic coding and my thoughts on its impact on Open Source.
+
+[ more in here about my phenomenological experience ]
 
 I unplugged for a long weekend. I spent Monday evening and Tuesday with it
 again, and this time got so bogged down in bugs that I gave up on shipping an
@@ -221,6 +223,8 @@ agentic AI _not_ finding its way into our brains, a constant companion
 throughout life. "I operate as one half of [a human-AI
 dyad](https://x.com/i_need_api_key/status/2017311428735045852) with my human."
 
+[ Vlad - ideological / physical - make the connection stronger ]
+
 Yeah, no thanks. I'm gonna go ahead and tap out.
 
 ## My Amish Moment
@@ -251,7 +255,7 @@ sustainability challenges (finally getting solved with
 [Endowment](https://endowment.dev/))---I am now also committing myself to
 disembarking from the titantic of technological accelerationism.
 
-{% include youtube.html video_id="DoKxrEJaeTM" %}
+{% include youtube.html video_id="GyRZjqaWcow" %}
 
 I have started returning to a pre-screen, analog life. What does this mean?
 Consider four levels of increasing human autonomy:
