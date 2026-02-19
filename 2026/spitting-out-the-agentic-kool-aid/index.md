@@ -1,10 +1,8 @@
 ---
-title: Spitting Out the Agentic Kool-AId
-excerpt:  After tasting the future of invasive agents, I've woken up to the possibility of a different life.
+title: Spitting Out the Agentic Kool-Aid
+excerpt:  Tasting the future of invasive agents roused me to the possibility of a different life.
 noindex: true
 ---
-{% include img.html src="social.webp" caption="" url="" %}
-
 One Sunday evening last June, [three
 friends met](https://x.com/steipete/status/1934357642899521713) in Vienna to
 relive the glory days: [coding all night](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal).
@@ -30,9 +28,9 @@ day Anthropic [released Opus
 
 OpenClaw 
 [exploded](https://www.star-history.com/#codecrafters-io/build-your-own-x&torvalds/linux&type=date&legend=top-left).
-The spotlight on Peter is [bright](https://x.com/georgepickett/status/2019445652363542911) [indeed](https://x.com/lexfridman/status/2021785659644453136).
+The spotlight on Peter is [bright](https://x.com/georgepickett/status/2019445652363542911) [indeed](https://x.com/lexfridman/status/2021785659644453136). He has now [joined OpenAI and announced a foundation](https://steipete.me/posts/2026/openclaw).
 
-{% include img.html src="stars.png" caption="CodeCrafters is #1 by stars, OpenClaw is #24 ... today."
+{% include img.html src="stars.webp" caption="CodeCrafters is #1 by stars. Linux is #14. OpenClaw is #17 ... today."
 url="https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md" %}
 
 (For the record: Armin is [a
@@ -61,11 +59,12 @@ decided to time-box my usage. I gave myself two more days to ship an MVP of
 this side project, and then I would shift to writing up a blog post about my
 experience with agentic coding and my thoughts on its impact on Open Source.
 
-[ more in here about my phenomenological experience ]
+It weirded me out too, when I unplugged for a long weekend. Something felt off.
+It was like I had another "person" in my head, sharing my inner monologue---but
+the "person" was a computer system owned by a budding megacorp. I spent Monday
+evening and Tuesday with it again, and this time got so bogged down in bugs and
+felt so gross that I gave up on shipping the MVP in the time allotted.
 
-I unplugged for a long weekend. I spent Monday evening and Tuesday with it
-again, and this time got so bogged down in bugs that I gave up on shipping an
-MVP in the time allotted.
 
 {% include img.html src="seals.webp" caption="Nothing left but the sprites, courtesy of Nano Banana." %}
 
@@ -75,14 +74,16 @@ erupted into the [first](https://x.com/francedot/status/2017271738401534310),
 [white-hot](https://x.com/georgepickett/status/2019445652363542911)
 [ClawCon](https://luma.com/moltbot-sf-show-tell). The pull was so strong I felt
 it even in Pittsburgh. I fled the agentic vortex. How far would I have to go to
-gain enough perspective to gather my true thoughts?
+clear my head and gather my true thoughts?
 
 I drove north through [a deadly
 snowstorm](https://triblive.com/local/regional/1-dead-in-18-vehicle-crash-on-i-79/)
 on Friday, spent the night at my inlaws' empty house (they're in Florida), and
-in the morning sought out an old Amish friend. I beached the car in three snow drifts.
-Three times Amish appeared to heave me out. The last tried hitching his
-horse to my car.
+in the morning sought out an old Amish friend. I beached the car in three snow
+drifts to get there. Three times Amish bailed me out. The last tried hitching
+his horse to my car.
+
+{% include youtube.html video_id="cc94gDk6vk0" %}
 
 
 ## Aaron's Table
@@ -181,7 +182,8 @@ Some developers, like [Salvatore Sanfilippo](https://antirez.com/news/158) and
 [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey),
 seem unperturbed by the psychological rip tide. I'm not as strong. After a few
 days locked in a productive embrace with AI agents, I resonate with the
-warnings of the dangers of disordered attachment.
+warnings of the dangers of disordered attachment. It feels like a powerful
+synthetic opioid binding to my attachment receptors, or something.
 
 ## The Machine Starts 
 
@@ -223,9 +225,10 @@ agentic AI _not_ finding its way into our brains, a constant companion
 throughout life. "I operate as one half of [a human-AI
 dyad](https://x.com/i_need_api_key/status/2017311428735045852) with my human."
 
-[ Vlad - ideological / physical - make the connection stronger ]
+Yeah, no thanks. Hypercapitalism's _psychological_ invasion is bad enough.
+Seeing it in tandem with the equally relentless _physical_ invasion motivates me to
+draw a line. No agents for me, please.
 
-Yeah, no thanks. I'm gonna go ahead and tap out.
 
 ## My Amish Moment
 
@@ -254,8 +257,6 @@ sustainability challenges (finally getting solved with
 [Pledge](https://opensourcepledge.com/) and
 [Endowment](https://endowment.dev/))---I am now also committing myself to
 disembarking from the titantic of technological accelerationism.
-
-{% include youtube.html video_id="GyRZjqaWcow" %}
 
 I have started returning to a pre-screen, analog life. What does this mean?
 Consider four levels of increasing human autonomy:
