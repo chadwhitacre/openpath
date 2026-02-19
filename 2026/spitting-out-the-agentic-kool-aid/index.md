@@ -1,6 +1,6 @@
 ---
 title: Spitting Out the Agentic Kool-Aid
-excerpt:  Tasting the future of invasive agents roused me to the possibility of a different life.
+excerpt:  Tasting the future of invasive AI agents roused me to pursue a different direction.
 noindex: true
 ---
 One Sunday evening last June, [three
@@ -83,7 +83,7 @@ in the morning sought out an old Amish friend. I beached the car in three snow
 drifts to get there. Three times Amish bailed me out. The last tried hitching
 his horse to my car.
 
-{% include youtube.html video_id="cc94gDk6vk0" %}
+{% include youtube.html video_id="DCC76jmmzkc" %}
 
 
 ## Aaron's Table
