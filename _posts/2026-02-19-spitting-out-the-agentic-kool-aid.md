@@ -38,9 +38,10 @@ foundation](https://steipete.me/posts/2026/openclaw).
 url="https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md" %}
 
 (For the record: Armin is [a
-friend](https://x.com/mitsuhiko/status/1836413328702202276). He and I first discussed
-agentic coding at Sentry HQ back in October, 2022, when I prototyped [Robb
-Oat](https://archive.ph/XUhTn). I haven't met Mario or Peter.) 
+friend](https://x.com/mitsuhiko/status/1836413328702202276). He and I first
+discussed agentic coding at Sentry HQ back in October, 2022, when I prototyped
+[Robb Oat](https://archive.ph/XUhTn) and he was already talking about
+giving AI agents full shell access. I haven't met Mario or Peter.)
 
 I watched all this from the sidelines because I was busy [making a
 documentary](https://www.youtube.com/watch?v=tOn-L3tGKw0). Since releasing that
