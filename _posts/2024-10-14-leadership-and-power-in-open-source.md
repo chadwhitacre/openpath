@@ -2,7 +2,6 @@
 title: Leadership and Power in Open Source
 excerpt: Open Source offers a check on power, yet some ways of wielding power are still better than others.
 bluesky: https://bsky.app/profile/chadwhitacre.com/post/3lbvny4gy722o
-homepage_rank: 2
 ---
 
 Last week I waded into the Great WordPress Drama of 2024 with a post comparing

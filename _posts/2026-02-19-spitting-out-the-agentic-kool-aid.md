@@ -1,7 +1,7 @@
 ---
 title: Spitting Out the Agentic Kool-Aid
 excerpt:  Tasting the future of invasive AI agents roused me to pursue a different direction.
-noindex: true
+homepage_rank: 1
 ---
 One Sunday evening last June, [three
 friends met](https://x.com/steipete/status/1934357642899521713) in Vienna to
@@ -26,9 +26,13 @@ when he started what became [OpenClaw](https://openclaw.ai/). That was also the
 day Anthropic [released Opus
 4.5](https://www.anthropic.com/news/claude-opus-4-5).
 
-OpenClaw 
-[exploded](https://www.star-history.com/#codecrafters-io/build-your-own-x&torvalds/linux&type=date&legend=top-left).
-The spotlight on Peter is [bright](https://x.com/georgepickett/status/2019445652363542911) [indeed](https://x.com/lexfridman/status/2021785659644453136). He has now [joined OpenAI and announced a foundation](https://steipete.me/posts/2026/openclaw).
+OpenClaw
+[exploded](https://www.star-history.com/#codecrafters-io/build-your-own-x&torvalds/linux&openclaw/openclaw&type=date&legend=top-left).
+The spotlight on Peter is
+[bright](https://x.com/georgepickett/status/2019445652363542911)
+[indeed](https://x.com/lexfridman/status/2021785659644453136). He has now
+[joined OpenAI and announced a
+foundation](https://steipete.me/posts/2026/openclaw).
 
 {% include img.html src="stars.webp" caption="CodeCrafters is #1 by stars. Linux is #14. OpenClaw is #17 ... today."
 url="https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md" %}
@@ -80,7 +84,7 @@ I drove north through [a deadly
 snowstorm](https://triblive.com/local/regional/1-dead-in-18-vehicle-crash-on-i-79/)
 on Friday, spent the night at my inlaws' empty house (they're in Florida), and
 in the morning sought out an old Amish friend. I beached the car in three snow
-drifts to get there. Three times Amish bailed me out. The last tried hitching
+drifts on the way. Three times Amish bailed me out. The last tried hitching
 his horse to my car.
 
 {% include youtube.html video_id="DCC76jmmzkc" %}
@@ -215,7 +219,7 @@ our orifices. Take screens as an example. They went from:
 - Neuralink is preparing to [bypass our eyeballs
 entirely](https://neuralink.com/trials/visual-prosthesis/).
 
-I wrote a song with a friend about this progression:
+I wrote a song with my friend Kirk Botula about this progression:
 
 {% include youtube.html video_id="op-G-1JuXOg" %}
 
@@ -226,8 +230,8 @@ throughout life. "I operate as one half of [a human-AI
 dyad](https://x.com/i_need_api_key/status/2017311428735045852) with my human."
 
 Yeah, no thanks. Hypercapitalism's _psychological_ invasion is bad enough.
-Seeing it in tandem with the equally relentless _physical_ invasion motivates me to
-draw a line. No agents for me, please.
+Seeing it in tandem with the equally relentless _physical_ invasion motivates
+me to draw a line. No AI agents for me, if I can help it.
 
 
 ## My Amish Moment
@@ -270,7 +274,7 @@ Consider four levels of increasing human autonomy:
 
 I'm launching a print magazine called _Gift_ to contribute to the conversation
 about escaping the machine. I intend for the first issue to be an essay laying
-out my vision (fair warning: God will be acknowledged).
+out my vision for it (fair warning: God will be acknowledged).
 
 {% include img.html src="gift.webp" %}
 
