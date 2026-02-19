@@ -263,8 +263,10 @@ sustainability challenges (finally getting solved with
 [Endowment](https://endowment.dev/))---I am now also committing myself to
 disembarking from the titantic of technological accelerationism.
 
-I have started returning to a pre-screen, analog life. What does this mean?
-Consider four levels of increasing human autonomy:
+All efforts to address the problems of invasive technology are worthwhile, even
+those that are only partially effective. For my part, I have started trying to
+return more fully to a pre-screen, analog life. What does this mean?  Consider
+four levels of increasing human autonomy:
 
 1. <b>The Baby Step</b>---Leave your phone in the kitchen on Sunday night instead of sleeping with it. Wake up without it on Monday morning.
 1. <b>[Analog Sunday](https://www.analogsunday.co/)</b>---Detach from the machine all day, once a week. My friend Julian Cisneros is growing this movement.
@@ -291,5 +293,6 @@ Suggested reciprocation is $5 cash or check (or rough equivalent in your local
 currency). Be sure to include a return address or otherwise specify where to
 mail it.
 
-I don't plan to promote _Gift_ online. I'll go back to shuffling Open Source
-deck chairs ... but in my off-hours I hope to become increasingly Homeless.
+I don't expect for _Gift_ to have an online presence, and I'll go back to
+shuffling Open Source deck chairs ... but in my off-hours I hope to become
+increasingly Homeless.
