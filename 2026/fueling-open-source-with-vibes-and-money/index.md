@@ -13,17 +13,16 @@ words, you can't upsell agents in the docs.
 
 As they were going to press, Tailwind dramatically [proved them
 right](https://vlad.website/llms-are-accelerating-the-open-source-sustainability-crisis/).
-The problem the paper authors identified is real, and affects real people. I feel for them.
+The problem is real, and affects real people. I feel for them.
 
-However, to say vibe coding _kills_ Open Source is true only if "Open Source"
-refers to a certain class of business models. Yet, as Cramer and
+However, to say vibe coding _kills_ Open Source is only true if we identify "Open Source"
+with this type of business model. Yet, agreeing with what Cramer and
 [many](http://oss-watch.ac.uk/resources/businessofopensource#open-source-is-not-a-business-model)
 [before](https://blog.senko.net/open-source-is-not-a-business-model)
 [him](https://medium.com/@stephenrwalli/there-is-no-open-source-business-model-cdc4cc20238)
 [have](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/)
-asserted, [Open Source is not a business
-model](https://cra.mr/open-source-is-not-a-business-model). I agree, and
-therefore [prefer the word
+asserted: [Open Source is not a business
+model](https://cra.mr/open-source-is-not-a-business-model) at all. This is why I [prefer the word
 "subsidize"](https://openpath.quest/2024/the-open-source-sustainability-crisis/)
 instead of "sustain" (as is used in the paper) to name what, e.g., the company
 **Tailwind Labs Inc.** does relative to the **Tailwind CSS** Open Source project. Open
