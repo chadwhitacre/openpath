@@ -21,7 +21,7 @@ with this type of business model. Yet, agreeing with what Cramer and
 [before](https://blog.senko.net/open-source-is-not-a-business-model)
 [him](https://medium.com/@stephenrwalli/there-is-no-open-source-business-model-cdc4cc20238)
 [have](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/)
-asserted: [Open Source is not a business
+asserted, [Open Source is not a business
 model](https://cra.mr/open-source-is-not-a-business-model) at all. This is why I [prefer the word
 "subsidize"](https://openpath.quest/2024/the-open-source-sustainability-crisis/)
 instead of "sustain" (as is used in the paper) to name what, e.g., the company
