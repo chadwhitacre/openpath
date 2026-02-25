@@ -13,7 +13,7 @@ words, you can't upsell agents in the docs.
 
 As they were going to press, Tailwind dramatically [proved them
 right](https://vlad.website/llms-are-accelerating-the-open-source-sustainability-crisis/).
-The problem the paper authors identified is real, and affects real people.
+The problem the paper authors identified is real, and affects real people. I feel for them.
 
 However, to say vibe coding _kills_ Open Source is true only if "Open Source"
 refers to a certain class of business models. Yet, as Cramer and
@@ -26,7 +26,7 @@ model](https://cra.mr/open-source-is-not-a-business-model). I agree, and
 therefore [prefer the word
 "subsidize"](https://openpath.quest/2024/the-open-source-sustainability-crisis/)
 instead of "sustain" (as is used in the paper) to name what, e.g., the company
-Tailwind Labs Inc. does relative to the Tailwind CSS Open Source project. Open
+**Tailwind Labs Inc.** does relative to the **Tailwind CSS** Open Source project. Open
 Source projects are a unique entity that [doesn't fit
 neatly](https://www.youtube.com/watch?v=VTY-lQ3S1gw&list=PLivwfG4q6DTBweyVkYRjoPvebmgq5c1qg&index=4)
 into conventional economic models, so the imprecision of conventional
@@ -78,7 +78,7 @@ with the death of the Open Source development model.
 
 The title of the paper rings hollow on closer inspection ... and also on a
 surface level. Exhibit A: Peter Steinberger has vibe-coded the most explosively
-popular project in Open Source history, [OpenClaw](https://openclaw.ai/). In three months it has become the 14th most popular project on GitHub, recently [overtaking the official Linux mirror](https://www.reddit.com/r/openclaw/comments/1rcsbci/openclaw_overtakes_linux_in_github_star_count/) in number of stars.
+popular project in Open Source history, [OpenClaw](https://openclaw.ai/). In three months it has become the 14th-most popular project on GitHub, recently [overtaking the official Linux mirror](https://www.reddit.com/r/openclaw/comments/1rcsbci/openclaw_overtakes_linux_in_github_star_count/) in number of stars, with React ("the last [non-aggregator](https://www.star-history.com/blog/openclaw-surpasses-linux-14th-most-starred) project") likely to fall in the next week.
 
 {% include img.html src="stars.webp" caption="Crashing the Open Source popularity contest" url="https://www.reddit.com/r/openclaw/comments/1rcsbci/openclaw_overtakes_linux_in_github_star_count/" %}
 
@@ -89,12 +89,12 @@ notwithstanding, the energy here cannot be denied. There are
 meetups](https://luma.com/claw?compact=true) coming up. Peter is putting his
 MIT-licensed project [into a
 foundation](https://steipete.me/posts/2026/openclaw) rather than
-commercializing it. Open Source has never been more back.
+commercializing it. Open Source, a community-based development model, has never
+been more back.
 
 {% include img.html src="clawcon.jpg" caption="ClawCon, Vienna. Shout-out to my coworker Michi in the Internet hat." url="https://steipete.me/posts/2026/openclaw" %}
 
-Yes, vibe-coding creates a slop PR problem in the short term. I expect that
-workarounds like Mitchell's [vouch](https://github.com/mitchellh/vouch) project
+Yes, vibe-coding creates a slop PR problem in the short term. Workarounds like Mitchell's [vouch](https://github.com/mitchellh/vouch) project
 and [GitHub's more coordinated
 efforts](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/)
 will dampen this relatively soon.
@@ -112,8 +112,8 @@ Sanfilipo](https://antirez.com/news/158), [Evan
 You](https://x.com/youyuxi/status/2026647622057079165), [Guido van
 Rossum](https://x.com/gvanrossum/status/2026116763470217352), [Linus
 Torvalds](https://github.com/torvalds/AudioNoise/blob/3a6b51032da587e5d2e269515f3dc21c96da15c4/README.md#L37C1-L38C14),
-and other front-runners have embraced agentic coding. In fact, so has Tailwind founder [Adam
-Wathan](https://www.youtube.com/watch?v=X3yfVo2oxlE).
+and other front-runners have embraced agentic coding. In fact, Tailwind founder [Adam
+Wathan is among them](https://www.youtube.com/watch?v=X3yfVo2oxlE).
 
 So, no. Vibe coding does not kill Open Source. Vibe coding _accelerates_ Open
 Source---_and_ it requires that we accelerate the shift to truly sustainable
