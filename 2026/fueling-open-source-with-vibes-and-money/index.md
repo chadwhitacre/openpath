@@ -13,7 +13,7 @@ words, you can't upsell agents in the docs.
 
 As they were going to press, Tailwind dramatically [proved them
 right](https://vlad.website/llms-are-accelerating-the-open-source-sustainability-crisis/).
-The problem is real, and affects real people. I feel for them.
+The problem is real, and affects real people. My heart goes out to them.
 
 However, to say vibe coding _kills_ Open Source is only true if we identify "Open Source"
 with this type of business model. Yet, agreeing with what Cramer and
