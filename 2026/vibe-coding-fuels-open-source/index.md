@@ -4,7 +4,7 @@ excerpt: Economists think Open Source is a business model. Developers know bette
 noindex: true
 ---
 
-Some economists published a paper last month titled, "[Vibe Coding Kills Open
+Some economists published a paper last month titled "[Vibe Coding Kills Open
 Source](https://arxiv.org/abs/2601.15494)". They hypothesized that, because
 agentic coding relieves human devs of direct interaction with the Open Source
 projects on which they depend, attention-based business models adjacent to
@@ -52,12 +52,13 @@ Fund](https://www.sovereign.tech/programs/fund) is the best example here.
 The economists propose a metering approach that they call the "Spotify model"
 (p. 23; cf.  27). I proposed [something
 similar](/2024/a-vision-for-software-commons/#a-proof-of-concept-invoice) a
-couple years ago. I see it as the social-validation approach that would feel
-most like taxation. As the paper authors say, "[t]he infrastructure for these
-interventions largely exists; what is needed is coordination and will" (p. 28).
-I don't disagree. I even had a couple conversations with candidate companies at
-the time, which made crystal clear that "coordination and will" are quite
-costly.
+couple years ago, a line-item for Open Source on the invoices of major cloud
+providers or other infrastructure companies. I see it as the social-validation
+approach that would feel most like taxation. As the paper authors say, "[t]he
+infrastructure for these interventions largely exists; what is needed is
+coordination and will" (p. 28).  I don't disagree. I even had a couple
+conversations with candidate companies at the time, which made crystal clear
+that "coordination and will" are quite costly.
 
 Also, artists [don't love
 Spotify](https://en.wikipedia.org/wiki/Criticism_of_Spotify#Allegations_of_unfair_artist_compensation)
@@ -100,8 +101,8 @@ will dampen this relatively soon. On the flip side, it also enables competent
 developers to contribute to projects they never would have had the time for
 otherwise. Here are a couple
 [anecdotal](https://github.com/npmx-dev/npmx.dev/pull/115)
-[examples](https://github.com/npmx-dev/npmx.dev/pull/113) from a friend of
-mine. [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/),
+[examples](https://github.com/npmx-dev/npmx.dev/pull/113) from my friend
+BYK. [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/),
 [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey),
 [Salvatore Sanfilipo](https://antirez.com/news/158), [Evan You](https://x.com/youyuxi/status/2026647622057079165), [Guido van
 Rossum](https://x.com/gvanrossum/status/2026116763470217352), [Linus
