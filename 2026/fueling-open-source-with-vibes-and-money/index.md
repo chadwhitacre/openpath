@@ -1,6 +1,6 @@
 ---
-title: Vibe Coding Fuels Open Source
-excerpt: Economists think Open Source is a business model. Developers know better.
+title: Fueling Open Source with Vibes & Money
+excerpt: Economists think Open Source is a business model. Devs know better, and fund it accordingly.
 noindex: true
 ---
 
@@ -97,18 +97,23 @@ Yes, vibe-coding creates a slop PR problem in the short term. I expect that
 workarounds like Mitchell's [vouch](https://github.com/mitchellh/vouch) project
 and [GitHub's more coordinated
 efforts](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/)
-will dampen this relatively soon. On the flip side, it also enables competent
-developers to contribute to projects they never would have had the time for
-otherwise. Here are a couple
+will dampen this relatively soon.
+
+On the flip side, vibe coding enables competent developers to make
+contributions they never would have had time for otherwise. Here are a couple
 [anecdotal](https://github.com/npmx-dev/npmx.dev/pull/115)
-[examples](https://github.com/npmx-dev/npmx.dev/pull/113) from my friend
-BYK. [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/),
-[Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey),
-[Salvatore Sanfilipo](https://antirez.com/news/158), [Evan You](https://x.com/youyuxi/status/2026647622057079165), [Guido van
+[examples](https://github.com/npmx-dev/npmx.dev/pull/113) from my friend BYK.
+Cloudflare's Steve Faulkner [rebuilt all of
+Next.js](https://blog.cloudflare.com/vinext/) in a week (both the original and
+the replacement are MIT-licensed).  [Armin
+Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/), [Mitchell
+Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey), [Salvatore
+Sanfilipo](https://antirez.com/news/158), [Evan
+You](https://x.com/youyuxi/status/2026647622057079165), [Guido van
 Rossum](https://x.com/gvanrossum/status/2026116763470217352), [Linus
 Torvalds](https://github.com/torvalds/AudioNoise/blob/3a6b51032da587e5d2e269515f3dc21c96da15c4/README.md#L37C1-L38C14),
-and other front-runners have embraced it. In fact, Tailwind founder [Adam
-Wathan is among them](https://www.youtube.com/watch?v=X3yfVo2oxlE).
+and other front-runners have embraced agentic coding. In fact, so has Tailwind founder [Adam
+Wathan](https://www.youtube.com/watch?v=X3yfVo2oxlE).
 
 So, no. Vibe coding does not kill Open Source. Vibe coding _accelerates_ Open
 Source---_and_ it requires that we accelerate the shift to truly sustainable
