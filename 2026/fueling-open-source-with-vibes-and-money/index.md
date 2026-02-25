@@ -100,7 +100,7 @@ efforts](https://github.blog/open-source/maintainers/welcome-to-the-eternal-sept
 will dampen this relatively soon.
 
 On the flip side, vibe coding enables competent developers to make
-contributions they never would have had time for otherwise. Here are a couple
+contributions they never would have found time for otherwise. Here are a couple
 [anecdotal](https://github.com/npmx-dev/npmx.dev/pull/115)
 [examples](https://github.com/npmx-dev/npmx.dev/pull/113) from my friend BYK.
 Cloudflare's Steve Faulkner [rebuilt all of
