@@ -61,7 +61,7 @@ that "coordination and will" are quite costly.
 
 Also, artists [don't love
 Spotify](https://en.wikipedia.org/wiki/Criticism_of_Spotify#Allegations_of_unfair_artist_compensation)
-(here is [Spotify's side of the story](https://loudandclear.byspotify.com/)).
+(here is Spotify's [rejoinder](https://loudandclear.byspotify.com/)).
 As [Mitchell Hashimoto has
 said](https://www.youtube.com/watch?v=77fH--tlIOk#t=2m14s), "I don't know if
 you can reach a 'more' that is socially accepted to be good enough unless it is
@@ -69,7 +69,7 @@ forced, taxed."
 
 So, yes. Let's keep trying all the things to fund Open Source---whether subsidy
 or sustenance. But let's not confuse the decline of one adjacent business model
-with the death of the Open Source development model.
+with the death of Open Source, which is a community-based development model.
 
 
 
