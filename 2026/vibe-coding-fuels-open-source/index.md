@@ -1,9 +1,8 @@
 ---
 title: Vibe Coding Fuels Open Source
-excerpt: Foo.
+excerpt: Economists think Open Source is a business model. Developers know better.
 noindex: true
 ---
-{% include img.html src="social.webp" caption="" url="" %}
 
 Some economists published a paper last month titled, "[Vibe Coding Kills Open
 Source](https://arxiv.org/abs/2601.15494)". They hypothesized that, because
@@ -101,7 +100,7 @@ otherwise. Here are a couple
 [examples](https://github.com/npmx-dev/npmx.dev/pull/113) from a friend of
 mine). [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/),
 [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey),
-[Salvatore Sanfilipo](https://antirez.com/news/158), [Guido van
+[Salvatore Sanfilipo](https://antirez.com/news/158), [Evan You](https://x.com/youyuxi/status/2026647622057079165), [Guido van
 Rossum](https://x.com/gvanrossum/status/2026116763470217352), [Linus
 Torvalds](https://github.com/torvalds/AudioNoise/blob/3a6b51032da587e5d2e269515f3dc21c96da15c4/README.md#L37C1-L38C14),
 and other front-runners have embraced it. In fact, Tailwind founder [Adam
