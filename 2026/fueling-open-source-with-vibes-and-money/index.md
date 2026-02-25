@@ -105,14 +105,13 @@ contributions they never would have found time for otherwise. Here are a couple
 [examples](https://github.com/npmx-dev/npmx.dev/pull/113) from my friend BYK.
 Cloudflare's Steve Faulkner [rebuilt all of
 Next.js](https://blog.cloudflare.com/vinext/) in a week (both the original and
-the replacement are MIT-licensed).  [Armin
+the replacement are MIT-licensed). Many front-runners---[Armin
 Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/), [Mitchell
 Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey), [Salvatore
-Sanfilipo](https://antirez.com/news/158), [Evan
+Sanfilippo](https://antirez.com/news/158), [Evan
 You](https://x.com/youyuxi/status/2026647622057079165), [Guido van
 Rossum](https://x.com/gvanrossum/status/2026116763470217352), [Linus
-Torvalds](https://github.com/torvalds/AudioNoise/blob/3a6b51032da587e5d2e269515f3dc21c96da15c4/README.md#L37C1-L38C14),
-and other front-runners have embraced agentic coding. In fact, Tailwind founder [Adam
+Torvalds](https://github.com/torvalds/AudioNoise/blob/3a6b51032da587e5d2e269515f3dc21c96da15c4/README.md#L37C1-L38C14)---have embraced agentic coding. In fact, Tailwind founder [Adam
 Wathan is among them](https://www.youtube.com/watch?v=X3yfVo2oxlE).
 
 So, no. Vibe coding does not kill Open Source. Vibe coding _accelerates_ Open
