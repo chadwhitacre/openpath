@@ -34,9 +34,9 @@ economists is understandable.
 
 ## Ways to Fund Open Source
 
-I do agree with the conclusion of the vibe coding paper, that the rise of AI agents amplifies
-the pressure to "redesign the business models and institutions that channel
-value back to OSS maintainers" (p. 27). I've [spoken
+I do agree with the conclusion of the vibe coding paper, that the rise of AI
+agents increases the pressure to "redesign the business models and institutions
+that channel value back to OSS maintainers" (p. 27). I've [spoken
 before](https://openpath.quest/2024/a-vision-for-software-commons/#three-funding-levers)
 about [the three levers](
 https://openpath.quest/2024/a-vision-for-software-commons/#three-funding-levers)
