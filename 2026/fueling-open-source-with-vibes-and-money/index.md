@@ -78,7 +78,7 @@ with the death of the Open Source development model.
 
 The title of the paper rings hollow on closer inspection ... and also on a
 surface level. Exhibit A: Peter Steinberger has vibe-coded the most explosively
-popular project in Open Source history, [OpenClaw](https://openclaw.ai/). In three months it has become the 14th-most popular project on GitHub, recently [overtaking the official Linux mirror](https://www.reddit.com/r/openclaw/comments/1rcsbci/openclaw_overtakes_linux_in_github_star_count/) in number of stars, with React ("the last [non-aggregator](https://www.star-history.com/blog/openclaw-surpasses-linux-14th-most-starred) project") likely to fall in the next week.
+popular project in Open Source history, [OpenClaw](https://openclaw.ai/). In three months it has become the 14th-most popular project on GitHub, recently [overtaking the official Linux mirror](https://www.reddit.com/r/openclaw/comments/1rcsbci/openclaw_overtakes_linux_in_github_star_count/) in number of stars, with React ("the last [non-aggregator](https://www.star-history.com/blog/openclaw-surpasses-linux-14th-most-starred) project") likely to fall in a week or so.
 
 {% include img.html src="stars.webp" caption="Crashing the Open Source popularity contest" url="https://www.reddit.com/r/openclaw/comments/1rcsbci/openclaw_overtakes_linux_in_github_star_count/" %}
 
