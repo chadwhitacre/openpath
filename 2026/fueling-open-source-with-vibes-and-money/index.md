@@ -119,6 +119,5 @@ So, no. Vibe coding does not kill Open Source. Vibe coding _accelerates_ Open
 Source---_and_ it requires that we accelerate the shift to truly sustainable
 funding paradigms that are in line with Open Source's nature as a [gift
 community](https://www.youtube.com/watch?v=tOn-L3tGKw0&list=PLivwfG4q6DTBweyVkYRjoPvebmgq5c1qg&index=2)
-and not a market economy. [Endowment](https://endowment.dev/) and
-[Pledge](https://opensourcepledge.com/) are two great ways you and your company
-should contribute.
+and not a market economy. Wanna help? We made [Endowment](https://endowment.dev/) and
+[Pledge](https://opensourcepledge.com/) just for you. 🦞😎🦞
