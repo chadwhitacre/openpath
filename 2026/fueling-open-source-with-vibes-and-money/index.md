@@ -94,7 +94,7 @@ been more back.
 
 {% include img.html src="clawcon.jpg" caption="ClawCon, Vienna. Shout-out to my coworker Michi in the Internet hat." url="https://steipete.me/posts/2026/openclaw" %}
 
-Yes, vibe-coding creates a slop PR problem in the short term. Workarounds like Mitchell's [vouch](https://github.com/mitchellh/vouch) project
+Yes, vibe-coding creates a slop PR problem in the short term. Workarounds like Mitchell's [vouch](https://github.com/mitchellh/vouch) 
 and [GitHub's more coordinated
 efforts](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/)
 will dampen this relatively soon.
