@@ -55,8 +55,8 @@ similar](/2024/a-vision-for-software-commons/#a-proof-of-concept-invoice) a
 couple years ago. I see it as the social-validation approach that would feel
 most like taxation. As the paper authors say, "[t]he infrastructure for these
 interventions largely exists; what is needed is coordination and will" (p. 28).
-I don't disagree, but coordination and will are not cheap. I even had a couple
-private conversations with candidate companies.
+I don't disagree.  I even had a couple conversations with candidate companies,
+which made crystal clear that "coordination and will" are quite costly. 
 
 Also, artists [don't love
 Spotify](https://en.wikipedia.org/wiki/Criticism_of_Spotify#Allegations_of_unfair_artist_compensation)
@@ -67,7 +67,9 @@ you can reach a 'more' that is socially accepted to be good enough unless it is
 forced, taxed."
 
 So, yes. Let's keep trying all the things to fund Open Source---whether subsidy
-or sustenance.
+or sustenance. But let's not confuse the decline of one adjacent business model
+with the death of the Open Source development model.
+
 
 
 ## Vibe Coding Rocket Fuel
@@ -82,8 +84,8 @@ popular project in Open Source history, [OpenClaw](https://openclaw.ai/). In thr
 crises](https://openpath.quest/2026/spitting-out-the-agentic-kool-aid/)
 notwithstanding, the energy here cannot be denied. There are
 [scores](https://x.com/avi_press/status/2026522871762399736) of [OpenClaw
-meetups](https://luma.com/claw?compact=true) on the calendar. Peter intends
-to put the MIT-licensed project [into a
+meetups](https://luma.com/claw?compact=true) coming up. Peter is putting his
+MIT-licensed project [into a
 foundation](https://steipete.me/posts/2026/openclaw) rather than
 commercializing it. Open Source has never been more back.
 
@@ -98,7 +100,7 @@ developers to contribute to projects they never would have had the time for
 otherwise. Here are a couple
 [anecdotal](https://github.com/npmx-dev/npmx.dev/pull/115)
 [examples](https://github.com/npmx-dev/npmx.dev/pull/113) from a friend of
-mine). [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/),
+mine. [Armin Ronacher](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/),
 [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey),
 [Salvatore Sanfilipo](https://antirez.com/news/158), [Evan You](https://x.com/youyuxi/status/2026647622057079165), [Guido van
 Rossum](https://x.com/gvanrossum/status/2026116763470217352), [Linus
@@ -109,4 +111,7 @@ Wathan is among them](https://www.youtube.com/watch?v=X3yfVo2oxlE).
 So, no. Vibe coding does not kill Open Source. Vibe coding _accelerates_ Open
 Source---_and_ it requires that we accelerate the shift to truly sustainable
 funding paradigms that are in line with Open Source's nature as a [gift
-community](https://www.youtube.com/watch?v=tOn-L3tGKw0&list=PLivwfG4q6DTBweyVkYRjoPvebmgq5c1qg&index=2) and not a market economy.
+community](https://www.youtube.com/watch?v=tOn-L3tGKw0&list=PLivwfG4q6DTBweyVkYRjoPvebmgq5c1qg&index=2)
+and not a market economy. [Endowment](https://endowment.dev/) and
+[Pledge](https://opensourcepledge.com/) are two great ways you and your company
+should contribute.
