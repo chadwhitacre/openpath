@@ -55,8 +55,9 @@ similar](/2024/a-vision-for-software-commons/#a-proof-of-concept-invoice) a
 couple years ago. I see it as the social-validation approach that would feel
 most like taxation. As the paper authors say, "[t]he infrastructure for these
 interventions largely exists; what is needed is coordination and will" (p. 28).
-I don't disagree.  I even had a couple conversations with candidate companies,
-which made crystal clear that "coordination and will" are quite costly. 
+I don't disagree. I even had a couple conversations with candidate companies at
+the time, which made crystal clear that "coordination and will" are quite
+costly.
 
 Also, artists [don't love
 Spotify](https://en.wikipedia.org/wiki/Criticism_of_Spotify#Allegations_of_unfair_artist_compensation)
