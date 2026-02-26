@@ -1,7 +1,6 @@
 ---
 title: Spitting Out the Agentic Kool-Aid
 excerpt:  Tasting the future of invasive AI agents roused me to pursue a different direction.
-homepage_rank: 1
 ---
 One Sunday evening last June, [three
 friends met](https://x.com/steipete/status/1934357642899521713) in Vienna to

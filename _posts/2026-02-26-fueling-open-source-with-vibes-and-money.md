@@ -1,7 +1,6 @@
 ---
 title: Fueling Open Source with Vibes & Money
 excerpt: Economists think Open Source is a business model. Devs know better, and fund it accordingly.
-noindex: true
 ---
 
 Some economists published a paper last month titled "[Vibe Coding Kills Open

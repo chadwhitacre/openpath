@@ -1,7 +1,6 @@
 ---
 title: Open Source Offers Hope Against Tyranny 
 excerpt: Leaders like Poul-Henning Kamp, Alex Blokh, and Kailash Nadh show us the future we can have.
-homepage_rank: 2
 ---
 
 I took a break this past weekend. I set my phone down on Friday, and didn’t

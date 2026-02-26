@@ -31,8 +31,12 @@ excerpt: "A Quest for the Meaning of Open Source"
 <section class="blog">
   <div class="content">
     <h2>From the Blog</h2>
-    {% assign featured_posts = site.posts | sort: "homepage_rank" | where_exp:
-    "p", "p.homepage_rank > -1" %} {% include posts.html posts=featured_posts %}
+    {% assign featured_posts = "" | split: "" %}
+    {% for url in site.data.homepage_posts %}
+      {% assign matching = site.posts | where: "url", url %}
+      {% assign featured_posts = featured_posts | concat: matching %}
+    {% endfor %}
+    {% include posts.html posts=featured_posts %}
     <div class="browse-all"><a href="/blog/">Browse all posts ...</a></div>
   </div>
 </section>

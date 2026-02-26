@@ -1,0 +1,9 @@
+#!/bin/bash
+# List all posts as URLs suitable for pasting into _data/homepage_posts.yml
+
+for f in $(ls -r _posts/*.md); do
+  basename=$(basename "$f" .md)
+  year=${basename:0:4}
+  slug=${basename:11}
+  echo "- /$year/$slug/"
+done
